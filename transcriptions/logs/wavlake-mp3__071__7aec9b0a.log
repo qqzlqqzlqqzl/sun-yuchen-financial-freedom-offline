@@ -1,0 +1,191 @@
+
+=== START 2026-05-26 11:00:48 ===
+{"id": "wavlake-mp3__071__7aec9b0a", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/071 - 071 - 071 孙宇晨：【小结】原始积累重在“积累”.mp3", "filename": "071 - 071 - 071 孙宇晨：【小结】原始积累重在“积累”.mp3", "duration_seconds": 660.050438}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/071 - 071 - 071 孙宇晨：【小结】原始积累重在“积累”.mp3' (10560808 samples, 660.1 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.860]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:37.140]  今天我们一共讲了三个例子,负利定律、一万小时定律和最后一个巧用杠杆。
+[00:00:37.140 --> 00:00:46.620]  其实杠杆的含义与负利定律有一定程度的相似,就是我们要做选择有附加值的事情,
+[00:00:46.620 --> 00:00:53.880]  要巧妙利用时间与劳动去撬动更多的东西,讲求溢出效应。
+[00:00:53.880 --> 00:00:59.980]  也就是说,我们做的事情能给我们带来很多意想不到的好处。
+[00:01:00.000 --> 00:01:08.880]  比方说,当互联网的产品经理,我个人认为就有很大的杠杆价值或者叫溢出效应。
+[00:01:08.880 --> 00:01:21.800]  首先通过做产品经理,你会了解整个互联网产品的全貌,这往往可能是一个个单独岗位的人所无法了解的。
+[00:01:21.800 --> 00:01:29.920]  其次呢,你会借助这个平台了解很多产品内部数据的真相。
+[00:01:30.000 --> 00:01:37.300]  而往往这个也是外人所不能知道的,甚至很多在公司工作的人也未必知道。
+[00:01:37.300 --> 00:01:42.700]  因为我们知道,就是这个世界上的信息啊,它的污染度其实是很高的。
+[00:01:42.700 --> 00:01:48.120]  有时候我们在外界看起来非常成功的事情,很可能真相不是这样。
+[00:01:48.120 --> 00:01:55.320]  有可能在我们在外界看来没有什么好处的事情,但在内部看来却是一件非常好的事情。
+[00:01:55.320 --> 00:01:59.980]  所以呢,这些就叫做平台拥有的溢出价。
+[00:02:00.000 --> 00:02:03.300]  平台的价值,是你单独工作而不具备的。
+[00:02:03.300 --> 00:02:12.340]  这个平台价值就是我们讲的杠杆价值,能告诉你很多没有杠杆你根本无法知道的事情。
+[00:02:12.340 --> 00:02:24.520]  这个也是我们经常职场上我们经常讲到希望学到东西,其实这个就是所谓的学到东西,就是指的平台价值和杠杆价值。
+[00:02:24.520 --> 00:02:29.700]  其次呢,我们可以想想类似的,我个人觉得呢,
+[00:02:29.760 --> 00:02:40.280]  比如说,你如果在知乎上写帖子,在微博上写帖子,某种程度上写自媒体,也是一个具有溢出效应的事情,甚至包括写书。
+[00:02:40.280 --> 00:02:54.000]  因为呢,很有可能别人通过知道了你的书,或者看过你的节目,或者是看过你写的文章,他从而了解到你,从而有其他的机会找到你。
+[00:02:54.000 --> 00:02:59.220]  这个也是我们做的事情呢,能给我们带来意想不到的好处。
+[00:02:59.760 --> 00:03:10.880]  那我们可以举一些没有这样好处的例子,举一些例子,比如说类似于像有些岗位的公务员的工作,就不具有平台价值。
+[00:03:10.880 --> 00:03:28.660]  比方说,朝九晚五改文稿啊,做非常重复的事情,年复一年,日复一日,以及判断这个工作的成功程度呢,并不是根据创造性,而是根据这个动作的本身的完成度。
+[00:03:29.520 --> 00:03:38.700]  慢慢呢,在这样的朝九晚五,年复一年,日复一日的摧残下,也没有什么学习的溢出效应。
+[00:03:38.700 --> 00:03:48.120]  而且后来,你会发现,这些人才离开政府机关之后,东西,他掌握的东西本身也没有什么用。
+[00:03:48.120 --> 00:03:51.760]  这样呢,就是我们讲的没有溢出效应的事情。
+[00:03:51.760 --> 00:03:58.380]  比方说,再举一个例子,如果我们从事的是日复一日的翻译。
+[00:03:58.880 --> 00:04:02.580]  我们可以看到,这样也会很快触摸到天花板。
+[00:04:02.580 --> 00:04:07.180]  我们大家知道,同声传译其实是一个精灵职业。
+[00:04:07.180 --> 00:04:12.800]  即便在这样的情况下,它也很快呢,会达到一个天花板。
+[00:04:12.800 --> 00:04:18.040]  因为同声传译本身呢,后面很难带来具有溢出效应的事情。
+[00:04:18.040 --> 00:04:19.680]  翻译当然也是如此啦。
+[00:04:19.680 --> 00:04:27.760]  所以呢,我们在职业选择中,或者我们平常干事情的时候,尽量要选择有溢出效应的事情。
+[00:04:28.240 --> 00:04:33.820]  就让你干的一件事情,渐渐能够变成两件,三件,五件事情。
+[00:04:33.820 --> 00:04:36.760]  这时候呢,它的效果就变得比较好。
+[00:04:36.760 --> 00:04:42.900]  互联网行业领域,还有一个比较好的杠杆例子,就是期权。
+[00:04:42.900 --> 00:04:51.260]  期权其实本质呢,是在一定时间段内能够行使购买公司股权的一种权利。
+[00:04:51.260 --> 00:04:57.920]  从一个角度讲,你可以把它简单理解为,渐渐可以随着你的工作,
+[00:04:58.160 --> 00:04:59.620]  拥有公司的股权。
+[00:04:59.620 --> 00:05:05.000]  期权呢,也确实是能够急速放大你的劳动价值,
+[00:05:05.000 --> 00:05:08.780]  让你与公司的发展产生同步。
+[00:05:08.780 --> 00:05:16.740]  当然,期权的真正成功啊,也依赖于很多因素,也不是一开始就能成功的。
+[00:05:16.740 --> 00:05:23.200]  比方说,依赖于公司本身的成功,依赖于公司实际控制人的能力,
+[00:05:23.200 --> 00:05:27.060]  依赖于整个行业的发展,甚至当然,
+[00:05:27.520 --> 00:05:30.120]  也依赖于整个资本市场的环境。
+[00:05:30.120 --> 00:05:38.360]  但是,不可否认的是,期权确实为你提供了一个非常好的杠杆能力,
+[00:05:38.360 --> 00:05:46.360]  让你除了有劳动报酬之外呢,同时呢,也能和公司获得同步的成长。
+[00:05:46.360 --> 00:05:51.920]  其实我们发现啊,在从事原始积累的道路上呢,
+[00:05:51.920 --> 00:05:54.560]  我们会发现一个很简单的现象,
+[00:05:54.560 --> 00:05:57.440]  绝大多数人会高估到,
+[00:05:57.440 --> 00:05:57.440]  绝大多数人会高估到,
+[00:05:57.440 --> 00:05:57.440]  绝大多数人会高估到,
+[00:05:57.440 --> 00:05:57.440]  绝大多数人会高估到,
+[00:05:57.440 --> 00:05:57.500]  绝大多数人会高估到,
+[00:05:57.500 --> 00:05:59.860]  绝大多数人会低估他短期能够完成的事情。
+[00:05:59.860 --> 00:06:04.220]  我们经常看别人给我们,如果给一个计划来看,
+[00:06:04.220 --> 00:06:09.120]  他会说,哎,我短期可以做成非常多长,非常多,非常多的事情,
+[00:06:09.120 --> 00:06:11.300]  但是后来发现都没有完成,
+[00:06:11.300 --> 00:06:15.380]  而低估自己长期能够做到的事情。
+[00:06:15.380 --> 00:06:21.040]  而低估自己长期能够做到事情,这件事本身呢,
+[00:06:21.040 --> 00:06:25.940]  其实恰恰就在展现着原始积累的魅力。
+[00:06:25.940 --> 00:06:27.420]  就像我们说的,
+[00:06:27.420 --> 00:06:30.080]  我们其实讲负力定律那一章,
+[00:06:30.080 --> 00:06:31.520]  讲国王啊,
+[00:06:31.520 --> 00:06:39.020]  往往他严重低估了在后面棋盘格子里面小麦的数量。
+[00:06:39.020 --> 00:06:41.280]  这就是负力定律,
+[00:06:41.280 --> 00:06:42.600]  一万小时定律,
+[00:06:42.600 --> 00:06:44.580]  杠杆定律的影响。
+[00:06:44.580 --> 00:06:48.720]  所以我们会发现在这些事情上呢,
+[00:06:48.720 --> 00:06:52.480]  为什么所谓我们经常讲的细节也变成了魔鬼,
+[00:06:52.480 --> 00:06:56.780]  就是因为在开头选择的时候,
+[00:06:57.340 --> 00:06:59.640]  选择的微小差别,
+[00:06:59.640 --> 00:07:01.520]  随着负力定律,
+[00:07:01.520 --> 00:07:02.880]  一万小时定律,
+[00:07:02.880 --> 00:07:04.960]  杠杆定律的不断叠加,
+[00:07:04.960 --> 00:07:08.100]  日后的差距也就越来越大。
+[00:07:08.100 --> 00:07:10.320]  这在某种程度上呢,
+[00:07:10.320 --> 00:07:14.480]  也经常可以解释我们大家经常看到的一个现象。
+[00:07:14.480 --> 00:07:22.000]  就说我们这个小王小张小李三个同学在学校毕业,
+[00:07:22.000 --> 00:07:26.020]  比如说来到北京上海广州北上广州这些大城市的时候,
+[00:07:26.020 --> 00:07:27.260]  他们都是一样,
+[00:07:27.260 --> 00:07:29.440]  他们都是一穷二白的穷学生,
+[00:07:29.440 --> 00:07:32.540]  但是为什么随着时间的推移,
+[00:07:32.540 --> 00:07:34.240]  一年两年是吧,
+[00:07:34.240 --> 00:07:41.900]  三年五年甚至十年的推移后来发现每个人的人生有非常大的差别。
+[00:07:41.900 --> 00:07:45.780]  核心就是在原始积累的道路上,
+[00:07:45.780 --> 00:07:50.300]  他们对人生最早期的选择差别,
+[00:07:50.300 --> 00:07:57.180]  随着负力定律一万小时定律杠杆定律的影响慢慢推移他们的差距,
+[00:07:57.180 --> 00:07:58.500]  就变得越来越大。
+[00:07:58.500 --> 00:08:01.700]  从这个角度来说呢,
+[00:08:01.700 --> 00:08:04.480]  在走向财富自由的道路上,
+[00:08:04.480 --> 00:08:06.840]  我们要有一种经营心态,
+[00:08:06.840 --> 00:08:13.200]  因为我们每天做的事情不仅仅是为了我们今天的发展,
+[00:08:13.200 --> 00:08:18.380]  同时也是为我们日后的发展开始做准备,
+[00:08:18.380 --> 00:08:19.360]  做积累。
+[00:08:19.360 --> 00:08:20.520]  所以呢,
+[00:08:20.520 --> 00:08:22.780]  原始积累本身啊,
+[00:08:22.780 --> 00:08:25.560]  很有可能并不仅仅是金钱的积累,
+[00:08:25.560 --> 00:08:27.100]  也是各方面的积累,
+[00:08:27.100 --> 00:08:56.700]  随着你工作生活包括各方面努力的推移渐渐的你的个人生育个人品牌得以建立慢慢你在银行的信誉在金融机构的信誉也得以建立然后能力也得以积累行业知名度也得以积累渐渐你就拥有了全方位的资源吸附能力。
+[00:08:57.020 --> 00:09:27.000]  而根据其实我们前面讲过的复利定律其实你如果在每个领域有5%的提升那么整体加起来可能四五个方面加起来这种提升就会变成百分之五十甚至是百分之百的在配以一万小时定律和杠杆的努力逐步逐步的发展你就能够迅速的完成自己财富自由的原始积累了所以与绝大多数人的财富自由的原始积累能够迅速的完成自己财富自由的原始积累了。
+[00:09:27.000 --> 00:09:56.980]  所以我们的想法不一样好像感觉原始积累就要非常迅速非常快的或者通过一夜暴富的方式来完成与这个想法不一样的是我们可以看到财富原始积累其实是一个逐渐积累并且慢慢经营的过程其实根据复利定律我们还知道往往是越到后面的积累它的倍数是越惊人的所以这也是为什么我们时常讲我们要把财富自由这件事情当成一种积累。
+[00:09:56.980 --> 00:10:25.620]  当做一个漫长的旅途当做一组长线的锁定投资来进行而且在这种长线的锁定投资由于时间拉的足够长它的确定性慢慢也可以展现出来这也是为什么如果我们选择了一个好的方向服以财富自由这些定律的帮助在长时间段内渐渐我们就可以收获幸福收获财富自由的一个核心原因。
+[00:10:26.960 --> 00:10:29.220]  谢谢大家今天就到这里。
+[00:10:29.220 --> 00:10:45.980]  这一期呢我们讲了财富自由的原始积累而下一期我们会讲一讲原始积累个人奋斗在中国的合法性而这个呢其实也是我一直非常关心的话题好的那我们下周见。
+[00:10:56.940 --> 00:11:00.000]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__071__7aec9b0a/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__071__7aec9b0a/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__071__7aec9b0a/out.json'
+
+whisper_print_timings:     load time =   815.11 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   246.01 ms
+whisper_print_timings:   sample time =  4555.31 ms / 14651 runs (     0.31 ms per run)
+whisper_print_timings:   encode time = 26680.63 ms /    23 runs (  1160.03 ms per run)
+whisper_print_timings:   decode time =  8594.58 ms /   167 runs (    51.46 ms per run)
+whisper_print_timings:   batchd time = 194964.72 ms / 14374 runs (    13.56 ms per run)
+whisper_print_timings:   prompt time =  4983.73 ms /  4786 runs (     1.04 ms per run)
+whisper_print_timings:    total time = 241969.34 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/071 - 071 - 071 孙宇晨：【小结】原始积累重在“积累”.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__071__7aec9b0a/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

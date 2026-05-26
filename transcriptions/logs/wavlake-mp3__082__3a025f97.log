@@ -1,0 +1,148 @@
+
+=== START 2026-05-26 11:13:22 ===
+{"id": "wavlake-mp3__082__3a025f97", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3", "filename": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3", "duration_seconds": 580.382771}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3' (9286125 samples, 580.4 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.720 --> 00:00:04.260]  大家好,我是90后创业者孙宇晨。
+[00:00:04.260 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:17.760]  欢迎你到京东图书与我相遇。
+[00:00:17.760 --> 00:00:18.920]  谢谢。
+[00:00:18.920 --> 00:00:24.320]  大家好,我是宇晨。
+[00:00:24.320 --> 00:00:27.080]  今天又到了我们新的一期节目。
+[00:00:27.400 --> 00:00:36.580]  前一段时间,3月底的时候,因为湖畔大学开学,所以我们有几期节目放了番外篇。
+[00:00:36.580 --> 00:00:41.800]  其实番外篇的节目本身与湖畔大学也有很强的联系。
+[00:00:41.800 --> 00:00:54.060]  番外篇的老师冯伦,我的小伙伴张恒德,黄正士,五星宇,还有沐妍,其中绝大多数也都来自于湖畔大学。
+[00:00:54.060 --> 00:00:57.060]  湖畔大学是马云创办的一所商业。
+[00:00:57.400 --> 00:01:04.760]  其实我们还蛮感慨的,从2015年入学到现在已经整整两年了。
+[00:01:04.760 --> 00:01:09.080]  湖畔大学在这两年也发生了翻天覆地的变化。
+[00:01:09.080 --> 00:01:20.900]  从当年只有36个学员,7名校董,堪称史上最寒酸的开学典礼,到今天湖畔大学已经有了将近130名学员。
+[00:01:20.900 --> 00:01:26.320]  湖畔大学的校董和保健人群体也扩张到了将近100名。
+[00:01:26.320 --> 00:01:27.260]  湖畔大学的校董和保健人群体也扩张到了将近100名。
+[00:01:27.260 --> 00:01:27.260]  湖畔大学的校董和保健人群体也扩张到了将近100名。
+[00:01:27.260 --> 00:01:38.040]  有些小伙伴的留言呢,因为我们可能新书发布会时候的音质不是太好,大家觉得声音太小了,但是我个人觉得内容实际上是不错的。
+[00:01:38.040 --> 00:01:48.200]  首先冯伦老师是我们中国最优秀的房地产企业家,与绝大多数在房地产产业取得成功的企业家不一样。
+[00:01:48.200 --> 00:01:57.120]  冯伦老师本身还具有非常高的人文修养以及对时事的看法,因此很多人也将他称为房地产企业家。
+[00:01:57.120 --> 00:02:04.360]  广地产领域的哲学家,所以我觉得他的想法对我们大家会有很好的参照意义。
+[00:02:04.360 --> 00:02:09.520]  同时呢,我的好朋友张亨德现在是住百家的创始人。
+[00:02:09.520 --> 00:02:20.380]  住百家呢已经于去年在新三板成功挂牌,他的股东包括海航集团,安德拉baby等很多很好玩的企业和人。
+[00:02:20.380 --> 00:02:26.400]  黄正士也是我在湖畔大学的同学,他的企业也在去年在新三板挂牌了。
+[00:02:26.980 --> 00:02:32.560]  背后的投资人有姚进波,当然也是我们湖畔大学的同学,还有高中资本。
+[00:02:32.560 --> 00:02:39.260]  然后五星宇呢,其实是我2014年刚刚创业的时候就认识的一个小伙伴了。
+[00:02:39.260 --> 00:02:45.880]  他可能是腾讯在在线教育领域投资的唯一一家企业,做的也非常成功。
+[00:02:45.880 --> 00:02:54.840]  然后沐妍老师众所周知是中国著名的妇女之友,也是著名互联网站百合网的创始人。
+[00:02:54.840 --> 00:02:56.840]  百合网也在去年成功挂牌了。
+[00:02:56.840 --> 00:03:07.520]  因此呢,我发布会所请的同学其实都是我个人认为在商业社会中具有独特心得和具有独特体悟的朋友。
+[00:03:07.520 --> 00:03:12.180]  而且他们在中国商业社会中现在也算具有非常多成功经验的人。
+[00:03:12.180 --> 00:03:16.300]  所以我倒是觉得这个番外篇应该对大家也有帮助。
+[00:03:16.300 --> 00:03:23.500]  因为毕竟不是所有人都有机会可以到对外经贸大学的现场去参加我们的发布会。
+[00:03:23.500 --> 00:03:26.700]  好了,现在让我们开始正式的发布。
+[00:03:26.700 --> 00:03:33.300]  这一节课呢,主要讲的是不确定性原理,以及我们在这个不确定性的时代如何生存。
+[00:03:33.300 --> 00:03:40.060]  其实呢,不确定性的原理,我们还是要了解在不确定性原理之前是什么。
+[00:03:40.060 --> 00:03:47.160]  其实不确定性原理之前,人类主要的主导理论呢,是牛顿的经典物理学。
+[00:03:47.160 --> 00:03:56.560]  这一套牛顿的经典物理学呢,其实它的核心根基是确定性,又称为机械论,跟绝大多数人的经典物理学。
+[00:03:56.560 --> 00:04:03.880]  在当时,比较盛行的公司管理方法,以及组织管理方法,也是比较类似的。
+[00:04:03.880 --> 00:04:09.240]  这种认知方式,认为世界就像一台不断运转的机器。
+[00:04:09.240 --> 00:04:23.480]  我们对这台机器进行客观测量,只要测得越准,就能越准确地掌握机器的运行方法,从而符合这套运行方法来产生我们想要的结果。
+[00:04:23.480 --> 00:04:26.260]  工业社会不断向前推进。
+[00:04:26.420 --> 00:04:29.900]  也在向我们证明确定性理论的正确性。
+[00:04:29.900 --> 00:04:44.020]  所以呢,到19世纪末的时候,物理学家已经普遍存在着一种乐观情绪,认为即便这个世界显得纷繁复杂,但是我们对它的本质认识已经完成了。
+[00:04:44.020 --> 00:04:53.140]  经过牛顿经典力学体系,电动力学,以及热力学和统计学,世间万物都是确定了。
+[00:04:53.140 --> 00:04:56.200]  因此,当时著名的物理学家麦克斯威,
+[00:04:56.280 --> 00:05:09.020]  曾经说过,说我们这几年啊,所有的物理常数都已经被估计出来了,所以给后来的人啊,后来学物理的人啊,留下的只是提高这些常数的精度。
+[00:05:09.020 --> 00:05:26.020]  所以也就是那段时间啊,其实在19世纪末的时候,还有很多人认为人类的物理学已经发展到了尽头,所以后面呢,其实学习物理已经没有任何用处,因为前面的成果已经被前人全部都做完了,谁知道进入20世纪之后。
+[00:05:26.140 --> 00:05:29.020]  物理学发生了翻天覆地的变化。
+[00:05:29.020 --> 00:05:39.640]  首先是1905年爱因斯坦创立了狭义相对论,1915年完成了广义相对论,对整个物理学的大厦构成了一个毁灭性的打击。
+[00:05:39.640 --> 00:05:51.220]  这时候呢,爱因斯坦还是比较保守的,他曾经说过上帝是不治骰子的,所以对确定性呢,并没有那么强的反感和摧毁作用。
+[00:05:51.220 --> 00:05:56.120]  到了20世纪20年代,量子力学的诞生彻底。
+[00:05:56.120 --> 00:06:13.080]  量子力学的诞生彻底给了确定性世界观致命一击,从此人类在物理学阶段进入了不确定性时代,而这个不确定性思想的余波至今还具有非常强的借鉴作用,甚至还在不断的颠覆各个领域。
+[00:06:13.080 --> 00:06:26.080]  量子力学其中一个最重要的理论叫做测不准原理,又叫uncertainty principle,它认为我们没有办法准确测试。
+[00:06:26.080 --> 00:06:56.060]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:06:56.060 --> 00:07:26.040]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:07:26.040 --> 00:07:56.020]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:07:56.020 --> 00:08:26.000]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:08:26.000 --> 00:08:55.980]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:08:55.980 --> 00:09:25.960]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:09:25.960 --> 00:09:40.040]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:09:40.040 --> 00:09:40.060]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+[00:09:40.060 --> 00:09:40.360]  量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__082__3a025f97/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__082__3a025f97/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__082__3a025f97/out.json'
+
+whisper_print_timings:     load time =   769.67 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   216.63 ms
+whisper_print_timings:   sample time =  4495.72 ms / 13156 runs (     0.34 ms per run)
+whisper_print_timings:   encode time = 23303.82 ms /    20 runs (  1165.19 ms per run)
+whisper_print_timings:   decode time = 26507.47 ms /   519 runs (    51.07 ms per run)
+whisper_print_timings:   batchd time = 166626.78 ms / 12538 runs (    13.29 ms per run)
+whisper_print_timings:   prompt time =  4614.62 ms /  4384 runs (     1.05 ms per run)
+whisper_print_timings:    total time = 227617.14 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__082__3a025f97/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

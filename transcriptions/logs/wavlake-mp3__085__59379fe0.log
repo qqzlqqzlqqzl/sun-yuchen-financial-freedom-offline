@@ -1,0 +1,148 @@
+
+=== START 2026-05-26 11:18:16 ===
+{"id": "wavlake-mp3__085__59379fe0", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/085 - 085 - 085 孙宇晨：【不确定性】稳定就是最大的不稳定.mp3", "filename": "085 - 085 - 085 孙宇晨：【不确定性】稳定就是最大的不稳定.mp3", "duration_seconds": 550.847}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/085 - 085 - 085 孙宇晨：【不确定性】稳定就是最大的不稳定.mp3' (8813553 samples, 550.8 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.720 --> 00:00:04.260]  大家好,我是90后创业者孙宇晨。
+[00:00:04.260 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:18.940]  欢迎你到京东图书与我相遇。谢谢。
+[00:00:18.940 --> 00:00:24.360]  大家好,我是宇晨。
+[00:00:24.360 --> 00:00:28.340]  今天是我们不确定性这一章的最后一节。
+[00:00:28.900 --> 00:00:32.100]  我们将向大家讲清楚一个趋势。
+[00:00:32.100 --> 00:00:39.100]  今天的中国,乃至今后十几年的中国,都将是一个不确定性主导的社会。
+[00:00:39.100 --> 00:00:50.420]  而在这个社会中,如果想要取得成功,一定要抛弃过去铁饭碗的思想,不要妄图找一份稳定的工作干一辈子。
+[00:00:50.420 --> 00:00:58.560]  这个世界,人与公司与其他个人的关系,终究将是陌生人大规模。
+[00:00:58.760 --> 00:01:11.920]  也就是说,每个人都会通过协作这种方式,来为他人与其他组织,比方说公司,来提供互利互惠的协作。
+[00:01:11.920 --> 00:01:16.240]  大家都从这个协作中获得相当的利益。
+[00:01:16.240 --> 00:01:19.860]  而这种协作关系往往是不稳定的。
+[00:01:19.860 --> 00:01:27.580]  它的稳定形态是受到周遭的市场环境、协作本身谈的价码。
+[00:01:27.580 --> 00:01:28.740]  而这种协作关系往往是不稳定的。
+[00:01:28.740 --> 00:01:28.740]  而这种协作关系往往是不稳定的。
+[00:01:28.740 --> 00:01:28.740]  而这种协作关系往往是不稳定的。
+[00:01:28.740 --> 00:01:28.740]  而这种协作关系往往是不稳定的。
+[00:01:28.740 --> 00:01:38.120]  当外界因素的许多有利因素不存在的时候,这种协作自然就会取消。
+[00:01:38.120 --> 00:01:51.320]  因此从这个角度来说,每个人真正在一份工作和一份协作的机会时,真正重要的是这一份协作和这一次机会带来的个人成长。
+[00:01:51.320 --> 00:01:58.580]  因此一个人一生从事非常多份工作,从事非常多次协作,不仅不是丢人的事情。
+[00:01:58.720 --> 00:02:01.860]  相反,是一个值得骄傲的成长过程。
+[00:02:01.860 --> 00:02:17.380]  如果我们能抛弃这种铁饭碗,一辈子只找一份工作,进国企考公务员的稳定思想,在这一个充满不确定性的生存的社会中,我们就能取得我们相应的优势。
+[00:02:17.380 --> 00:02:26.440]  从这个角度来说,人与组织的关系,比方说人与公司的关系,也不再是过去这种包办的奴隶制关系。
+[00:02:26.440 --> 00:02:28.700]  公司未来也不将。
+[00:02:28.700 --> 00:02:41.380]  公司未来也不将在为员工的医疗、养老、失业承担任何责任,而养老、医疗、失业这些责任也将会由市场化的保险公司来承担。
+[00:02:41.380 --> 00:02:56.480]  从这个角度来说,我们可以发现,未来的这一个非常明显的趋势,是与当今国企公务员这种传统的包办式的个人与组织的关系是完全不一样的。
+[00:02:56.480 --> 00:03:06.260]  所以,在未来这种轻量化的组织形式将成为主流的社会中,我们不能再进入这种包办式的组织协作关系了。
+[00:03:06.260 --> 00:03:16.340]  如果这时候我们进入一个包办的协作关系,这就相当于1910年加入新政府,1948年加入国民党一样荒唐。
+[00:03:16.340 --> 00:03:21.860]  绝大多数人考公务员进国企都是图的一个词,稳定。
+[00:03:21.860 --> 00:03:26.440]  但是,其实从10年到20年这种长期的组织形式是不一样的。
+[00:03:26.440 --> 00:03:26.460]  所以,在未来这种轻量化的组织形式将成为主流的社会中,我们不能再进入这种包办式的组织协作关系了。
+[00:03:26.460 --> 00:03:56.440]  在未来这种轻量化的组织形式将成为主流的社会中,我们不能再进入这种包办式的组织协作关系了。
+[00:03:56.440 --> 00:04:11.540]  国企是重灾区,也就是说,即便不上演上世纪90年代末期的国企裁员,在紧接下来很长的一段时间内,国企的发展又是处于一个收缩,收缩期。
+[00:04:11.540 --> 00:04:20.880]  而在这个收缩期中,去产能,限制工业产能过剩和环境污染将成为整个产业发展的主流。
+[00:04:21.080 --> 00:04:36.500]  目前产能过剩的最为集中的五个行业,类似于煤炭、钢铁、电解铝、水泥和玻璃行业,很多都是中国国企所非常集中的行业,与私营企业裁员的情况不一样。
+[00:04:36.500 --> 00:04:49.260]  国企的下岗工人,虽然很多人就下岗和转岗的工人,虽然很多人都有一技之长,但是长期的国企经历会让他们跟社会彻底脱节。
+[00:04:51.060 --> 00:05:02.680]  对工人以及员工从深到心方方面面的包办是非常严重的,因此他们的技能在社会上也不再适用了。
+[00:05:02.680 --> 00:05:10.960]  一旦离开体制,回家自谋生路,那么他们的择业范围将会是非常狭窄的。
+[00:05:10.960 --> 00:05:19.660]  甚至在90年代的国企改革中,很多人最终只能从事非常简单的低端的体力活。
+[00:05:21.040 --> 00:05:26.440]  有三轮车,有摆摊干小买卖的,有去给人当保姆保洁员的。
+[00:05:26.440 --> 00:05:33.980]  总而言之,回到了非常多缺乏竞争性的低端体力活的劳动中。
+[00:05:33.980 --> 00:05:44.500]  其实,我有一个朋友是东北人,我们也知道东北其实是我们国家国企成分占的最大比重的一个地区。
+[00:05:44.500 --> 00:05:48.080]  他自己就经历了两波下岗潮。
+[00:05:48.080 --> 00:06:04.280]  90年代那时候,他爸爸在国企的国有工厂就当了20多年工人,在这20多年里,他爸爸的表现是非常好的,从来也没有迟到早退过,年年也都被评上了各种先进。
+[00:06:04.280 --> 00:06:13.660]  但是当市场经济为主导的改革开始的时候,东北当时就成了国企裁员的下岗的重灾区。
+[00:06:13.660 --> 00:06:18.060]  在那一大批的下岗工人中,其实包括很多人。
+[00:06:18.060 --> 00:06:25.300]  有很多当年其实天天都能评上先进,而且给人感觉非常不错的社会主义工人。
+[00:06:25.300 --> 00:06:44.440]  当然,这其中就包括他的父亲,当时对他们的家庭造成了非常大的影响,因为当时他的母亲也是国企工人,一下子两口子都下了岗,家里的孩子还要上学,父母还要照顾,一下子家里的经济压力就变得非常之大了。
+[00:06:44.440 --> 00:06:48.040]  同样的事情呢,后来非常巧的又发生在他家里。
+[00:06:48.040 --> 00:06:58.400]  他自己在北京读完大学之后呢,因为他父母托人介绍,最终还是回到了老家的一个钢铁国企。
+[00:06:58.400 --> 00:07:11.820]  刚进入的时候企业效益不错,赶上了四万亿的大放水,各种大拆大建,导致钢材价格飙升,所以还有一段时间感觉是不错的。
+[00:07:11.820 --> 00:07:17.280]  但是好景不长,很快行业就面临了产能过剩。
+[00:07:17.280 --> 00:07:18.020]  而中产业就面临了产能过剩。
+[00:07:18.020 --> 00:07:24.620]  中央去产能的政策一部署啊,国企呢就是第一批执行这个政策的。
+[00:07:24.620 --> 00:07:36.140]  减员增效,百分之三十的员工都得转岗,某种程度上就是变相的下岗,即便留下来的收入也会比之前锐减。
+[00:07:36.140 --> 00:07:46.800]  我这个朋友去年刚生了第二个小孩,正是上有老下有小一大家子嗷嗷待哺的时候,现在却第二次落得了这个结局。
+[00:07:46.800 --> 00:07:56.260]  从某种程度上说,你说他遭遇的这些家庭困境仅仅是因为运气不好,仅仅是因为倒霉吗?并不是的。
+[00:07:56.260 --> 00:08:05.620]  历史总是惊人的相似,不善于从历史中总结经验教训的人,悲惨的结局其实从开始就已经注定了。
+[00:08:05.620 --> 00:08:16.780]  核心原因我们来看,在市场经济剧烈竞争的不确定性的浪潮面前,如果你不能努力去提升自己,拥抱新的潮流。
+[00:08:16.780 --> 00:08:30.600]  而是选择拒绝,选择退缩,希望进入到体制内,让体制给你遮风挡雨,那么最终只会把自己变成温水里的青蛙,能力不断退化。
+[00:08:30.600 --> 00:08:37.580]  直到稳定幻象破灭的那一天,你就将成为稳定与体制的牺牲品。
+[00:08:46.760 --> 00:08:55.860]  选择稳定并不会带来稳定,而某种程度上稳定的出现往往就是最大的不稳定。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__085__59379fe0/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__085__59379fe0/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__085__59379fe0/out.json'
+
+whisper_print_timings:     load time =   866.25 ms
+whisper_print_timings:     fallbacks =   0 p /   1 h
+whisper_print_timings:      mel time =   226.62 ms
+whisper_print_timings:   sample time =  3875.38 ms / 13288 runs (     0.29 ms per run)
+whisper_print_timings:   encode time = 25026.19 ms /    19 runs (  1317.17 ms per run)
+whisper_print_timings:   decode time = 12549.46 ms /   198 runs (    63.38 ms per run)
+whisper_print_timings:   batchd time = 179007.77 ms / 13007 runs (    13.76 ms per run)
+whisper_print_timings:   prompt time =  4801.72 ms /  4162 runs (     1.15 ms per run)
+whisper_print_timings:    total time = 227255.30 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/085 - 085 - 085 孙宇晨：【不确定性】稳定就是最大的不稳定.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__085__59379fe0/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

@@ -1,0 +1,120 @@
+
+=== START 2026-05-26 09:51:06 ===
+{"id": "wavlake-mp3__025__ee3f2f4c", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/025 - 025 - 025 孙宇晨：性与权力.mp3", "filename": "025 - 025 - 025 孙宇晨：性与权力.mp3", "duration_seconds": 808.356292}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/025 - 025 - 025 孙宇晨：性与权力.mp3' (12933701 samples, 808.4 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.840]  大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由的另一边,等着你。
+[00:00:30.000 --> 00:00:51.140]  讲起来很简单,就是中国的经济增长了这么多年,总该滞长,总该负增长了吧?这是很正常的。在这个我觉得大家是无凶置疑的,因为你去看美国、日本这些发达国家的增长曲线,中国GDP,人均GDP,到达一个门槛之后,自然而然要往下走。
+[00:00:51.140 --> 00:00:55.460]  这就跟人的生老病死一样,是再正常不过的了。
+[00:00:55.460 --> 00:00:59.800]  所以从这个角度来讲呢,中国本身经济
+[00:00:59.800 --> 00:01:16.600]  大环境将进入一个长期滞胀,或者是长期的低增长,乃至负增长。这个是我觉得所有中国人,现在中国的成年人,都必须去深刻认识和体悟的一个大前提。
+[00:01:16.600 --> 00:01:27.880]  这个会对你的人是有非常大的影响的呀。你想想以前我们整个改革开放30年40年是生活在一个多么昂扬的乐观主义的情绪里面的。
+[00:01:29.600 --> 00:01:59.400]  其实未来的情况可能就有多糟。这个其实是所有人都必须注意的,就是甚至你回头想想,如果我和我的子女,我的父母,未来都将生活在一个经济长期低增长滞胀的国家,缺乏经济新增长点的一个国家,与机会的这么一个态势下,我们将如何去配置我们的财产,我们将如何去资助我们的人口。
+[00:01:59.400 --> 00:02:13.080]  我们的人生呢,其实这是本来就是一个非常值得去深刻思考的话题。我觉得这是第一个问题。第二个问题呢,就是整体的产业结构,中国也会发生非常大的变化。
+[00:02:29.200 --> 00:02:48.980]  当然还包括外贸作为一个非常主要经济增长点的。而现在这些产业结构随着中国的经济危机,也随着这些产业结构本身所具有的,我们经常,你叫短暂性也好了,叫它阶段性也好了,它本身具有这些东西。
+[00:02:48.980 --> 00:02:58.980]  这个其实我觉得大家不用看美国日本,光看看韩国跟台湾就很明显了,这些基本上就是我们前一段时间,比我们大概领先个一二十年。
+[00:02:59.000 --> 00:03:11.640]  的产业形态和状态,像当年在日韩台湾的产业,西方转移到中国,现在转移完到中国,现在很快会转移到像越南和印度这些地方去。
+[00:03:11.640 --> 00:03:28.320]  所以包括大家今天不要像川普的支持者,包括很多美国的,你像那些汽车工人,这些从事工业的大量的产业工人,因为产业结构升级转型都将走向下岗,他美国就不叫下岗了,叫失业,都想走向失业。
+[00:03:28.800 --> 00:03:39.300]  他的人生呢,会面临很多问题,再加上社保,养老金,这些我相信还不用等到我们用,基本到我们父母用的时候,我觉得都会出事的。
+[00:03:39.300 --> 00:03:58.600]  所以这时候你都要想一想,那这些事情全都一孤岛的全部都过来了,产业结构转型所带来的产业结构,那当然不用说了,那基本上不是人下岗的问题,是一个一个一个产业成批量的被拔掉啊,然后同时可能社会的safety net,我们讲的社保养老金。
+[00:03:58.600 --> 00:04:23.800]  这些都出问题,这也很正常,这大家也知道现在就开始出问题了,要否则为什么延迟退休呢?这些产业结构全部都会出问题,所以大家也不要像我今天台湾美国出现了很多问题,其实在中国都会原封不动的来一遍啊,我觉得这太正常了,太正常了,所以这也要90后适应社会产生很大困难,因为比如说不光90后了,其实所有人都面临这个问题,举个例子,你70后80后难道不面临这个问题吗?
+[00:04:23.800 --> 00:04:53.600]  绝大多数人在大学,包括高初中接受教育的时候,他所接受的这一整套教育是工业体系下的这一整套教育,举个例子,我们公司一位员工学社会工作的,这些都是典型的工业化时代下的产物啊,包括我北大泰读同学学化工的吧,学化工,学各式各样工业时代生产所产生的,是吧,包括还有那些学石油的,学这些的,工业时代下的这一整套玩意儿的。
+[00:04:53.600 --> 00:05:23.300]  然后包括我们很多文科生学文学学历史的,那都是工业时代下的产物,包括我大量同学现在还在传统媒体工作啊,对吧,在新闻纸媒,这些都是将来会被革命的呀,在党报了,在各式各样的党报,你你现在连党报都要求要搞双威了,是这道理吧,所以所有的大家建立在这一整套工业体系下的行业都会发生个翻天覆地的转型,所以就包括前段时间在微信群很多,
+[00:05:23.400 --> 00:05:53.200]  同学问我,就说,哎,说我干这个,孙总说去互联网,我靠,我一没读过互联网,二大学学的是石油化工,咋整呢,现在好像去石油化工薪水也很低,这个就是我们刚才讲的产业结构转型中,具体到具象到产业结构转型不是一个孙总跟你讲的一个好像很就是天花乱坠的一个编的新词蒙你呢,他是有非常具体的,
+[00:05:53.200 --> 00:06:23.000]  适应症以及投射形态的投射形态投射到你身上就是个问题啊,你说我以前学的这个去互联网没有经验,这就是一个非常结构产产业转型问题,不光你会遇到这整个社会,整个国家都会遇到,而且这都是非常大的挑战,来的对于一个国家主席,省委书记,美国总统都是很大的挑战,更何况你呢,但是好消息是你个人解决起来可比国家解决起来容易的多的多,所以这个研究灵候产生很大,
+[00:06:23.000 --> 00:06:52.800]  很大困难,第三,然后我呢,把这两个总结一下,总结出了第三个,第三个呢,当然我就觉得既是危机也是机会,也是人类的一个新进步,所以为什么叫标题叫90后新时代呢,就是我总结了一下,这中国未来的新危机也好,新机会也好呢,本质就是传统社会,工业时代下传统社会将面临最后一次转型,转型怎么转呢,叫做从家庭为单位的工业
+[00:06:52.800 --> 00:07:22.600]  生产社会向个人为单位的互联网社会的转型和变化,所以我们将来啊,我再念一遍,我们将来的所有问题都建立在这个上面,从家庭为单位的工业生产社会向个人为单位的互联网社会的转型和变化,首先大家要注意,一是以之前以家庭为单位,后面咱们是以个人为单位,
+[00:07:22.600 --> 00:07:52.400]  其次咱们原来是个工业生产社会,转变的目的是叫互联网社会,大家要注意,这是未来人类,甚至我觉得不光是我们国家,全球的发达国家都要面临这个转型,甚至不光你现在听到你可能明白了,有的国家元首听的都不明白了,你像德国整体还是搞工业4.0的,不搞所谓的互联网啊,我觉得在互联网领域啊,如果不做的国家,
+[00:07:52.400 --> 00:08:21.960]  国家整体国家会落后,社群会落后,民族会落后,个人当然也会落后,这是毫无疑问的,所以就为什么我经常说讲战略,讲战略,讲战略啊,这个话说一百遍都不会过的,就是如果战略扑了个空,那基本上是国家民族社会个人集体踏空,不会有例外的,不会有例外的,真的不会有例外的,所以这是为什么我现在一点都不建议很多人问我,
+[00:08:22.200 --> 00:08:52.000]  说能不能去国外读书啊,要不要移民啊,我不建议,我觉得在中国很好,中国和美国可能是两个唯一非常注重互联网的这个民族啊,他们对这个问题看得非常深刻,我觉得他会被命运所奖励的,所以呢,从这个角度来说呢,从家庭为单位的工业社会,生产社会,向个人为单位的互联网社会的这个变化,是未来整个我觉得未来三四十甚至五十年一百年的变化的一个主旋律,人类会
+[00:08:52.000 --> 00:09:18.380]  从家庭为单位的工业生产社会不断向个人为单位的互联网社会去变化,如果这个变化要花一百年,咱就花一百年,如果五十年就花五十年,就这么简单,这是个未来的大的趋势,以前呢,王尔德说过一句话,我非常欣赏,是总结以前我们的社会的,就是以前可能非互联网社会的时候的一句话,跟大家分享一下,英文叫
+[00:09:21.800 --> 00:09:51.600]  sex,except sex,sex is about power,这句话大家在纸牌屋啊,那个Frank Hondo也说过这句话,翻译成中文叫什么呢,就是说这个世界上的万事万物,都是关于性与繁殖的,只有一件事不是关于性与繁殖的,就是性本身和繁殖本身,因为繁殖和性本身是关于性的,
+[00:09:51.600 --> 00:10:21.400]  关于权力的,这句话可能对于我们先听的很多听众都很深奥,我可以给大家做一个解释,首先呢,为什么说叫万事万物都是关于繁殖和性的,其实我觉得这个大家是太容易理解了,就是我们以家庭为单位的传统工业生产社会,基本上和我们以前以家庭为单位的农业生产社会一样,永远都是关于性和繁殖的,你想想,大家想想,我们每个人,我们基本上人生路线全部都是,
+[00:10:21.400 --> 00:10:50.680]  无论你长到什么时候,到达一个适合年龄就必须赶紧结婚吧,然后你结婚之后你就必须生小孩吧,你生小孩你就必须把这小孩好好养吧,然后你养这个小孩的时候就会出现各种各样的遗产问题,养这个小孩对哪个小孩倾斜,教育资源什么,全部都是关于性与繁殖的,你后来想想你人生中做的每一步,赚的所有钱,准备的所有机会,难道不都是为性与繁殖这件事在服务吗?
+[00:10:51.200 --> 00:11:13.440]  甚至你想一想,甚至不光咱们别说人了,咱们整个人都是为性与繁殖在服务,就你一辈子所有事就围绕着这个东西打转了,尤其对于普通人来说更是这样,就一辈子你看就为了自己的小孩,为了自己的父母,为了自己的家庭,永远打转了,就是性与繁殖本质上,你就是为了这个事情存在,其实你想想国家又不是如此吗?
+[00:11:21.000 --> 00:11:50.600]  两三千年历史,首先权力的分配,永远都不是通过你的能力来分配,都是嫡长子继承制啊,谁就是因为皇帝睡了,他的正牌老婆生的小孩拥有最先的权力继承权,所以基本上你可以看,即便国家的资源分配,权力分配,一切的分配,咱们本质是一种性分配,本质是一种性分配,所以这就叫为什么是以家庭为单位,然后去协调,哪怕农业生产,工业生产,都是这样的。
+[00:11:50.800 --> 00:12:20.600]  所以这叫王尔德为什么说everything in the world is about sex,但是为什么except sex吗?繁殖本身是关于什么?就是以前家庭为单位的工业生产社会的本源,就叫做权力,繁殖是关于权力的,大家比如说这句话又怎么理解呢?太好理解,首先以我前面已经举的例子了,你看繁殖关系权力,一个国家到底谁来管,谁说了算,基本上是跟他的性有非常强的关系,比如说我是皇后的儿子,
+[00:12:20.600 --> 00:12:49.100]  那就该我管,你是妾的儿子,那就不归你管,小的一个家庭,我前一段时间才去了我们山东老家,看了我们祖谱,都是这样的,这些女性是没有家族继承权的,女性是不能进家谱的,甚至我们的家谱里面孙氏家谱,记得无数人,女的就是女生,姓孙的女的一个都没有,这就非常明显的性和权力的关系,你如果是女性连家谱都进不了,然后这就是所谓的sex is about power,
+[00:12:50.400 --> 00:13:16.960]  这次的例子太多了,就是我们决定一个社会,一个阶层,一群人,一个民族,由谁来主宰,永远是通过性,我们不会问说你是不是对这个家族贡献更大,你是不是表现很不错,甚至跟能力都没有关系,完全跟性,权力跟性是完全挂钩的,所以从这个角度来讲,我觉得王尔德这句话基本上是把以家庭为单位的工业生产社会讲的是淋漓尽致,
+[00:13:20.200 --> 00:13:28.320]  所以我觉得王尔德这个话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__025__ee3f2f4c/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__025__ee3f2f4c/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__025__ee3f2f4c/out.json'
+
+whisper_print_timings:     load time =   819.24 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   301.66 ms
+whisper_print_timings:   sample time =  7285.41 ms / 20594 runs (     0.35 ms per run)
+whisper_print_timings:   encode time = 33612.26 ms /    28 runs (  1200.44 ms per run)
+whisper_print_timings:   decode time =   825.34 ms /    17 runs (    48.55 ms per run)
+whisper_print_timings:   batchd time = 277599.22 ms / 20439 runs (    13.58 ms per run)
+whisper_print_timings:   prompt time =  6730.04 ms /  6149 runs (     1.09 ms per run)
+whisper_print_timings:    total time = 328661.06 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/025 - 025 - 025 孙宇晨：性与权力.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__025__ee3f2f4c/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

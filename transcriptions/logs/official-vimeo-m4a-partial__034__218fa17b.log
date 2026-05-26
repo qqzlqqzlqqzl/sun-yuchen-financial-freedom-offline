@@ -1,0 +1,200 @@
+
+=== START 2026-05-26 12:49:33 ===
+{"id": "official-vimeo-m4a-partial__034__218fa17b", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/034 - 034扩大你的“可控”负债是好事 [1179724607].m4a", "filename": "034 - 034扩大你的“可控”负债是好事 [1179724607].m4a", "duration_seconds": 670.443}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/034 - 034扩大你的“可控”负债是好事 [1179724607].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:11:10.44, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+[out#0/wav @ 0x963404180] video:0KiB audio:20951KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000364%
+size=   20951KiB time=00:11:10.44 bitrate= 256.0kbits/s speed=1.76e+03x elapsed=0:00:00.38    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/034 - 034扩大你的“可控”负债是好事 [1179724607].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/audio.wav' (10727083 samples, 670.4 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.860]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:59.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:01:00.000 --> 00:01:24.940]  如果我们知道了这个社会是通胀的,那我们就知道整个社会和整个经济体系都在鼓励我们扩大自己的负债,鼓励我们最大程度的提升我们的经济策略,把我们的经济策略从保守转向激进。
+[00:01:24.940 --> 00:01:29.940]  因为只有这样我们才是符合时代的经济策略。
+[00:01:30.000 --> 00:01:49.280]  而包括我们的消费,鼓励我们现实消费,大量消费,提升自我,反储蓄,你还记得吗?我们还记得有很多爷爷奶奶怎么存了一辈子的钱,就他那个时候,比如说80年代的3万块钱存到现在了,80年代的3万块钱能在北京买一套房子吧?
+[00:01:49.280 --> 00:01:53.820]  但我瞎说的啊,但现在可能连北京半平方米都买不了了吧?
+[00:01:53.820 --> 00:01:59.980]  就是你可以看看这几十年,如果你是盲目储蓄的话,货币的贬值是不一样的。
+[00:02:00.000 --> 00:02:09.760]  所以这整一套货币体系啊,都在鼓励你首先依消费,消费给个人,提升你自己,无论怎么样,提升你自己都是可以的。
+[00:02:09.760 --> 00:02:15.440]  同时呢,你要做大你的可控负债,就多借钱,不要紧的。
+[00:02:15.440 --> 00:02:22.620]  因为你今年借了100万,明年就相当于借了90万了,其实,后年就相当于借了80万。
+[00:02:22.620 --> 00:02:27.620]  所以这时候呢,可控负债也是非常好的一个东西。
+[00:02:28.240 --> 00:02:31.720]  这个跟我们绝大多数老百姓的想法啊,可能也不一样。
+[00:02:31.720 --> 00:02:35.360]  中国人呢,其实本质不喜欢负债。
+[00:02:35.360 --> 00:02:39.660]  而且老觉得负债的人诚信有问题。
+[00:02:39.660 --> 00:02:44.100]  就比如说我们这样发明一些词,比如我们会说这个人什么债务缠身。
+[00:02:44.100 --> 00:02:46.820]  你听啊,他怎么债务缠身呢?
+[00:02:46.820 --> 00:02:50.080]  你觉得这个人很危险啊,赶紧离开他,是吧?
+[00:02:50.080 --> 00:02:51.760]  他说他是个坏人。
+[00:02:51.760 --> 00:02:56.020]  但其实我们不知道,美国,西方国家恰恰相反。
+[00:02:56.480 --> 00:03:03.980]  但是负债和违约首先是两码事啊,负债是欠了很多钱,但是人家都暗示给还上了。
+[00:03:03.980 --> 00:03:07.480]  违约是指你欠了钱都不还。
+[00:03:07.480 --> 00:03:21.040]  违约当然对你的信用损害会很大,但是负债恰恰是你有信用的一种表现,这个人能付很多债,牛逼,能借出来这么多钱是实力的体现。
+[00:03:21.040 --> 00:03:26.460]  不可能说是,哎,你好像背了债,好像诚信都有问题,是个坏人。
+[00:03:26.480 --> 00:03:33.600]  同时呢,中国人一欠债,心里很难受,感觉自己变成个悲情英雄了,是吧?
+[00:03:33.600 --> 00:03:39.360]  经常说,经常比如在生活中,我欠了一身债,就感觉非常悲情。
+[00:03:39.360 --> 00:03:50.400]  这时候,这时候好像他,而且往往在中国啊,如果你一旦成了悲情英雄,成了道德上的这种悲情英雄,别人好像都得,都得让着你。
+[00:03:50.400 --> 00:03:56.200]  就比如说有人如果和我一起去买个东西在排队的时候,他突然对我说,我欠了一身债。
+[00:03:56.480 --> 00:04:02.400]  好像我就要让他先买,不好意思嘛,这人家都欠债了你,你怎么能跟人家计较呢?
+[00:04:02.400 --> 00:04:08.440]  所以中国人很逗啊,就中国人首先一不喜欢负债,觉得欠债的人诚信有问题。
+[00:04:08.440 --> 00:04:22.300]  然后如果你一欠债,你就跟悲情英雄一样,就甚至你跟你残疾了呀,具有了一下这些功能,就你在社会上成了一个弱势群体了,就你一欠债啊,成了一个弱势群体,大家都应该让着你啊。
+[00:04:22.300 --> 00:04:25.780]  其实这一切跟西方国家都抢着相反。
+[00:04:26.480 --> 00:04:35.020]  在西方国家你能欠债是强者的表现,包括你愿意欠债是你一种积极向上的人生态度。
+[00:04:35.020 --> 00:04:43.440]  所以你看美国人也是经常积极用信用卡去消费吧,就是昨天的钱,明天的钱花到今天来用。
+[00:04:43.440 --> 00:04:54.000]  这时候他也欠债啊,但是美国人就活得很坦然,但我们中国就发明个词叫什么卡奴,卡奴隶,就是卡奴。
+[00:04:54.000 --> 00:04:56.460]  很多年轻人说我成了卡奴。
+[00:04:56.480 --> 00:05:01.000]  首先这种心态是完全是错误。
+[00:05:01.000 --> 00:05:04.960]  再举一个国家层面的发展的一个例子。
+[00:05:04.960 --> 00:05:09.580]  你看我们国家呢,恰恰是借钱给别人最多。
+[00:05:09.580 --> 00:05:12.740]  而美国这个国家是欠债钱的最多。
+[00:05:12.740 --> 00:05:17.620]  我们总以为说美国经济很发达,那他们应该很有钱,恰恰相反。
+[00:05:17.620 --> 00:05:23.060]  美国从中国身上借了最多的钱,中国人经常去买美国的国债。
+[00:05:23.060 --> 00:05:26.460]  美国欠中国的钱本身。
+[00:05:26.480 --> 00:05:31.420]  就能反映出美国这个国家的强大势力,因为别人愿意把钱借给你。
+[00:05:31.420 --> 00:05:45.820]  所以从这个角度来说呢,我们呢,也要转化我们的传统思维,转化我们以前不喜欢欠债的这种传统的思维。
+[00:05:45.820 --> 00:05:51.240]  我们应该鼓励负债,负债越大越好,负债越高越好。
+[00:05:51.240 --> 00:05:53.760]  当然啊,还有钱贷,我不叫你去借高利贷啊。
+[00:05:53.760 --> 00:05:56.220]  你要因为我这个建议是吧,明天借高利贷。
+[00:05:56.480 --> 00:05:59.480]  手脚都被人砍了,是吧,不能来找我。
+[00:05:59.480 --> 00:06:02.200]  我叫你要做的是可控负债。
+[00:06:02.200 --> 00:06:07.840]  而一般我们至少认为可控负债的年化利率要在10%以下。
+[00:06:07.840 --> 00:06:16.140]  你不能给我借个100%的这种利滚利的高利贷,是吧,黑社会都剁手剁脚的那种,这个不行。
+[00:06:16.140 --> 00:06:22.900]  在此基础上,你如果记得不是高利贷,而且是10%年化利率的可控负债。
+[00:06:22.900 --> 00:06:26.320]  我个人认为是实现财富自由和。
+[00:06:26.480 --> 00:06:29.340]  做大做强资产负债表的一个核心手段。
+[00:06:29.340 --> 00:06:36.620]  在这个里面呢,我们经常要看,其实人的致富路径啊,和一个企业的做大的模式也很类似的。
+[00:06:36.620 --> 00:06:41.980]  我们经常观察企业的时候,有一类企业是技术导向型。
+[00:06:41.980 --> 00:06:45.040]  技术导向型什么样的公司呢?
+[00:06:45.040 --> 00:06:54.100]  像比如说阿里腾讯百度都这样,互联网科技嘛,技术导向,不管前面是商业模式创新,还是本身具有核心技术。
+[00:06:54.100 --> 00:06:56.180]  这一类企业呢,
+[00:06:56.480 --> 00:07:17.360]  拥有技术,踏入风口,迅速发展,比如说从风头而融了钱,这是不是就跟我们很多人,你去读一个计算机学位,拥有一个自己的技术,或者当了医生,当了律师,然后这时候,哎,医生律师很值钱,这个职业很好,你获得非常好的发展,有点类似吧。
+[00:07:17.360 --> 00:07:24.920]  还有一类企业则是增加杠杆,提高规模进行收购,是资本密集性的。
+[00:07:24.920 --> 00:07:26.360]  比如说,
+[00:07:26.480 --> 00:07:48.520]  这样很多医院企业,就医院都是重资产的,所以好多医院呢,就把自己的医院抵押给银行,借了钱,再去收购别的医院,通过,然后把那家医院收购了,再把那个医院再抵押出去,再收购别的医院,就不断地增加自己的杠杆,提高自己的规模来收购,包括医药企业,万达,我们知道的万达。
+[00:07:48.520 --> 00:07:56.300]  上一集啊,我分析了首富的儿子王思聪给大家,结果有的朋友居然很不乐意,说最近怎么一天,
+[00:07:56.480 --> 00:08:25.400]  我纳闷了,这就跟我高考的时候,天天给你分析咱们全省考第一名的人是怎么做的,当然具有很强的参考意义,是不是啊,你如果想致富,你连首富是怎么致富的,你都不知道,还有什么资格研究这玩意儿呢,所以上一次我讲了王思聪的故事,这一次讲讲王健林的故事,当然今天这一章节,主播只能随口提一句啊,
+[00:08:26.480 --> 00:08:55.360]  我还得专门开一章讲,王健林的万达的发展的基本模式,其实就是增加杠杆,增加负债,反复收购,通过这样的方法,把资产负债表越做越大,企业越做越好,所以在这个时候呢,对于万达这样的公司来说,甚至他的CTO,就比如说像阿里啊,像这种CTO,COO很重要,要运营的公司嘛,像万达这样的公司,CFO是非常重要的,
+[00:08:56.480 --> 00:09:20.220]  所以只有有CFO良好的去安排整个资产负债表,因为他那个资产得还债嘛,还债,收购,抵押这一整套东西,CFO起到非常大的作用,所以你看连企业,很多企业都这样发展,那从我们个人来讲,其实提升你一定程度的负债能力,是非常重要的,
+[00:09:20.220 --> 00:09:24.160]  好了,那我们今天就讲到这里,最后回顾一下,
+[00:09:24.160 --> 00:09:26.460]  其实这一章讲的就是,
+[00:09:26.480 --> 00:09:34.800]  整个人类社会呢,现在前所未有的,进入了一个钱不值钱流动性过剩的时代,
+[00:09:34.800 --> 00:09:39.280]  在这个时代,我们鼓励所有人尽早消费,
+[00:09:39.280 --> 00:09:46.400]  把你积累的钱花在自己身上去提升自己,找一份好的工作,进入互联网行业,让自己的身价提升,
+[00:09:46.400 --> 00:09:51.720]  同时呢,再鼓励你做大自己的负债表,
+[00:09:51.720 --> 00:09:54.780]  当然是在自己能力能还得起的前提条件下,
+[00:09:55.340 --> 00:09:59.480]  能从银行借大量的钱,可以在今天进行消费,提升自己,
+[00:09:59.480 --> 00:10:04.240]  所以呢,负债是好事,可控性的债务是好事,
+[00:10:04.240 --> 00:10:09.280]  所以呢,今天我们的这个章节就先讲到这里,
+[00:10:09.280 --> 00:10:13.520]  然后,这个,紧接着呢,我也稍微预告一下下一期,
+[00:10:13.520 --> 00:10:20.600]  科技的进步啊,让每个人赚到的钱已经远远超过了生存保障线,
+[00:10:20.600 --> 00:10:25.300]  所以呢,完成原始积累,也会变得,
+[00:10:25.340 --> 00:10:32.560]  很容易,而且呢,与绝大多数人所认为的资源是稀缺的,不一样,
+[00:10:32.560 --> 00:10:36.500]  我个人认为资源完全是过剩的,所以呢,
+[00:10:36.500 --> 00:10:41.780]  包括我们大家认为的煤炭石油啊,能源金钱粮食啊,
+[00:10:41.780 --> 00:10:45.760]  在本世纪都将不带稀缺,成为一种大路货,
+[00:10:45.760 --> 00:10:50.920]  而人才的整体资产价值会飙升,
+[00:10:50.920 --> 00:10:54.920]  这个就再次回到了我们财富自由提升自己的话题,
+[00:10:55.340 --> 00:10:58.860]  这个都是具有时代的大背景,
+[00:10:58.860 --> 00:11:01.240]  好,那今天就先讲到这里,
+[00:11:07.320 --> 00:11:37.300]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/out.json'
+
+whisper_print_timings:     load time =   741.81 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   257.42 ms
+whisper_print_timings:   sample time =  7101.78 ms / 16700 runs (     0.43 ms per run)
+whisper_print_timings:   encode time = 28899.74 ms /    24 runs (  1204.16 ms per run)
+whisper_print_timings:   decode time = 18856.94 ms /   367 runs (    51.38 ms per run)
+whisper_print_timings:   batchd time = 208702.70 ms / 16217 runs (    12.87 ms per run)
+whisper_print_timings:   prompt time =  5673.64 ms /  4990 runs (     1.14 ms per run)
+whisper_print_timings:    total time = 270995.69 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/audio.wav -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__034__218fa17b/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

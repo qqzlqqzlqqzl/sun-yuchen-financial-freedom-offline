@@ -1,0 +1,135 @@
+
+=== START 2026-05-26 12:30:46 ===
+{"id": "official-vimeo-m4a-partial__018__6b1ffa0f", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/018 - 018课程大纲讲解 [1179693184].m4a", "filename": "018 - 018课程大纲讲解 [1179693184].m4a", "duration_seconds": 709.013}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/018 - 018课程大纲讲解 [1179693184].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:11:49.01, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+[out#0/wav @ 0x7e6c64180] video:0KiB audio:22157KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000344%
+size=   22157KiB time=00:11:49.01 bitrate= 256.0kbits/s speed=1.78e+03x elapsed=0:00:00.39    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/018 - 018课程大纲讲解 [1179693184].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/audio.wav' (11344213 samples, 709.0 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.840]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:59.980]  说孙总怎么怎么根本就讲的根本就不够系统啊,你怎么可能指望在一期的开明综艺的创刊里面就讲系统呢,是吧,这系统是个52周的事情了,所以我们也会给大家讲一下,所以包括有的人说,哎,说,哎,具体怎么投特斯拉比特币啊,以及这些科技,包括怎么了解互联网啊,这其实都是我们后面课程要讲的内容,所以我给大家讲一下,大家其实心里也有个数,我们大概第几周会讲这个,然后就给大家一个全面的了解对于这个科技。
+[00:01:00.000 --> 00:01:29.160]  好,这一章可能讲起来有点枯燥,但很正常,因为这一节是讲课纲,会讲我们讲什么内容,因为也没有例子,很多东西的抽象,但是听下对大家也有益吧,大家最好记一记,每周知道我将要讲什么东西,我们到时候也会给一些阅读材料给大家,大家读一读,参加一下我们的互动,而且甚至我会读了之后,大家会对有一些章节你格外的感兴趣,就可以早点注意嘛,注意收听,好吧,开始吧。
+[00:01:29.760 --> 00:01:58.300]  这第一周呢,其实大家都听过了,我们主要讲第一周就介绍,主要讲为什么开通财富自由革命之路,节目为什么叫财富自由革命之路,如何关注订阅互动本节目的正常姿势,第一周介绍,其实这个都是免费节目了,大家肯定听过了,其实第二到三周啊,我们主要讲财富自由是什么,大家也都听过了,也已经,付费观众也听过了,其实主要就讲财富自由是什么,我们就讲财富自由是当代中国年轻人首先需要关注的问题,
+[00:01:59.520 --> 00:02:29.280]  赚钱是年轻人首先应该关心的事情,然后理论一,我们讲了财富自由的定义,就是不需要为金钱做出价值观的妥协,妥协的种类包括付出时间,付出注意力,付出情感尊严,财富独立,然后呢,我们讲了一下,还有一个理论,就是财富自由是一夜包付,瞬间退休,终身吃喝玩乐,是不是,不是,然后我们讲了两个案例,一个案例是为了,为了嫁人,把自己给,为了全家自己给卖掉了,还讲了一个北京土著,天天换车,
+[00:02:29.280 --> 00:02:59.040]  现在大家都听过了,所以这个总结呢,就是精神自由而财富自由,财富自由而精神自由,然后就是这一章讲完之后,我们会讲第四到五周是叫做中国九零后新时代,其实这个倒是跟九零后其实关系不大,就是我们未来,就未来中国二十年将会怎么样,七零后八零后听了相当于也会有些帮助,我们讲呢,就是中国,先讲一下观点吧,就中国的新危机本质是一个传统社会的国家,
+[00:02:59.040 --> 00:03:28.800]  社会的最后一次转型,由家庭为单位的工业生产社会,向个人为单位的互联网社会的一个变化,所以呢,我们也预测中国未来的经济大环境呢,将进入一个长期的滞胀,甚至长期的低增长,甚至乃至负增长,然后产业结构要转型,所以给九零后,包括如果现在社会的七零后八零后,我觉得都会带来很大的适应困难,但是九零后比较悲催的是呢,九零后将是中国第一代人,在刚成年的时候将目睹中国经济下滑的第一代人,
+[00:03:28.800 --> 00:03:58.560]  七零后八零后毕竟过了十到二十年的好日子呀,是吧,长期增长基本是没有任何问题的,但九零后零零后可能到你工作啊,这些时候啊,可能整体的经济并没有这么好了,当然这也很正常,但是我觉得其实我们也不要夸大经济危机以及所谓经济滞胀带来的问题,日本妈经济增长滞胀三十年不破天好了吗,那美国一直低增长啊,哥们,一直低增长都多少年了呀,美国就一到二的经济
+[00:03:58.560 --> 00:04:28.320]  温和通胀增长啊,不,大家活得挺好嘛,我觉得活得挺好,所以也不要迷信经济增长,但是我觉得肯定日子没以前好了,这是肯定,所以呢,我们讲,叫时代呼唤摩西,带领大家走出困境,当然这摩西就我自己了,我们给大家提供一个这个财富自由之路的这个节目,大家好好听,按照我们上面做的,说的做,其实会对你的人生有非常大的帮助,其实这个也是我做这个节目的初衷,再次强调一下,我们不为了赚钱,
+[00:04:28.320 --> 00:04:58.080]  我们只为了拯救一代人,带大家去发财致富,其实是义务的,包括我自己现在也开公司,其实我是义务拿出自己的时间来做这个节目,然后再回答一下,就为什么很多粉丝也始终问,为什么收钱,我觉得呢,收钱是个门槛,因为交了两百块钱愿意订阅这个节目的人肯定是愿意认真学习,愿意听的,这是第一点,第二点呢,我就不需要跟很多喷子对战,因为很多喷子是不会买这个节目的,所以呢,我相信只要买了这个节目,
+[00:04:58.080 --> 00:05:27.840]  这个节目的人肯定是认同财富自由,因为如果你的免费节目,你还是要跟喷子辩论,喷子说,为什么财富自由,穷着不挺好吗,我穷我骄傲,至少我们靠收两百块钱把这样的人给过滤掉了,这是很重要的,第四到五周我们讲这个,六到七周呢,讲流动性问题,其实我们的预告主要就是拳头流动性过剩,贫穷在本世纪会被消灭,当然了,我们就会给大家讲一个全球最大的主权率理论,就是钱不值钱嘛,是个大通胀,
+[00:05:27.840 --> 00:05:57.600]  流动性过剩,所以鼓励负债,重点会批判中国又是一种穷人思维了,千万不要负债,借钱的人怎么能借钱呢,是不是啊,借钱腰杆不正,没钱,这个这个腰杆不正,相反,其实可控制的负债是一种典型的债务工具,这个也是我们经常讲的,其实包括华尔街和公司,当我会给大家讲一个这个去衡量,包括是不是好公司一个重要的,很多人看到一个公司如果负债很高,吓尿了,
+[00:05:57.600 --> 00:06:27.360]  我跟你讲,是一个公司,这公司妈的估值五个亿,签了一百一个亿美金的债务,妈的吓得尿裤子,这根本就没有必要啊,核心你看两点,第一个这个债务是不是个长期负债,是不是个可控制负债,其次呢,你看了这个负债给他带来了什么,其实负债某种什么是好事,然后呢,其次我还会讲一些不光金钱本身是过剩的,其实包括煤炭啊,石油探明储量啊,粮食啊,能源啊,都是过剩的,
+[00:06:27.360 --> 00:06:57.120]  所以,嗯,对人类来说,二十一世纪本身,哎,太舒服了,太舒服了,我觉得大家真的不需要有什么压力啊,我觉得这代人活太舒服了,想死都死不了,想穷死都穷死不了,所以我们总结一下,就是就这一张的总,我们会分析两个案例,第一个就怎么鼓励负债,第二个我们会讲一下,就是无论人生态度和财务策略,我们这个时代都是呼唤激进而非保守的,消灭贫困,全人类的贫困,也是我们本身的负债,
+[00:06:57.120 --> 00:07:26.540]  这是我们本世纪一个最大的问题,当然也就是,我觉得这个事情太伟大了,我们有可能是全世界第一代人,通过我们的努力,可以在整个地球上消灭贫困,我觉得这是一件太伟大的事情了,释放出所有人的创造力,所以我对人类的未来当然是充满信心,第八到九周,啊,我们会讲财富,走向财富自由之路的一个核心的战略,啊,所以这一张是讲的是明道,其实是绝大多数人不愿意听的,其实这个我觉得是最应该听的,
+[00:07:26.880 --> 00:07:56.540]  很多老百姓就不愿意听,所以这个时候也反映了你的穷人思维和老百姓思维,就不愿意听战略,只愿意说啊,你赶紧顺总告诉我明天到底去哪儿借钱,怎么能把我气死,所以甚至我们的节目设计的时候一开始把树的层面贴了一些,但是其实我觉得这是不对的,最大的程度你要明道,知道很多东西啊,这个核心该怎么做,包括我们一个企业,其实我们上马云的课,啊,所以我有点羡慕马云,马云只需要给36个人讲清楚这个事儿,
+[00:07:56.640 --> 00:08:26.280]  我们一般都是聪明人,所以不会,不会在马云那瞎积极,是吧,因为瞎积极了马云就把我开除了,我跟你讲,我不会在马云那瞎积极,说哎,马云,马哥要怎么不告诉我,怎么不给他钱呢,妈的,不给2000万不过瘾啊,我会认真去听马云告诉我们战略是什么,怎么好好做战略,啊,所以我们在这节课呢,既然大家已经交了钱了,我觉得应该好好听听战略,啊,好好听听马云的东西,当然是我自己在马云身上结合的,更适合给
+[00:08:26.400 --> 00:08:56.160]  个人听的,首先呢,就是人和企业其实是一样的,啊,首先都是策,战略,策略,执行,而一个人呢,我们讲的也就叫做三观路线和执行,决定你的一切,基本上,所以本质呢,首先要明道体用,什么叫明道体用呢,道就是所谓的信仰,所谓的三观,体用呢,啊,体用,体什么,体什么用啊,就具体该怎么做,就是本专栏,啊,我们本专栏,既会
+[00:08:56.160 --> 00:09:25.920]  教你明道,也会教你体用,最后还会教你一些术,就叫你具体执行,所以,我靠,哥,这已经是对你,叫周公图谱,他妈天下归心,什么叫周公图谱啊,懂吗,周公图谱就是说,你快饿死了,周公不仅给你饭吃,亲自拿嘴巴,把那饭都嚼烂了,甚至用我的唾液都给消化成葡萄糖了,哥们,只要你舔一下就能吸收了,就基本上我们这个专栏在做的事,啊,所以有的,如果有人说还吗,不够系统,不够
+[00:09:25.920 --> 00:09:55.680]  不够,不够接地气,我们就无话可说,真的是周公图谱,啊,天下归心,所以呢,我们这一章主要会,这一章主要是明道,啊,所以我们就会讲,通向财富自由之路呢,本质是一场价值观战争,那什么样的价值观容易取胜啊,我们会讲,我们认为呢,建立在自由意志主义和利己主义,承认私有产权和个人奋斗,创造科技进步价值的互联网价值观,是最可能在这一场观念战争中获胜的一方,
+[00:09:55.680 --> 00:10:25.320]  这是最重要的,千万不要忽略,我再念一遍,好吧,大家用笔写下来,目前看来,在建立在自由意志主义,利己主义之上,承认私有产权,宣扬个人奋斗,创造科技进步的互联网价值观,是最可能在这一场观念战争中获胜的一方,就跟你现在问孙神,好,我要加入美国还是苏联,你告诉我,我告诉你是美国,
+[00:10:25.440 --> 00:10:55.200]  就跟你抄错了,你投奔苏联去了,你做垮了,你怪我,一定要注意,战队,战队,其实绝大多数,我们知道人生很多悲剧是战对战错导致的,所以这个观念战争,大家知道整个财富自由就是一场观念战争,战队一定要战队,然后呢,所以这一张战队战队了之后,我们会给大家普及几个点,所谓自由意志主义,利己主义究竟是什么鬼,互联网价值观究竟是什么鬼,
+[00:10:55.200 --> 00:11:24.960]  我们都会给大家一点点讲清楚,最后总结,叫做一人继一国,这就是你的开国大典,开国大典之后有三场激动人心的革命等着你,所以这个为什么叫开国大典呢,比如说1949年毛主席开国大典,那就确立新民主主义革命,社会主义革命,几个核心三观,但是啊,这点我要强调,这三观,所以一直都很重要,就是你先确定三观才能谈别的,三观都不对,谈别的都白搭啊,
+[00:11:24.960 --> 00:11:37.940]  所以体用这一章最重要,八到九周这一周,我推荐所有定了这个杆栏的人,你就算很忙,八到九周这课一定得上,或者你跟我想法已经一样了,当然不用上了,跳过,但是如果你肩膀不一样了,一定得上。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/out.json'
+
+whisper_print_timings:     load time =   732.01 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   276.57 ms
+whisper_print_timings:   sample time =  7641.20 ms / 19092 runs (     0.40 ms per run)
+whisper_print_timings:   encode time = 27528.79 ms /    24 runs (  1147.03 ms per run)
+whisper_print_timings:   decode time =  3050.32 ms /    60 runs (    50.84 ms per run)
+whisper_print_timings:   batchd time = 251834.16 ms / 18917 runs (    13.31 ms per run)
+whisper_print_timings:   prompt time =  5349.71 ms /  5240 runs (     1.02 ms per run)
+whisper_print_timings:    total time = 297181.53 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/audio.wav -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__018__6b1ffa0f/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

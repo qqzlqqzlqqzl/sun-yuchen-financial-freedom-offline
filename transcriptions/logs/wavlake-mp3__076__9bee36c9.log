@@ -1,0 +1,142 @@
+
+=== START 2026-05-26 11:05:17 ===
+{"id": "wavlake-mp3__076__9bee36c9", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/076 - 076 - 076 孙宇晨：【不确定性】风险与收益并存.mp3", "filename": "076 - 076 - 076 孙宇晨：【不确定性】风险与收益并存.mp3", "duration_seconds": 544.252521}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/076 - 076 - 076 孙宇晨：【不确定性】风险与收益并存.mp3' (8708041 samples, 544.3 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.720 --> 00:00:04.280]  大家好,我是90后创业者孙宇晨。
+[00:00:04.280 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:18.940]  欢迎你到京东图书与我相遇。谢谢。
+[00:00:18.940 --> 00:00:27.160]  风险与收益,这是一对孪生子。
+[00:00:28.160 --> 00:00:40.000]  往往,其实在工作、事业和投资中,我们一般都希望去避免极大的不确定性与风险,为利润和收益带来空间。
+[00:00:40.000 --> 00:00:45.660]  但是其实我们有时候忘了,没有风险的收益是根本不存在的。
+[00:00:45.660 --> 00:00:52.500]  不确定性注定就要伴随着颠覆与摧毁。
+[00:00:52.500 --> 00:00:56.660]  某种程度上不确定性必然也伴随着风险。
+[00:00:56.660 --> 00:00:58.140]  甚至是冒更大。
+[00:00:58.420 --> 00:01:06.460]  所以,风险与收益是一对孪生子,相当于是一个硬币的两面。
+[00:01:06.460 --> 00:01:15.220]  所以往往,其实后来在想清楚这个问题时,当我们在生活中遇到各式各样的问题的时候,
+[00:01:15.220 --> 00:01:24.000]  其实甚至我以一个项目,我经常会问的最大的一个问题是先问,这个项目究竟有多大的风险,风险在哪里?
+[00:01:24.000 --> 00:01:28.140]  如果没有风险,往往我们也不值得。
+[00:01:28.160 --> 00:01:37.960]  所以从这个角度来说,其实投资最重要的是看到一个事情的风险,而不是看到一个事情的收益。
+[00:01:37.960 --> 00:01:46.960]  如果将风险看得一清二楚,往往比如举个例子,最早期我们投资的比特币,它有一个最重大的特征,
+[00:01:46.960 --> 00:01:53.980]  就是它对整个人类的法币体系以及金融清算体系都构成了非常大的挑战。
+[00:01:53.980 --> 00:01:57.660]  这当然也是个非常大的风险,因为如果失败了,什么都没有。
+[00:01:58.160 --> 00:02:08.420]  但是恰恰是它提出的这么大的一个挑战,才让比特币本身具有了一定程度的利润空间。
+[00:02:08.420 --> 00:02:14.280]  所以这也是为什么我回头来想,我们能够投资比特币,能够赚到钱的一个核心原因。
+[00:02:14.280 --> 00:02:23.560]  所以在理论三之后,我们就延伸到了理论四,就是我们要批判一种对稳定的迷思。
+[00:02:23.560 --> 00:02:27.560]  因为我其实从小,父母就教育我稳定。
+[00:02:28.160 --> 00:02:30.460]  稳定非常重要,它是稳定。
+[00:02:30.460 --> 00:02:38.000]  这个词其实来自于一个词叫safety net,这个是一个工业社会的词汇,叫做安全网。
+[00:02:38.000 --> 00:02:47.900]  这个安全网,其实我们会最后看到,不仅不会给依赖安全网的人带来任何好处,
+[00:02:47.900 --> 00:02:52.140]  往往会给依赖安全网的人带来毁灭性打击。
+[00:02:52.140 --> 00:02:57.020]  所以经常是我们中国古话讲的,叫做福兮获之所以。
+[00:02:58.160 --> 00:03:00.580]  看起来是个福,其实是个大祸。
+[00:03:00.580 --> 00:03:05.080]  往往呢,很多人没有办法意识到这一点。
+[00:03:05.080 --> 00:03:09.820]  这个工业社会的安全网,其实包括美国也有,大家知道。
+[00:03:09.820 --> 00:03:16.200]  就比如说社保啊,福利制度啊,往往这些都是我们称为的安全网。
+[00:03:16.200 --> 00:03:21.340]  最后我们发现,首先它福利制度啊,它有一个毒药效应。
+[00:03:21.340 --> 00:03:28.140]  就是往往依赖福利制度的人久了,本身就不会再具有任何创造价值的能力了。
+[00:03:28.420 --> 00:03:31.960]  所以呢,其实福利制度相当于某种程度上把它废掉了。
+[00:03:31.960 --> 00:03:36.300]  而且我们其实在现实征服中发现更大的一种现象。
+[00:03:36.300 --> 00:03:43.200]  是福利制度本身是靠不住的,一个福利系统经常运行,最多可能二三十年,
+[00:03:43.200 --> 00:03:52.160]  基本就会处于崩溃的边缘,非常快的就崩溃了,然后将依靠这一套福利制度的人扔进深渊。
+[00:03:52.160 --> 00:03:57.340]  所以呢,其实我们大家在理解财富自由的时候,
+[00:03:57.540 --> 00:04:02.720]  记得第一章的时候我也给大家讲过,财富自由是稳定,是踏实吗?
+[00:04:02.720 --> 00:04:08.980]  不是。财富自由恰恰是一种最具挑战的不确定性的形态。
+[00:04:08.980 --> 00:04:20.580]  而某种程度上财富自由本身就是面对这一个不确定性时代的一套有利的心态,
+[00:04:20.580 --> 00:04:27.520]  或者是一套能够给你带来安全感的心态本身,就是财富自由的真理。
+[00:04:27.720 --> 00:04:35.560]  所以从这个角度来说,我们会做两个案例分析,就是人的未来的职业选择。
+[00:04:35.560 --> 00:04:51.960]  我们认为千万不能考公务员和选择国企,而且人千万不能将绝大多数你的未来拴在别人、福利或者国家等任何工业时代的安全网上。
+[00:04:51.960 --> 00:04:57.500]  如果你这样选择,那么就将会使自己成为社会主义者。
+[00:04:57.500 --> 00:05:05.860]  这个社会变革的牺牲品,其实我们这个用词是使用的之前中国90年代的时候。
+[00:05:05.860 --> 00:05:17.660]  大家也知道,我们当时国家国企改革,大量的国企工人下岗,这个被我们当时称为是一个社会变革,他们就成为了这个社会变革的牺牲品。
+[00:05:17.660 --> 00:05:26.500]  当然,我觉得国企改革中存在的各种问题,今天回来复盘肯定有很多问题需要解决,但是其中我认为有一点,
+[00:05:27.480 --> 00:05:43.160]  就是国企工人给国企,国企给国企工人带来了太大太多的安全网,以至于让国企工人在适应这套体系之后,再也无法适应外界的环境了。
+[00:05:43.160 --> 00:05:56.140]  所以呢,我个人认为这个时代,包括我平常也知道,我很多同学,包括都是公务员,其实在我大学毕业时,
+[00:05:57.460 --> 00:06:27.440]  公务员基本还是我们中国社会的一个主流吧,进起事业单位,往往也是这个整个社会的一个主流,包括啊,其实我因为我是一年毕业的,当时我一年毕业的时候,可能甚至是中国国考的一个高峰啊,现在可能稍微好一点了,但绝大多数非常优秀同学,很多都去了国企和当公务员,我觉得在现在这个时代,考国企和考公务员啊,很有可能,
+[00:06:27.440 --> 00:06:56.640]  这一代年轻人都将成为社会变革的牺牲品啊,当然我的这个观点啊,可能要留到十年,二十年,甚至三十年后,我们来观察,可能更为公道一些,所以呢,我们最后的总结啊,就是不确定性是存在的,不确定性是未来世界发展的本质,请拥抱不确定性,其实呢,我最近呢,出了一本书啊,大家知道我前面的广告,
+[00:06:57.420 --> 00:07:27.400]  也稍微播了一下啊,就叫《这世界既残酷也温柔》啊,其中我有一章,其实讲了我自己的一个例子,有的朋友啊,如果有闲可以买一本我的书,在当当京东上都有啊,如果没有的话,去图书馆,说不定去借,说不定现在也有了啊,借一本,或者去我的浪潮车间啊,点击进去看啊,也是可以的,叫做《我为什么不找一份稳定的工作》啊,这是我自己写的一篇文章,就讲了我自己,其实从我自己的观点,
+[00:07:27.400 --> 00:07:57.380]  我自己啊,自己本身的例子去描写的,我为什么没找一份稳定的工作,因为绝大多数人可能知道我,其实啊,在校期间就开始创业了,啊,一直就没怎么安分的想工作过,啊,一直到现在,啊,当时呢,其实啊,很多人都有这个疑问,就经常问我,雨晨啊,你为什么不去找一份稳定的工作呢,其实不光平常人问我,当时呢,我在一个啊,非常重要的工作中,
+[00:07:57.380 --> 00:08:27.360]  tricky的场合,别人也问过我,就是我自己当时带着我的商业计划书,去找投资人,当时投资人觉得我这个商业计划书完全写的没什么希望了,他也不会投资我,当时他就有一种说教的态度,就很可惜啊,说孙云辰,你自己都快饿死了,是不是啊,你为什么不去找一份稳定的工作,别让你的父母再担心你了呢,就他根本就不听我的项目,啊,当时就问了我,为什么不找一份稳定的工作呢,然后我的这一篇文章,啊,就
+[00:08:27.360 --> 00:08:55.620]  给了一个很好的回答,就是我的标题写的,叫我为什么不找一份稳定的工作,大家可以去我的浪潮车间,就是浪潮车间是我的公众号里面啊,直接看历史文章,就有一篇叫我为什么不找一份稳定的工作,大家可以看一看,这样的话我就不在这个节目里说了,在节目里我会继续讲其他的例子,好的,谢谢大家。
+[00:08:57.340 --> 00:09:04.220]  感谢观看
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__076__9bee36c9/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__076__9bee36c9/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__076__9bee36c9/out.json'
+
+whisper_print_timings:     load time =   822.94 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   210.77 ms
+whisper_print_timings:   sample time =  3473.57 ms / 12308 runs (     0.28 ms per run)
+whisper_print_timings:   encode time = 23713.62 ms /    19 runs (  1248.08 ms per run)
+whisper_print_timings:   decode time =  2168.33 ms /    43 runs (    50.43 ms per run)
+whisper_print_timings:   batchd time = 167554.84 ms / 12170 runs (    13.77 ms per run)
+whisper_print_timings:   prompt time =  4563.24 ms /  4151 runs (     1.10 ms per run)
+whisper_print_timings:    total time = 203431.80 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/076 - 076 - 076 孙宇晨：【不确定性】风险与收益并存.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__076__9bee36c9/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

@@ -1,0 +1,171 @@
+
+=== START 2026-05-26 11:32:52 ===
+{"id": "wavlake-mp3__103__0ca2de19", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3", "filename": "103 - 103 - 104 孙宇晨：【比特币】买买提.mp3", "duration_seconds": 379.878458}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3' (6078056 samples, 379.9 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:10.320]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边,等着你。
+[00:00:10.320 --> 00:00:18.920]  大家好,我是宇晨,今天我们再来回答一个简单的问题。
+[00:00:18.920 --> 00:00:23.580]  既然比特币这么好,如何获得比特币呢?
+[00:00:23.580 --> 00:00:28.120]  我们现在就想解锁我们人生第一个成就,获得一枚比特币。
+[00:00:28.900 --> 00:00:35.820]  我认为获得比特币的方法非常简单,当然我当年解锁这个成就可能2013年初就解锁了。
+[00:00:35.820 --> 00:00:45.800]  获得比特币的方法非常简单,一是挖矿,二是使用法币,直接从交易所或者有比特币的人手中购买比特币。
+[00:00:45.800 --> 00:00:57.700]  第一,挖矿的历史已经非常悠久了,经过很长时间的军备竞赛,挖矿已经从普通人,已经从绝大多数人,
+[00:00:57.800 --> 00:01:08.240]  都可以参与的一个很好玩的电脑游戏,变为了普通人再也无法参与的高度资金与技术密集性的行业了。
+[00:01:08.240 --> 00:01:20.900]  因此,由挖矿而获得比特币,也成为了许多资深比特币爱好者,尤其是许多程序员在谈起旧日时光时的一个回忆。
+[00:01:20.900 --> 00:01:27.240]  大家经常也想回到那个随便开个电脑运行个程序就能获得比特币。
+[00:01:27.240 --> 00:01:27.460]  大家经常也想回到那个随便开个电脑运行个程序就能获得比特币。
+[00:01:27.460 --> 00:01:39.220]  2.使用法币,也就是今天听我们节目的人,我相信大家的主要持有货币应该是人民币或者美金。
+[00:01:39.220 --> 00:01:47.160]  利用人民币或者美金向拥有比特币的人或比特币交易所去购买比特币。
+[00:01:47.160 --> 00:01:55.880]  在这里要提醒大家两点,第一,目前就我们录制这个节目2017年的5月份呢,
+[00:01:56.360 --> 00:02:01.740]  目前在中国交易所所购买的所有比特币都是无法提现的。
+[00:02:01.740 --> 00:02:06.180]  用我们流行用语说,你可能买了一个假的比特币。
+[00:02:06.180 --> 00:02:12.000]  因为如果一个比特币无法提现,无法提供到你的分布式钱包中,
+[00:02:12.000 --> 00:02:20.880]  我们认为这就失去了比特币的最核心用途,就是完全控制自己的一个自由货币,
+[00:02:20.880 --> 00:02:23.300]  纯粹变成了一种期货。
+[00:02:23.300 --> 00:02:25.800]  所以从这里呢,我们目前,
+[00:02:25.800 --> 00:02:30.700]  我们不是非常推荐各位到中国的交易所去购买比特币,
+[00:02:30.700 --> 00:02:33.960]  除非哪一天它开放提现,
+[00:02:33.960 --> 00:02:36.800]  你可以提到自己的分布式的钱包中。
+[00:02:36.800 --> 00:02:38.120]  同时呢,
+[00:02:38.120 --> 00:02:44.100]  我们希望各位还是能够到境外资质良好的交易所中购买比特币。
+[00:02:44.100 --> 00:02:46.900]  当然这里还要给大家一个提醒,
+[00:02:46.900 --> 00:02:50.760]  就是无论交易所如何资质良好,
+[00:02:50.760 --> 00:02:52.720]  都不要相信交易所,
+[00:02:52.720 --> 00:02:54.560]  因为比特币历史中啊,
+[00:02:54.560 --> 00:02:55.780]  已经无数次的交易所,
+[00:02:55.780 --> 00:02:59.900]  发生了排名第一的交易所倒闭跑路的情况。
+[00:02:59.900 --> 00:03:02.960]  因此大家一定要牢记一个原则,
+[00:03:02.960 --> 00:03:04.320]  就是买买提,
+[00:03:04.320 --> 00:03:10.340]  第一次买到的比特币一定要迅速体现到自己能够控制的分布式钱包上。
+[00:03:10.340 --> 00:03:11.480]  同时呢,
+[00:03:11.480 --> 00:03:13.780]  你只要攒钱买了新的比特币,
+[00:03:13.780 --> 00:03:15.800]  一律都把这个钱啊,
+[00:03:15.800 --> 00:03:17.400]  提到自己的钱包上,
+[00:03:17.400 --> 00:03:21.200]  然后把自己的密钥要完整的记住,
+[00:03:21.200 --> 00:03:22.900]  千万不要弄丢了。
+[00:03:22.900 --> 00:03:24.420]  大家说宇晨,
+[00:03:24.420 --> 00:03:25.680]  讲得这么好,
+[00:03:25.680 --> 00:03:28.360]  那我现在打算拿出一万块钱,
+[00:03:28.360 --> 00:03:32.440]  但现在拿出一万块钱只能买一个比特币了,
+[00:03:32.440 --> 00:03:37.180]  我们的那个年代拿出一万块钱还能买一百个比特币呢,
+[00:03:37.180 --> 00:03:38.780]  现在呢,
+[00:03:38.780 --> 00:03:41.660]  那我要拿出这些钱去投资买一个比特币,
+[00:03:41.660 --> 00:03:43.420]  需要注意什么问题呢?
+[00:03:43.420 --> 00:03:46.580]  我们认为有以下三点需要注意,
+[00:03:46.580 --> 00:03:47.620]  第一,
+[00:03:47.620 --> 00:03:50.840]  投资比特币一定要注意投资的长期性,
+[00:03:50.840 --> 00:03:55.660]  我个人认为比特币是一个在长期范围内看涨的虚拟货币,
+[00:03:55.660 --> 00:03:59.360]  但是在短期范围内波动十分巨大,
+[00:03:59.360 --> 00:04:05.520]  很多人由于无法坚持长期持有比特币这一理念,
+[00:04:05.520 --> 00:04:11.400]  早已在涨涨跌跌的环境中失去了对他自己比特币的控制,
+[00:04:11.400 --> 00:04:14.480]  要不然是忘记了密码,
+[00:04:14.480 --> 00:04:17.060]  要不然就是很早抛掉了,
+[00:04:17.060 --> 00:04:19.540]  大家不要以为我在开玩笑,
+[00:04:19.540 --> 00:04:21.780]  这个教训十分惨痛,
+[00:04:21.780 --> 00:04:24.980]  目前在比特币的世界中,
+[00:04:25.500 --> 00:04:30.560]  至少有10%以上的比特币都属于长期休眠,
+[00:04:30.560 --> 00:04:32.380]  再也没有被使用过,
+[00:04:32.380 --> 00:04:39.560]  我们来推测判断极有可能这些比特币的主人都早已忘记了比特币的密码,
+[00:04:39.560 --> 00:04:42.260]  因此丢掉了这些比特币,
+[00:04:42.260 --> 00:04:47.060]  因此大家在进入比特币投资领域的时候一定要做好,
+[00:04:47.060 --> 00:04:51.000]  这是一个值得5年以上投资的货币,
+[00:04:51.000 --> 00:04:54.020]  因此你要牢记自己的密码,
+[00:04:54.020 --> 00:04:54.980]  同时呢,
+[00:04:54.980 --> 00:04:55.480]  你要做好,
+[00:04:55.480 --> 00:04:58.080]  迎接涨涨跌跌的准备,
+[00:04:58.080 --> 00:05:04.200]  其二投资比特币一定要注意进入时的价格,
+[00:05:04.200 --> 00:05:09.160]  比特币涨涨跌跌最好要在无人问津时进入,
+[00:05:09.160 --> 00:05:13.720]  这时候也才能给你提供一个良好的价格边际,
+[00:05:13.720 --> 00:05:18.160]  你也能够更加淡定的看待比特币的涨跌,
+[00:05:18.160 --> 00:05:22.160]  如果每次进入时价格过高都买在山顶,
+[00:05:22.160 --> 00:05:25.460]  你就很容易在比特币的涨涨跌跌中,
+[00:05:25.460 --> 00:05:27.020]  失去平常心,
+[00:05:27.020 --> 00:05:29.340]  最后割肉离场,
+[00:05:29.340 --> 00:05:32.180]  成为在黎明前倒下的劣势,
+[00:05:32.180 --> 00:05:41.020]  其三投资比特币要坚定对于个人主义无政府资本主义自由主义的信仰,
+[00:05:41.020 --> 00:05:44.920]  投资比特币不仅仅是一种投资行为,
+[00:05:44.920 --> 00:05:46.420]  更是一种信仰,
+[00:05:46.420 --> 00:05:55.420]  对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,
+[00:05:55.420 --> 00:05:55.420]  对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,
+[00:05:55.420 --> 00:06:16.760]  如果明白了这一点也有助于你克服比特币时遇到的种种困难时刻想一想比特币是人类伟大的自由货币是未来人类建设无政府资本主义的一个基本的金融基础是你就能充分了解到比特币这个货币的伟大程度。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__103__0ca2de19/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__103__0ca2de19/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__103__0ca2de19/out.json'
+
+whisper_print_timings:     load time =   797.73 ms
+whisper_print_timings:     fallbacks =   0 p /   2 h
+whisper_print_timings:      mel time =   140.63 ms
+whisper_print_timings:   sample time =  3151.11 ms / 10440 runs (     0.30 ms per run)
+whisper_print_timings:   encode time = 15228.01 ms /    13 runs (  1171.39 ms per run)
+whisper_print_timings:   decode time = 13595.47 ms /   248 runs (    54.82 ms per run)
+whisper_print_timings:   batchd time = 143030.50 ms / 10135 runs (    14.11 ms per run)
+whisper_print_timings:   prompt time =  3085.48 ms /  2818 runs (     1.09 ms per run)
+whisper_print_timings:    total time = 179697.69 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__103__0ca2de19/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

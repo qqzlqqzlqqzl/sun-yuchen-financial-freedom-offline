@@ -1,0 +1,107 @@
+
+=== START 2026-05-26 10:36:54 ===
+{"id": "wavlake-mp3__055__2675560a", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/055 - 055 - 055 孙宇晨：【鸡年大吉】我们共同走过的2016与即将踏上的2017.mp3", "filename": "055 - 055 - 055 孙宇晨：【鸡年大吉】我们共同走过的2016与即将踏上的2017.mp3", "duration_seconds": 420.002542}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/055 - 055 - 055 孙宇晨：【鸡年大吉】我们共同走过的2016与即将踏上的2017.mp3' (6720041 samples, 420.0 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:34.900]  最终能够有缘分和大家在这一个自我提升的社群相遇。
+[00:00:34.900 --> 00:00:44.080]  回想起我们2016年10月30号节目正式开播,标志着我们这个社群的正式成立。
+[00:00:44.080 --> 00:00:58.160]  我们在上线短短24小时之内便挤身了喜马拉雅全站的新品榜畅销榜第一,并将这个成绩牢牢保持了一周多的时间。
+[00:00:58.780 --> 00:01:18.300]  同时,11月5日,我们的社群宣言书《关于五分钟通向财富自由》的一组问答在新浪微博突破了1200万的阅读量,也成为了微博11月最火的财经节目财经事件之一。
+[00:01:18.300 --> 00:01:28.020]  11月3号晚上,我们上线了宇晨问答的首期节目,并且现在到今天,
+[00:01:28.240 --> 00:01:34.000]  其实我们已经迭代了两次,目前也迭代成了一个便于大家分享的文字版。
+[00:01:34.000 --> 00:01:57.260]  12月3日,我们举行了首场粉丝线下见面会,同日呢,喜马拉雅知识狂欢节,也就是123了,123知识狂欢节举行,我们财富自由革命之路排名第五,同时我们也是领券榜的第一名,并夺得了商业财经这个会场的冠军。
+[00:01:57.700 --> 00:02:08.020]  12月6日,我们举行了首场线上分享会,我还记得那次分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:02:08.020 --> 00:02:27.640]  通过这些节目以及社群见面会,我们成绩是非常喜人的,首先我们节目的播放量达到了500万,订阅量达到了45000人,同时呢,我们的打赏活动也在喜马拉雅全站。
+[00:02:27.640 --> 00:02:27.680]  12月6日,我们举行了首场线上分享会,我还记得那次分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:02:27.680 --> 00:02:57.660]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:02:57.660 --> 00:03:27.640]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:03:27.640 --> 00:03:57.620]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:03:57.620 --> 00:04:27.600]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:04:27.600 --> 00:04:57.580]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:04:57.580 --> 00:05:27.560]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:05:27.560 --> 00:05:57.540]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:05:57.540 --> 00:06:27.520]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:06:27.520 --> 00:06:57.500]  12月6日,我们举行了首场线上分享会,我跟大家分享了我个人的对于投资的心得和判断。
+[00:06:57.500 --> 00:07:27.480]  由 Amara.org 社群提供的字幕
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__055__2675560a/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__055__2675560a/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__055__2675560a/out.json'
+
+whisper_print_timings:     load time =   853.41 ms
+whisper_print_timings:     fallbacks =   0 p /   2 h
+whisper_print_timings:      mel time =   169.06 ms
+whisper_print_timings:   sample time =  2853.47 ms /  6195 runs (     0.46 ms per run)
+whisper_print_timings:   encode time = 17346.85 ms /    15 runs (  1156.46 ms per run)
+whisper_print_timings:   decode time = 10941.94 ms /   208 runs (    52.61 ms per run)
+whisper_print_timings:   batchd time = 88720.28 ms /  5917 runs (    14.99 ms per run)
+whisper_print_timings:   prompt time =  3071.02 ms /  2949 runs (     1.04 ms per run)
+whisper_print_timings:    total time = 124722.95 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/055 - 055 - 055 孙宇晨：【鸡年大吉】我们共同走过的2016与即将踏上的2017.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__055__2675560a/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

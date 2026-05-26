@@ -1,0 +1,115 @@
+
+=== START 2026-05-26 10:17:58 ===
+{"id": "wavlake-mp3__042__1203f8e6", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/042 - 042 - 042 孙宇晨：【90后不结婚】找到正确的婚姻“合伙人”.mp3", "filename": "042 - 042 - 042 孙宇晨：【90后不结婚】找到正确的婚姻“合伙人”.mp3", "duration_seconds": 811.189125}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/042 - 042 - 042 孙宇晨：【90后不结婚】找到正确的婚姻“合伙人”.mp3' (12979027 samples, 811.2 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.840]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:59.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:01:00.000 --> 00:01:29.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:01:30.000 --> 00:01:59.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:02:00.000 --> 00:02:29.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:02:30.000 --> 00:02:59.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:03:00.000 --> 00:03:29.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:03:30.000 --> 00:03:59.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:04:00.000 --> 00:04:29.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:04:30.000 --> 00:04:59.160]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:05:00.000 --> 00:05:29.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:05:30.000 --> 00:05:59.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:06:00.000 --> 00:06:29.980]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:06:30.000 --> 00:06:59.980]  好,我们一起与我踏上财富自由革命之路。
+[00:07:00.000 --> 00:07:27.860]  好,我们一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。
+[00:07:30.000 --> 00:07:59.980]  好,我们一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。
+[00:08:00.000 --> 00:08:29.980]  在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。
+[00:08:30.000 --> 00:08:59.980]  在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。
+[00:09:00.000 --> 00:09:29.040]  这经常马克思恩格斯给我们讲的叫做最惨的这种贫困阶层啊,还可以压迫一个人,可以压迫谁,可以压迫他的老婆和孩子嘛,他虽然在公司被老板压迫,是吧,在社会上被所有人压迫,但我回去可以压迫我的老婆和孩子啊,你是寻找一个压迫对象吗,也不是吧,你是一个ATM区款机,像有的女的可能对男的这么想的,这男的对我好不就行了吗,是吧,这个所谓的好就是他充当我的ATM区款机不就可以了吗,
+[00:09:29.040 --> 00:09:29.980]  或者是,
+[00:09:30.000 --> 00:09:59.980]  我利用婚姻来寻找饭票,提升自个人阶层,就比如我是一灰姑娘,我希望我能加入豪门,豪门可以娶我,这都不是婚姻的真正目的,婚姻的真正目的就是为了寻找个人快乐,两个灵魂的结合,所以呢,我们一定要给大家讲讲,就是婚姻在经济层面就是经济结盟,而非经济援助,在精神层面就是寻找经济快乐,很简单,就是经济结盟和个人快乐。
+[00:10:00.000 --> 00:10:29.540]  寻找个人快乐,寻找个人快乐,没有了,period,结束,为什么呢,因为有的人对婚姻的理解是错误,有的人觉得婚姻像我刚才讲的,避风港,寻找压迫对象,ATM机,利用婚姻提升我的这个自身阶层,后来你会发现,这些你的幻想最后都不存在,要注意这一点,婚姻永远就是博弈,你只能找到一个和你互补的人,和你一样的人,本质就是找自己,你是什么样的货色,你就找到什么样的对象,
+[00:10:29.540 --> 00:10:58.840]  就这么简单,所以你是找不到比你更好的,就跟我们企业找合伙人也是一样,对吧,我是不可能今天找到李开复,徐小平当我合伙人的,是不是,怎么可能呢,人家咖位跟你不一样,你只能找到,比如说跟我孙云辰一样爱之求真,非常上进的年轻人成为我的合伙人,你不可能找到什么大咖,但我也不会找一个很普通的人成为我们公司合伙人,所以就这个道理,你是什么样的人就找到什么样的人,所以我们经常讲所谓的,加入豪门,你觉得可能实现吗,不可能,
+[00:10:59.080 --> 00:11:28.620]  豪门为什么会娶你呢,豪门只会娶豪门啊,所以从这个角度来说,你要的婚姻有一个基本的现实的层次的认识,它就是我们去找一个很好的合伙人,从这个角度来说呢,如果你能理解这一点,就能够从婚姻中挖掘到更多的快乐,所以从这个角度来说呢,婚姻是为了真正的幸福快乐,不是为了争面子,也不是为了坏人的目光,
+[00:11:28.620 --> 00:11:58.140]  人的目光,生活也不是给外人看的,我看过生活大爆炸里面,Sheldon讲过一句话,我就讲得非常好,把婚姻的真谛也讲出来了,就叫人呢穷尽一生追寻另一个人类,共度一生的事情,我一直无法理解,或许我自己太有意思,无需他人陪伴,所以我们祝愿你们在对方身上得到的快乐,与我给自己的一样多,这句话什么意思呢,
+[00:11:58.160 --> 00:12:27.080]  就是我通过自身就已经可以获得很多快乐,活得非常开心,而我见到你,我觉得你还可以比我自己给我更多的快乐,所以我才愿意跟你在一起,这样的婚姻和爱情才是我们真正理想化的婚姻和爱情,因为我们的彼此相遇给予了对方更多的快乐,我们在婚姻中希望得到快乐,并不是需要丢掉自我和尊严,
+[00:12:27.700 --> 00:12:57.240]  我们结婚的真正目的,我们不喜欢批判说你这样想不对,你这个动机不纯啊,我们不会从动机角度去批判别人,而是我们觉得你最后也得不到你想要的东西,任何带着婚姻不是博弈,比如说是占便宜也好,想干什么也好的动机进入婚姻的人,都会最后在婚姻中彻底丢掉自我和尊严,而这恰恰不就是婚姻的目的,好,下一期呢,我们会给大家回答一个问题,经常社会上,
+[00:12:57.240 --> 00:13:22.660]  我们经常也听到的一个问题叫做,女生是不是20岁以后不结婚就更加贬值了,女生是否应该更早结婚越好呢,是不是男生啊,无所谓,就是越老越香,我们家讲的这种话啊,而女生就是越贬值啊,就是随着年龄越大,贬值的越厉害呢,我们下一期讲这个问题,好,谢谢大家。
+[00:13:26.780 --> 00:13:31.120]  优优独播剧场——YoYo Television Series Exclusive
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__042__1203f8e6/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__042__1203f8e6/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__042__1203f8e6/out.json'
+
+whisper_print_timings:     load time =   767.04 ms
+whisper_print_timings:     fallbacks =   2 p /   0 h
+whisper_print_timings:      mel time =   302.92 ms
+whisper_print_timings:   sample time =  7798.91 ms / 19234 runs (     0.41 ms per run)
+whisper_print_timings:   encode time = 34729.05 ms /    28 runs (  1240.32 ms per run)
+whisper_print_timings:   decode time = 71385.71 ms /  1320 runs (    54.08 ms per run)
+whisper_print_timings:   batchd time = 269286.88 ms / 17775 runs (    15.15 ms per run)
+whisper_print_timings:   prompt time =  6932.64 ms /  6352 runs (     1.09 ms per run)
+whisper_print_timings:    total time = 392673.41 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/042 - 042 - 042 孙宇晨：【90后不结婚】找到正确的婚姻“合伙人”.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__042__1203f8e6/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

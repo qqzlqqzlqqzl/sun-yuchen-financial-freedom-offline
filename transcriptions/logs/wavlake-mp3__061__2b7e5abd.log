@@ -1,0 +1,150 @@
+
+=== START 2026-05-26 10:45:38 ===
+{"id": "wavlake-mp3__061__2b7e5abd", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/061 - 061 - 061 孙宇晨：【案例】我不买车，也很快乐.mp3", "filename": "061 - 061 - 061 孙宇晨：【案例】我不买车，也很快乐.mp3", "duration_seconds": 453.625042}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/061 - 061 - 061 孙宇晨：【案例】我不买车，也很快乐.mp3' (7258001 samples, 453.6 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.860]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路。我在财富自由的另一边,等着你。
+[00:00:08.860 --> 00:00:18.780]  KQ群320-240071声明,此音频仅供我群内部交流使用,请于24小时内删除。
+[00:00:19.780 --> 00:00:25.600]  学两个案例,讲讲我们不买车那一期的留言,我觉得也写得非常好。
+[00:00:25.600 --> 00:00:33.560]  我对他的这个补充啊,也是一个狗尾虚雕吧,就是一个狗尾虚雕,我觉得他们都已经讲得很清楚了。
+[00:00:33.560 --> 00:00:42.240]  第一个是一个女生,叫小雨,她是一个三四千城市出生的独生女,目前94年在深圳。
+[00:00:42.240 --> 00:00:49.620]  也是一个互联网原住民了,她说很喜欢我的价值观,她把自己买车的问题在这里跟大家分享。
+[00:00:49.780 --> 00:00:58.920]  其实她没有来深圳之前啊,在三四千城市的时候,是非常想要买车的啊,买车基本上是她的一个梦想。
+[00:00:58.920 --> 00:01:07.580]  这个其实跟我挺像的,我当时在美国,当时还没有Uber啊,什么都没有,一一二年的时候,我当时特别想买一辆兰博基尼。
+[00:01:07.580 --> 00:01:14.140]  那个就是我的,真的是我的人生梦想啊,我的梦想就是这么浅薄啊,就是这么浮夸。
+[00:01:14.140 --> 00:01:19.760]  但是,她和我一样,来到深圳一年多,这个想法就渐渐被改变了。
+[00:01:20.300 --> 00:01:26.960]  以至于今年啊,她的父母说给她买车啊,她根本不需要她掏钱啊,也被她自己拒绝了。
+[00:01:26.960 --> 00:01:33.400]  当然了,她跟我们这收听节目一样,她父母买车肯定是伴随条件的嘛,啊,没有人会给你白买。
+[00:01:33.400 --> 00:01:42.020]  她父母想通过买车啊,买房啊,这些诱惑,最后让她回到那个三四千的城市嘛,不要再在深圳待了。
+[00:01:42.020 --> 00:01:47.540]  她自己算了一笔账,啊,深圳市区高额的停车费用,
+[00:01:47.540 --> 00:01:49.760]  加上上下班拥护,
+[00:01:49.780 --> 00:01:57.680]  加上下班拥护的交通啊,这个时间成本和经济成本与共享经济相比是严重不划算的。
+[00:01:57.680 --> 00:02:06.220]  更何况现在呢,摩拜啊,这个OFO啊,也推出了这种共享单车嘛,再加上共享汽车。
+[00:02:06.220 --> 00:02:14.000]  整个深圳啊,应该根本就不会出现打车难啊,交通很难的这种情况了。
+[00:02:14.000 --> 00:02:16.920]  同时,有共享单车,有共享汽车很方便。
+[00:02:16.920 --> 00:02:19.760]  你一公里之内的,你打吧。
+[00:02:19.780 --> 00:02:27.240]  打不到车,也有时候一公里比较难打车啊,因为那些司机不接这个单嘛,那你就骑单车,远一点的就打车,其实还是很好的。
+[00:02:27.240 --> 00:02:38.720]  她想,如果没有来深圳啊,她可能在家乡有一份稳定的工作,上下班就可以开车,威风的兜兜风,啊,对,可能是她的以前想的这个生活。
+[00:02:38.720 --> 00:02:46.960]  但是呢,来到深圳,享受了共享经济,同时自己的平常工作也更加忙碌了。
+[00:02:46.960 --> 00:02:49.760]  其实,可能缺乏动力。
+[00:02:49.780 --> 00:02:56.620]  也缺乏兜风的时间了,甚至到,所以从这个角度来说呢,她觉得,这时候买车可能只是为了面子。
+[00:02:56.620 --> 00:03:00.120]  所以呢,她就放弃了自己这个想法。
+[00:03:00.120 --> 00:03:08.820]  啊,其实我现在回头想想,那个时候的我,特别想买兰博基尼的那个我啊,其实我相信其实也是为了面子而已。
+[00:03:08.820 --> 00:03:13.800]  可能一,跟我那个时候是个学生,每天闲得蛋疼,没事干,也有关系。
+[00:03:13.800 --> 00:03:17.060]  第二,也确实是为了面子,其实就是为了面子。
+[00:03:17.060 --> 00:03:19.760]  就是为了买了之后,发个朋友去。
+[00:03:19.780 --> 00:03:28.900]  或者在,啊,那时候已经有微信了,已经有朋友圈了,发个朋友圈,是吧,拍两张照片,大家哇,太帅了,啊,给我回复一下。
+[00:03:28.900 --> 00:03:32.420]  如果我真买了,那可能是史上最贵的一条朋友圈了。
+[00:03:32.420 --> 00:03:37.800]  所以后来呢,没有买,小宇最后也没有买,啊,我觉得,啊,这是对的。
+[00:03:37.800 --> 00:03:42.120]  第二个例子呢,是,叫湘美同学的。
+[00:03:42.120 --> 00:03:47.520]  她呢,也不打算买车,理由可能是以下几点。
+[00:03:47.520 --> 00:03:49.640]  第一点呢,是,
+[00:03:49.780 --> 00:03:54.980]  现在没钱,啊,但是呢,她想了,即便有钱也不会买。
+[00:03:54.980 --> 00:04:00.440]  为什么呢?啊,是因为买车非常麻烦。
+[00:04:00.440 --> 00:04:04.340]  这一点呢,其实不光是经济成本,时间成本。
+[00:04:04.340 --> 00:04:10.780]  大家知道,这个,女生其实好多人学开车,她总很怵。
+[00:04:10.780 --> 00:04:14.200]  其实不光女生,我,我是男生,我也很怵。
+[00:04:14.200 --> 00:04:17.740]  我,我学了,我其实学,学过驾校。
+[00:04:17.740 --> 00:04:19.680]  我当时在驾校的时候,
+[00:04:19.780 --> 00:04:49.640]  我觉得就挺出了,就我把这么一个,铁,铁怪兽在街上就是开的横冲直撞,万一一下没开,把人给碰了呢,啊,万一酒驾呢,嘛,各种各样的这些问题都来了,而且如果又是路痴呢,所以各种紧急的事件,安全的问题,你也得处理啊,这就相当于呢,啊,如果你是打车,这些事情也全部都是交给司机的嘛,哎,其实,像类似的问题,啊,我个人甚至觉得对,的确,这根本就不是。
+[00:04:49.780 --> 00:05:19.200]  是所谓的经济问题和时间成本问题,还有所谓的心理成本和安全成本的问题,包括大家知道现在路上不是很流行这种路怒,啊,也是典型逼出来的,你如果开的很堵啊,一路又非常不顺啊,你又缺乏一个耐心啊,去去handle这个事情,你也很很容易影响你的工作和上下班的心情,所以从这个角度来讲,那他觉得不划算。
+[00:05:19.780 --> 00:05:49.160]  同时,他觉得开车本身啊,是非常痛苦的,可能一开始学开车的时候觉得很新鲜啊,哎,开着舒服,但是过了这一年之后呢,剩下的,一,感觉特别枯燥,所以他就觉得就我喜欢直接就能到达目的地,不喜欢这个过程啊,这过程如果我能做后面的,干自己喜欢干的事,那就好了啊,如果让我开车去一个地方,哎呀,感觉很麻烦啊,这个跟我想的也是一样。
+[00:05:49.780 --> 00:06:02.540]  第三,也是共享经济,他觉得现在本身即便啊,他现在在一个三线城市,其实用打车软件坐车也已经非常方便了,我是同意他的看法。
+[00:06:02.540 --> 00:06:19.360]  最后一个例子呢,是Sandy的啊,这个例子写的很逗啊,我就直接照着念了,他说我是Sandy,在二线城市,家里买了一辆日产车给我,买了车位,单位也不要停车费,买车钱,我在广州工作不需要开车。
+[00:06:19.780 --> 00:06:47.920]  买车后,我回了家乡这边的二线城市工作,毕竟公共交通不太方便啊,所以就买了车,每天开车两小时,每年养车两万五,当然了,平时就很方便,下车户,下雨冬天都可以很舒适,唯一的不足之处就是我一年工资的一半都在养这辆车啊,我觉得也讲得很形象啊,把这个养车到底有多贵,
+[00:06:47.920 --> 00:06:49.080]  其实想大家,
+[00:06:49.780 --> 00:06:51.340]  这个表达出来了,
+[00:06:51.340 --> 00:06:54.180]  所以我觉得即便在这样的情况下啊,
+[00:06:54.180 --> 00:06:56.000]  其实Sandy呢,
+[00:06:56.000 --> 00:06:58.960]  我觉得其实可以把这个车卖了,
+[00:06:58.960 --> 00:07:00.160]  回广州继续工作,
+[00:07:00.160 --> 00:07:05.660]  首先一,回广州工作肯定亲属要比在二线城市现在高得多,
+[00:07:05.660 --> 00:07:06.860]  这是其一,
+[00:07:06.860 --> 00:07:07.240]  其二,
+[00:07:07.240 --> 00:07:08.180]  其实你去看看,
+[00:07:08.180 --> 00:07:13.380]  最后在广州即便用共享经济也可以挺舒适的情况下,
+[00:07:13.380 --> 00:07:16.240]  可能费用也没有你想象那么高啊,
+[00:07:16.240 --> 00:07:18.100]  把这个养车的费用也能省下来,
+[00:07:18.100 --> 00:07:19.280]  好的,
+[00:07:19.500 --> 00:07:23.020]  这个就是我们对不买车这一期的留言的总结,
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__061__2b7e5abd/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__061__2b7e5abd/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__061__2b7e5abd/out.json'
+
+whisper_print_timings:     load time =  1061.37 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   174.71 ms
+whisper_print_timings:   sample time =  3301.94 ms / 11930 runs (     0.28 ms per run)
+whisper_print_timings:   encode time = 19983.51 ms /    16 runs (  1248.97 ms per run)
+whisper_print_timings:   decode time =  1090.90 ms /    20 runs (    54.55 ms per run)
+whisper_print_timings:   batchd time = 159519.62 ms / 11830 runs (    13.48 ms per run)
+whisper_print_timings:   prompt time =  3922.37 ms /  3468 runs (     1.13 ms per run)
+whisper_print_timings:    total time = 189848.06 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/061 - 061 - 061 孙宇晨：【案例】我不买车，也很快乐.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__061__2b7e5abd/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

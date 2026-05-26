@@ -1,0 +1,141 @@
+
+=== START 2026-05-26 12:00:06 ===
+{"id": "wavlake-mp3__128__fa2d5a99", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3", "filename": "128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3", "duration_seconds": 399.336979}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3' (6389392 samples, 399.3 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:11.040]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:42.880]  完美地描写了这样的情况,因为大家想想,连清地都保留不了自己的财产,那有钱人也保留不了,那一个穷人又怎么可能积攒自己的财富呢?
+[00:00:42.880 --> 00:00:54.400]  其中,祥子来自农村,立志想买一辆自己的车,做一个独立的劳动者吧,但三年的血汗钱换来的车,却被军阀的乱兵夺走。
+[00:00:54.400 --> 00:00:59.880]  从军阀那逃回来之后呢,他还没有攒足买车的钱,就被侦探。
+[00:01:00.000 --> 00:01:01.240]  看,敲大走了。
+[00:01:01.240 --> 00:01:13.320]  其中,骆驼祥子这一个小说就描写了这个祥子一辈子都攒不下钱,悲惨地反映了当时中国穷人也富不起来的一个现实。
+[00:01:13.320 --> 00:01:22.260]  至于建国之后,大家也知道这个保护财产的环境不但没有变好,相反的,可能还先收割的不够吧。
+[00:01:22.260 --> 00:01:27.820]  如果说以前民国时期兵荒马乱割韭菜,只是用镰刀割。
+[00:01:27.820 --> 00:01:29.980]  咱建国以后呢,就开了。
+[00:01:30.000 --> 00:01:38.060]  开了这个联合收割机了,用这个现代化的方式,彻底收割了一拨韭菜。
+[00:01:38.060 --> 00:01:49.460]  到文革结束后,我们国家的韭菜就基本上,我泱泱大韭菜国,基本上这个韭菜就已经给割完了,一点都不剩。
+[00:01:49.460 --> 00:01:59.060]  而这个好不容易啊,现在改革开放也都马上40年了,咱们又变成了一片绿油油的油菜地。
+[00:02:00.000 --> 00:02:08.940]  所以正因为如此,大家也知道中国为什么富不起来,为什么富不过三代,是吧?
+[00:02:08.940 --> 00:02:19.780]  答案已经非常明显了,都被打劫了嘛,这样一波波的打劫洗牌和收割,而且后来都是联合收割机,哪个韭菜躲得了呢,对吧?
+[00:02:19.780 --> 00:02:25.400]  从1817到1977,基本就是一连串的收割。
+[00:02:25.400 --> 00:02:29.940]  现在40年,中国都没有发生过大土豪分田地的现象了。
+[00:02:30.000 --> 00:02:51.620]  又积累了两代人,富二代,富一代,现在我在长江商学院上课,也有所谓的长江接力班了,但这个棒子能不能顺利的交接下去,至少从中国历史的经验来看,no way,没门,绝对不可能,基本是不可能的。
+[00:02:51.620 --> 00:02:58.740]  所以如果历史真的是按照经验主义不断的繁衍和发展的话,
+[00:02:59.560 --> 00:03:19.300]  中国每一百年要发生两次大的洗牌,也就是平均50年一次,现在已经和平了40年,韭菜地已经绿油油的,让人非常的羡慕的时候,这意味着下一波的洗牌也就在10年后,很有可能就要爆发。
+[00:03:19.300 --> 00:03:26.360]  从这一点也可以知道为什么中国这些年来的移民潮是越来越热,绝对不是空穴来风。
+[00:03:26.360 --> 00:03:29.520]  美国移民局数据显示,
+[00:03:29.720 --> 00:03:41.640]  2016年,整个财年,美国政府共签发了9947张,也就是1万张EB-5的签证,EB-5是一种投资移民签证。
+[00:03:41.640 --> 00:03:59.120]  大家可以猜一猜其中多少张发给中国人,发给的中国人发了7512张,也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的多。
+[00:03:59.120 --> 00:03:59.120]  也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。
+[00:03:59.120 --> 00:03:59.120]  也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。
+[00:03:59.120 --> 00:04:19.680]  2015年,中国境外投资规模有5.4万亿,波斯顿咨询公司与星业银行推出的联合报告估算,到2020年,中国个人境外产产配置新增约13万亿,5年时间会比原来高出3倍。
+[00:04:28.680 --> 00:04:58.240]  2016年,中国境外投资规模有5.4万亿,波斯顿咨询公司与星业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。
+[00:04:58.240 --> 00:05:27.800]  2016年,中国境外投资规模有5.4万亿,波斯顿咨询公司与星业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。
+[00:05:27.800 --> 00:05:30.620]  我觉得国家的富强也没有什么意义
+[00:05:30.620 --> 00:05:33.600]  不过我孙宇辰人微言轻
+[00:05:33.600 --> 00:05:36.060]  这么沉重的任务
+[00:05:36.060 --> 00:05:38.480]  光靠我的呼吁肯定是不行的
+[00:05:38.480 --> 00:05:40.880]  这个得全社会一起参与
+[00:05:40.880 --> 00:05:43.660]  包括专家学者共同研究
+[00:05:43.660 --> 00:05:47.180]  政府出台更好的政策制度
+[00:05:47.180 --> 00:05:49.580]  其实我回头想一想
+[00:05:49.580 --> 00:05:51.800]  财富的保护
+[00:05:51.800 --> 00:05:56.300]  其实真的是值得我们国家最高领导人去深思的
+[00:05:56.300 --> 00:05:59.960]  因为我相信这也是他们希望能够做好的
+[00:05:59.960 --> 00:06:04.440]  毕竟前朝的历朝历代的国家领导人
+[00:06:04.440 --> 00:06:05.780]  也都想保护好
+[00:06:05.780 --> 00:06:08.560]  但最后都没保护住
+[00:06:08.560 --> 00:06:10.200]  最典型的例子
+[00:06:10.200 --> 00:06:12.380]  他们连自己都没有保护住
+[00:06:12.380 --> 00:06:15.200]  今天这档节目其实有点沉重
+[00:06:15.200 --> 00:06:16.600]  大家可以想一想
+[00:06:16.600 --> 00:06:18.180]  其实千万不要想象
+[00:06:18.180 --> 00:06:19.820]  洗牌离我们很遥远
+[00:06:19.820 --> 00:06:23.600]  我们这个国家也不过刚刚安稳了40年
+[00:06:23.600 --> 00:06:26.060]  即便按照历史经验主义的教训
+[00:06:26.060 --> 00:06:27.500]  很有可能再过10年
+[00:06:27.500 --> 00:06:30.340]  中国又将回到人间地狱
+[00:06:30.340 --> 00:06:32.300]  又将回到人间地狱
+[00:06:32.300 --> 00:06:35.740]  当然我们希望这个经验主义是错误的
+[00:06:35.740 --> 00:06:38.380]  中国永远都不要再发生财富的洗牌了
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__128__fa2d5a99/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__128__fa2d5a99/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__128__fa2d5a99/out.json'
+
+whisper_print_timings:     load time =   812.76 ms
+whisper_print_timings:     fallbacks =   3 p /   0 h
+whisper_print_timings:      mel time =   153.61 ms
+whisper_print_timings:   sample time =  3949.82 ms / 12005 runs (     0.33 ms per run)
+whisper_print_timings:   encode time = 17811.08 ms /    14 runs (  1272.22 ms per run)
+whisper_print_timings:   decode time =   203.01 ms /     4 runs (    50.75 ms per run)
+whisper_print_timings:   batchd time = 186223.33 ms / 11921 runs (    15.62 ms per run)
+whisper_print_timings:   prompt time =  4005.94 ms /  3335 runs (     1.20 ms per run)
+whisper_print_timings:    total time = 213961.44 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__128__fa2d5a99/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

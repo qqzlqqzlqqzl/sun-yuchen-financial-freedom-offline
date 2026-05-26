@@ -1,0 +1,256 @@
+
+=== START 2026-05-26 13:18:22 ===
+{"id": "official-vimeo-m4a-partial__055__f49ce1be", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/055 - 055【鸡年大吉】我们共同走过的2016与即将踏上的2017 [1179740680].m4a", "filename": "055 - 055【鸡年大吉】我们共同走过的2016与即将踏上的2017 [1179740680].m4a", "duration_seconds": 420.011}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/055 - 055【鸡年大吉】我们共同走过的2016与即将踏上的2017 [1179740680].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:07:00.01, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+[out#0/wav @ 0xbcd040180] video:0KiB audio:13125KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000580%
+size=   13125KiB time=00:07:00.01 bitrate= 256.0kbits/s speed=1.68e+03x elapsed=0:00:00.24    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/055 - 055【鸡年大吉】我们共同走过的2016与即将踏上的2017 [1179740680].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/audio.wav' (6720171 samples, 420.0 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:34.920]  最终能够有缘分和大家在这一个自我提升的社群相遇
+[00:00:34.920 --> 00:00:41.020]  回想起我们2016年10月30号节目正式开播
+[00:00:41.020 --> 00:00:44.100]  标志着我们这个社群的正式成立
+[00:00:44.100 --> 00:00:47.960]  我们在上线短短24小时之内
+[00:00:47.960 --> 00:00:53.300]  便挤身了喜马拉雅全站的新品榜畅销榜第一
+[00:00:53.300 --> 00:00:58.180]  并将这个成绩牢牢保持了一周多的时间
+[00:00:58.720 --> 00:01:01.120]  同时11月5日
+[00:01:01.120 --> 00:01:03.260]  我们的社群宣言书
+[00:01:03.260 --> 00:01:07.200]  关于五分钟通向财富自由的一组问答呢
+[00:01:07.200 --> 00:01:11.980]  在新浪微博突破了1200万的阅读量
+[00:01:11.980 --> 00:01:18.360]  也成为了微博11月最火的财经节目财经事件之一
+[00:01:18.360 --> 00:01:20.820]  11月3号晚上
+[00:01:20.820 --> 00:01:25.940]  我们上线了雨晨问答的首期节目
+[00:01:25.940 --> 00:01:28.020]  并且现在到今天
+[00:01:28.020 --> 00:01:28.700]  其实我们已经是在上线的
+[00:01:28.720 --> 00:01:29.900]  已经迭代了两次
+[00:01:29.900 --> 00:01:34.020]  目前也迭代成了一个便于大家分享的文字版
+[00:01:34.020 --> 00:01:35.480]  12月3日
+[00:01:35.480 --> 00:01:39.360]  我们举行了首场粉丝线下见面会
+[00:01:39.360 --> 00:01:40.860]  同日呢
+[00:01:40.860 --> 00:01:42.880]  喜马拉雅知识狂欢节
+[00:01:42.880 --> 00:01:44.400]  也就是123了
+[00:01:44.400 --> 00:01:46.580]  123知识狂欢节举行
+[00:01:46.580 --> 00:01:49.980]  我们财富自由革命之路排名第五
+[00:01:49.980 --> 00:01:53.160]  同时我们也是领券榜的第一名
+[00:01:53.160 --> 00:01:57.260]  并夺得了商业财经这个会场的冠军
+[00:01:57.260 --> 00:01:58.700]  1月
+[00:01:58.720 --> 00:01:59.440]  6日呢
+[00:01:59.440 --> 00:02:02.260]  我们举行了首场线上分享会
+[00:02:02.260 --> 00:02:03.600]  我还记得那次分享会
+[00:02:03.600 --> 00:02:08.020]  我跟大家分享了我个人的对于投资的心得和判断
+[00:02:08.020 --> 00:02:12.000]  通过这些节目以及社群见面会
+[00:02:12.000 --> 00:02:15.100]  我们成绩是非常喜人的
+[00:02:15.100 --> 00:02:19.060]  首先我们节目的播放量达到了500万
+[00:02:19.060 --> 00:02:23.380]  订阅量达到了45000人
+[00:02:23.380 --> 00:02:24.680]  同时呢
+[00:02:24.680 --> 00:02:28.580]  我们的打赏活动也在喜马拉雅全站名列第一名
+[00:02:28.580 --> 00:02:32.540]  当然我们现在的微博也有106万的粉丝了
+[00:02:32.540 --> 00:02:34.220]  粉丝增加的也很多
+[00:02:34.220 --> 00:02:36.940]  更让我感到开心的
+[00:02:36.940 --> 00:02:42.120]  还是和各位在这一个个人成长的社群最终相遇了
+[00:02:42.120 --> 00:02:44.760]  其实从我自己个人的角度来说
+[00:02:44.760 --> 00:02:46.420]  以上的成绩很重要
+[00:02:46.420 --> 00:02:48.060]  但是也只是我们一个开端
+[00:02:48.060 --> 00:02:49.880]  从我个人的角度说
+[00:02:49.880 --> 00:02:54.120]  我还是非常珍惜希望把这个社群能够一起做下去
+[00:02:54.120 --> 00:02:56.660]  而且我最近还在思考
+[00:02:56.660 --> 00:02:58.560]  我们能不能有更多的方式去做这些事情
+[00:02:58.560 --> 00:03:01.100]  能够帮助更多有才华的人
+[00:03:01.100 --> 00:03:03.040]  把他们的社群也建立起来呢
+[00:03:03.040 --> 00:03:06.160]  这也是我自己最近的一个探索
+[00:03:06.160 --> 00:03:07.780]  一个想法
+[00:03:07.780 --> 00:03:10.700]  也有些粉丝给我们提了一些小小的建议
+[00:03:10.700 --> 00:03:15.160]  有的粉丝觉得我们这个节目是不是谈三观
+[00:03:15.160 --> 00:03:16.180]  谈的太多
+[00:03:16.180 --> 00:03:19.100]  投资的干货是不是有些不足
+[00:03:19.100 --> 00:03:20.200]  在这里呢
+[00:03:20.200 --> 00:03:21.880]  我也可以做一个简单的回答
+[00:03:21.880 --> 00:03:26.200]  首先这个其实是我这个个人一直以来的一个看法
+[00:03:26.200 --> 00:03:28.540]  我觉得人的贫富差距和人的贫富差距
+[00:03:28.540 --> 00:03:32.340]  还是由他信仰的三观和对事物的看法所决定的
+[00:03:32.340 --> 00:03:36.360]  一个人的职业和一个人短期的投资回报
+[00:03:36.360 --> 00:03:39.280]  其实并不能决定他人生的真正路线
+[00:03:39.280 --> 00:03:41.120]  他人生的真正路线呢
+[00:03:41.120 --> 00:03:42.920]  往往还是由三观决定的
+[00:03:42.920 --> 00:03:46.320]  这也是为什么我们的节目花了非常多的时间
+[00:03:46.320 --> 00:03:49.000]  去强调和讲解我们的三观
+[00:03:49.000 --> 00:03:51.260]  今年下半年的节目呢
+[00:03:51.260 --> 00:03:52.980]  也不下半年吧
+[00:03:52.980 --> 00:03:54.580]  就2017年的节目
+[00:03:54.580 --> 00:03:57.600]  我们其实会有更多的方面去涉及
+[00:03:57.600 --> 00:03:58.340]  大家希望
+[00:03:58.340 --> 00:03:58.520]  我们的三观
+[00:03:58.520 --> 00:04:00.340]  了解的干货部分
+[00:04:00.340 --> 00:04:02.760]  所谓我相信大家了解干货部分
+[00:04:02.760 --> 00:04:06.180]  无非是具体投资哪只股票啊
+[00:04:06.180 --> 00:04:09.440]  以及到底买什么能赚钱啊
+[00:04:09.440 --> 00:04:13.940]  我们倒是可能届时干货也不会搞得这么赶
+[00:04:13.940 --> 00:04:15.460]  因为我觉得这个其实
+[00:04:15.460 --> 00:04:18.840]  一是我们的确可以给大家推荐
+[00:04:18.840 --> 00:04:22.100]  但是我们也不能保证百分百的盈利
+[00:04:22.100 --> 00:04:24.680]  因为即便像我一样
+[00:04:24.680 --> 00:04:26.360]  也有时候投资也会失误
+[00:04:26.360 --> 00:04:27.460]  这是其一
+[00:04:27.460 --> 00:04:28.300]  其二呢
+[00:04:28.300 --> 00:04:28.500]  就是我们的投资
+[00:04:28.500 --> 00:04:30.500]  就是我们给大家有时候推荐的节目
+[00:04:30.500 --> 00:04:31.900]  其实也有延迟啊
+[00:04:31.900 --> 00:04:33.080]  也就是我讲的时候
+[00:04:33.080 --> 00:04:33.960]  到你买的时候
+[00:04:33.960 --> 00:04:35.560]  有可能这个东西已经涨起来了
+[00:04:35.560 --> 00:04:36.760]  所以我们以后讲的时候
+[00:04:36.760 --> 00:04:38.580]  我们也会说一下它的价格啊
+[00:04:38.580 --> 00:04:40.160]  我们关注时候它的价格
+[00:04:40.160 --> 00:04:41.640]  其次呢
+[00:04:41.640 --> 00:04:45.180]  就是我们觉得受人以鱼不如受人以鱼
+[00:04:45.180 --> 00:04:46.520]  更大的程度上
+[00:04:46.520 --> 00:04:49.180]  我们还是不能把鱼直接端上来给大家吃
+[00:04:49.180 --> 00:04:51.880]  我觉得更好的方式还要教大家自己怎么打鱼
+[00:04:51.880 --> 00:04:53.640]  但是下半年的节目
+[00:04:53.640 --> 00:04:57.360]  我们确实会更加倾向于互联网方法论
+[00:04:57.360 --> 00:04:58.480]  更加倾向于互联网方法论
+[00:04:58.480 --> 00:04:59.320]  更加倾向于行业本身
+[00:04:59.320 --> 00:05:00.520]  因为大家也知道
+[00:05:00.520 --> 00:05:02.140]  我们90后的三大革命
+[00:05:02.140 --> 00:05:03.260]  马上也讲完了
+[00:05:03.260 --> 00:05:06.940]  就是不买房不买车和不结婚的三大革命
+[00:05:06.940 --> 00:05:08.940]  我们基本的啊
+[00:05:08.940 --> 00:05:10.320]  从大家也想一下
+[00:05:10.320 --> 00:05:13.880]  我们从最早讲对财富自由的定义啊
+[00:05:13.880 --> 00:05:16.880]  然后讲我们对财富自由的认识
+[00:05:16.880 --> 00:05:20.460]  然后讲到我们推荐大家应该具有的
+[00:05:20.460 --> 00:05:23.360]  以个人主义为主的互联网价值观
+[00:05:23.360 --> 00:05:25.880]  到我们讲90后的三大革命
+[00:05:25.880 --> 00:05:27.540]  这一直以来呢
+[00:05:27.540 --> 00:05:28.260]  其实我们
+[00:05:28.260 --> 00:05:28.460]  我们
+[00:05:28.460 --> 00:05:30.920]  确实这个节目是比较出众三观的
+[00:05:30.920 --> 00:05:33.020]  下半年的节目
+[00:05:33.020 --> 00:05:34.720]  2017年的新节目呢
+[00:05:34.720 --> 00:05:37.540]  我们会将大多数的时间啊
+[00:05:37.540 --> 00:05:39.000]  放在讲干货上面
+[00:05:39.000 --> 00:05:41.480]  如果大家认为这个是是干货的话
+[00:05:41.480 --> 00:05:42.460]  啊
+[00:05:42.460 --> 00:05:42.980]  当然了
+[00:05:42.980 --> 00:05:46.000]  我们最早期的节目可能录的比较粗糙
+[00:05:46.000 --> 00:05:47.920]  我们2017年呢
+[00:05:47.920 --> 00:05:51.580]  也会有新的同事来到我们的team里面
+[00:05:51.580 --> 00:05:54.580]  然后会给大家提升我们的节目质量
+[00:05:54.580 --> 00:05:57.620]  同时也会有更多更好玩的
+[00:05:57.620 --> 00:05:58.440]  与大家分享
+[00:05:58.440 --> 00:05:59.520]  与大家互动的方式
+[00:05:59.520 --> 00:06:02.320]  以及社群提升的方式与大家见面
+[00:06:02.320 --> 00:06:03.000]  好的
+[00:06:03.000 --> 00:06:04.640]  那就非常感谢大家
+[00:06:04.640 --> 00:06:07.840]  希望大家期待我们今后更多的节目
+[00:06:07.840 --> 00:06:09.320]  以及更多的活动
+[00:06:09.320 --> 00:06:11.320]  最后祝大家
+[00:06:11.320 --> 00:06:12.640]  今年大吉
+[00:06:12.640 --> 00:06:14.620]  说鸡不说吧
+[00:06:14.620 --> 00:06:16.220]  文明你我他
+[00:06:16.220 --> 00:06:17.240]  谢谢大家
+[00:06:28.440 --> 00:06:32.440]  ,谢谢大家!
+[00:06:58.440 --> 00:07:03.280]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/out.json'
+
+whisper_print_timings:     load time =   815.46 ms
+whisper_print_timings:     fallbacks =   1 p /   7 h
+whisper_print_timings:      mel time =   162.00 ms
+whisper_print_timings:   sample time =  4378.67 ms / 10556 runs (     0.41 ms per run)
+whisper_print_timings:   encode time = 17735.06 ms /    15 runs (  1182.34 ms per run)
+whisper_print_timings:   decode time =  6694.07 ms /   138 runs (    48.51 ms per run)
+whisper_print_timings:   batchd time = 142281.11 ms / 10341 runs (    13.76 ms per run)
+whisper_print_timings:   prompt time =  3390.33 ms /  3176 runs (     1.07 ms per run)
+whisper_print_timings:    total time = 175971.11 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/audio.wav -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__055__f49ce1be/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

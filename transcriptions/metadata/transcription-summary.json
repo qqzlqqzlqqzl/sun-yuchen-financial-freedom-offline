@@ -1,0 +1,67 @@
+{
+  "generated_at_local": "2026-05-26 13:33:26 CST",
+  "workspace": "/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3",
+  "audio_manifest_items": 209,
+  "audio_sources": {
+    "official-vimeo-m4a-partial": {
+      "count": 64,
+      "duration_hours": 12.689
+    },
+    "wavlake-mp3": {
+      "count": 145,
+      "duration_hours": 29.996
+    }
+  },
+  "total_duration_hours": 42.685,
+  "transcription_outputs": {
+    "raw_json": 209,
+    "clean_json": 209,
+    "text": 209,
+    "srt": 209
+  },
+  "validation": {
+    "raw_json_parseable_with_replacement_decode": true,
+    "bad_raw_json_count": 0,
+    "empty_text_or_srt_count": 0
+  },
+  "model": {
+    "engine": "whisper.cpp whisper-cli",
+    "model_file": "models/whisper-cpp/ggml-large-v3.bin",
+    "model_sha256": "64d182b440b98d5203c4f9bd541544d84c605196c4f7b845dfa11fb23594d1e2",
+    "model_type": "large-v3",
+    "whisper_cpp_ftype": 1,
+    "quantization_note": "ftype=1/qntvr=0 in whisper.cpp logs; this is the large-v3 F16-style model, not int8/q8/q5/q4.",
+    "language": "zh",
+    "beam_size": 5,
+    "best_of": 5,
+    "main_batch_workers": 4,
+    "threads_per_worker": 3
+  },
+  "preserved_outputs": {
+    "raw_original_return_json": "transcriptions/raw-json",
+    "clean_parseable_json": "transcriptions/clean-json",
+    "plain_text": "transcriptions/text",
+    "srt": "transcriptions/srt",
+    "logs": "transcriptions/logs"
+  },
+  "known_quality_notes": [
+    {
+      "id": "official-vimeo-m4a-partial__010__52931080",
+      "source_file": "sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a",
+      "container_duration_seconds": 149.824,
+      "recovered_wav_duration_seconds": 144.361625,
+      "note": "Original AAC stream has decode errors; transcript was generated from recovered partial WAV."
+    },
+    {
+      "id": "official-vimeo-m4a-partial__062__9e655304",
+      "source_file": "sun-audio-offline/audio/062 - 062【总结】十年为期，我们来做个实验 [1179741818].m4a",
+      "container_duration_seconds": 5.952,
+      "recovered_wav_duration_seconds": 1.749313,
+      "note": "Original AAC stream is badly damaged; only a short partial WAV could be recovered and transcribed."
+    }
+  ],
+  "offline_audio_completeness_note": {
+    "wavlake_rss_mp3": "145/145 downloaded and transcribed locally.",
+    "official_vimeo_from_website": "Official page listed 157 Vimeo URLs; local official direct m4a mirror remains partial at 64 files. Transcription covered the 64 local official m4a files plus 145 Wavlake MP3 files."
+  }
+}

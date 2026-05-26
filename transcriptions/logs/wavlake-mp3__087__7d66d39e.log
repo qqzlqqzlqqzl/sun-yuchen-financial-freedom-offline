@@ -1,0 +1,143 @@
+
+=== START 2026-05-26 11:20:16 ===
+{"id": "wavlake-mp3__087__7d66d39e", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/087 - 087 - 087 孙宇晨：【不确定性】年轻人的未来在哪里.mp3", "filename": "087 - 087 - 087 孙宇晨：【不确定性】年轻人的未来在哪里.mp3", "duration_seconds": 655.011708}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/087 - 087 - 087 孙宇晨：【不确定性】年轻人的未来在哪里.mp3' (10480188 samples, 655.0 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:37.920]  公务员工作很轻松,每天一张报纸一杯茶,下午三点就下班,没有压力,美滋滋的。
+[00:00:37.920 --> 00:00:46.840]  实在缺钱了,我还有大把时间去做做兼职,转转外快,但实际情况上这也是不可能的。
+[00:00:46.840 --> 00:00:58.960]  如果我们大家知道,公务员体系其实最忙最惨的是基层公务员,而绝大多数年轻人考的公务员恰恰就是基层公务员。
+[00:00:59.540 --> 00:01:06.040]  基层公务员就职于广大乡镇定区,等待你的是无穷无尽的工作和加班。
+[00:01:06.040 --> 00:01:17.540]  基层的工作既多又琐碎,新人只有被成天使唤的命,早上起得最早,而且工作内容毫无创造力。
+[00:01:17.540 --> 00:01:29.000]  烧开水,打扫卫生,接听电话,通知会议,复印材料,做会议记录等等,还要完成领导布置的新闻稿和总结类文章。
+[00:01:29.080 --> 00:01:39.120]  而且大家不要以为这些文章很有意思,这些文章全都是官样文章,几十年如一日,对你的成长可以说是毫无帮助。
+[00:01:39.120 --> 00:01:58.280]  整个部门甚至乡镇的所有材料都需要你去落实,因为各部门的负责人基本都是老头子,连电脑都不会用,有时为了核实表格上的一个数据,骑摩托车需要跑近百公里,整个乡镇你能接触到的其他公务员,
+[00:01:58.620 --> 00:02:08.320]  上一辈的公务员年龄也都比较大,木气沉沉,除了聚会打牌喝酒,再没有任何社交和娱乐可言了。
+[00:02:08.320 --> 00:02:16.080]  而即便不在基层当公务员,我们进了县城省城甚至京城公务员,能轻松吗?
+[00:02:16.080 --> 00:02:28.400]  其实现在越来越多的部门上班上下班都要打卡,上班时间有监控,不准玩游戏,不准浏览与工作无关的网站,各种检查案方,
+[00:02:28.400 --> 00:02:38.540]  也防不胜防,其实我自己是做互联网行业的,当我知道这些事实之后,我都惊叹这个公务员防的比我们互联网公司强多了,
+[00:02:38.540 --> 00:02:51.280]  像我们作为一间很普通的互联网公司,其实我们公司的上下班基本都不怎么打卡,就算要打卡也不会像公务员系统抓得这么严,
+[00:02:51.280 --> 00:02:58.300]  上班时间也不会监控,说大家不准玩游戏,不准浏览与工作无关的网站,
+[00:02:58.400 --> 00:03:08.500]  基本上是处于一个自觉状态,并不会这样严查的,有一个比如说在政务大厅工作的公务员,仅仅迟到了几分钟,
+[00:03:08.500 --> 00:03:20.940]  结果呢就被省纪委暗房检查组工作检查工作作风时发现了,被全省通报,不知有没有记过会不会影响仕途,
+[00:03:20.940 --> 00:03:28.380]  更麻烦的是进了办公室就要面对像之前乡镇基层一样的,
+[00:03:28.400 --> 00:03:40.380]  无穷无尽的文山汇海,一天到头为没完没了开会,没完没了的检查,永远写不完的稿子啊,让你改到怀疑人生。
+[00:03:40.380 --> 00:03:50.920]  关于这一点,公务员的圈子里面有一句流行很广的话,可以给大家讲一讲,也对于了解公务员的生活啊,有很大的帮助。
+[00:03:50.920 --> 00:03:57.180]  叫做一稿二稿,等于没稿,三稿四稿,刚刚起跑,五稿六稿,还要再稿。
+[00:03:57.180 --> 00:03:58.180]  叫做一稿二稿,等于没稿,三稿四稿,刚刚起跑,五稿六稿,还要再稿。
+[00:03:58.180 --> 00:04:03.120]  叫做一稿二稿,等于没稿,七稿八稿,搞了再稿,九稿十稿,回到一稿。
+[00:04:03.120 --> 00:04:23.140]  其实呢,而且你要注意,这稿子改来改去啊,并不是说整个稿子的内容有重大提升,而是只是为了推敲稿子里面的一两个字,或者四六局的对账啊,押运啊,能不能过关,完全是看领导的心情。
+[00:04:23.140 --> 00:04:27.960]  所以呢,你工作的成就感也是比较差的。
+[00:04:27.960 --> 00:04:46.740]  可以说呢,公务员的加班一点都不比互联网的程序员和互联网的公司员工少,而且是领导带头,局长,司长加班加的最狠,科长,处长,剩下的人呢,加的一个也比一个多。
+[00:04:46.740 --> 00:04:57.740]  所以从公务员24小时待命连轴转的情况来看,程序员或者互联网公司传说中的996已经是无比强。
+[00:04:57.740 --> 00:05:10.380]  这时候有人会说,我进公务员就是希望大干一场,所以加班从来不怕,我啊,非常勤政,希望能够为人民服务。
+[00:05:10.380 --> 00:05:21.380]  但这时候,我们又要说了,其实体制内的工作啊,并不需要,甚至不允许你去发挥自己的实干能力,甚至创造力。
+[00:05:21.380 --> 00:05:27.660]  从这个角度来说,如果你有这样的想法,更适合来互联网。
+[00:05:27.660 --> 00:05:44.580]  如果你是一个互联网公司,带一个team去闯荡世界,而不适合成为国企和公务员,国企和公务员最后往往就会将这些有闯境,希望有追求的人打磨成毫无追求,得过且过的人。
+[00:05:44.580 --> 00:05:52.120]  要不了几年,你的热情志气很容易就消磨殆尽,成为一具行尸走肉了。
+[00:05:52.120 --> 00:05:55.540]  这时,虽然你的人生还在继续。
+[00:05:55.540 --> 00:05:57.580]  但是,故事早已是故事。
+[00:05:57.580 --> 00:05:58.200]  早已完结。
+[00:05:58.200 --> 00:06:15.640]  那这时候有的人要说了,我不同意,虽然国企公务员工资的强度大,但听说他们还有很好的隐形福利哦,听说他们会分房比方说,否则这日子怎么能过下去呢?
+[00:06:15.640 --> 00:06:24.460]  那么也很遗憾的告诉你,其实90%以上的公务员呢,很难有所谓的或者隐形福利或者灰色收入。
+[00:06:24.460 --> 00:06:27.500]  举个最简单的例子,以分房为例。
+[00:06:27.500 --> 00:06:57.420]  现在北京市市级和市级以下的公务员早就取消了福利分房制度,中央部委的公务员呢,虽然保留了分房制度,但是这个房子啊,排队是排的非常长的,基本上十几年才能够轮到你,绝大多数人是不是十几年之后这个制度存不存在都不知道,而且分房,分到的房子是不允许卖。
+[00:06:57.420 --> 00:07:10.620]  仍然需要你付钱,价格也不便宜,位置也很差,因此其实分房跟你花钱租一套房啊,没有什么本质区别。
+[00:07:10.620 --> 00:07:26.900]  至于其他一些补贴过节费之类的都属于擦边球,政策松的时候可能有一些,上面管的一级马上就会取消,也不具有任何的可持续性,即使有啊,都是迎头小利。
+[00:07:27.340 --> 00:07:56.580]  而如果你自我创新,把一些职权变成了可以换得收入的,那你就得小心在人民民意里面的人民检察院反贪局以及中纪委了,包括你们所在单位的纪委,很容易就因为一点点的经济问题毁了整个仕途,甚至涉嫌经济犯罪,还要被双规,被人民检察院带走,协助调查。
+[00:07:57.260 --> 00:07:59.900]  真的是提心吊胆,关不了声。
+[00:07:59.900 --> 00:08:09.140]  因此啊,从这个角度来说,公务员是一个除了本人之外,身边人都满意的职业。
+[00:08:09.140 --> 00:08:26.000]  其实现在越来越多的公务员呢,也开始明白这一点了,所以近几年选择离开体制的公务员也越来越多,但是与国企的情况是一样的,公务员需要的技能啊,都是二三十年不变的。
+[00:08:27.180 --> 00:08:40.460]  新人进入体制的成长效果越来越低,只能让你学会写几个八股文,哪怕是技术性部门啊,也只有自己所在技术领域的这一点点知识。
+[00:08:40.460 --> 00:08:51.780]  不像现在的互联网工程师,每天都不断的学习新的知识,知识的更新迭代速度以及覆盖范围都是比较宽的。
+[00:08:51.780 --> 00:08:56.800]  所以呢,如果大家有跳槽离开公务员系统的想法,
+[00:08:57.100 --> 00:09:11.020]  也是越快越好,在体制内待得越久,与外界的社会脱节也就越厉害,你就越来越依赖体制而活,改变命运呢,也越来越困难了。
+[00:09:11.020 --> 00:09:27.020]  当然了,最后声明一下,我们这几期呢,讲了讲国企和公务员的利弊,本意当然不是催促我们的观众尽早辞职,而是其实要明白,未来的中国呢,
+[00:09:27.020 --> 00:09:51.260]  毕竟是一个市场经济主导的国家,不确定性是我们这个时代的主旋律,因此呢,我们应该将我们的人生更大程度上建立在自我成长,交换价值上,而不应该抱有希望国家政府企业单位为我们一生而买单的思想。
+[00:09:51.260 --> 00:09:56.120]  对于一个友上尽心,希望干出一番事业的年轻人,
+[00:09:56.940 --> 00:10:03.100]  选择职业,要选择能够培养在不确定性时代生存能力的职业。
+[00:10:03.100 --> 00:10:15.780]  在我们这里,当然给大家再度推荐,就是北上广深行的互联网公司,这些公司的不确定性恰恰能给你带来最大的机会。
+[00:10:15.780 --> 00:10:26.280]  很多人往往低估了自己的能力,不相信自己能实现财富自由,总是指着别人,指望体制能赏自己一口饭吃。
+[00:10:26.860 --> 00:10:40.840]  其实我们有时候想想,放下顾虑,相信自己,大胆的拥抱市场经济,拥抱不确定性,你获得的回报远远会比稳定要多得多。
+[00:10:40.840 --> 00:10:42.100]  谢谢大家。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__087__7d66d39e/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__087__7d66d39e/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__087__7d66d39e/out.json'
+
+whisper_print_timings:     load time =   827.84 ms
+whisper_print_timings:     fallbacks =   0 p /   1 h
+whisper_print_timings:      mel time =   266.29 ms
+whisper_print_timings:   sample time =  4451.50 ms / 13719 runs (     0.32 ms per run)
+whisper_print_timings:   encode time = 27510.94 ms /    22 runs (  1250.50 ms per run)
+whisper_print_timings:   decode time = 12245.35 ms /   238 runs (    51.45 ms per run)
+whisper_print_timings:   batchd time = 202311.58 ms / 13376 runs (    15.12 ms per run)
+whisper_print_timings:   prompt time =  5256.73 ms /  4765 runs (     1.10 ms per run)
+whisper_print_timings:    total time = 254288.55 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/087 - 087 - 087 孙宇晨：【不确定性】年轻人的未来在哪里.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__087__7d66d39e/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

@@ -1,0 +1,241 @@
+
+=== START 2026-05-26 12:17:14 ===
+{"id": "official-vimeo-m4a-partial__000__7c18aa7d", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/000 - 000我们就是这个时代的既得利益者 [1179679629].m4a", "filename": "000 - 000我们就是这个时代的既得利益者 [1179679629].m4a", "duration_seconds": 391.253}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/000 - 000我们就是这个时代的既得利益者 [1179679629].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:06:31.25, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+[out#0/wav @ 0xc310086c0] video:0KiB audio:12227KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000623%
+size=   12227KiB time=00:06:31.25 bitrate= 256.0kbits/s speed=1.59e+03x elapsed=0:00:00.24    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/000 - 000我们就是这个时代的既得利益者 [1179679629].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/audio.wav' (6260053 samples, 391.3 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.760 --> 00:00:04.560]  大家好,我是《财富自由革命之路》的发起人孙宇晨。
+[00:00:04.560 --> 00:00:13.000]  今天喜马拉雅FM火壳和新榜邀请我参与一场名为《向知识致敬的24小时实验》。
+[00:00:13.000 --> 00:00:20.000]  但是其实就是我发表的这篇文章,大家在听我的这个录音之后呢,欢迎到我的节目上给我打赏。
+[00:00:20.000 --> 00:00:25.580]  打赏的越多越好,越多越好,现在是发挥大家实力的时候到了。
+[00:00:25.580 --> 00:00:28.180]  有实力的来,没实力的也来。
+[00:00:28.900 --> 00:00:33.040]  好,下面我会给大家分享一下我今天的观点和我的文章。
+[00:00:33.040 --> 00:00:40.320]  今天我们要播的这篇文章呢,标题叫做《我们就是这个时代的既得利益者》。
+[00:00:40.320 --> 00:00:41.920]  下面是正文。
+[00:00:41.920 --> 00:00:49.000]  在之前的《关于财富自由的五分钟问答》中,我们重新定义了精致利己主义者。
+[00:00:49.000 --> 00:00:55.360]  这个词在中国的知识界长期被污名化,现在也许到了终结它的时候。
+[00:00:55.360 --> 00:00:58.880]  我们认为,在法律允许的范围内,
+[00:00:58.900 --> 00:01:04.380]  透明博弈,公开奋斗,争取自己的利益是正当且伟大的。
+[00:01:04.380 --> 00:01:13.100]  我们社会应该允许利己,允许精致利己,允许自己全身心的为了自己而活着。
+[00:01:13.100 --> 00:01:16.120]  精致利己主义者没有伤害任何人。
+[00:01:16.120 --> 00:01:21.360]  相反,周边人因他们的奋斗与协作而获益良多。
+[00:01:21.360 --> 00:01:25.200]  而今天我们想谈一谈既得利益者。
+[00:01:25.200 --> 00:01:27.800]  与精致利己主义者相比,
+[00:01:27.800 --> 00:01:28.880]  既得利益者,
+[00:01:28.900 --> 00:01:31.160]  可能是更拉仇恨的一群人。
+[00:01:31.160 --> 00:01:34.600]  1.既得利益者是什么样的群体?
+[00:01:34.600 --> 00:01:37.840]  一个社会是否可以消灭既得利益者?
+[00:01:37.840 --> 00:01:43.780]  答。既得利益者是在现有社会制度结构下获利的一群人。
+[00:01:43.780 --> 00:01:47.000]  利益永远需要分配,总有对象。
+[00:01:47.000 --> 00:01:49.940]  既得利益者不可消灭,永远存在。
+[00:01:49.940 --> 00:01:53.020]  问题只是谁成为既得利益者而已。
+[00:01:53.020 --> 00:01:57.300]  2.如果既得利益者不可消灭,
+[00:01:57.300 --> 00:01:59.420]  谁应当成为既得利益者?
+[00:01:59.420 --> 00:02:03.420]  答。利益不是凭空产生的,
+[00:02:03.420 --> 00:02:05.420]  利益是由人创造的。
+[00:02:05.420 --> 00:02:07.260]  最好的制度便是,
+[00:02:07.260 --> 00:02:09.620]  把利益分配给创造利益的人,
+[00:02:09.620 --> 00:02:13.080]  让创造利益的人成为既得利益者。
+[00:02:13.080 --> 00:02:15.780]  3.把谷物给种植者,
+[00:02:15.780 --> 00:02:17.780]  把刀剑给锻造者,
+[00:02:17.780 --> 00:02:19.920]  把孩子给母亲。
+[00:02:19.920 --> 00:02:24.640]  3.谁是社会的既得利益者?
+[00:02:24.640 --> 00:02:26.640]  答。现阶层的既得利益者是谁?
+[00:02:26.640 --> 00:02:26.940]  答。现阶层的既得利益者是谁?
+[00:02:26.940 --> 00:02:32.760]  现阶段,社会中绝大多数人都是既得利益者。
+[00:02:32.760 --> 00:02:35.700]  否则整个社会无法正常运行,
+[00:02:35.700 --> 00:02:40.820]  人都倾向于一个在自己是既得利益者的制度中实现协作。
+[00:02:40.820 --> 00:02:45.220]  如果说有人渐渐脱离了既得利益者的群体,
+[00:02:45.220 --> 00:02:49.180]  那更大的可能性是他不再种植,
+[00:02:49.180 --> 00:02:50.700]  他不再锻造,
+[00:02:50.700 --> 00:02:53.280]  他不再繁衍。
+[00:02:53.280 --> 00:02:56.280]  4.作为90后刚刚毕业,
+[00:02:56.280 --> 00:03:00.600]  三观形成应当如何看待这个世界?
+[00:03:00.600 --> 00:03:05.940]  答。年轻人是中国最大的既得利益群体。
+[00:03:05.940 --> 00:03:09.960]  这个高速膨胀的时代是奖赏年轻人的时代。
+[00:03:09.960 --> 00:03:11.940]  我们的父辈奋斗了一辈子,
+[00:03:11.940 --> 00:03:13.260]  薪水破万,
+[00:03:13.260 --> 00:03:16.560]  比不上很多大学生在北上广的起薪。
+[00:03:16.560 --> 00:03:20.400]  一百万的无风险回报一年5%以内,
+[00:03:20.400 --> 00:03:25.280]  五万元比不上最普通年轻人在北上广的起跳价。
+[00:03:25.280 --> 00:03:28.680]  我们父辈一眼能望到头的生活,
+[00:03:28.680 --> 00:03:31.760]  在我们眼中五彩斑斓。
+[00:03:31.760 --> 00:03:33.960]  多少前人梦寐以求的愿望,
+[00:03:33.960 --> 00:03:36.700]  如今搭了高科技与通胀的便车,
+[00:03:36.700 --> 00:03:38.800]  我们唾手可得。
+[00:03:38.800 --> 00:03:40.380]  高度通胀的环境下,
+[00:03:40.380 --> 00:03:42.240]  最值钱的是资产,
+[00:03:42.240 --> 00:03:44.680]  而最重要的资产是人,
+[00:03:44.680 --> 00:03:45.840]  是青春,
+[00:03:45.840 --> 00:03:47.040]  是创造,
+[00:03:47.040 --> 00:03:49.960]  是改变世界的魄力与雄心。
+[00:03:49.960 --> 00:03:53.380]  而最不值钱的恐怕就是钱了。
+[00:03:53.380 --> 00:03:54.620]  我们没有想到,
+[00:03:54.620 --> 00:03:59.300]  青春就是这个时代最大的既得利益者。
+[00:03:59.300 --> 00:04:02.700]  五,年轻人是既得利益群体,
+[00:04:02.700 --> 00:04:04.220]  对国家是好事吗?
+[00:04:04.220 --> 00:04:06.660]  答,是好事。
+[00:04:06.660 --> 00:04:09.620]  让创造利益的人成为既得利益者。
+[00:04:09.620 --> 00:04:12.380]  年轻人是国家创造利益的可能。
+[00:04:12.380 --> 00:04:14.260]  如果回到日本欧洲,
+[00:04:14.260 --> 00:04:15.500]  一个论资排辈,
+[00:04:15.500 --> 00:04:17.660]  一切由老年人主宰的社会,
+[00:04:17.660 --> 00:04:21.180]  便会产生一个创造力的巨大黑洞,
+[00:04:21.180 --> 00:04:22.620]  国家经济增长的能力就会逐渐枯竭,
+[00:04:22.620 --> 00:04:23.220]  国家经济增长的能力就会逐渐枯竭,
+[00:04:23.220 --> 00:04:25.220]  国家经济增长的能力就会逐渐枯竭,
+[00:04:25.220 --> 00:04:28.020]  创造力就会被渐渐扼杀,
+[00:04:28.020 --> 00:04:30.780]  一切都会渐渐走向衰亡。
+[00:04:30.780 --> 00:04:32.380]  年轻人主导话语权,
+[00:04:32.380 --> 00:04:34.540]  创造者主导话语权,
+[00:04:34.540 --> 00:04:36.140]  是好事。
+[00:04:36.140 --> 00:04:39.340]  六,在北上广压力很大,
+[00:04:39.340 --> 00:04:41.300]  很想回到小城市,
+[00:04:41.300 --> 00:04:43.020]  这个想法对吗?
+[00:04:43.020 --> 00:04:46.380]  答,如果说有既得利益者,
+[00:04:46.380 --> 00:04:49.060]  那么北上广,深航,
+[00:04:49.060 --> 00:04:51.460]  就是既得利益城市。
+[00:04:51.460 --> 00:04:53.060]  北上广深航,
+[00:04:53.060 --> 00:04:55.780]  是一个巨大混沌的母体,
+[00:04:55.780 --> 00:04:58.180]  孕育着这个国家最多的机会,
+[00:04:58.180 --> 00:05:00.940]  释放着这个社会最多的变化,
+[00:05:00.940 --> 00:05:05.300]  包容着这个时代最多的错误。
+[00:05:05.300 --> 00:05:06.580]  留在北上广,
+[00:05:06.580 --> 00:05:08.820]  一切永远从头再来,
+[00:05:08.820 --> 00:05:10.140]  回到小城市,
+[00:05:10.140 --> 00:05:12.940]  一切永远就此终结。
+[00:05:12.940 --> 00:05:16.420]  七,父母对我的生活干涉很厉害,
+[00:05:16.420 --> 00:05:18.580]  结婚要他们点头才行,
+[00:05:18.580 --> 00:05:20.780]  如何才能获得独立?
+[00:05:20.780 --> 00:05:22.900]  答,独立从前,
+[00:05:22.900 --> 00:05:24.500]  从来都不需要获得,
+[00:05:24.500 --> 00:05:26.980]  而是一种继承事实。
+[00:05:26.980 --> 00:05:29.300]  如果不依赖父母的金钱输血,
+[00:05:29.300 --> 00:05:31.700]  经济独立,独自一人居住,
+[00:05:31.700 --> 00:05:33.780]  独立本身就是继承事实,
+[00:05:33.780 --> 00:05:35.260]  无需获得。
+[00:05:35.260 --> 00:05:38.620]  经济独立在这个时代前所未有的容易,
+[00:05:38.620 --> 00:05:41.220]  很快你的收入就会超过你的父母,
+[00:05:41.220 --> 00:05:42.580]  再攒个五到十年,
+[00:05:42.580 --> 00:05:45.660]  你就能获得他们一辈子积累的财富。
+[00:05:45.660 --> 00:05:47.740]  这是一场完全不对称的战争,
+[00:05:47.740 --> 00:05:48.780]  没有必要打,
+[00:05:48.780 --> 00:05:50.500]  他们会妥协的。
+[00:05:50.500 --> 00:05:52.740]  我们就是这个时代的既得利益者,
+[00:05:52.740 --> 00:05:54.980]  在这个时代实现精神自由,
+[00:05:54.980 --> 00:05:57.860]  财富自由从未如此容易。
+[00:05:57.860 --> 00:05:59.580]  很多中国人并没有意识到,
+[00:05:59.580 --> 00:06:02.380]  我们正处于中国历史上最好的一个时代,
+[00:06:02.380 --> 00:06:04.060]  最美的一个时代,
+[00:06:04.060 --> 00:06:06.700]  最令人留恋的一个时代。
+[00:06:06.700 --> 00:06:10.580]  这就是属于我们这一代人的黄金时代。
+[00:06:10.580 --> 00:06:12.820]  我们也许应该好好想想,
+[00:06:12.820 --> 00:06:15.500]  我们将为这个时代带来些什么。
+[00:06:15.500 --> 00:06:21.660]  毕竟,既得利益者永远是属于那些真正创造利益的人。
+[00:06:21.660 --> 00:06:22.580]  谢谢。
+[00:06:22.580 --> 00:06:30.580]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/out.json'
+
+whisper_print_timings:     load time =   761.76 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   146.35 ms
+whisper_print_timings:   sample time =  3789.10 ms / 11143 runs (     0.34 ms per run)
+whisper_print_timings:   encode time = 17858.08 ms /    14 runs (  1275.58 ms per run)
+whisper_print_timings:   decode time =  3744.23 ms /    66 runs (    56.73 ms per run)
+whisper_print_timings:   batchd time = 148237.31 ms / 11014 runs (    13.46 ms per run)
+whisper_print_timings:   prompt time =  3402.46 ms /  3047 runs (     1.12 ms per run)
+whisper_print_timings:    total time = 178411.72 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/audio.wav -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__000__7c18aa7d/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

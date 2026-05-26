@@ -1,0 +1,117 @@
+
+=== START 2026-05-26 10:36:54 ===
+{"id": "wavlake-mp3__056__2fd11844", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/056 - 056 - 056 孙宇晨：【90后不买车】谈90后不买车与共享经济.mp3", "filename": "056 - 056 - 056 孙宇晨：【90后不买车】谈90后不买车与共享经济.mp3", "duration_seconds": 767.81425}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/056 - 056 - 056 孙宇晨：【90后不买车】谈90后不买车与共享经济.mp3' (12285029 samples, 767.8 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.840]  大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由的另一边,等着你。
+[00:00:30.000 --> 00:00:59.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:01:00.000 --> 00:01:07.240]  如果说买房子还值得讲一讲的话,90后不买车我觉得是更简单,其实根本不需要怎么说的。
+[00:01:07.240 --> 00:01:22.800]  但是我今天就是接下来的这一两周啊,我们会就详细的就整个共享经济啊,给大家好好讲讲我们的观点,也算是一个收尾和总结啊,也是对共享经济的一个点评收尾和总结。
+[00:01:22.800 --> 00:01:29.800]  首先呢,大家知道90后不买车这个想法呢,原因呢。
+[00:01:30.000 --> 00:01:37.880]  其实很简单了,因为车呢,我们认为是一种车,尤其自己买车养车是一种非常糟糕的选择。
+[00:01:37.880 --> 00:01:55.380]  首先呢,从投资的意义上来说是一场灾难,因为我们大家也知道,即便我这种开公司的人,买车其实挺便宜的,因为大家知道我们买车可以抵扣增值税,就是本身已经,已经其实我们是比大家买车要便宜的多的。
+[00:01:55.380 --> 00:01:59.980]  当然这一点暴露了孙总其实挺有钱的,每年要给国家纳很多税啊。
+[00:02:00.000 --> 00:02:29.980]  否则我们也没有所谓的增值税可以抵扣啊,所以我们去买车其实比大家买还便宜,但即便这样我都不愿意买,因为一买车有固定资产折旧啊,这个车其实任何固定资产我都不愿意投入,其实往往我还是喜欢做这种互联网这种比较轻的,因为固定资产每过好几年折吧折吧就给你折没了,你这种投入其实根本就不会增值,同时买个车就跟买个孩子一样,每天还得养啊,
+[00:02:30.000 --> 00:02:59.980]  这车可不是海螺姑娘是吧,人家不会车不会自己把自己给洗了是吧,不会自己给自己加油啊,不会自己找停车位,不会自己年减,什么都不会的,这车就跟一个宝宝一样,他每天是吧病了你得去修他,他这个身体不舒服你得带他去看医生,然后每天你还得去给他找个家,帮车还得买套房呢,经常我们说要买停车位嘛,而且给车买房还不能贷款,
+[00:03:00.000 --> 00:03:29.240]  停车位都必须全款买的,所以呢,就是给买个车真的是跟买个小孩是没有太大差别的,我周边看过有太多的创业者,他们就说啊,创业总共有两大大两座大山,第一个是小孩,我们家看到很多创业者就是要带小孩去看病啊,各种各样的事情啊,很多他说严重拖慢了他的创业的节奏,还有一个就是带着车每天要去干嘛的啊,今天要修车,
+[00:03:29.240 --> 00:03:29.980]  后天要修车,
+[00:03:29.980 --> 00:03:59.960]  后天要带他去充电,我们有个同学买了特斯拉啊,我就不讲是谁了,也是我们一个90后创业者吧,他每天还得带着特斯拉去充电,有一次他带着特斯拉去充电的路上,特斯拉就没电了,还他都被迫叫了道路救援啊,才过来把他给救了,所以类似的事情有非常多的啊,麻烦,其实我们就不多说了,其实买车,而你后来看现在那我们不买车呢,出行的问题如何解决呢,其实解决的方式啊,
+[00:03:59.960 --> 00:04:29.940]  用共享经济就可以解决,至少买车的问题,现在在中国已经比较完美的,可以解决了,所以啊,我个人觉得买车的理由,无论讲啥都是不成立的,其实有时候有的人说,哎,那雨晨我要做生意呗,要做大生意,是不是得买一辆阔气的车呢,其实我觉得也不存在,为啥呢,我觉得其实我们很多读者都不一定有我有钱,都到我这儿来,
+[00:04:29.940 --> 00:04:59.920]  我这个程度了,我自己都不一定要买啊,我的确,我现在确实没买车,但我最近有可能在思考是要不要买啊,因为有时候我可能跟大家的不一样,因为我虽然是个90后代,也是个公司的CEO嘛,我们公司有时候事情太多了啊,有时候有辆车呢,啊,的确有可能会方便一点,因为可能我们公司也顾得起专人去管这辆车嘛,然后他专人去管这辆车,加上车的工资,最后对公司的整体效益,
+[00:04:59.920 --> 00:05:29.720]  如果大于我们的投入,可能我还是会买的,但是如果我个人啊,孙宇权这个个人,那我基本上是绝对不会买的,这是一个预告,我们现在来讲讲核心的买车的几大问题吧,第一个问题,我们觉得就是上下班特别拥堵,因为买的车你总得开吧,开车在北上广深航这样的一线城市,甚至二线城市,
+[00:05:29.900 --> 00:05:59.880]  赌车基本是个必修课,那这时候买车的弊病就出来了,首先一,如果你是共享经济,哪怕是打车呢,其实你上班拥堵的时候可以干非常多的事情,我经常有时候去北京东边办事,因为我自己是共享经济,是打车的,所以我可以一路上跟公司员工把会开完,把工作布置完,把所有的公司需要问我的事情都问完,啊,然后
+[00:05:59.880 --> 00:06:29.860]  把公司的例会很多东西都可以开完,都可以做完,基本上打车过去的一个钟头到两个钟头的时间,我可以处理非常多的事情,而且这种时候我也可以充分的集中我的注意力去处理这些事情,你说如果你敢在车上开车的时候处理人家小心啊,我就不要,我不鼓励任何人自己开车时候去处理这些事情啊,安全还是第一位啊,安全还是第一位,这个风险实在是太大了,所以呢,这时候你共享经济的
+[00:06:29.860 --> 00:06:59.000]  好处就来了,其次我现在一般从来,你看我前来不买房,不买车,所以我从来都是把房子租在离公司只有五分钟上下班的地方啊,宁愿稍微贵一点,但是我觉得我可以承受,因为时间成本以及交通成本以及养车的成本,这些成本加起来已经远远足够我在周边租一个非常好的房子了,甚至租两套是吧,住一套空一套都已经值了,所以呢,
+[00:06:59.840 --> 00:07:29.820]  我觉得上下班拥堵这个问题通过共享经济能帮你其实省很多钱和时间,其次当然我觉得从这个其实我是不怎么掰硬这个理由的,但是说一说也可以,就是说如果买车也不环保吗,不环保,大家这么想,我们并不是非常中二的在这教育大家说,哎呀,就是大家都要当小天使啊,是吧,共同去维护我们美好的家园啊,我们已经过了这个阶段了,主要是不环保,
+[00:07:29.820 --> 00:07:59.520]  不环保政府会收很多税来惩罚你呢,因为我们也知道环保不主要有部门去养着这个部门啊,环保的各项举策,总有人要养着他们啊,那养着他们很简单,那就要国家就会像任何他认为不环保的地方要征收惩罚性税收和惩罚性收费的,而如果你做了不环保的行为,你当然就会被列入这个征收惩罚性的范围之内,所以呢,你就会交钱嘛,
+[00:07:59.800 --> 00:08:29.780]  所以如果你是一个环保的人啊,你就不用交这些费用,所以从这个角度来说,一方面爱护我们的地球吧,一方面从不交钱的角度,这个买车你你也会受到惩罚,第三,其实就像我刚才讲的了,买车花费大量的时间精力,无论是加油啊,停车啊,尤其是停车了,其实如果是自己开车,现在在北京,你至少要打出20分钟的提前量,为什么来?
+[00:08:29.780 --> 00:08:58.980]  因为到那个地方可能你找停车的得找半天,而且停车停车费其实也挺贵,第四呢,就是我们经常看这个人的买车的需求是什么样的需求,很有可能是面子需求了,因为我们买车要彰显我们的身份地位的象征,可能要买甚至超出我们的可用范围之内的车,这时候我们可能要想一想,我们买车本身到底是为了什么呢?
+[00:08:59.760 --> 00:09:29.740]  前面买房子是一个道理,到底是为了什么?如果买房子是一个切实的投资行为,那我觉得车其实也是一个经济行为,我们的有时候叫梳理,为什么我们买车?因为我觉得我们公司能不能谈成生意,能不能做成,其实对方也都是很精的,他也不会为我的面子买单啊,对吧?绝大多数如果我们的公司的这种所谓的面子工程吧,已经通过我自己的个人形象已经解决了的话,我觉得完全没有必要通过买车来解决了,
+[00:09:29.740 --> 00:09:59.220]  所以这是我们为什么早些年创业的时候从来都不买车的一个核心原因,当然了,其实还有一个原因就是我在北京现在想买车也买不了,北京还有个摇号的问题,所以呢,其实现在想买也买不了,真是这样,当然了,其实我如果真想买去租一个号,其实也不是太贵,就租一个牌也不是很贵啊,其实,但是经过我们刚才的分析啊,我觉得买是没有任何意义,我可以举一个我自己的案例,
+[00:09:59.720 --> 00:10:29.700]  我在一道用车充值充得最猛的时候,大概充了八万块钱,一道用车送了我十万,所以我一共有十八万的坐车的经费,然后一道用车还送了我两台电视机,我那两台电视机现在一台挂在家里,一台挂在公司,还送了我非常多东西,送了一台乐视手机,送了一堆券,所以我觉得还是真的是很划算,我现在一道用车这个账号也已经用了几百万块钱,
+[00:10:29.700 --> 00:10:59.680]  基本十八个月了,我觉得基本满足了我所有的用车需求,而且每个月大概也就在三四千的消耗左右,三四千大家注意这还可以打打四点五折的,这样的话相当于一个月才花了两千多块钱啊,满足了我,我一般出门,而且都是如果商务场合都可以打奥迪A6啊,包车都包一天的,其实真是花不了什么钱,从一道用车的例子上来说啊,我个人觉得共享经济基本是解决整个固定资产投入,
+[00:10:59.680 --> 00:11:29.660]  的一个非常完美的解决方案,这里再给大家安利一下我自己的一个事情啊,就是我个人其实从这个角度呢,觉得有一个商机是一直存在的,看你怎么看他了,就是我个人认为用共享经济解决一切的固定资产投入非常大的,都是一个很好的创业机会,所以你看车房都
+[00:11:29.660 --> 00:11:58.220]  诞生了像Airbnb啊,诞生了像滴滴打车这样的一个啊,非常大的巨头企业,我们现在看其他的共享,包括58到家的阿姨,像58转转以及咸鱼这些共享经济啊,以及包括现在甚至有一个比较虚拟化的趋势,比方像知乎这样的,知乎live这样的虚拟化的讲座的趋势,
+[00:11:59.640 --> 00:12:29.620]  反正是这些我们认为以前是很大投入的奢侈的事情,外面都会被共享经济把他的价格门槛大幅降低了,啊,我前面一直跟张恒德,就是也是我的湖畔同学,著版家张恒德,我们也一直在想看看能不能有什么方式能够让租房的人过得更加体面吗,把租房变成一个更好的生活方式,啊,其实这件事情我们一直在讨论,我明天还会去跟张恒德聊一聊,看看我们怎么把这个事情启动啊,到时候也欢迎大家来看,
+[00:12:29.620 --> 00:12:37.120]  欢迎大家关注吧,当然如果很有可能失败啊,如果失败的话只能看下一个人来帮帮我们了,我就只能当用户了。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__056__2fd11844/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__056__2fd11844/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__056__2fd11844/out.json'
+
+whisper_print_timings:     load time =   845.93 ms
+whisper_print_timings:     fallbacks =   0 p /   1 h
+whisper_print_timings:      mel time =   306.02 ms
+whisper_print_timings:   sample time =  6692.73 ms / 17602 runs (     0.38 ms per run)
+whisper_print_timings:   encode time = 30443.02 ms /    26 runs (  1170.89 ms per run)
+whisper_print_timings:   decode time =  7558.06 ms /   141 runs (    53.60 ms per run)
+whisper_print_timings:   batchd time = 230756.98 ms / 17332 runs (    13.31 ms per run)
+whisper_print_timings:   prompt time =  6254.92 ms /  5652 runs (     1.11 ms per run)
+whisper_print_timings:    total time = 284290.12 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/056 - 056 - 056 孙宇晨：【90后不买车】谈90后不买车与共享经济.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__056__2fd11844/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

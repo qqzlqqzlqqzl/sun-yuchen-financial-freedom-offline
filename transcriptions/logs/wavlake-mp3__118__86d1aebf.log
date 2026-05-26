@@ -1,0 +1,202 @@
+
+=== START 2026-05-26 11:48:42 ===
+{"id": "wavlake-mp3__118__86d1aebf", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3", "filename": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3", "duration_seconds": 565.382688}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3' (9046124 samples, 565.4 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:10.320]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:40.220]  2013年10月,王宁因离婚将其所持股份的1.2亿股分割至前期安美名下,该比股权高达12.3亿元。
+[00:00:40.220 --> 00:00:52.640]  这次离婚影响比周耀辉还大,因为这次离婚,王宁丧失了神州太岳第一大股东的宝座,降格为第二大股东,结果对上市公司的控制权就大大削弱了。
+[00:00:52.640 --> 00:00:58.420]  而且这件事情就像我们刚才讲的,不仅仅是财富的分割,
+[00:00:58.420 --> 00:00:59.980]  而是会导致这个公司的财富的分割。
+[00:01:00.000 --> 00:01:15.100]  这就是公司的下滑,就原先这个公司如果值100亿,你们俩一人一半那是50亿,结果呢,因为你们俩一人一半了,公司很有可能本身就只值20亿了,那一人一半只剩10个亿了,这要比以前50亿要大幅缩水。
+[00:01:15.100 --> 00:01:23.600]  某种程度上我们知道创神的婚变啊,不仅会给自己的身价带来致命打击,有时候连整个公司都要跟着一起倒霉。
+[00:01:23.600 --> 00:01:27.440]  最简单的当然就是公司股价暴跌。
+[00:01:27.440 --> 00:01:29.860]  2016年电科院高管,
+[00:01:30.000 --> 00:01:41.780]  离婚分割了3200万股的股份,离婚消息发布当天,公司的股价急剧跌停,公告发布三个交易日内,电科院的跌幅就达到了22%。
+[00:01:41.780 --> 00:01:53.380]  刚才讲的都是A股的例子,下面我们讲一个美股的例子,因为大家也知道我宇晨也算半个美股小专家吧,先讲个美股的例子。
+[00:01:53.380 --> 00:01:57.620]  美股呢,最著名的例子就是王威和土豆娃。
+[00:01:57.620 --> 00:01:59.820]  现在如果听咱们这节目的时候,
+[00:02:00.000 --> 00:02:11.960]  明年2010年以后可能都不知道土豆娃是什么了,但是在我们小时候用的时候知道,土豆娃是一度跟优酷齐名的视频网站,那个时候还没有腾讯视频爱奇艺呢。
+[00:02:11.960 --> 00:02:25.840]  2010年之前,至少土豆娃在整个视频领域实际上主流的,但是在此之后,网络视频平台的领军人物却一蹶不振,核心原因是什么呢?
+[00:02:25.840 --> 00:02:29.920]  就是因为在纳斯达克敲钟的前夜,
+[00:02:30.000 --> 00:02:35.000]  土豆网CEO王威却发生了代价惨重的离婚案。
+[00:02:35.000 --> 00:02:44.680]  其实当时在2009年底,赶在竞争对手优酷之前,王威就抢先向美国证监会提交了上市申请。
+[00:02:44.680 --> 00:02:50.880]  但他老婆杨磊第二天的一纸诉状却成了整个案子最大的黑天鹅。
+[00:02:50.880 --> 00:02:55.680]  王威名下三家公司95%的股权被杨磊申请冻结。
+[00:02:55.680 --> 00:03:00.680]  原因很简单,因为你结婚了,这股权有一半是你老婆的嘛。
+[00:03:00.680 --> 00:03:06.680]  现在老婆要给你离婚,这个就得申结、冻结、分割,这时候就有一个最简单的问题就来了。
+[00:03:06.680 --> 00:03:12.680]  大家也知道,土豆网本来很有希望的,如果一直在王威手上,说不定没有腾讯视频爱奇艺的事了,是吧?
+[00:03:12.680 --> 00:03:15.680]  甚至土豆网成为一个重要的玩家。
+[00:03:15.680 --> 00:03:23.680]  但是一旦发生了冻结,公司的上市自然就要停止。
+[00:03:23.680 --> 00:03:29.680]  因为我们大家知道公司在上市时候,最怕就是公司股权所有权有争议。
+[00:03:29.680 --> 00:03:38.680]  往往这个是公司上市时候最大的硬伤之一,对方会认为你这个是最大的硬伤。
+[00:03:38.680 --> 00:03:47.680]  所以因为这个股权冻结,土豆网的上市进程被搁置了半年有余,错过了上市最好时机。
+[00:03:47.680 --> 00:03:51.680]  在此情况下,最终就无奈和优酷网发生了并购。
+[00:03:51.680 --> 00:03:57.680]  此后两人协计离婚,王威付出了700万美金的现金补偿。
+[00:03:57.680 --> 00:04:05.680]  这件事我个人是这么认为的,700万美元的现金补偿,这已经不是多少钱,尤其对于王威来说。
+[00:04:05.680 --> 00:04:15.680]  最大的问题是因为离婚和家人编辑的问题,导致公司上市进程受阻,这才是核心问题。
+[00:04:15.680 --> 00:04:20.680]  这一次王威可以说是交了他人生中最惨痛的一笔学费。
+[00:04:21.680 --> 00:04:26.680]  你以为公司上不了市够严重了吧,但这还不是最严重的。
+[00:04:26.680 --> 00:04:35.680]  创始人离婚没理好,最后还得进监狱去坐牢,其中真公夫的蔡达彪就是一个这样典型的例子。
+[00:04:35.680 --> 00:04:41.680]  真公夫这个企业我相信我也不用多介绍了,应该我们很多听众都在真公夫吃过饭吧。
+[00:04:41.680 --> 00:04:49.680]  至少我小时候是很爱去真公夫吃饭的,当时我还印象最深我最爱点真公夫的香脂排骨饭套餐。
+[00:04:49.680 --> 00:04:54.680]  结果没想到真公夫的创始人却已经早得进了监狱。
+[00:04:54.680 --> 00:04:57.680]  我们讲讲真公夫蔡达彪夫妇的问题。
+[00:04:57.680 --> 00:05:03.680]  真公夫董事长蔡达彪和妻子潘敏峰在1991年结婚。
+[00:05:03.680 --> 00:05:08.680]  此后他们就带领真公夫公司发展得越来越好。
+[00:05:08.680 --> 00:05:17.680]  结果后来公司因为他们的婚姻问题,就开始亮起了红灯。
+[00:05:17.680 --> 00:05:21.680]  公司内斗也愈演愈烈。
+[00:05:21.680 --> 00:05:29.680]  当时还有很多VC投资了真公夫,那你想两个大股东打起来了,公司怎么发展呢?
+[00:05:29.680 --> 00:05:33.680]  这帮VC也只能是认栽离场。
+[00:05:33.680 --> 00:05:41.680]  这场内斗中,真公夫的估值也从顶峰时期的33亿缩水到了不足16亿。
+[00:05:41.680 --> 00:05:45.680]  而且本来可以成为更有影响力民族品牌的真公夫上市了。
+[00:05:45.680 --> 00:05:49.680]  也以失败告终。
+[00:05:49.680 --> 00:05:54.680]  而且当时就我了解,不光是和他老婆的问题。
+[00:05:54.680 --> 00:05:58.680]  好像是他老婆有个弟弟,在公司里也是任主要职务的。
+[00:05:58.680 --> 00:06:03.680]  所以基本上是个三角的矛盾关系,合纵连横嘛。
+[00:06:03.680 --> 00:06:09.680]  但是对于其一家人很多事情不好意思置评了,我们可以讲解结局吧。
+[00:06:09.680 --> 00:06:13.680]  结局最后蔡达彪因涉嫌挪用侵占真公夫资金等六宗罪,
+[00:06:13.680 --> 00:06:19.680]  东窗事发,深陷围狱,终审获刑14年。
+[00:06:19.680 --> 00:06:24.680]  而把蔡达彪推上被告席的,正是他的前妻潘敏峰。
+[00:06:24.680 --> 00:06:29.680]  案件柴埃落定后不久,潘敏峰在微博上写下心声,
+[00:06:29.680 --> 00:06:33.680]  有人说没有爱哪来的恨,但我不认同这句话。
+[00:06:33.680 --> 00:06:37.680]  我对蔡达彪如今只有无尽的恨。
+[00:06:37.680 --> 00:06:41.680]  潘敏峰曾经还写过一篇文章,记录了他和蔡达彪从夫妻到反目的整个经历。
+[00:06:41.680 --> 00:06:45.680]  如果愿意去探索真公夫离婚案的读者,可以找来去看一看。
+[00:06:45.680 --> 00:06:49.680]  如果愿意去探索真公夫离婚案的读者,可以找来去看一看。
+[00:06:49.680 --> 00:06:53.680]  今天在这档节目中呢,我们也不做任何的价值评判。
+[00:06:53.680 --> 00:06:55.680]  我们只是用学语类的事实告诉大家,
+[00:06:55.680 --> 00:06:57.680]  我们只是用学语类的事实告诉大家,
+[00:06:57.680 --> 00:06:59.680]  我们只是用学语类的事实告诉大家,
+[00:06:59.680 --> 00:07:01.680]  古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。
+[00:07:01.680 --> 00:07:03.680]  古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。
+[00:07:03.680 --> 00:07:05.680]  古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。
+[00:07:05.680 --> 00:07:07.680]  找一个好的伴侣,对自己来说是非常重要的。
+[00:07:07.680 --> 00:07:09.680]  找一个好的伴侣,对自己来说是非常重要的。
+[00:07:09.680 --> 00:07:11.680]  找一个好的伴侣,对自己来说是非常重要的。
+[00:07:11.680 --> 00:07:13.680]  看了刚才的例子,我们就可以明确第一点。
+[00:07:13.680 --> 00:07:15.680]  所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。
+[00:07:15.680 --> 00:07:17.680]  所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。
+[00:07:17.680 --> 00:07:19.680]  所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。
+[00:07:19.680 --> 00:07:21.800]  夫妻之间的边界要分清楚
+[00:07:21.800 --> 00:07:24.040]  并不是说两人要井水不犯河水
+[00:07:24.040 --> 00:07:25.680]  个人干自己的事业
+[00:07:25.680 --> 00:07:27.560]  另外一方不要牵扯
+[00:07:27.560 --> 00:07:29.100]  而是你们要明确
+[00:07:29.100 --> 00:07:32.580]  自己在人生发展的过程中
+[00:07:32.580 --> 00:07:37.080]  首先这个伴侣与你的三观是否足够契合
+[00:07:37.080 --> 00:07:40.660]  是否能够亲密无间的相互扶持
+[00:07:40.660 --> 00:07:47.880]  同时在人生公司事业发展出现重大分歧时
+[00:07:47.880 --> 00:07:55.480]  你们两方能不能达成一个好的决策流程与决策方式
+[00:07:55.480 --> 00:07:58.340]  最终有一个好的决策结果
+[00:07:58.340 --> 00:08:01.000]  这也是非常重要的
+[00:08:01.000 --> 00:08:02.320]  举个很简单的例子
+[00:08:02.320 --> 00:08:05.980]  现在的法律规定往往都是五十五十
+[00:08:05.980 --> 00:08:07.200]  因为讲人权
+[00:08:07.200 --> 00:08:09.680]  讲所谓的婚姻权人权
+[00:08:09.680 --> 00:08:11.620]  那什么东西都是五十五十
+[00:08:11.620 --> 00:08:14.860]  但是我们知道所谓的真正实施层面
+[00:08:14.860 --> 00:08:16.280]  往往不是五十五十
+[00:08:16.280 --> 00:08:17.860]  或者不是五十五十
+[00:08:17.880 --> 00:08:19.960]  能讲得清楚吗
+[00:08:19.960 --> 00:08:21.280]  这时候
+[00:08:21.280 --> 00:08:25.240]  那我们就要看你们自己本身在家庭内部治理的时候
+[00:08:25.240 --> 00:08:31.080]  能不能达成一个好的对于问题处理的方式和态度
+[00:08:31.080 --> 00:08:34.920]  如果这可以达一个好的处理的方式和态度
+[00:08:34.920 --> 00:08:40.880]  那么相信你的人生事业公司都会走的比没有达成
+[00:08:40.880 --> 00:08:43.840]  以及有我们所谓讲的婚姻这一个地雷吧
+[00:08:43.840 --> 00:08:44.880]  好得多
+[00:08:44.880 --> 00:08:46.400]  而且大家要注意
+[00:08:46.400 --> 00:08:47.480]  在处理所有家人的关系的时候
+[00:08:47.480 --> 00:08:49.800]  父母你是没有选择的
+[00:08:49.800 --> 00:08:51.920]  兄弟姐妹你也是没有选择的
+[00:08:51.920 --> 00:08:54.920]  只有你的伴侣是可以自己选择的
+[00:08:54.920 --> 00:08:58.360]  因此选好的对你的人生帮助是相当大
+[00:08:58.360 --> 00:08:59.680]  所以在这一点上
+[00:08:59.680 --> 00:09:03.280]  为什么我们第一章先不讲如何处理跟老婆的关系
+[00:09:03.280 --> 00:09:08.400]  首先大家可能先要想好怎么去找一个好的老婆和老公
+[00:09:08.400 --> 00:09:11.600]  要比处理关系更加重要
+[00:09:11.600 --> 00:09:14.680]  因为这可能是唯一一个关系之一
+[00:09:14.680 --> 00:09:16.720]  那么我们就来看这个问题
+[00:09:16.720 --> 00:09:19.040]  关系中你是可以选择的
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__118__86d1aebf/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__118__86d1aebf/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__118__86d1aebf/out.json'
+
+whisper_print_timings:     load time =   826.86 ms
+whisper_print_timings:     fallbacks =   4 p /   0 h
+whisper_print_timings:      mel time =   272.55 ms
+whisper_print_timings:   sample time =  5610.10 ms / 20447 runs (     0.27 ms per run)
+whisper_print_timings:   encode time = 26511.42 ms /    21 runs (  1262.45 ms per run)
+whisper_print_timings:   decode time =  2273.28 ms /    39 runs (    58.29 ms per run)
+whisper_print_timings:   batchd time = 272895.97 ms / 20299 runs (    13.44 ms per run)
+whisper_print_timings:   prompt time =  6699.29 ms /  5150 runs (     1.30 ms per run)
+whisper_print_timings:    total time = 316143.12 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__118__86d1aebf/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

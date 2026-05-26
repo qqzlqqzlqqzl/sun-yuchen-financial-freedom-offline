@@ -1,0 +1,131 @@
+
+=== START 2026-05-26 11:12:05 ===
+{"id": "wavlake-mp3__081__b0c91068", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3", "filename": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3", "duration_seconds": 969.897521}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3' (15518361 samples, 969.9 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:04.260]  大家好,我是90后创业者孙宇晨。
+[00:00:04.260 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:18.940]  欢迎你到京东图书与我相遇。谢谢。
+[00:00:30.000 --> 00:00:45.720]  这个就是,我先做个广告,其实这个在我喜马拉雅的那一个,另外一个节目,如何找到一个好公司,其实那个回答挺好的。
+[00:00:45.720 --> 00:00:53.940]  如果你没听过,就可以听一下,很便宜,9块9,不过我现在可以告诉你我里面大概讲的什么。
+[00:00:53.940 --> 00:00:59.480]  但因为这个回答的时间比较短,我可能不能完全讲得非常详细。
+[00:00:59.940 --> 00:01:06.200]  其实我一般,其实这也不光投资了,其实我现在已经很少做投资,因为自己创业了。
+[00:01:06.200 --> 00:01:12.820]  但一般我们选择行业和选择公司,一般大概四个评价标准,一般有四个评价标准,就比较专业的来看。
+[00:01:12.820 --> 00:01:22.880]  第一个就是这个公司所在的行业以及这个公司能不能至少一百分之三十的,每年百分之三十的增长,增长十年,你受这样的判断。
+[00:01:22.880 --> 00:01:29.040]  如果没有这个增长空间,那就不值得去做这件事情。
+[00:01:29.880 --> 00:01:59.820]  第二个事情就是判断那个时间是不是到了,就因为很多事情,其实你做的时候,这个时机对不对非常重要,这个也是在森林代理里面,我觉得重点其实需要关注的,就很多事情其实没有对错,只有遇到的时间对不对,这个其实跟爱情其实某种程度上也很类似啊,就是两个人能不能在一块,其实跟人没有好坏的关系,有时候跟时机关系特别大,这是第二点,第三点就是你要看这一个,
+[00:01:59.820 --> 00:02:18.220]  你自己本身是不是适合,这一点也很重要,就比如说这机会再好,好去家里更加挖金矿,你又不想去,是不是,那你也硬把自己给折腾到那去挖金矿有什么必要呢,也没有这个必要,就是你也要判断你自己是不是适合这个机会,也很重要。
+[00:02:18.220 --> 00:02:29.440]  最后一点就是你要看这个年化增长百分之三十,还可以增长十年,同时时间又特别对,你自己又特别适合的这个时候。
+[00:02:29.760 --> 00:02:59.700]  你自己做的时候有没有做好准备也很重要,比如说举一个很简单的例子,我做直播,那你有没有做直播的团队,对吧,有没有做直播,比如说我昨天还是一个做地推做电商的,那你这个经验完全是做地推做电商的经验,对吧,你能不能去做呢,其实我觉得创意跟投资为什么是相通的,刚才这个是你自己判断你自己能不能去做这个事,如果你去投资的时候,那你就要看你去做这个事的刚才符不符合我们刚才所讲的所有的这些条件,是吧,
+[00:02:59.700 --> 00:03:29.640]  如果能全部符合,那这件事情可能就很适合你,如果不符合,那就做不了,但是这个机会怎么来的,那个是一样的机会碰的,它到了,来了,这个机会就属于你,还有一个我自己的礼物,就是机会特别多,其实机会根本不稀缺,所以你想要在一个地方待的时间都够长,机会会发现特别多的都来碰你,你最后需要用比较严苛的条件去把这些机会晒出来,就跟大宰冯总讲的,你拿一个比较大的机会,
+[00:03:29.640 --> 00:03:36.880]  你最后把那个粒最大的全都晒出来,然后这个就是适合你的,所以大概是一个这样的过程。
+[00:03:59.580 --> 00:04:29.520]  其实经验和学识,我觉得其实都不是太重要,我们往往夸大了这件事情对于成功的重要性,我觉得真的是这样,就是举一个,其实我还挺了解的,就你包括我一起创业的这三个小伙伴,其实我们最开始跟我们其实在可能学校一个学校读书的同学来相比,我们现在可能在那边比,可能算是在创业上,
+[00:04:29.520 --> 00:04:59.460]  比他们做的好一些,但你说要真正回到学校,成绩是不是一定每个人都比他们强,是吧,或者是人生经验是不是一定比我们的同学多,这个其实我觉得都是未必的,可能我的成绩好一点,大家知道我成绩都是第一,其实但是我觉得是未必的,最重要的我个人觉得还是选择的力量,就是我们是唯一可能我们那帮同学选择了去创业,他们根本就没人来练,是吧,这个我们经常讲的,
+[00:04:59.460 --> 00:05:29.400]  大家不知道,有一种哈佛有一本书,我记得印象特别深,就他经常讲,就是这个absent,就是缺席,其实决定了一切,就一个聚会,你是absent,你根本没来,是吧,结果最后发现一个聚会,其实真的是这样,大家发现最后来了的人就不多,包括今天,然后比如说来了的人就不多,是吧,你比如说干任何一个事情,创业总共去创的人就真不多,真是不多,其实我甚至某种程度上不是太多,
+[00:05:29.400 --> 00:05:58.980]  就是赞成,就是创业失败率特别高这个观念,我认为创业成功率太高,为什么,我们美大历史系,就我一个人创业就成功了,是吧,就是真是这样,我后来回头看,我们这一级的创业基本都成功了,也不是说,如果我们这成功也别定义太高,把一张上市人才成功,就至少现在自己公司活性好,养活二三十个人,四五十个人,没有任何压力的话,其实我后来,因为我们经常创业的人经常交流,我发现那一圈人都成多了,
+[00:05:59.340 --> 00:06:28.500]  成功率至少八十吧,所以我从这个角度来说,其实就是你选择创业其实挺重要的,就尤其是方方面面条件都够了,所以我个人觉得某种程度上选择的力量其实往往要大于经验和学识,当然我觉得经验学识是一个bottom line,也不能太低,是吧,比如说我说我学识不好,我问学识多不好,不识字,是吧,那也不行,
+[00:06:29.280 --> 00:06:34.300]  就是可能要基本过个线,但过了线之后,我觉得选择的力量打入学识的力量,
+[00:06:59.220 --> 00:07:29.160]  就是可能要尽量与学习的力量打入学识,那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:07:29.160 --> 00:07:59.140]  那也不行,就是可能要尽量与学识的力量打入学识,那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:07:59.140 --> 00:08:29.120]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:08:29.120 --> 00:08:59.100]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:08:59.100 --> 00:09:29.080]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:09:29.080 --> 00:09:59.060]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:09:59.060 --> 00:10:29.040]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:10:29.040 --> 00:10:59.020]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:10:59.020 --> 00:11:29.000]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:11:29.000 --> 00:11:58.980]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:11:58.980 --> 00:12:28.960]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:12:28.960 --> 00:12:58.940]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:12:58.940 --> 00:13:28.920]  那也不行,就是可能要尽量与学识的力量打入学识的力量,那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:13:28.920 --> 00:13:58.900]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:13:58.900 --> 00:14:28.880]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:14:28.880 --> 00:14:58.860]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:14:58.860 --> 00:15:28.840]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:15:28.840 --> 00:15:58.820]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:15:58.820 --> 00:16:08.940]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:16:08.940 --> 00:16:09.060]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:16:09.060 --> 00:16:09.120]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:16:09.120 --> 00:16:09.180]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+[00:16:09.180 --> 00:16:09.840]  那也不行,就是可能要尽量与学识的力量打入学识的力量,
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__081__b0c91068/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__081__b0c91068/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__081__b0c91068/out.json'
+
+whisper_print_timings:     load time =   794.23 ms
+whisper_print_timings:     fallbacks =   2 p /   0 h
+whisper_print_timings:      mel time =   362.08 ms
+whisper_print_timings:   sample time =  6436.76 ms / 18072 runs (     0.36 ms per run)
+whisper_print_timings:   encode time = 40794.96 ms /    33 runs (  1236.21 ms per run)
+whisper_print_timings:   decode time = 58544.65 ms /  1143 runs (    51.22 ms per run)
+whisper_print_timings:   batchd time = 252622.38 ms / 16755 runs (    15.08 ms per run)
+whisper_print_timings:   prompt time =  8981.02 ms /  7763 runs (     1.16 ms per run)
+whisper_print_timings:    total time = 370236.22 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__081__b0c91068/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

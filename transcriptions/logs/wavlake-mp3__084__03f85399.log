@@ -1,0 +1,193 @@
+
+=== START 2026-05-26 11:17:10 ===
+{"id": "wavlake-mp3__084__03f85399", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/084 - 084 - 084 孙宇晨：【不确定性】正收益系统叠加.mp3", "filename": "084 - 084 - 084 孙宇晨：【不确定性】正收益系统叠加.mp3", "duration_seconds": 471.295438}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/084 - 084 - 084 孙宇晨：【不确定性】正收益系统叠加.mp3' (7540728 samples, 471.3 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.720 --> 00:00:04.260]  大家好,我是90后创业者孙宇晨。
+[00:00:04.260 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:18.920]  欢迎你到京东图书与我相遇。谢谢。
+[00:00:18.920 --> 00:00:24.320]  大家好,我是宇晨。
+[00:00:24.320 --> 00:00:27.060]  今天又到了我们新的一期节目。
+[00:00:27.280 --> 00:00:39.560]  我们知道有很多现在年纪大的员工,比方说华为就曾经提出70后的员工由于学习新东西的速度太慢,很容易被时代淘汰。
+[00:00:39.560 --> 00:00:42.940]  这一点在客观情况上确实是存在的。
+[00:00:42.940 --> 00:00:51.180]  我以前公司的员工也有一些员工年纪大了,他就希望自己的技术能够一劳永逸,永远不用学习新的技术。
+[00:00:51.180 --> 00:00:56.960]  谁知道在互联网领域,技术更新的速度也是按月按年。
+[00:00:57.280 --> 00:01:06.760]  甚至按日记的,很快很多人他自己学到的看家本领,在短短的几年内就过时了。
+[00:01:06.760 --> 00:01:14.740]  这时候很多员工还希望停留在以前老的技术背景和技术框架下,希望能够一劳永逸。
+[00:01:14.740 --> 00:01:25.840]  但是这是不可能存在的,因此很多员工也渐渐失去了自己在技术中的优势,最后被行业和公司所淘汰。
+[00:01:25.960 --> 00:01:35.700]  那么除了微创新,不断试错,快速迭代,还有什么是在这个不确定性的互联网时代可以被使用的呢?
+[00:01:35.700 --> 00:01:41.060]  我们将这个理论称为正收益系统的不断叠加。
+[00:01:41.060 --> 00:01:44.620]  这是什么意思呢?我们可以给大家举个例子。
+[00:01:44.620 --> 00:01:50.260]  我们大家都知道,质硬币的正反面每次都是不确定性的。
+[00:01:50.260 --> 00:01:54.840]  但是我们也要意识到,只要你质的次数足够多,
+[00:01:55.240 --> 00:01:59.260]  正反面的概率一定是趋向50%的。
+[00:01:59.260 --> 00:02:01.980]  这是不确定性的确定性事件。
+[00:02:01.980 --> 00:02:06.840]  一张100张牌,里面有60张红的,40张黑的,
+[00:02:06.840 --> 00:02:10.960]  每次能抽到哪张牌是不确定性的。
+[00:02:10.960 --> 00:02:18.720]  但是我们也知道,只要我们抽的次数足够多,那一定是抽到红色的牌多。
+[00:02:18.720 --> 00:02:20.600]  这也是确定的。
+[00:02:20.600 --> 00:02:22.860]  因此在任何一个领域,
+[00:02:22.860 --> 00:02:25.220]  如果我们始终待在一个领域,
+[00:02:25.220 --> 00:02:27.840]  我们会把一个大概率为正收益的系统。
+[00:02:27.840 --> 00:02:32.000]  单次结果的收益是正是负,这我们不确定。
+[00:02:32.000 --> 00:02:37.600]  但我们可以确定的是,多次的结果收益一定是正的。
+[00:02:37.600 --> 00:02:39.780]  也就是说,你一定能赢。
+[00:02:39.780 --> 00:02:45.380]  所以在不确定性的时代,我们如果能找到正收益系统,
+[00:02:45.380 --> 00:02:53.220]  并不断将正收益系统叠加,也是一个在不确定性时代很好的生存方式。
+[00:02:53.220 --> 00:02:55.200]  那么对于普通人来说,
+[00:02:55.200 --> 00:02:59.880]  怎样才能找到一个大概率为正收益的系统呢?
+[00:02:59.880 --> 00:03:01.940]  我们举些例子。
+[00:03:01.940 --> 00:03:04.880]  平常我们在节目中经常提到的,
+[00:03:04.880 --> 00:03:12.440]  北上广深、航等一线城市就是一个大概率为正收益的系统。
+[00:03:12.440 --> 00:03:19.160]  举个例子,互联网高科技行业也是一个大概率为正收益的系统。
+[00:03:19.160 --> 00:03:25.180]  所以两个系统的叠加在北上广深行从事高科技行业,
+[00:03:25.180 --> 00:03:30.420]  高科技互联网行业本身就是一个双正收益型。
+[00:03:30.420 --> 00:03:32.500]  所以从这个角度来说,
+[00:03:32.500 --> 00:03:38.900]  即便这个简单的例子也是中国普通人实现自我财富自由,
+[00:03:38.900 --> 00:03:42.780]  实现自我财富增值最好的机会。
+[00:03:42.780 --> 00:03:47.300]  这就是为什么我们时常经常跟别人提起的,
+[00:03:47.300 --> 00:03:51.380]  到一线城市来,到互联网行业来的原因。
+[00:03:51.380 --> 00:03:55.160]  再举个例子,我们在投资中,
+[00:03:55.160 --> 00:03:58.480]  时常给大家推荐,叫做三个叠加,
+[00:03:58.480 --> 00:04:01.060]  行业大周期叠加,
+[00:04:01.060 --> 00:04:04.000]  公司小周期叠加,
+[00:04:04.000 --> 00:04:07.000]  还有创始人自己的小小周期,
+[00:04:07.000 --> 00:04:10.280]  往往也能决定一个公司的发展。
+[00:04:10.280 --> 00:04:13.260]  从投资的角度来说,
+[00:04:13.260 --> 00:04:17.060]  我们就是要在行业的低谷周期,
+[00:04:17.060 --> 00:04:21.760]  公司的低谷周期和创始人的低谷周期叠加时进入,
+[00:04:21.760 --> 00:04:24.240]  在创始人的正周期,
+[00:04:24.240 --> 00:04:25.140]  公司的正周期,
+[00:04:25.140 --> 00:04:30.060]  和行业的正周期这个大周期时抛出这样的投资,
+[00:04:30.060 --> 00:04:34.140]  往往就具有很强的收益确定性。
+[00:04:34.140 --> 00:04:42.380]  这也是负收益系统的叠加和正收益系统的叠加所造成投资收益的重大差别。
+[00:04:42.380 --> 00:04:45.360]  而如果说每一次叠加是两倍的话,
+[00:04:45.360 --> 00:04:48.160]  这样的叠加效率至少是八倍,
+[00:04:48.160 --> 00:04:49.740]  就是二乘二乘二,
+[00:04:49.740 --> 00:04:53.220]  而且有时候甚至是指数型增长,
+[00:04:53.220 --> 00:04:54.820]  要比你平常,
+[00:04:55.120 --> 00:04:57.580]  想象的威力要大得多。
+[00:04:57.580 --> 00:05:02.680]  其实要发现大概率为正收益的系统并不难,
+[00:05:02.680 --> 00:05:06.520]  难的是你在发现这样的收益系统后,
+[00:05:06.520 --> 00:05:09.240]  能不在乎单次的输赢,
+[00:05:09.240 --> 00:05:12.280]  并始终坚持它一定能赢,
+[00:05:12.280 --> 00:05:15.660]  经过大概率的筛选筛选出正收益。
+[00:05:15.660 --> 00:05:16.500]  举个例子,
+[00:05:16.500 --> 00:05:19.960]  很多人好不容易狠心来到了北上广,
+[00:05:19.960 --> 00:05:21.000]  没干几天,
+[00:05:21.000 --> 00:05:22.300]  遇到一些挫折,
+[00:05:22.300 --> 00:05:24.420]  马上就心灰意冷,
+[00:05:24.420 --> 00:05:25.100]  立刻逃跑,
+[00:05:25.300 --> 00:05:26.320]  逃离了北上广。
+[00:05:26.320 --> 00:05:29.820]  这就好像三次如果你制骰子都是反面,
+[00:05:29.820 --> 00:05:31.320]  觉得自己手气不行,
+[00:05:31.320 --> 00:05:32.640]  马上不玩了,
+[00:05:32.640 --> 00:05:35.780]  这样的话你也等不来正面的机会。
+[00:05:35.780 --> 00:05:37.780]  所以从这个角度来说,
+[00:05:37.780 --> 00:05:40.420]  选择收益率为正的系统,
+[00:05:40.420 --> 00:05:46.520]  不断坚持等到大概率正收益的出现也是非常重要的。
+[00:05:46.520 --> 00:05:49.540]  就像我们平常推荐的投资机会,
+[00:05:49.540 --> 00:05:53.520]  在短暂的范围内它确实是有涨有跌,
+[00:05:53.520 --> 00:05:54.920]  但是如何,
+[00:05:55.080 --> 00:06:01.380]  如何能够坚持住享受长线的正收益系统所带来的溢价,
+[00:06:01.380 --> 00:06:04.120]  这就需要我们的不断坚持了。
+[00:06:04.120 --> 00:06:06.640]  这也是巴菲特经常讲的,
+[00:06:06.640 --> 00:06:11.920]  我们在滚雪球时不仅需要滚雪球这个动作本身,
+[00:06:11.920 --> 00:06:15.120]  还要有一个足够长的雪道,
+[00:06:15.120 --> 00:06:19.900]  很有可能在滚雪球的当初由于磕磕碰碰,
+[00:06:19.900 --> 00:06:25.000]  由于这个波动雪球上的雪甚至变得更少了,
+[00:06:25.180 --> 00:06:29.480]  但是如果我们一直坚持下去在一个长雪道进行滚雪球,
+[00:06:29.480 --> 00:06:33.580]  无断的积累最后总能产生正收益。
+[00:06:33.580 --> 00:06:36.640]  比特币也是这样一个典型的例子,
+[00:06:36.640 --> 00:06:42.980]  比特币表面上看起来每日的比特币的价格会大涨大跌,
+[00:06:42.980 --> 00:06:45.460]  但是从长时间周期来看,
+[00:06:45.460 --> 00:06:50.020]  一个去中心化的金融系统的发展是大势所趋,
+[00:06:50.020 --> 00:06:54.860]  这也是为什么在比特币时间如果持币长达
+[00:06:55.040 --> 00:07:00.880]  三到四年的情况下从来没有见过任何一个人因持有比特币而亏损,
+[00:07:00.880 --> 00:07:09.360]  但是在短途追涨杀跌很多人却在比特币世界赔得倾家荡产的重要原因之一,
+[00:07:09.360 --> 00:07:18.660]  这就是确定性和不确定性无断叠加所造成的一个像交响乐一样美妙的事情,
+[00:07:18.660 --> 00:07:24.860]  这就要求你知道交响乐什么时候是高潮什么时候是低潮,
+[00:07:25.020 --> 00:07:32.320]  运用这个高潮与低潮交相辉映的方式最后演奏出一个美丽的交响乐。
+[00:07:32.320 --> 00:07:35.900]  好,今天我们对不确定性的讲解就到这里,
+[00:07:35.900 --> 00:07:37.020]  谢谢大家。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__084__03f85399/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__084__03f85399/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__084__03f85399/out.json'
+
+whisper_print_timings:     load time =   854.65 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   184.91 ms
+whisper_print_timings:   sample time =  3179.00 ms / 11585 runs (     0.27 ms per run)
+whisper_print_timings:   encode time = 20452.58 ms /    16 runs (  1278.29 ms per run)
+whisper_print_timings:   decode time =  2803.35 ms /    46 runs (    60.94 ms per run)
+whisper_print_timings:   batchd time = 149211.94 ms / 11460 runs (    13.02 ms per run)
+whisper_print_timings:   prompt time =  3727.69 ms /  3474 runs (     1.07 ms per run)
+whisper_print_timings:    total time = 181204.14 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/084 - 084 - 084 孙宇晨：【不确定性】正收益系统叠加.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__084__03f85399/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

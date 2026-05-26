@@ -1,0 +1,151 @@
+
+=== START 2026-05-26 11:01:41 ===
+{"id": "wavlake-mp3__073__e839750d", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3", "filename": "073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3", "duration_seconds": 667.480833}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3' (10679694 samples, 667.5 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:18.940]  大家好,我是90后创业者孙宇晨,我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版,欢迎你到京东图书与我相遇,谢谢。
+[00:00:22.600 --> 00:00:46.300]  我们这一章主要讲原始积累个人奋斗在中国的合法性,这一章非常重要,为什么呢?实际上某种程度上也是我前面讲的战略决定一切,个人奋斗、原始积累如果在中国连合法性、道德上的合法性都建立不起来的话,那这国家、这民族还谈何发展?根本没法发展。
+[00:00:46.300 --> 00:00:50.300]  我一直以来从…
+[00:00:51.100 --> 00:01:13.440]  大家也知道我个人的人生其实就是个活生生的励志故事,是吧?从一个四五线小城市的小镇青年通过自己努力现在在北京能够立足,养活三四十个员工,是不是啊?我们一年还创造几千万的净利润,这就是中国最励志的故事,而且我相信我们会发展得越来越好。
+[00:01:13.440 --> 00:01:19.600]  这一路上,我自己觉得面临的一个很大的问题也是。
+[00:01:19.600 --> 00:01:28.780]  中国这个国家虽然允许我们原始积累、个人奋斗,但是往往在道德上并不具有合法性,往往别人会指责你。
+[00:01:28.780 --> 00:01:48.820]  你明明干得好好的,发展也很好,有人就会说你没有社会责任,或者说你个人奋斗是为了一己之私,为了个人私利,你不叫赚钱吗?对不对?有什么高尚的?你不叫赚钱吗?你怎么不给社会捐点呢?
+[00:01:49.600 --> 00:01:55.360]  甚至他们认为人不可以谋取任何私利,只要一个人跟他们说,好,我们是为了人民服务,他觉得是对的。
+[00:01:55.360 --> 00:02:06.960]  那如果你说不,我就是把自己想把自己的日子过好,照顾好家人,他说你这是自私的,你怎么能这样想问题呢?像中国类似的这种道德层面的指责,非常多。
+[00:02:06.960 --> 00:02:16.460]  从这个层面啊,我经常会说我们中国其实就是16世纪的,或者17世纪,18世纪的德国。
+[00:02:17.220 --> 00:02:20.780]  16世纪,18世纪这个德国有什么问题啊?
+[00:02:20.780 --> 00:02:29.020]  就是当时我们这个称为啊,这个其实欧洲历史上有一千多年,都是这个黑暗时代。
+[00:02:29.020 --> 00:02:33.200]  黑暗时代什么时代?就基督教统治的黑暗时代。
+[00:02:33.200 --> 00:02:40.260]  为什么是黑暗时代呢?他们这个黑暗跟我们现在的情况差不多,就基督教也不允许人赚钱。
+[00:02:40.260 --> 00:02:46.000]  你一赚钱就坏人,你一做企业你就坏人。
+[00:02:46.000 --> 00:02:47.200]  为什么呢?
+[00:02:47.220 --> 00:02:54.400]  因为基督教的话讲就是,你应该把你更多的时间用来侍奉上帝啊,对吧?
+[00:02:54.400 --> 00:03:04.360]  你应该用你更多时间为别人而奋斗啊,应该创造更多价值给社会啊,跟今天中国这个我们讲的言论如出一辙。
+[00:03:04.360 --> 00:03:10.400]  那如果有的人就特别奋斗,就特别有钱怎么办呢?基督教就吓他们。
+[00:03:10.400 --> 00:03:13.320]  就是你这样你就会进地狱的,我跟你讲。
+[00:03:13.320 --> 00:03:17.200]  你死了你就进地狱,因为是坏人,你怎么能老赚钱呢?
+[00:03:17.220 --> 00:03:18.820]  坏人,你是坏人。
+[00:03:18.820 --> 00:03:21.800]  那有的人真被他吓住了,是吧?
+[00:03:21.800 --> 00:03:23.980]  那就问,那我是坏人我怎么办啊?
+[00:03:23.980 --> 00:03:27.780]  基督教说,嗯,那我给你卖一个赎罪券。
+[00:03:27.780 --> 00:03:31.520]  你买了这个赎罪券你就不会下地狱了。
+[00:03:31.520 --> 00:03:36.340]  就我,我上帝的红人我告诉你,你不认识上帝吧?
+[00:03:36.340 --> 00:03:41.080]  我跟上帝倍儿熟,耶稣基督我哥们儿,就是那神父,是吧?
+[00:03:41.080 --> 00:03:43.640]  就会这么给你吹,耶稣基督我哥们儿,是吧?
+[00:03:43.640 --> 00:03:46.100]  我给你走个后门。
+[00:03:46.740 --> 00:03:52.560]  你给我转一万块钱,我给你走个后门,看上帝能不能对你网开一面。
+[00:03:52.560 --> 00:03:55.440]  所以就有了一种东西叫做赎罪券。
+[00:03:55.440 --> 00:03:58.880]  这赎罪券就是一本万利的生意啊。
+[00:03:58.880 --> 00:04:02.200]  那基督教走个后门,上帝根本就不存在,对吧?
+[00:04:02.200 --> 00:04:05.740]  那他走个后门,就装他腰包了,他也不会真打。
+[00:04:05.740 --> 00:04:08.840]  上帝难道还在招商银行开了银行账户了,对吧?
+[00:04:08.840 --> 00:04:12.860]  他不可能真打上帝账户上啊,是吧?
+[00:04:12.860 --> 00:04:16.720]  上帝可能存在啊,这我们也不,我们读者也有些,
+[00:04:16.740 --> 00:04:23.100]  我们是宗教朋友嘛啊,但是我相信任何一个人也知道上帝没有在招商银行开,开户啊。
+[00:04:23.100 --> 00:04:25.900]  所以他不可能把这钱转给上帝,对不对?
+[00:04:25.900 --> 00:04:30.500]  那他不就自己黑了啦,对吧?教会自己黑了,这教会的主要收入啊。
+[00:04:30.500 --> 00:04:36.580]  然后这时候,马克思韦伯写过一本书,叫《新教伦理的资本主义精神》。
+[00:04:36.580 --> 00:04:46.260]  这个资本主义啊,开端,这伟大的资本主义开端,就是新教伦理的改革作为铺垫,当时就出了一个人叫马克思。
+[00:04:46.260 --> 00:04:46.260]  当时就出了一个人叫马克思。
+[00:04:46.260 --> 00:04:46.260]  当时就出了一个人叫马克思。
+[00:04:46.260 --> 00:04:47.260]  当时就出了一个人叫马丁路德。
+[00:04:47.260 --> 00:05:01.740]  马丁路德这人干嘛呢?他就给说,大家不用这样想问题,每个人只要赚钱本身就是在服侍上帝。
+[00:05:01.740 --> 00:05:06.260]  后来出了加尔文,讲的就更深刻了。
+[00:05:06.260 --> 00:05:15.780]  赚钱本身就是交易,大家怎么赚的钱不就是交易吗,对吧?都是通过交易来完成赚钱的。
+[00:05:15.780 --> 00:05:32.940]  交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。
+[00:05:32.940 --> 00:05:32.960]  交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。
+[00:05:32.960 --> 00:05:33.140]  交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。
+[00:05:33.140 --> 00:06:01.440]  交易本身就在为社会做贡献,所有人的生活都改善,所以好好工作,赚钱本身就是最大的道德,赚钱就是最大的信上帝,赚钱就是最大的有道德,除此之外不需要再做任何事情,不需要去教会买那个赎罪券跟上帝走后门。
+[00:06:02.660 --> 00:06:18.040]  上帝就是一个很好的CEO,就比如说我是公司的CEO,公司的员工还需要贿赂我才需要升职吗?当然不需要,他成绩干得好,我是看在眼里的,他成绩干得差,我也是看在眼里的。
+[00:06:18.040 --> 00:06:32.180]  我自然会把那些成绩干得差的员工开掉,把成绩干得好的员工提拔起来,这时候不需要再出现,成绩干的那些好的员工还需要提心吊胆,给我顺便还得送礼。
+[00:06:32.180 --> 00:07:01.700]  他得送礼才能受到提拔吗?才能涨工资吗?当然不需要,我是看着他的成绩的,上帝也是这样一个CEO,你升天堂还下地狱,我们就看你赚钱赚的多还赚的少,你要赚的多就升天堂,赚的少就下地狱,赚的多的人不需要再提心吊胆,还去买那个赎罪券跟上帝走后门,才能日后升天堂吗?不需要,因为你赚钱本身就是信上帝,赚钱本身就是有道德。
+[00:07:01.700 --> 00:07:17.700]  你赚钱本身好好工作,赚钱创业,就可以获得道德程度的满足感,你就是一个高尚的人,就是一个伟大的人,就是一个为人民服务的人。
+[00:07:31.220 --> 00:07:51.740]  整个新教伦理是工业革命的前提条件,是人类科技发展的前提条件,我们后来发现恰恰是新教伦理解放了整个人类的思想,才涌现出了大量的创业家,科学家,发明家,开启了工业革命,开启了人类的下一轮的文明进程。
+[00:08:00.740 --> 00:08:30.260]  整个新教伦理是工业革命的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件,是人类科技发展的前提条件。
+[00:08:30.260 --> 00:08:59.780]  他们都得意了,那自然我也上天堂了,因为大家可能因为我们中国是个不信教的民族嘛,绝大多数人不信宗教,所以大家可能体会不到这个宗教这个道德感给人带来的感召力,我某种程度上其实是是可以感受到,为什么呢,一个我在美国待了很长时间,其实对美国这种宗教对他的这个motivation啊,就这个动力有很强的刺激力,同时呢,啊,我觉得
+[00:08:59.780 --> 00:09:29.240]  通过赚钱获得的道德满足感和社会成就感本身确实能激励一个人前所未有的为了这个社会努力奋斗,这个社会最大的问题就是不能让那些努力奋斗好好赚钱踏实工作的人寒了心,结果你告诉他不,你每天努力工作好好工作,创业养活这么多员工给国家纳了税,或者你就哪怕是打工自己工作纳了这么多税,
+[00:09:29.300 --> 00:09:58.820]  你是个坏人,你怎么能这样呢,你是个坏人,你看隔壁张三好吃懒做,他是好人,这样的话,整个国家道德水准啊,就会大幅划破,整个国家就会完蛋,所以一定要在这一点上非常明确,我记得不知道大家有没有,我记得其实我们以前小时候学历史课本的时候,我们那个时候其实就已经开始教了,我记得当时我们就背过,就是新教伦理,就是工业革命的前提,
+[00:09:58.820 --> 00:10:28.340]  就一个国家想在经济上获得大的发展,一个公司想在方方面面获得大的发展,就要相信交易的力量,相信资本的力量,相信努力的力量,相信个人奋斗的力量,你相信我只要做好交易,做好生意,个人奋斗,就生活一定会变好,别人也会认为我是个好人,我也会踏踏实实的去推动自己,
+[00:10:28.340 --> 00:10:54.300]  我会去推动这个社会的进步,不需要再偷鸡摸狗,不需要再伪善装,是不是啊,不需要做任何,只要我保持着真诚,保持着努力,就能够顺利的成为这个社会的中间力量,就可以在这个社会的发展中分享红利,这不光可能是我们平常做事情,甚至是一个国家,一个民族的立根之本。
+[00:10:58.340 --> 00:11:07.400]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__073__e839750d/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__073__e839750d/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__073__e839750d/out.json'
+
+whisper_print_timings:     load time =   798.30 ms
+whisper_print_timings:     fallbacks =   0 p /   2 h
+whisper_print_timings:      mel time =   261.95 ms
+whisper_print_timings:   sample time =  5183.52 ms / 16340 runs (     0.32 ms per run)
+whisper_print_timings:   encode time = 29233.60 ms /    24 runs (  1218.07 ms per run)
+whisper_print_timings:   decode time = 12860.61 ms /   225 runs (    57.16 ms per run)
+whisper_print_timings:   batchd time = 232164.22 ms / 16008 runs (    14.50 ms per run)
+whisper_print_timings:   prompt time =  5739.05 ms /  5263 runs (     1.09 ms per run)
+whisper_print_timings:    total time = 287528.50 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__073__e839750d/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

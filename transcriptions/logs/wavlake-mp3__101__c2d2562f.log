@@ -1,0 +1,119 @@
+
+=== START 2026-05-26 11:30:40 ===
+{"id": "wavlake-mp3__101__c2d2562f", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/101 - 101 - 102 孙宇晨：【比特币】比特币如何实现？.mp3", "filename": "101 - 101 - 102 孙宇晨：【比特币】比特币如何实现？.mp3", "duration_seconds": 362.022333}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/101 - 101 - 102 孙宇晨：【比特币】比特币如何实现？.mp3' (5792358 samples, 362.0 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:10.340]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:30.000 --> 00:00:43.400]  那大家说,比特币是这么伟大的一个自由货币啊,那从这个角度来说,它到底是怎么实现它的自由,怎么样在互联网上发行,在互联网上流通而被互联网承认的呢?
+[00:00:43.400 --> 00:00:46.720]  那么今天我们就用五分钟来简短的介绍一下。
+[00:00:46.720 --> 00:00:58.600]  其实啊,我们有时候想一想,货币之所以在这个世界存在,能够被我们每个人所接纳,我们真真正正只需要一个很简单的属性,是什么属性呢?
+[00:00:58.600 --> 00:01:17.100]  那就是我们需要一个账本,其实绝大多数时候,除了我们的食物的时候,大家在交换我们食物的货币时候,绝大多数我们在银行转账的时候,99%的场景啊,其实大家根本就不需要现金,只需要银行账号数据的转换。
+[00:01:17.100 --> 00:01:26.760]  比如说,我给了张三100块钱,那么就是在我的账户中减去100,然后在张三的账户中加100。
+[00:01:27.200 --> 00:01:32.260]  那么这么一个动作,其实就是由数据库的变化来实现的。
+[00:01:32.260 --> 00:01:53.700]  那么比特币只做了一件很简单的事情,那么就是这样的,比特币是一个P2P点对点的网络,在这个网络中,对账本任何程度的修改,都要通过一个去中心化的网络,由版本中所有的计算机来完成,这样一个账本才被认为是有效的。
+[00:01:54.040 --> 00:02:03.600]  那么大家就发现了,在这个其中,写账本的权利,从以前一个中心化的服务器,变成了P2P中网络中所有参加的计算机。
+[00:02:03.600 --> 00:02:11.260]  这是一个重大的转变,因为每个计算机都是自由的,每个计算机都是控制在不同人手中的。
+[00:02:11.260 --> 00:02:19.800]  任何一个人想通过控制全网的计算机来进行对账本的篡改和造假,都是非常困难的。
+[00:02:19.800 --> 00:02:23.800]  因此,它就将整个修改账本的权利赋予了P2P。
+[00:02:24.040 --> 00:02:36.680]  整个互联网,比如说我们当比特币世界发起一笔交易的时候,付款方对交易进行数字签名,表示他自己对这个钱的拥有,以及表示他认可这个交易。
+[00:02:36.680 --> 00:02:45.520]  这时候呢,比特币就会被记录在收款人的地址上,交易无需收款方的参与,收款方也可以不在线。
+[00:02:45.520 --> 00:02:53.060]  这时候呢,当这笔交易被付款方的数字签名所确认,全网的计算机都会对它进行验证。
+[00:02:53.460 --> 00:03:01.360]  如果这笔交易被全网的计算机所验证,大家就会将这一笔永久的写在整个比特币网络过程中。
+[00:03:01.360 --> 00:03:08.120]  我们是分为好几次,收入交易的区块被广播之后,这个交易就拥有了一次确认。
+[00:03:08.120 --> 00:03:18.100]  而当这一个交易的确认数达到6的时候,这笔交易就会被认为是比较安全,难以逆转,永久写入比特币的网络了。
+[00:03:18.100 --> 00:03:23.360]  所以从这个角度讲,我们会发现,其实比特币就是一套P2P。
+[00:03:23.360 --> 00:03:35.460]  P2P是一个去中心化的记账体系,比特币其实就是一个分布式的数据库,而这套分布式数据库的修改方式是通过P2P的方式来实现的。
+[00:03:35.460 --> 00:03:41.560]  而进行金融交易恰恰是这个P2P的数据库一个最好的应用。
+[00:03:41.560 --> 00:03:53.120]  所以这是我们为什么经常也听到一句非常有名的话叫做,区块链的第一个应用是比特币,比特币本身就是比特币的第一个应用。
+[00:03:53.260 --> 00:04:09.580]  目前来说,我们知道比特币P2P网络,它的真正的保证它安全的后盾是它的计算能力,所以如果从这个角度来说,如果说有什么可以动摇比特币的安全性的话,
+[00:04:09.580 --> 00:04:23.160]  核心还是有能够比全网比特币更强大的算力,比如说类似于像量子计算机这样的技术出现,可能会对比特币的密码学进行颠覆,从而使得它。
+[00:04:23.160 --> 00:04:33.840]  失去它今天的安全性,在此之前,比特币作为整个互联网上最安全的货币,最自由的货币,这一点是当之无愧的。
+[00:04:33.840 --> 00:04:41.500]  这时候我们就可以再引入一个挖矿的概念了,我们大家经常知道,比特币里面有人挖矿可以赚钱,那这是怎么回事呢?
+[00:04:41.500 --> 00:04:53.060]  这就是因为比特币为了奖励大家一起来做交易确认,让所有加入交易确认的人都可以获得一定成,当你每次做好交易确认之后,
+[00:04:53.060 --> 00:05:06.620]  都可以获得一定程度的比特币作为奖励,这个确认的过程就被我们称作是挖矿,而获得比特币就叫做我们获得的奖励,而从事这些人,我们就经常称他们为矿工。
+[00:05:06.620 --> 00:05:22.440]  所以从这个角度来说,我们也知道,矿工其实是比特币中的火雷锋,因为比特币这个网络恰恰是由于千百万个矿工在为着自己的自利获得比特币,获得报酬,而做着交易确认,而实现了全网的安全性。
+[00:05:22.960 --> 00:05:34.600]  所以从这个角度来说,我们经常知道,算力即权力,也就是说,比特币之所以能拥有今天这个自由网络的权力,恰恰是千百个矿工进行计算给它带来的。
+[00:05:34.600 --> 00:05:45.300]  同时,在网络中,算力拥有多的矿工也被认为是在比特币中具有能量更大的力量,所以从这个角度来说,算力即权力。
+[00:05:52.860 --> 00:05:58.240]  这我认为也是人类在自由史上的又一大突破。
+[00:05:58.240 --> 00:05:58.740]  谢谢。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__101__c2d2562f/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__101__c2d2562f/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__101__c2d2562f/out.json'
+
+whisper_print_timings:     load time =   768.97 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   133.02 ms
+whisper_print_timings:   sample time =  2750.33 ms /  9004 runs (     0.31 ms per run)
+whisper_print_timings:   encode time = 15370.06 ms /    13 runs (  1182.31 ms per run)
+whisper_print_timings:   decode time =  6610.98 ms /    91 runs (    72.65 ms per run)
+whisper_print_timings:   batchd time = 128536.66 ms /  8852 runs (    14.52 ms per run)
+whisper_print_timings:   prompt time =  2873.89 ms /  2743 runs (     1.05 ms per run)
+whisper_print_timings:    total time = 157694.86 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/101 - 101 - 102 孙宇晨：【比特币】比特币如何实现？.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__101__c2d2562f/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

@@ -1,0 +1,171 @@
+
+=== START 2026-05-26 11:43:06 ===
+{"id": "wavlake-mp3__112__65d1092d", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/112 - 112.mp3", "filename": "112 - 112.mp3", "duration_seconds": 448.214792}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/112 - 112.mp3' (7171437 samples, 448.2 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:03.900]  大家好,我是陪我APP创始人孙宇晨。
+[00:00:03.900 --> 00:00:07.420]  我想邀你一起与我踏上财富自由革命之路。
+[00:00:07.420 --> 00:00:10.300]  我在财富自由的另一边等着你。
+[00:00:10.300 --> 00:00:18.480]  无事因果关系经常也会导致很多让人啼笑劫非的现象和结果。
+[00:00:18.480 --> 00:00:23.820]  在古代,当然中国也是包括了,还有一些非洲啊,包括大洋洲的一些原始部落。
+[00:00:23.820 --> 00:00:28.800]  大家遇到天灾人祸遗难杂症,当时也会往往求助于巫术。
+[00:00:29.320 --> 00:00:32.260]  但这个巫术某种程度上可能脑洞开得比中医还要大。
+[00:00:32.260 --> 00:00:38.280]  小学的时候我们以前就学过一个课文叫《西门豹治河》的故事。
+[00:00:38.280 --> 00:00:46.980]  当时大家认为发洪水就是河伯不高兴了,所以我们要把美女扔进河里,给河伯送上美女让他高兴起来。
+[00:00:46.980 --> 00:00:58.640]  村庄就能够免受洪水之灾,所以每年都要挑美女就往河里扔,包括祭祀同男同女啊,这些陋习其实都是我们。
+[00:00:58.640 --> 00:01:06.980]  我们没有办法很好地去控制生活中的因果关系,从而不得不求助于安慰剂的一种方式。
+[00:01:06.980 --> 00:01:13.440]  大家其实某种程度上啊,如果科学达不到,你可以把这个事情当作是一个安慰剂,就是placebo,当作安慰剂。
+[00:01:13.440 --> 00:01:20.440]  当然了,今天比如说我们大家求雨,我们不会再把女生给扔到河里去求雨啊。
+[00:01:20.440 --> 00:01:23.560]  现在我们有很多人工降雨技术来进行降雨。
+[00:01:23.560 --> 00:01:27.120]  但是某种程度上呢,我们今天还要讲一种。
+[00:01:27.960 --> 00:01:35.020]  一代医学的方式方法,比如说我们假设咱们听这个节目的观众啊,其实80后和90后为主。
+[00:01:35.020 --> 00:01:44.820]  那比如说我们这个世代的父母那一辈啊,很多人其实非常相信中医的,包括我的父母啊,也是比较相信中医的。
+[00:01:44.820 --> 00:01:52.740]  但这个地方呢,我严重建议大家千万你不要走到父母面前说中医是假的。
+[00:01:52.740 --> 00:01:57.700]  这也不符合咱们这个节目一贯倡导的和解的这个特质。
+[00:01:57.960 --> 00:02:00.740]  包括美国的医生在内。
+[00:02:00.740 --> 00:02:26.340]  就是经常如果比如说你为你的父母做治疗的时候,比如说你最后去跟医生说,我妈妈呢,这两天听了说这个必须吃一公一母的这个两个蟋蟀啊,抓了之后,而且这个两个一公一母的蟋蟀作用是同男同女的蟋蟀,这蟋蟀还不能交配过,同男同女的蟋蟀,洗净后服下,他的病就会好。
+[00:02:26.340 --> 00:02:27.740]  问医生,你觉得?
+[00:02:27.960 --> 00:02:29.280]  有这个偏方,咱们干嘛?
+[00:02:29.280 --> 00:02:34.780]  往往这时候这个医生说啊,他就希望你注意两点。
+[00:02:34.780 --> 00:02:39.360]  第一点呢,就这个蟋蟀最好还是炸一下,煮熟了。
+[00:02:39.360 --> 00:02:45.360]  包括可能你是把这个蟋蟀的这个卵的这个部分得剔掉,因为这里面有很多寄生虫啊。
+[00:02:45.360 --> 00:02:57.880]  如果你能做到这些,就是你妈把这个同男同女这个蟋蟀吃进去,对你没有任何影响的前提条件下,就他对他的健康状况没有任何负面影响的前提下。
+[00:02:57.960 --> 00:03:01.580]  其实医生是建议你嘛,去服用这个蟋蟀。
+[00:03:01.580 --> 00:03:03.300]  为什么呢?
+[00:03:03.300 --> 00:03:08.460]  这就讲到我们前面第一章给大家讲的时候,这医学的一些特质。
+[00:03:08.460 --> 00:03:14.240]  就是往往医生啊,他用的很多东西也是在帮助你的身体recover。
+[00:03:14.240 --> 00:03:17.760]  因为你很相信嘛,你就说我做这些一定会好。
+[00:03:17.760 --> 00:03:24.460]  所以他本来对你这个身体就有一个正向程度的暗示影响,这医生认为也是很重要的。
+[00:03:24.460 --> 00:03:27.580]  所以医生本身啊,美国医生也会打击你。
+[00:03:27.960 --> 00:03:31.280]  说你这个啊,是完全是Boucher,怎么能这么认为呢?
+[00:03:31.280 --> 00:03:33.740]  你这患者三观是错的,好好听我的。
+[00:03:33.740 --> 00:03:36.400]  美国医生不会这样说,美国医生好,太好了。
+[00:03:36.400 --> 00:03:42.880]  而且他根本不会用刚才我说Boucher这种词,他会Oh, fabulous, great,是吧?
+[00:03:42.880 --> 00:03:46.260]  非常鼓励你的这种啊,that's good, so good。
+[00:03:46.260 --> 00:03:49.540]  我们建议你try this medicine,对不对?
+[00:03:49.540 --> 00:03:52.640]  然后let's see the outcome,是不是来看会不会不错。
+[00:03:52.640 --> 00:03:55.320]  还会鼓励你,encourage you,是吧?
+[00:03:55.320 --> 00:03:57.920]  这个医生的这个脸笑的不要。
+[00:03:57.960 --> 00:03:58.560]  太开。
+[00:03:58.560 --> 00:04:00.100]  那为什么是这样呢?
+[00:04:00.100 --> 00:04:08.640]  本质就是我们刚才讲的,就现代医学都有只起那么30%作用,很多,你身体还起70%。
+[00:04:08.640 --> 00:04:19.740]  所以如果你要真信了,吃这个一公一母的蟋蟀对你来说能治胃病,或者能治什么病,对提升你的自己的治愈能力是好处,真的是有好处。
+[00:04:19.740 --> 00:04:26.120]  所以美国医生整体对于这替代医学都是比较宽容,不光对于中国的替代医学宽容。
+[00:04:26.120 --> 00:04:27.460]  他对印第安的巫医。
+[00:04:27.960 --> 00:04:33.500]  当然有些问医生,这个我妈说回去只要什么那巫师围着他跳两圈舞就能好。
+[00:04:33.500 --> 00:04:36.960]  这医生当然更鼓励了,因为你不吃什么坏的东西吧。
+[00:04:36.960 --> 00:04:52.760]  但大家要注意,我刚才也讲了,这个美国医生一定要提醒你,你一旦如果吃什么东西的话,你一定要注意,认真把这个吃下去的东西的卫生条件要调整过来。
+[00:04:52.760 --> 00:04:57.760]  千万不要因此发生感染,或者发生寄生虫。
+[00:04:57.960 --> 00:05:01.320]  这些也都是我们非常要注意的。
+[00:05:01.320 --> 00:05:03.480]  你不能热乎乎的直接往嘴里塞啊。
+[00:05:03.480 --> 00:05:08.800]  有的听众可能觉得我刚才举蟋蟀这个例子已经很恶心了。
+[00:05:08.800 --> 00:05:15.720]  但是其实你去看看我们中国的本草纲目,我们国家的药啊,是非常挑战你的想象力了。
+[00:05:15.720 --> 00:05:24.140]  有包括人中黄,就大便,牙垢,人尿,月经,紫荷车,阴毛等等都是药材。
+[00:05:24.140 --> 00:05:26.840]  光听这些名字你都能吐了。
+[00:05:26.840 --> 00:05:27.940]  更别说让你吃下来。
+[00:05:27.960 --> 00:05:29.840]  但有的人真的可能是会信的。
+[00:05:29.840 --> 00:05:36.960]  不过今天很多人信中医,其实早在很多年前鲁迅就写了好几篇文章揭露中医的本质。
+[00:05:36.960 --> 00:05:40.360]  就把鲁迅的亲爹啊,就是被中医给制死了。
+[00:05:40.360 --> 00:05:43.420]  当时鲁迅写篇文章《父亲的病》里面就详细记载。
+[00:05:43.420 --> 00:05:48.860]  其实雌雄一对这个蟋蟀,我刚才举的例子就是从这个例子里面来的。
+[00:05:48.860 --> 00:05:55.340]  而且呢,当时他要求啊,还不是同男同女的蟋蟀。
+[00:05:55.340 --> 00:05:57.940]  而是这两对蟋蟀要终争不渝。
+[00:05:57.960 --> 00:05:59.260]  那是原配。
+[00:05:59.260 --> 00:06:04.120]  要吃的是老公跟老婆,你要吃成小三跟老公了,这都不允许。
+[00:06:04.120 --> 00:06:05.280]  我没有要小。
+[00:06:05.280 --> 00:06:12.040]  包括金霜三年的甘蔗啊,包括鲁迅记载的药里面的这个化老酸。
+[00:06:12.040 --> 00:06:15.280]  他用人血馒头给他的儿子治肺劳。
+[00:06:15.280 --> 00:06:23.080]  都是最典型的我们经常讲的今天所谓的中医啊,偏方啊,都是从这些地方来的。
+[00:06:23.080 --> 00:06:26.800]  而这些食材如果我们为家处理。
+[00:06:26.800 --> 00:06:27.940]  那就很。
+[00:06:27.960 --> 00:06:30.320]  很有可能连安慰剂的作用都起不到了。
+[00:06:30.320 --> 00:06:38.400]  因为他的本身就是不干净的,我们也知道临床的时候对于这种药啊,包括针剂啊,这些的使用,卫生都是第一要求。
+[00:06:38.400 --> 00:06:45.480]  吃了反而会导致严重的副作用,感染并发症,甚至加重你的病情。
+[00:06:45.480 --> 00:06:48.200]  所以呢,我们呼吁。
+[00:06:48.200 --> 00:06:56.860]  一般的中医,大家不用收集那么多药材了,还是改成纯净水为主,但但是如果告诉。
+[00:06:57.440 --> 00:07:01.160]  患者光喝水的话,患者也不会相信这个东西能治好病了。
+[00:07:01.160 --> 00:07:02.820]  所以呢,大家。
+[00:07:02.820 --> 00:07:16.520]  要注意就我们跟我们父辈父母那一辈打交道的时候,也不要过度打击他们对中医的追求,如果他们愿意吃,我们在保证卫生条件的情况下,还是可以让他们吃的。
+[00:07:16.520 --> 00:07:22.800]  只要对他们的病情有好处,所以我们对于这个替代医学啊,也可以采取一种较为宽容的。
+[00:07:27.440 --> 00:07:28.160]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__112__65d1092d/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__112__65d1092d/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__112__65d1092d/out.json'
+
+whisper_print_timings:     load time =   797.97 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   164.38 ms
+whisper_print_timings:   sample time =  3301.91 ms / 11627 runs (     0.28 ms per run)
+whisper_print_timings:   encode time = 20461.21 ms /    16 runs (  1278.83 ms per run)
+whisper_print_timings:   decode time =  8238.23 ms /   167 runs (    49.33 ms per run)
+whisper_print_timings:   batchd time = 157482.38 ms / 11383 runs (    13.83 ms per run)
+whisper_print_timings:   prompt time =  3826.15 ms /  3274 runs (     1.17 ms per run)
+whisper_print_timings:    total time = 195081.27 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/112 - 112.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__112__65d1092d/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

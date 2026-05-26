@@ -1,0 +1,145 @@
+
+=== START 2026-05-26 12:10:20 ===
+{"id": "wavlake-mp3__140__f55c81c4", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/140 - 140 - 141【From It to Bit】区块链、硅基化、数字资产、意识互联.mp3", "filename": "140 - 140 - 141【From It to Bit】区块链、硅基化、数字资产、意识互联.mp3", "duration_seconds": 736.258333}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/140 - 140 - 141【From It to Bit】区块链、硅基化、数字资产、意识互联.mp3' (11780134 samples, 736.3 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:09.940]  到2006年,像Facebook诞生一直延长到现在,实现了我们人际关系的规级暂停。
+[00:00:09.940 --> 00:00:14.960]  当然这个也前所未有的拓展了一个叫邓巴数的东西,大家也知道邓巴数吧。
+[00:00:14.960 --> 00:00:22.060]  邓巴数是只是受限于规级生命的,就是因为我们人首先脑子太小,能预算的速度太慢。
+[00:00:22.300 --> 00:00:32.320]  所以邓巴数是什么呢?就是我们一个人如果通过探机的交往,最多能维持150个人的关系。
+[00:00:32.320 --> 00:00:37.180]  也就150人关系之外,你就没有办法再维系,就会崩溃。
+[00:00:37.180 --> 00:00:41.700]  这是一个探机的一个诅咒,一个curse,所以你就完成不了。
+[00:00:41.700 --> 00:00:44.380]  但是大家现在听这个也觉得很荒谬是吧?
+[00:00:44.380 --> 00:00:49.160]  我们在座应该所有人,任何一个人的微信好友数目都是超过150个人的,是吧?
+[00:00:49.160 --> 00:00:51.680]  像我孙宇晨已经是一个分布式的孙宇晨了。
+[00:00:52.080 --> 00:00:54.780]  我可能微信已经有十几个,每个都加了五千人。
+[00:00:54.780 --> 00:01:04.660]  所以从这个角度来说,我包括微信现在粉丝有六十多万,所以我可能可以同时跟几百万人保持联系。
+[00:01:04.660 --> 00:01:17.960]  这个在以前也是根本就不可能的,但是像Facebook,像微信,像微博,像Twitter这样的东西,能够前所未有地将这个事情延展开来。
+[00:01:17.960 --> 00:01:21.860]  所以从这个角度来说,也就是人类的关系变成了。
+[00:01:21.860 --> 00:01:33.840]  所以我可以看到,只要任何一个领域会出现归基化,它整个产业都会几何数上升,因为它基本突破了以前探机所有的这个约束。
+[00:01:33.840 --> 00:01:39.540]  所以呢,就到2017年了,其实就是现在我们讲的区块链。
+[00:01:39.540 --> 00:01:42.800]  所以我是在这么一个大背景下去理解区块链。
+[00:01:42.800 --> 00:01:51.640]  所以从这个角度来说,区块链其实就是首次将人类的金钱给信息化了。
+[00:01:51.640 --> 00:02:05.260]  我觉得这个只是第一步,可能现在你说很多人觉得是对货币会有挑战,但是未来,紧接着我觉得未来5到10年,我们的其他一切价值都将被信息化。
+[00:02:05.260 --> 00:02:15.260]  比方说房屋产权的确权,包括哪怕一个版权的确权,所以当然现在大家知道,很多这样的公司也在做Vase的事情了。
+[00:02:15.260 --> 00:02:21.420]  我觉得在5到10年的这个时间范围内,所有的确权可能都会蒙场。
+[00:02:21.420 --> 00:02:35.200]  就是所有我们认为具有价值,可以交换标准化的物体,像证券,股票,房地产,票据,这些所有的东西,都将被确权和流转。
+[00:02:35.200 --> 00:02:41.200]  所以这个当然我觉得是非常正常的,在大的历史趋势下看是非常正常的。
+[00:02:41.200 --> 00:02:51.200]  而它也将前所未有的获得比以前流动性高得多的体验和方法。
+[00:02:51.200 --> 00:02:55.200]  如果有人买过房卖过房也知道是吧,卖房卖房基本也是交易。
+[00:02:55.200 --> 00:03:04.200]  但是如果在碳级生命目前的确权和交易体制下,可能你卖到一个房要一年吧,或者至少半年吧,你才能想办法把这个房子卖掉。
+[00:03:04.200 --> 00:03:20.980]  或者大量的交易,速度都是非常慢的,即便像标准化的股票外汇这些交易,也受限于交易所开门的时间,交易所上下班等一系列只有碳级生命才会出现的一些约束。
+[00:03:20.980 --> 00:03:27.980]  然后第五个也是今年开始发生的,就是Neuralink,不知道大家听没听过这个公司。
+[00:03:27.980 --> 00:03:31.980]  这个公司是Elon Musk跟90后做的一个新公司。
+[00:03:31.980 --> 00:03:37.980]  它主要是通过意识,你就可以直接控制计算机,就是将你的意识直接转换到计算机。
+[00:03:37.980 --> 00:03:43.980]  其实现在他们已经做了一些,比如说你就可以通过意识打字,完美地解决了一个问题。
+[00:03:43.980 --> 00:03:50.760]  经常有人给我随时发微信,我没有回是吧,别人问,诶,雨晨我为什么没有回答,我说我看到你的微信的那一刻,
+[00:03:50.760 --> 00:03:55.760]  其实我用我的大脑已经给你回复了,但只不过没有把字打出来罢了。
+[00:03:55.760 --> 00:04:05.760]  很快这个功能很有可能在未来就可以实现,就是你能够通过你自己的意识,就可以直接与计算机发生交互。
+[00:04:05.760 --> 00:04:09.760]  当然现在这个Neuralink也分为亲入式和非亲入式两种。
+[00:04:09.760 --> 00:04:20.540]  亲入式往往要把你的大脑打开,这个可能有一定的风险,但是我觉得Neuralink这个公司其实它在做的也是将我们的意识,
+[00:04:20.540 --> 00:04:32.540]  当然最后如果意识能够互联网化,可以直接上传,再加上IPFS这样的分布式存储方法,人就基本上可以以分布式的形态活在整个归基世界上面了。
+[00:04:32.540 --> 00:04:44.540]  所以呢,最后我认为就是产业发展的终局,人类应该是以一个归基生命的形态,以分布式数据的方式,遨游于互联网之上。
+[00:04:44.540 --> 00:04:50.320]  首先一,你再也不可能被杀死了,因为你没有看鸡生命了,对吧,对方不可能杀死你。
+[00:04:50.320 --> 00:05:11.320]  二,你是分布式的存在,存在在无数台电脑里,然后你的思想通过分布式的方式协作,有点像黑客帝国,但可能比黑客帝国更先进,因为这个时候你都已经没有脑机接口了,这个黑客帝国还是个亲入式的,只要插个脑机接口,也就你自己还有一个生命体,如果那个生命体被人杀了,意识也没了,但是我觉得未来会更好一点。
+[00:05:11.320 --> 00:05:20.100]  所以从这个角度来说呢,我个人觉得长线来看吧,所有东西换成数字资产,肯定是没有问题的,所以这是为什么很多人有可能问,
+[00:05:20.100 --> 00:05:39.400]  说雨晨,是吧,我什么时候要抛啊,比如说有一个B,比如说比较好的这种数字资产,我什么时候要抛啊,我觉得至少长线来看,大概比如说你至少20%和30%的资产,我觉得应该永恒是数字资产,因为哪里有移民已经移出去了,对吧,还移回来的道理呢,对吧,
+[00:05:49.880 --> 00:06:19.660]  然后我再讲讲我自己的想法,前面都陆续的,所以呢,大家可以看啊,就是所以从这个领域啊,就可以产生太多的创业机会了啊,就包括啊,像阿里巴巴做的电商,美团做的O2O和出行啊,其实本质上都在沟通啊,碳基跟硅基,啊,这个也是一个现状,就跟我们经常讲的说啊,中国长期处于啊,发展中国家这个状态,人类呢,还会长期处于一个硅基跟碳基沟通的情况,
+[00:06:19.660 --> 00:06:49.440]  就我们现在已经有很多硅基形态了,但是呢,因为受限于我们的身体,所以不得不以碳基的形式跟他沟通,就比如说外卖的这个道理,外卖你order的那个外卖是硅基形态,是吧,你去订那个外卖是硅基形态,但是把外卖送过来是碳基形态,因为他也不可能,啊,因为比如说你想想你本来吃外卖的原因是因为能源的处理,现在还没有办法硅基化,所以你还必须吃那个外卖嘛,所以你就点了让他给你送过来,啊,这就是一个简单的一个碳基和硅基沟通的形态,啊,所以啊,我个人呢,
+[00:06:49.440 --> 00:07:18.620]  我个人认为呢,就是在这个碳基和硅基这个发展路程上,只要你是很方便的去沟通碳基跟硅基啊,都有非常大的好处,所以呢,我最后,啊,我自己其实有说也还稍微考一点项目,主要看的就两点,第一个是否加速了,这个项目是不是加速了从碳基到硅基这个过程,啊,同时呢,是否更大限度的释放了人的自由,啊,就像一个个体他给本身很多事情做了,啊,
+[00:07:19.220 --> 00:07:49.000]  好,我讲两个我自己的,啊,做的事儿吧,嗯,啊,咱也不能光说不练,对吧,我们自己做的这个协议叫创,它实际上是一个,啊,数字,啊,娱乐协议,它本质上呢,啊,实际上是,啊,大家比如说,啊,在美国比较熟悉的像Instagram,在中国比较熟悉的像英克啊,啊,一些直播平台啊,以一种分布式的方法,啊,把它,啊,啊,全部分布式化和全球化,大家知道这个问题吗?
+[00:07:49.000 --> 00:08:18.200]  这个问题呢,啊,现在比如说如果你做一个好的,啊,娱乐平台,最大的核心问题还是你的出金入金问题,就是你没有办法很好地将你的钱,啊,放入到这个领域,然后同时呢,很方便地给这个host,就是要主播了,很方便地给主播进行打赏以及清算,啊,啊,当然其实比特币现在也不行,因为比特币没有部署闪电网络之前,啊,这种小额交易对比特币的网络堵塞其实非常大的,啊,所以这是为什么我们
+[00:08:18.780 --> 00:08:48.560]  现在需要一个新的,啊,专门专注于娱乐,清算,啊,以及,啊,这个,啊,提供娱乐基础设施的一个新的平台,所以我们这个平台上呢,可能第一步,啊,我们会把所有的直播,Instagram,图片,视频,文字这一系列的全部以分布式的形态,啊,把它存储在互联网上,然后紧接着呢,我们会把后面的,啊,中心化的博弈,啊,其实类似于国产,包括预测市场,啊,因为明年就是世界杯了嘛,啊,预测市场和
+[00:08:48.560 --> 00:09:18.340]  和互相博弈对比,以及中心化,啊,以及去中心化的游戏,啊,大家现在也知道绝大多数的游戏啊,它的经济体是封闭的,比如说游戏提供商发行货币都可以不跟你说,这也是为什么很多游戏很快就垮台了,大家知道就是世界上可能现在存在时间最长的一款游戏EVE,可能已经有十几年历史了,但是为什么绝大多数游戏,比如我们大家知道的手游,很快就倒闭了呢,其中一个最重要的原因就是因为它的货币
+[00:09:18.340 --> 00:09:48.120]  发行是通心化的,所以它随便乱发,到后面每个货币体系都是通胀,非常严重的,啊,所以呢,如果我们能通过一种区块链的方式让它的整个货币体系发行,让整个游戏体系都变得透明,啊,它也可以极大的啊,增强这个游戏的寿命长度,啊,当然同时还有一个就是娱乐产业,因为各个国家监管啊,环境不一样,啊,所以它呢,全球化的娱乐产业很容易被封,啊,也为什么大家经常听到这个地方的游戏又下降了,那个地方的游戏又下降了,
+[00:09:48.120 --> 00:10:17.900]  如果它以一个,啊,分布式的方式来存储,啊,和交互的话,它也不会受到这个,啊,这个各国不同的监管啊,问题的困扰,当然还有一个很重要的原因,就是现在大家知道虚拟货币领域呢,它缺乏一个,啊,无波动的实体,就是比如说,这个其实也是我很多朋友在做的一个创意下来,就想做一个这种电子法币就不会有波动,啊,但是我觉得这里面还是有个问题,因为它
+[00:10:17.900 --> 00:10:47.680]  差不多了,就,就没了吧,这个钱,对吧,啊,但是,啊,我觉得这也是为什么我们现在做娱乐化的一个原因,因为娱乐化的原因,它的开发者呢,更希望它的金钱,啊,啊,只要有就行,啊,所以它不在乎利润率,啊,就比如说一个打赏一个主播,它在同样一场表演中收到多少金钱的打赏,其他是,啊,然后这个金钱打赏本身如果有房币的波动,它是不在意的,因为它都是赚钱的,啊,所以这也是为什么我们C端应用最早的时候是挑,啊,娱乐领域的,啊,
+[00:10:47.680 --> 00:11:17.460]  进行的一个原因,啊,当然同时,啊,今天这里开发者很多,啊,如果开发者的话,这个也是非常好的,就是这个网络上的所有数据因为都是开源的,以区块链的形式记载,所以所有的开发者在我们上面开发直播,啊,游戏,啊,以及,啊,博弈市场的这些平台,他们都可以享受到全网中所有其他应用的数据,而这些数据对于开发者来说是非常宝贵的,因为你知道,比如说
+[00:11:17.460 --> 00:11:27.460]  有哪些用户喜欢付费,他在什么时候需要付费,他大概付费的品质是什么样的,你怎么让他更容易付费,所以对于开发者来说是非常宝贵的。
+[00:11:27.460 --> 00:11:36.460]  当然我们的这个官方代币叫TRX,它也是这个创这个网络中以后主要要使用的一种官方的代币。
+[00:11:36.460 --> 00:11:59.460]  然后最后再说一下就是我们公司的展台呢,在六层,然后今天因为之前太多人去我们的展台了,所以我们还帮今天演讲完的朋友们留了66本我自己的书,叫《这世界其残酷也温柔》。
+[00:11:59.460 --> 00:12:04.460]  还有大家如果想跟我合影的话,可以去我们六层的展台和我一起合影。
+[00:12:04.460 --> 00:12:06.460]  当然有个前提条件哦,就是我们这边有一个公司的公司,就是我们的公司的公司。
+[00:12:06.460 --> 00:12:10.460]  大家可以把我这个演讲本发到朋友圈就可以了。
+[00:12:10.460 --> 00:12:12.460]  好,谢谢大家。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__140__f55c81c4/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__140__f55c81c4/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__140__f55c81c4/out.json'
+
+whisper_print_timings:     load time =   810.75 ms
+whisper_print_timings:     fallbacks =   3 p /   3 h
+whisper_print_timings:      mel time =   286.30 ms
+whisper_print_timings:   sample time =  7952.60 ms / 23220 runs (     0.34 ms per run)
+whisper_print_timings:   encode time = 34413.10 ms /    26 runs (  1323.58 ms per run)
+whisper_print_timings:   decode time =  4853.01 ms /    90 runs (    53.92 ms per run)
+whisper_print_timings:   batchd time = 318776.81 ms / 22989 runs (    13.87 ms per run)
+whisper_print_timings:   prompt time =  7207.46 ms /  6090 runs (     1.18 ms per run)
+whisper_print_timings:    total time = 375611.59 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/140 - 140 - 141【From It to Bit】区块链、硅基化、数字资产、意识互联.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__140__f55c81c4/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

@@ -1,0 +1,200 @@
+
+=== START 2026-05-26 11:16:35 ===
+{"id": "wavlake-mp3__083__09588e6c", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/083 - 083 - 083 孙宇晨：【不确定性】互联网时代的MVP.mp3", "filename": "083 - 083 - 083 孙宇晨：【不确定性】互联网时代的MVP.mp3", "duration_seconds": 505.521646}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/083 - 083 - 083 孙宇晨：【不确定性】互联网时代的MVP.mp3' (8088347 samples, 505.5 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.720 --> 00:00:04.260]  大家好,我是90后创业者孙宇晨。
+[00:00:04.260 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:18.920]  欢迎你到京东图书与我相遇。谢谢。
+[00:00:18.920 --> 00:00:24.320]  大家好,我是宇晨。
+[00:00:24.320 --> 00:00:27.080]  今天又到了我们新的一期节目。
+[00:00:27.080 --> 00:00:33.220]  因为具有相对稳定的环境,足够多的已知数据和流水线的生产模式,
+[00:00:33.220 --> 00:00:38.100]  可以对行业未来的趋势进行准确的预测分析。
+[00:00:38.100 --> 00:00:45.520]  往往这时候我们记得在传统行业的咨询机构经常都会对行业做出一个5年甚至10年的分析。
+[00:00:45.520 --> 00:00:52.160]  而到今天的互联网时代,不确定性成为了整个市场的主要特点。
+[00:00:52.160 --> 00:00:57.060]  在这个时代中,产品具有不确定性,用户具有不确定性。
+[00:00:57.080 --> 00:00:59.120]  趋势具有不确定性。
+[00:00:59.120 --> 00:01:08.860]  那么,与之前长周期的预测理论相比,互联网时代又诞生了怎样一套去适应无确定性的方法呢?
+[00:01:08.860 --> 00:01:14.240]  第一个方法,我们大家众所周知的,就是MVP。
+[00:01:14.240 --> 00:01:19.360]  其实MVP并不是我们打篮球时说的最佳运动员。
+[00:01:19.360 --> 00:01:25.760]  它的全称叫做Minimum Viable Product,就是最小可用产品的一个简称。
+[00:01:25.760 --> 00:01:26.520]  在互联网行业时代,MVP并不是我们打篮球时说的最佳运动员。它的全称叫做Minimum Viable Product,就是最小可用产品的一个简称。
+[00:01:26.520 --> 00:01:38.040]  在互联网行业中,由于外界的环境用户都太不确定了,所以我们往往需要数据和现实本身告诉我们产品的演化方向。
+[00:01:38.040 --> 00:01:46.220]  我记得很清楚,当年张晓龙也说过这么一句话,产品不是被设计出来的,产品是演化出来的。
+[00:01:46.220 --> 00:01:55.200]  从这个角度来讲,其实张晓龙自己都没有办法预测未来两年或者三年微信的真正模样。
+[00:01:55.440 --> 00:02:02.180]  而是根据用户的体验,用户的使用场景,根据大数据而不断演化出来的。
+[00:02:02.180 --> 00:02:10.100]  从这个角度来说,就要求我们在最早期的时候对互联网的产品投入应该是非常谨慎的。
+[00:02:10.100 --> 00:02:23.940]  我们应该制作出一个成本最低,最经济实惠的,最小化,但能被使用的产品,从而根据这个产品得到反馈,得到用户的经验,从而进行演化。
+[00:02:24.360 --> 00:02:30.120]  这与很多传统企业一开始在做互联网的时候非常不适应,有着非常大的关系。
+[00:02:30.120 --> 00:02:38.680]  我在长江商学院有很多来自传统企业的朋友,他们往往对转型互联网时就有很大的不适应。
+[00:02:38.680 --> 00:02:48.700]  举个例子,他们往往会想,好,我们要向互联网转型,那么我要设计一个什么什么样的网站,我要设计一个什么什么什么样的APP。
+[00:02:48.700 --> 00:02:52.680]  而在他产生这个想法的时候,往往是大而全。
+[00:02:53.280 --> 00:03:01.220]  一次性把十年的功能,五年的功能都想得一清二楚,然后要求互联网的产品经理帮他实现。
+[00:03:01.220 --> 00:03:04.840]  这在互联网的时代根本是没有办法办成的。
+[00:03:04.840 --> 00:03:15.560]  互联网的产品一次只能实现一个非常小的功能,然后用小步快跑,快速迭代的方式才能逐渐建立起来。
+[00:03:15.560 --> 00:03:21.900]  我还可以谈一些,因为我自己也是政协委员,时常看到很多政府的项目,
+[00:03:21.900 --> 00:03:23.680]  其实也具有这个显著的特征。
+[00:03:23.680 --> 00:03:32.580]  政府往往做一个民生工程,总是希望一步到位,能够让老百姓一次享受到所有的互联网体验。
+[00:03:32.580 --> 00:03:39.280]  我们可以知道有大量的类似于像民生卡呀,有大量像这种惠民互联网项目。
+[00:03:39.280 --> 00:03:44.120]  政府总是希望一步到位,能让老百姓享受到互联网的权益。
+[00:03:44.120 --> 00:03:47.880]  但是殊不知,互联网从来就没有一步到位过。
+[00:03:47.880 --> 00:03:51.340]  而且甚至在这个角度来说,一开始拍脑袋,
+[00:03:51.660 --> 00:03:56.240]  成立的所谓的民生卡呀,或者是民生互联网项目是否成立,
+[00:03:56.240 --> 00:04:03.800]  也许都要等到产品正式投入到使用中,才能根据用户的反馈做出决定。
+[00:04:03.800 --> 00:04:07.820]  而我们以往工业化的这种工程都是立项审批制,
+[00:04:07.820 --> 00:04:11.080]  也就是第一次如果你还没有立项,这个事就做不了。
+[00:04:11.080 --> 00:04:13.960]  因此我们就会发现非常大的浪费,
+[00:04:13.960 --> 00:04:19.640]  许多民生工程最后审批的经费,要不然就做了一个工程,
+[00:04:19.640 --> 00:04:21.640]  渐渐很快就被互联网,
+[00:04:21.900 --> 00:04:28.900]  技术所淘汰,要不然就无法根据现实环境和用户的变化进行迭代,
+[00:04:28.900 --> 00:04:31.960]  最后也成为了一个废弃的工程。
+[00:04:31.960 --> 00:04:35.160]  而符合互联网世界观的这一套迭代模式,
+[00:04:35.160 --> 00:04:38.200]  却又不在政府的迭代模式之内,
+[00:04:38.200 --> 00:04:42.000]  因此这套方法论呢,也很难被有效的利用。
+[00:04:42.000 --> 00:04:44.320]  这套方法总结起来,
+[00:04:44.320 --> 00:04:49.840]  其实就是MVP,最小可用产品,快速迭代。
+[00:04:49.840 --> 00:04:51.400]  现在我们随处的互联网,
+[00:04:51.400 --> 00:04:53.840]  最初可见的主流互联网产品呢,
+[00:04:53.840 --> 00:04:57.280]  每年都要更新十几到二十个版本,
+[00:04:57.280 --> 00:04:59.600]  平均两周更新一次,
+[00:04:59.600 --> 00:05:02.980]  可以看到互联网产品的迭代速度是多么快。
+[00:05:02.980 --> 00:05:05.920]  就以我自己创办的陪我APP为例,
+[00:05:05.920 --> 00:05:11.120]  我们公司内部产品的迭代速度基本是两周一个新版本,
+[00:05:11.120 --> 00:05:14.360]  也就是说我们使用陪我APP的用户,
+[00:05:14.360 --> 00:05:18.260]  每两周就能使用到更加符合用户体验,
+[00:05:18.260 --> 00:05:21.260]  更加符合用户认知的新产品,
+[00:05:21.260 --> 00:05:25.900]  而我们的迭代速度也许在整个互联网社会中还算慢的呢,
+[00:05:25.900 --> 00:05:31.900]  这与我们通常认识的工程公司的发展模式都是很不一样的。
+[00:05:31.900 --> 00:05:34.900]  试想,我们平常使用的消费品,
+[00:05:34.900 --> 00:05:36.760]  我们时常住的房子,
+[00:05:36.760 --> 00:05:40.460]  这个迭代周期可能都是以年纪,
+[00:05:40.460 --> 00:05:43.680]  十年纪,二十年纪,甚至五十年纪的,
+[00:05:43.680 --> 00:05:46.140]  但是又知道在互联网社会中,
+[00:05:46.140 --> 00:05:50.760]  以前这种非常长的更换周期,迭代周期,
+[00:05:51.020 --> 00:05:58.900]  在互联网社会中,却变成了按年迭代,按月迭代,按周迭代,甚至按日迭代,
+[00:05:58.900 --> 00:06:05.860]  现在我们大家也知道,未来像APP的时代渐渐也会远离我们,
+[00:06:05.860 --> 00:06:12.660]  未来的H5时代基本是所见即所用,所处即所得,
+[00:06:12.660 --> 00:06:15.860]  从这个角度来说,APP甚至连更新都不用了,
+[00:06:15.860 --> 00:06:20.720]  只要有人在客户端更新,直接将新的版本上传到云上,
+[00:06:20.880 --> 00:06:23.960]  用户在使用时就已经是最新版本了,
+[00:06:23.960 --> 00:06:30.860]  所以从这个角度来说,微创新和快速迭代的步伐可能都要以秒计了,
+[00:06:30.860 --> 00:06:33.420]  这就是一个按秒迭代的时代,
+[00:06:33.420 --> 00:06:35.720]  在这个按秒迭代的时代,
+[00:06:35.720 --> 00:06:40.340]  我们谁又敢说自己的所有东西可以一劳永逸,
+[00:06:40.340 --> 00:06:41.360]  永不更改呢?
+[00:06:41.360 --> 00:06:43.920]  这确实是个不确定性的时代,
+[00:06:43.920 --> 00:06:46.740]  就拿我们的大学生活说一说吧,
+[00:06:46.740 --> 00:06:50.580]  我曾经跟朋友分享过,我在大学时加入社团,
+[00:06:50.740 --> 00:06:51.500]  是社团的方式,
+[00:06:51.500 --> 00:06:56.120]  我记得当时在北大我们刚进入社团时,
+[00:06:56.120 --> 00:06:57.400]  很多朋友,
+[00:06:57.400 --> 00:07:03.540]  他就只加入一两个社团,然后从一而终就结束了自己在大学的社团生涯,
+[00:07:03.540 --> 00:07:05.840]  而我雨晨并不是这样做的,
+[00:07:05.840 --> 00:07:12.240]  我往往进入一个大学时候,我会加他我自己最感兴趣的二三十个社团,
+[00:07:12.240 --> 00:07:16.080]  然后用两周时间把每个社团都过一遍,
+[00:07:16.080 --> 00:07:19.660]  然后最后留下一两家我喜欢的社团,
+[00:07:19.660 --> 00:07:20.440]  一直参加社团,
+[00:07:20.600 --> 00:07:21.120]  一直参加社团,
+[00:07:21.120 --> 00:07:24.180]  这也是典型的利用了不确定性原理,
+[00:07:24.180 --> 00:07:31.360]  因为不确定性原理往往都是根据具体的事实数据来进行演化,
+[00:07:31.360 --> 00:07:33.400]  而不是事前规划,
+[00:07:33.400 --> 00:07:35.440]  事前计划出来的,
+[00:07:35.440 --> 00:07:37.760]  很多人在职场时,
+[00:07:37.760 --> 00:07:40.560]  最早期参加非常多的公司,
+[00:07:40.560 --> 00:07:42.620]  去从事非常多的职业,
+[00:07:42.620 --> 00:07:44.920]  经过一两年的摸索期,
+[00:07:44.920 --> 00:07:47.480]  再走入自己一个擅长的行业,
+[00:07:47.480 --> 00:07:48.240]  也是
+[00:07:48.240 --> 00:07:50.300]  典型利用不确定性的一种,
+[00:07:50.460 --> 00:07:51.220]  一种方式。
+[00:07:51.220 --> 00:07:54.040]  用试错学习的方式,
+[00:07:54.040 --> 00:07:55.840]  不断迭代前进,
+[00:07:55.840 --> 00:07:57.620]  可能是这个时代,
+[00:07:57.620 --> 00:08:00.180]  实现财富自由的最好方法了。
+[00:08:00.180 --> 00:08:03.780]  这甚至对传统行业的员工择业,
+[00:08:03.780 --> 00:08:06.340]  也是一个非常大的理念突破。
+[00:08:06.340 --> 00:08:08.900]  好,今天我们对不确定性的讲解
+[00:08:08.900 --> 00:08:09.660]  就到这里,
+[00:08:09.660 --> 00:08:10.680]  谢谢大家。
+[00:08:20.460 --> 00:08:25.320]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__083__09588e6c/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__083__09588e6c/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__083__09588e6c/out.json'
+
+whisper_print_timings:     load time =   856.70 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   187.45 ms
+whisper_print_timings:   sample time =  3955.34 ms / 13941 runs (     0.28 ms per run)
+whisper_print_timings:   encode time = 22865.99 ms /    18 runs (  1270.33 ms per run)
+whisper_print_timings:   decode time =  3960.54 ms /    70 runs (    56.58 ms per run)
+whisper_print_timings:   batchd time = 183671.89 ms / 13786 runs (    13.32 ms per run)
+whisper_print_timings:   prompt time =  4375.07 ms /  3928 runs (     1.11 ms per run)
+whisper_print_timings:    total time = 220758.69 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/083 - 083 - 083 孙宇晨：【不确定性】互联网时代的MVP.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__083__09588e6c/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

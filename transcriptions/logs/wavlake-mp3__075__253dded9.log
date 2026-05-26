@@ -1,0 +1,145 @@
+
+=== START 2026-05-26 11:04:50 ===
+{"id": "wavlake-mp3__075__253dded9", "source": "wavlake-mp3", "path": "sun-audio-offline/wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3", "filename": "075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3", "duration_seconds": 454.251979}
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3' (7268032 samples, 454.3 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.720 --> 00:00:04.260]  大家好,我是90后创业者孙宇晨。
+[00:00:04.260 --> 00:00:13.760]  我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。
+[00:00:13.760 --> 00:00:18.920]  欢迎你到京东图书与我相遇。谢谢。
+[00:00:23.520 --> 00:00:25.020]  大家好,我是宇晨。
+[00:00:25.020 --> 00:00:32.020]  今天我们上一章的原始积累个人奋斗在中国的合法性我们讲完了。
+[00:00:32.020 --> 00:00:38.760]  现在这一章我们讲的主要是一个很重要的观点叫做不确定性。
+[00:00:38.760 --> 00:00:45.160]  我们认为不确定性是产生财富自由的一个重要的培养品。
+[00:00:45.160 --> 00:00:48.920]  这个跟绝大多数人的想法不是非常一样的。
+[00:00:48.920 --> 00:00:53.500]  我们绝大多数人在生活中往往是追求的确定性。
+[00:00:54.040 --> 00:01:07.520]  我记得我以前跟朋友们去讨论投资,包括讨论项目的时候,往往我们都要强调这个项目是多么的稳定,确定性是多么的强,我们一定能把这件事干成。
+[00:01:07.520 --> 00:01:21.080]  但是呢,我们往往忘记的是,恰恰成功赚到钱,拥有财富,恰恰它最重要的培养品就是不确定性。
+[00:01:21.080 --> 00:01:23.460]  这一点啊。
+[00:01:23.460 --> 00:01:26.360]  是我这几年非常深的一个体悟。
+[00:01:26.360 --> 00:01:31.840]  然后我会将这个,我这一整套体悟和大家分享一下。
+[00:01:31.840 --> 00:01:35.660]  首先呢,我们会看两个理论。
+[00:01:35.660 --> 00:01:48.880]  第一个理论呢,就是我们这个不确定性的时代啊,它其实不仅仅是我们今天的创业呀,我们大家的工作生活是不确定性的。
+[00:01:48.880 --> 00:01:53.400]  其实在最重要的物理学,这些年,
+[00:01:53.400 --> 00:01:59.800]  也出现了一个重大的突破,就是从确定性向不确定性。
+[00:01:59.800 --> 00:02:05.800]  在此之前呢,可能啊,我们跟大家呢,也讲过类似的观点。
+[00:02:05.800 --> 00:02:12.440]  最早期啊,其实物理学是由牛顿的三大定律统治的。
+[00:02:12.440 --> 00:02:17.880]  而牛顿这三大定律最大的特征就是确定性。
+[00:02:17.880 --> 00:02:19.300]  什么意思呢?
+[00:02:19.300 --> 00:02:23.340]  就是牛顿用了这三大定律将万事万事,
+[00:02:23.340 --> 00:02:30.900]  万物的运行规律全部都很有效的预测出来,甚至观察出来。
+[00:02:30.900 --> 00:02:35.420]  我们可以看到万事万物都按着牛顿的三大定律在运行。
+[00:02:35.420 --> 00:02:52.400]  然后到了二十世纪,爱因斯坦提出了相对论,相对论呢,其实某种程度上对牛顿的经典力学啊,构成了挑战,但是还不足以颠覆牛顿的经典力学。
+[00:02:53.280 --> 00:02:57.640]  而爱因斯坦呢,反复也是在追求确定性啊。
+[00:02:57.640 --> 00:03:09.320]  爱因斯坦一个最著名的回答就叫做上帝是不制骰子的啊,就是这个世界上上帝的一切事情啊,他都是非常确定的,他并不制骰子。
+[00:03:09.320 --> 00:03:15.260]  直到了普朗克,普朗克是何许人也呢?
+[00:03:15.260 --> 00:03:21.780]  普朗克是量子力学的创始人啊,他是跟爱因斯坦存在很大争论的。
+[00:03:21.780 --> 00:03:23.200]  而量子力学呢,
+[00:03:23.200 --> 00:03:23.200]  而量子力学呢,他是跟爱因斯坦存在很大争论的。
+[00:03:23.200 --> 00:03:23.200]  而量子力学呢,他是跟爱因斯坦存在很大争论的。
+[00:03:23.200 --> 00:03:29.640]  而量子力学呢,其中我们总结量子力学的一个核心就是不确定性。
+[00:03:29.640 --> 00:03:40.860]  以往啊,我们往往觉得物理的规律,物理的现象一定要给出一个大而全,万事万物的解释,但是在量子力学开始不出现了。
+[00:03:40.860 --> 00:03:47.560]  而恰恰不确定性成为了所有事情的确定性。
+[00:03:47.560 --> 00:03:52.800]  也就是说我们唯一能确定的就是不确定性。
+[00:03:53.120 --> 00:03:58.680]  这是我们人类物理理论发展的一个大背景。
+[00:03:58.680 --> 00:04:09.560]  也就是我们人类开始渐渐发现了,这个世界的万事万物恰恰就在以不确定性这个大背景下进行运行。
+[00:04:09.560 --> 00:04:19.880]  所以呢,其实我们往往发现不确定性啊,并不仅仅是我们生活中的一个变化,而恰恰理论物理的革命啊,也是一个大背景。
+[00:04:19.880 --> 00:04:22.920]  而我们知道理论物理的革命对于人类是非常重要的。
+[00:04:23.040 --> 00:04:30.080]  几乎是决定了非常多学术界的突破性进展,都是由理论物理相反延伸的。
+[00:04:30.080 --> 00:04:35.080]  第二,就是互联网思维的提出。
+[00:04:35.080 --> 00:04:50.020]  互联网思维呢,其实我个人认为啊,其中有一点与传统商业思维最大的区别,就是互联网非常强调不确定性,强调变化。
+[00:04:50.020 --> 00:04:52.960]  而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反延伸的。
+[00:04:52.960 --> 00:04:53.000]  而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。
+[00:04:53.000 --> 00:04:53.020]  而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。
+[00:04:53.020 --> 00:04:53.120]  而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。
+[00:04:53.120 --> 00:04:53.160]  而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。
+[00:04:53.160 --> 00:05:23.080]  而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调强调不确定性,强调强调不确定性,强调强调不确定性,强调强调不确定性,强调强调不确定性,强调强调不确定性,强调强调不确定性。
+[00:05:23.080 --> 00:05:37.840]  很多互联网公司啊,它都不符合这一个工业时代的企业思维,就是我们经常讲的拥有一个稳定逐年递增的盈利体系作为它的一个企业的担保,它都不一定具有。
+[00:05:37.840 --> 00:05:47.940]  那我们说,那既然你没有了这一个稳定盈利的体系进行担保,那互联网公司和项目的往往特征是什么呢?
+[00:05:47.940 --> 00:05:53.060]  那我们可以说它最大的一个特征就是不确定性和充满。
+[00:05:53.080 --> 00:06:19.740]  这一点啊,我在互联网做创始人做了这么久,体会非常深,很多这些项目大起大落,经常就在几个月啊,甚至一年之间,甚至我觉得就是互联网公司啊,必须依靠它可能有些行业稍微有点稳定盈利,比如说什么游戏啊,直播啊,像我们公司从事的直播啊,广告啊,可能稍微有一点点稳定的盈利。
+[00:06:19.740 --> 00:06:23.000]  这些公司呢,作为主体可以上市。
+[00:06:23.000 --> 00:06:41.760]  然后把这些不确定性特别强的项目装进去,因为不确定性特别强的项目,无论是它数据的大起大落,互联网公司本身经营情况的大起大落,还是项目本身的大起大落都非常影响这个公司在资本市场的表现。
+[00:06:52.920 --> 00:07:12.820]  所以从这个角度来说呢,我们用互联网思维啊,来规范这些不确定性,往往就是试图从这些不确定性中抽象出一个方法,能够让我们逐步去适应这些不确定性。
+[00:07:12.820 --> 00:07:22.840]  所以从这个角度来说呢,我觉得最大的互联网思维,就是渐渐承认这些不确定性,然后我们去寻找一套比较好的方法。
+[00:07:22.840 --> 00:07:25.500]  方法论,视野,这个不确定性。
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__075__253dded9/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__075__253dded9/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__075__253dded9/out.json'
+
+whisper_print_timings:     load time =   969.44 ms
+whisper_print_timings:     fallbacks =   1 p /   1 h
+whisper_print_timings:      mel time =   173.06 ms
+whisper_print_timings:   sample time =  3770.17 ms / 12338 runs (     0.31 ms per run)
+whisper_print_timings:   encode time = 21498.24 ms /    17 runs (  1264.60 ms per run)
+whisper_print_timings:   decode time =  8275.43 ms /   157 runs (    52.71 ms per run)
+whisper_print_timings:   batchd time = 166553.73 ms / 12092 runs (    13.77 ms per run)
+whisper_print_timings:   prompt time =  4199.94 ms /  3905 runs (     1.08 ms per run)
+whisper_print_timings:    total time = 206270.78 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3 -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/wavlake-mp3__075__253dded9/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

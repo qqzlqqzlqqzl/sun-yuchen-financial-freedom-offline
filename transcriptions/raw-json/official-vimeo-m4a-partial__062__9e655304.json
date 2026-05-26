@@ -1,0 +1,241 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,760"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1760
+			},
+			"text": "大家好,我是陪我APP创始人,",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50365,
+					"p": 0.582877,
+					"t_dtw": -1
+				},
+				{
+					"text": "大家好",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,370"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 370
+					},
+					"id": 15248,
+					"p": 0.912388,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:00,500",
+						"to": "00:00:00,590"
+					},
+					"offsets": {
+						"from": 500,
+						"to": 590
+					},
+					"id": 11,
+					"p": 0.709403,
+					"t_dtw": -1
+				},
+				{
+					"text": "我是",
+					"timestamps": {
+						"from": "00:00:00,590",
+						"to": "00:00:00,880"
+					},
+					"offsets": {
+						"from": 590,
+						"to": 880
+					},
+					"id": 15914,
+					"p": 0.961482,
+					"t_dtw": -1
+				},
+				{
+					"text": "�",
+					"timestamps": {
+						"from": "00:00:00,880",
+						"to": "00:00:00,970"
+					},
+					"offsets": {
+						"from": 880,
+						"to": 970
+					},
+					"id": 8842,
+					"p": 0.81217,
+					"t_dtw": -1
+				},
+				{
+					"text": "�",
+					"timestamps": {
+						"from": "00:00:00,970",
+						"to": "00:00:01,010"
+					},
+					"offsets": {
+						"from": 970,
+						"to": 1010
+					},
+					"id": 103,
+					"p": 0.999989,
+					"t_dtw": -1
+				},
+				{
+					"text": "我",
+					"timestamps": {
+						"from": "00:00:01,010",
+						"to": "00:00:01,150"
+					},
+					"offsets": {
+						"from": 1010,
+						"to": 1150
+					},
+					"id": 1654,
+					"p": 0.993697,
+					"t_dtw": -1
+				},
+				{
+					"text": "APP",
+					"timestamps": {
+						"from": "00:00:01,150",
+						"to": "00:00:01,290"
+					},
+					"offsets": {
+						"from": 1150,
+						"to": 1290
+					},
+					"id": 8749,
+					"p": 0.660411,
+					"t_dtw": -1
+				},
+				{
+					"text": "�",
+					"timestamps": {
+						"from": "00:00:01,290",
+						"to": "00:00:01,380"
+					},
+					"offsets": {
+						"from": 1290,
+						"to": 1380
+					},
+					"id": 2437,
+					"p": 0.996845,
+					"t_dtw": -1
+				},
+				{
+					"text": "�",
+					"timestamps": {
+						"from": "00:00:01,380",
+						"to": "00:00:01,420"
+					},
+					"offsets": {
+						"from": 1380,
+						"to": 1420
+					},
+					"id": 249,
+					"p": 0.999998,
+					"t_dtw": -1
+				},
+				{
+					"text": "始",
+					"timestamps": {
+						"from": "00:00:01,420",
+						"to": "00:00:01,560"
+					},
+					"offsets": {
+						"from": 1420,
+						"to": 1560
+					},
+					"id": 15476,
+					"p": 0.975201,
+					"t_dtw": -1
+				},
+				{
+					"text": "人",
+					"timestamps": {
+						"from": "00:00:01,560",
+						"to": "00:00:01,740"
+					},
+					"offsets": {
+						"from": 1560,
+						"to": 1740
+					},
+					"id": 4035,
+					"p": 0.958317,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:01,740",
+						"to": "00:00:01,740"
+					},
+					"offsets": {
+						"from": 1740,
+						"to": 1740
+					},
+					"id": 11,
+					"p": 0.356027,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_88]",
+					"timestamps": {
+						"from": "00:00:01,760",
+						"to": "00:00:01,760"
+					},
+					"offsets": {
+						"from": 1760,
+						"to": 1760
+					},
+					"id": 50453,
+					"p": 0.403312,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

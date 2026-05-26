@@ -1,0 +1,180 @@
+
+=== START 2026-05-26 13:09:41 ===
+{"id": "official-vimeo-m4a-partial__047__809f0c28", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/047 - 047【90后不买房】房子只是一个普通商品罢了 [1179727058].m4a", "filename": "047 - 047【90后不买房】房子只是一个普通商品罢了 [1179727058].m4a", "duration_seconds": 634.005}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/047 - 047【90后不买房】房子只是一个普通商品罢了 [1179727058].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:10:34.01, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+size=   17920KiB time=00:09:41.01 bitrate= 252.7kbits/s speed=1.15e+03x elapsed=0:00:00.50    [out#0/wav @ 0x747038180] video:0KiB audio:19813KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000384%
+size=   19813KiB time=00:10:34.00 bitrate= 256.0kbits/s speed=1.14e+03x elapsed=0:00:00.55    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/047 - 047【90后不买房】房子只是一个普通商品罢了 [1179727058].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.007 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/audio.wav' (10144085 samples, 634.0 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.840]  大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由的另一边,等着你。
+[00:00:30.000 --> 00:00:40.340]  因为他们认为房子在中国还是一个非常优秀的投资品,可以用来保值增值,所以觉得90后应该尽早买房。
+[00:00:40.340 --> 00:00:45.100]  所以这一期往后来谈90后不买房的话题。
+[00:00:45.100 --> 00:00:51.760]  然后在这个话题中,我会系统阐述我对房子的理解,以及我认为应不应该买房。
+[00:00:51.760 --> 00:00:59.240]  然后如果不买房是什么样的情况,如果买房是什么样的情况,我们都会进行一个非常详细的阐述。
+[00:00:59.580 --> 00:01:06.380]  同时也回应一些粉丝,当然也是我最后一次回应了,一直要求我们讲所谓的干货。
+[00:01:06.380 --> 00:01:13.740]  其实我这市面上成功学我也看了不少,绝大多数让你们讲的很干的干货往往都是错的。
+[00:01:13.740 --> 00:01:21.480]  所以我个人觉得我无论讲的干还是湿,最重要的不是干和湿本身,而是我在讲对的事情给你。
+[00:01:21.480 --> 00:01:23.100]  我觉得这是非常重要的。
+[00:01:23.100 --> 00:01:27.100]  人的一生没有多少机会可以听到对的理论。
+[00:01:27.100 --> 00:01:29.360]  我觉得还是珍惜吧。
+[00:01:29.580 --> 00:01:44.020]  好,我们现在开始,我们讲的90后不买房啊,这一张本质呢,其实并不仅仅是90后不买房这个行为本身,本质是对房子的重新理解与定义。
+[00:01:44.020 --> 00:01:59.220]  我们知道互联网时代到来之后啊,很多事情都会被重新理解与定义,就像最早马云重新定义了零售,重新定义了商业,我们昨天讲的那一期90后不结婚,
+[00:01:59.220 --> 00:02:02.400]  其实是重新去定义婚姻,是一样的。
+[00:02:02.400 --> 00:02:07.760]  我们90后不买房这一期呢,本质就是重新定义房子。
+[00:02:07.760 --> 00:02:13.820]  我们认为传统社会赋予了房子太多的社会意义了。
+[00:02:13.820 --> 00:02:19.440]  从某种程度上来讲呢,这个应该也是中国的一个特例。
+[00:02:19.440 --> 00:02:25.300]  在西方国家文化中呢,房子呢并没有被赋予太多的社会意义。
+[00:02:25.300 --> 00:02:29.200]  但是在中国,房子比如说它是婚姻的前提。
+[00:02:29.200 --> 00:02:40.080]  房子是条件,以及好像买不买房,甚至是整个社会对于一个人看法,社会地位看法的一个重要的衡量标准。
+[00:02:40.080 --> 00:02:47.920]  包括一个房子甚至在中国已经变态到了成为一个绝大多数男性甚至终身奋斗的目的了。
+[00:02:47.920 --> 00:02:52.960]  我见过太多人说,其实我活着,活不活着我都不在意了。
+[00:02:52.960 --> 00:02:55.140]  从事什么工作我也无所谓。
+[00:02:55.140 --> 00:02:59.180]  人生唯一的意义就是在比如说北上空。
+[00:02:59.180 --> 00:03:03.100]  我买一套房,我买一套房,我的人生就圆满了。
+[00:03:03.100 --> 00:03:04.760]  其实我别的都不在意。
+[00:03:04.760 --> 00:03:14.460]  这就是典型的,我个人觉得已经将房子赋予了太多,甚至将他的人生意义都赋予在这个房子上面了。
+[00:03:14.460 --> 00:03:20.780]  其实大家听了我们这么久课程也都知道,我们当然是非常反对这种看法的。
+[00:03:20.780 --> 00:03:29.160]  一个人的意义在于他自己自身,在于他所从事的职业与事业,与买不买房,买不买车,甚至买房。
+[00:03:29.160 --> 00:03:32.280]  结不结婚都是没有任何关系的。
+[00:03:32.280 --> 00:03:38.500]  这也是为什么我们一直在提倡着90后不结婚,不买房,不买车的观点。
+[00:03:38.500 --> 00:03:50.220]  就是我们也向社会在试图证明,一个人不买房,不买车,不结婚,在他至少20到30岁的年纪也能活得很开心,活得很好。
+[00:03:50.220 --> 00:03:59.140]  所以呢,我们第一点说,房子被赋予了太多的社会意义,而这些社会意义呢,将随着互联网社会的发展,
+[00:03:59.140 --> 00:04:01.400]  而被渐渐去除。
+[00:04:01.400 --> 00:04:09.800]  从这个角度来说呢,房子去卖过后,本质就是一个普通的投资品。
+[00:04:09.800 --> 00:04:12.500]  这一点呢,其实与黄金非常类似。
+[00:04:12.500 --> 00:04:26.020]  大家其实是听过我们讲货币那一章的时候,我们特地给大家讲了很长时间的黄金这一项元素是如何被去卖,最后成为一项普通投资品。
+[00:04:26.020 --> 00:04:29.120]  在此之前呢,黄金也有非常大的影响。
+[00:04:29.120 --> 00:04:51.000]  黄金是一种强的魅力吧,很多人可能一辈子就像追求房子一样去追求黄金,它是一个保值品,甚至财富的象征啊,很多中国大妈可能觉得钱都不值钱,如果能勒很多黄金在自己家后院的那个小罐子里,是吧,就感觉他就有安全感,就拥抱到了一种安全感的感觉。
+[00:04:51.000 --> 00:04:58.960]  但是大家也知道,我们后来也讲了,就是美联储布林顿司令体系崩溃之后,黄金其实又就跟你家的大米,是吧?
+[00:04:59.100 --> 00:05:01.740]  没有任何差别,只是一项普通商品。
+[00:05:01.740 --> 00:05:08.200]  其实,房子本质,我觉得它也会经历黄金被去卖的这么一整个过程。
+[00:05:08.200 --> 00:05:16.260]  房子到最后你会发现,可能你也会像中国大妈爱黄金一样,爱房子啊,曾经你也会这么爱它。
+[00:05:16.260 --> 00:05:28.340]  你会觉得它,哎呀,你抱着它睡啊,就睡得特别香啊,它甚至给予你太多精神和社会意义上的慰藉吧,为你寻找到了人生的意义啊。
+[00:05:28.340 --> 00:05:36.020]  你活着就是为了它,但是会随着时间的推移,你会发现它最后其实就是一个最普通的投资品。
+[00:05:36.020 --> 00:05:48.140]  跟你去投资农产品买大豆,买酱油,买铁矿石,甚至你平常买早餐,那份早餐都没有任何差别,它只是一个普通的商品,普通的投资品。
+[00:05:48.140 --> 00:05:57.420]  对于房子去卖呢,投资品化啊,这样一个理论呢,我们经常可以看到小白最大的失误。
+[00:05:58.140 --> 00:06:04.600]  就是它往往呢,去买一个它结婚需要,以及它一定要住的房子。
+[00:06:04.600 --> 00:06:11.960]  这时候啊,你会发现它的购房的选择,就大大被削减了。
+[00:06:11.960 --> 00:06:23.840]  比如说举一个很简单的例子啊,我现在雨晨工作旁边,就我在互联网金融中心工作,我们旁边周边的房价都是10万一平方米,甚至更高。
+[00:06:23.840 --> 00:06:27.960]  我前两天路过恋家,我看到他写的是11万还是12万一平方米。
+[00:06:27.960 --> 00:06:28.100]  我看到他写的是11万还是12万一平方米。
+[00:06:28.100 --> 00:06:28.120]  我看到他写的是11万还是12万一平方米。
+[00:06:28.120 --> 00:06:28.120]  我看到他写的是11万还是12万一平方米。
+[00:06:28.120 --> 00:06:28.120]  我看到他写的是11万还是12万一平方米。
+[00:06:28.140 --> 00:06:33.640]  那么这样,我就算买一个100平方米的房子吧,那叫1100吧。
+[00:06:33.640 --> 00:06:37.780]  其实买一个90平方米的,都将近要1000万了。
+[00:06:37.780 --> 00:06:43.960]  像这么贵的房子,首先我个人其实觉得生殖空间也极为有限了。
+[00:06:43.960 --> 00:06:46.320]  同时呢,我肯定是不会买的。
+[00:06:46.320 --> 00:06:57.760]  而我又有很高的生活品质要求,就我要求我自己,无论如何去哪工作,我住的地方就离我不行就大概五分钟,这是最好的。
+[00:06:58.120 --> 00:07:16.000]  所以我觉得呢,当我去租房的时候,我的选择非常多,我可以到处去选择,就其实我们公司这一块已经是北京其实非常黄金的地段了,我周边其实我们真的去租的市场的时候,我们发现房子实在是太多了,想挑的有很多。
+[00:07:16.000 --> 00:07:28.100]  但是如果你要买,那就非常受限,你只能买这周边,那实在是太贵了,而且大家可以想象一下,如果我买了这个房子的话,过两天我们公司如果又搬到北京,那就非常受限了。
+[00:07:28.100 --> 00:07:58.080]  如果我搬到望京去,那我岂不是要在望京也再买一套吗?过两天公司再搬到国贸去,那岂不是要在国贸买一套吗?我见到过大量的员工,当时买房说,对,就是要买一个离公司近的,结果他可能才买了不到一两年,公司就搬地方了,这种太常见了,因为我们公司的底又不是我们自己买的,是吧,我们也是租的,所以呢,很多小白他一买,他说离公司近,然后他的选择就受限制,大家一定要注意这一点,就是当你在面对一个投资的情况下,
+[00:07:58.080 --> 00:08:28.060]  投资品的时候,你去评估投资品的唯一应该考量的因素,就是你购买的价格,升值空间,杠杆效率以及本身能不能增值,你不能再受到其他因素的干扰,比如小白买房的时候受到一堆干扰,我老婆满不满意啊,丈母娘满不满意啊,房子是不是精装修啊,离工作地点是不是足够近呢,以及这个东西做婚房好不好,风水靠不靠谱啊,有非常多的结论,
+[00:08:28.060 --> 00:08:58.040]  其他因素去干扰你的投资,那么会直接导致你这个投资最后变成一个失败性的投资,包括可能你的这个想的就更多了,包括这个是不是新房啊,是吧,是不是具有某种程度上,因为我结婚嘛,对我人生太大的意义了,甚至这房子跟我八字合不合啊,太多了,甚至如果是你爸你妈的继续买的话,你爸你妈七大姑八大姨都会参与到这一场房子的购买中,决策的
+[00:08:58.040 --> 00:09:28.020]  各方越多考虑的因素越多,他成为一个靠谱好的增值的投资的可能性就越小,所以呢,社会中很多人啊,我觉得他最大的问题,买房的最大的问题就在于不能真正认识到房子是一种投资品,而让太多投资品之外的因素去干扰他,好的,那今天的节目呢,就到这里,然后我们会给大家留下
+[00:09:28.020 --> 00:09:57.580]  几个问题,希望你啊,详细的回答啊,无论在我的微信,微博,微信就是浪潮车间,这个公众号,微博就是孙宇晨,包括在喜马拉雅的节目下留言都是可以的,我们呢,会选择几个案例进行分析啊,以及进行讲解,然后被选中的案例,我们将会有一份神秘礼品送到啊,每一次都不一样,问题就是在过去的一年中,
+[00:09:58.000 --> 00:10:18.720]  房子对你的生活产生了多大影响,以及你现在是如何思考房子这一个具体的事物对你的影响呢?你未来的购房打算又是如何的呢?希望你能把自己的经历分享出来,告诉我们,谢谢大家。
+[00:10:27.980 --> 00:10:33.920]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/out.json'
+
+whisper_print_timings:     load time =  1140.06 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   352.54 ms
+whisper_print_timings:   sample time =  5641.75 ms / 15335 runs (     0.37 ms per run)
+whisper_print_timings:   encode time = 26261.79 ms /    22 runs (  1193.72 ms per run)
+whisper_print_timings:   decode time = 14742.59 ms /   254 runs (    58.04 ms per run)
+whisper_print_timings:   batchd time = 208300.38 ms / 14983 runs (    13.90 ms per run)
+whisper_print_timings:   prompt time =  5253.09 ms /  4787 runs (     1.10 ms per run)
+whisper_print_timings:    total time = 262438.50 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/audio.wav -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__047__809f0c28/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

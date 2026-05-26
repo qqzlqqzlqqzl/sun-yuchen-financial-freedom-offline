@@ -1,0 +1,212 @@
+
+=== START 2026-05-26 13:07:27 ===
+{"id": "official-vimeo-m4a-partial__045__07f4f1d1", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/045 - 045【小结】我在35岁成年了 [1179726569].m4a", "filename": "045 - 045【小结】我在35岁成年了 [1179726569].m4a", "duration_seconds": 951.787}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/045 - 045【小结】我在35岁成年了 [1179726569].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:15:51.79, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+size=   28416KiB time=00:15:14.15 bitrate= 254.6kbits/s speed=1.79e+03x elapsed=0:00:00.51    [out#0/wav @ 0xa62c44180] video:0KiB audio:29743KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000256%
+size=   29743KiB time=00:15:51.78 bitrate= 256.0kbits/s speed=1.79e+03x elapsed=0:00:00.53    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/045 - 045【小结】我在35岁成年了 [1179726569].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.006 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 3 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/audio.wav' (15228587 samples, 951.8 sec), 3 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:08.860]  大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+[00:00:08.860 --> 00:00:25.520]  大家好,我是宇晨,今天是我们90后不结婚这一章的一个最后的总结,然后在今天呢我会总结一下我们这一章的内容,然后呢我会非常高兴跟大家一起分享一下。
+[00:00:25.700 --> 00:00:35.480]  在前面有一章我们专门讲你什么时候才是你成年的时候,我看到了非常多非常好的故事,我希望可以与大家一起分享。
+[00:00:35.480 --> 00:00:43.560]  然后每一个提供故事的同学呢我们会有一份神秘的礼品,叫我们的管理员尽快联系您。
+[00:00:43.560 --> 00:00:53.700]  这就是我们今天的节目,首先我们回头看90后不结婚这一章,为什么我们的标题啊叫做90后不结婚呢?
+[00:00:54.240 --> 00:01:24.160]  实际上我们是为了表达我们90后这代人在面对婚姻时我们有两个基本看法,第一个看法是我们认为婚姻需要谨慎,因为婚姻的本质呢是为了让我们把自己建设好,每个人都应该以自己为最终的目的,而婚姻需要让渡两方的自由,同时呢因为婚姻是寻找经济的合作。
+[00:01:24.240 --> 00:01:40.400]  所以我们在处理这段婚姻的时候,我们会非常谨慎,所以我们甚至选择在30岁以前谨慎考虑婚姻,来为我们的人生做准备。
+[00:01:40.400 --> 00:01:54.020]  同时呢我们也明白婚姻是神圣的,一旦有了婚姻的誓约,你就离开了你的家庭,与另一半组建了新的家庭。
+[00:01:54.240 --> 00:02:16.220]  从这种程度上来说,你对这个家庭的誓约甚至要高于你对父母的誓约,因为这是你人生中甚至是第一次主动选择的誓约,在这一份誓约受到挑战的时候,你要想尽你自己的办法去捍卫这份自由的誓约。
+[00:02:16.220 --> 00:02:24.220]  所以在一个我们经常被问到的一个问题中说,你老婆和老妈同时掉进水里。
+[00:02:24.240 --> 00:02:31.820]  你应该究竟先救谁,这么一个非常古老的,可能任何国家任何人都会被问到的问题。
+[00:02:31.820 --> 00:02:47.720]  我觉得作为一个真正的男性,他的回答当然是应该先救他的妻子,因为妻子是他真正自由选择的誓约,而他和他母亲的誓约呢是一份来自于血亲的誓约。
+[00:02:47.720 --> 00:02:53.860]  而我们知道在一个真正文明的国家,任何主动选择的誓约。
+[00:02:54.240 --> 00:03:02.440]  他的履约优先级要高于血亲的誓约,因为血亲的誓约是未经选择的。
+[00:03:02.440 --> 00:03:17.380]  这就像我们在经常经济中有债务分优先级,劣后级是一样的,就同样是一笔债,你的确都应该还,但你先还哪笔债和后还哪笔债当然是有优先级分配的。
+[00:03:17.380 --> 00:03:23.220]  而这个优先级我们的重要区分方式就是看你这份誓约的达成,
+[00:03:23.380 --> 00:03:27.760]  是不是你自己主动选择的结果,这个是非常重要的。
+[00:03:27.760 --> 00:03:32.900]  同时呢,我们也更加清楚了解到婚姻的本质。
+[00:03:32.900 --> 00:03:49.360]  婚姻不是为了传宗接代而存在,也不是为了买房买车而存在,而是为了两个自由灵魂的相遇,是为了更强大的自我,是为了两个人的美好生活而存在的。
+[00:03:49.360 --> 00:03:52.920]  婚姻是寻找生活的合伙人。
+[00:03:53.380 --> 00:03:59.420]  从而让我们自己的生活变得更加丰富,变得更加强大。
+[00:03:59.420 --> 00:04:06.460]  也许呢,因为之前我们中国处于一个传统社会之中,
+[00:04:06.460 --> 00:04:12.720]  尤其女性可能处于这个社会中比较卑微的一个角色,
+[00:04:12.720 --> 00:04:21.640]  她不得不去承担一些传统婚姻制度下的传宗接代啊,以及赡养老人啊,一系列的权利和义务。
+[00:04:21.640 --> 00:04:23.260]  但是我们始终,
+[00:04:23.380 --> 00:04:26.020]  应该知道婚姻的本质是什么样的。
+[00:04:26.020 --> 00:04:32.100]  因为我们知道一旦让我们知道了婚姻的本质,知道了真相之后,我们就再也没法回到过去了。
+[00:04:32.100 --> 00:04:44.120]  而且我们也知道互联网时代的到来,解放了所有的女性,也解放了所有的男性,甚至科技未来也解放了所有的家庭。
+[00:04:44.120 --> 00:04:48.360]  我们的传宗接代未必需要通过婚姻来实现了。
+[00:04:48.360 --> 00:04:53.360]  而且我们的每个人的价值也不仅仅体现在传宗接代和买房。
+[00:04:53.380 --> 00:04:54.180]  买车上了。
+[00:04:54.180 --> 00:05:02.320]  我们每个人都会拥有我们自己的个人价值和职业价值,包括过一两天我会去新宝做一个演讲。
+[00:05:02.320 --> 00:05:12.420]  这个演讲就是为了说整个互联网时代最有效用的价值就是流量,慢慢也会从平台落到每个人的个体身上。
+[00:05:12.420 --> 00:05:18.640]  我们整个21世纪,我们将见证个人的奇迹与个人的解放。
+[00:05:18.640 --> 00:05:21.120]  在婚姻上当然也是这样的。
+[00:05:21.120 --> 00:05:22.460]  所以我们也知道,
+[00:05:22.940 --> 00:05:27.740]  互联网为我们实现上面所有的理想提供了一种可能。
+[00:05:27.740 --> 00:05:29.960]  接下来的两章呢,
+[00:05:29.960 --> 00:05:34.180]  我们还会讲90后不买车和90后不买房两章。
+[00:05:34.180 --> 00:05:43.420]  我们也会跟大家仔细去分析婚姻车房真正对于每一个90后的意义好。
+[00:05:43.420 --> 00:05:52.500]  下面呢我分享几个我自己觉得非常好的就是我们那一张成年那一张之后大家的案例先回顾下问题。
+[00:05:52.500 --> 00:06:22.060]  我们那张想讨论的问题呢是说你第一次成年是什么时候你感受到你的成年是什么时候当然大家也知道我对成年的定义我们对成年的定义呢是你主动做出一个选择清楚的明白这个选择所带来的好处和代价并且真正去承受这个好处和代价这就是你成年的真正标志。
+[00:06:22.060 --> 00:06:51.620]  做出这样行为的人我们认为他是真正成年了而我们也举了一些反例就像绝大多数可能90后甚至一些我们经常认为的乖乖女乖乖男他可能学校是他父母给他选的工作是他父母给他选的结婚是他父母给他选的也就整个人生中所有的重大决定甚至到班上做哪个位置也是父母跟老师给他选的所有他就从来没有对自己的人生有过任何一次成年。
+[00:06:51.620 --> 00:07:11.680]  这个我们就认为我们经常起了一个很难听的名字当然叫巨婴就你你的身体当长得很大了但是心灵还是个婴儿所以我们也迫切的希望每个人去摆脱这种巨婴的状态在任何一个人生的选择的关头真正为自己做出一次选择。
+[00:07:11.680 --> 00:07:21.260]  我当时也讲了我自己的一个案例我当时真正做出的一个选择就是我八九岁的时候我当时去武汉读书大家也知道。
+[00:07:21.260 --> 00:07:49.440]  在这么小的年纪自己孤身一个人我当时家里在广东惠州去一个陌生的城市读书需要鼓足多大的勇气和付出多大的代价但是我当时就承受了这个代价最后真正就去武汉读书了然后今天呢是分享一些我们观众和听众的故事我觉得他们的故事比我的还要精彩的多得多第一个观众是一位女生我念下他的故事吧他的故事也写得非常好。
+[00:07:49.440 --> 00:07:51.040]  他说我第一次。
+[00:07:51.260 --> 00:08:20.100]  真正发生就是在今年五月第一次拒绝给我爸钱的时候而这时候我已经三十五岁了这十多年来我爸都会时不时的找我要钱理由很多都是他做生意需要啊要差旅费啊要发工资啊要买社会啊而且每次都很急他急了我自然也为他着急。
+[00:08:20.900 --> 00:08:49.940]  想着如果我不帮他那就没有人会无条件支持他了所以我会买钱上把钱给他甚至借朋友的钱给他然后自己慢慢还还曾按奶奶的要求把他欠别人的钱亲自送到别人家里并带他赔礼道歉但随着成长我逐渐认识到家人之间也是有界限的我首先是一个独立的人这是我的根本属性然后才能承担他女儿这个角色。
+[00:08:50.540 --> 00:09:18.740]  不是吗我想清楚了我的态度父母都有退休金和医保在老家好好生活没有任何问题我买房和还贷也未向他们要过一分钱至于父亲做生意那是他自己的选择和责任所以我决定除非他有特殊的生活困难需要我帮生意的事我不会再支持了之后他问我要钱我开始不情愿但拒绝父亲有很大的心理负担。
+[00:09:20.180 --> 00:09:49.820]  觉得这个步子我说不出口所以最终还是给了但今年第一次认他如何不满和施加心理压力我都顶住了因为我决定承担忤逆他所带来的焦虑与惶恐直到现在中间多次我妈也要求我妥协和听话我都没有像以前那样乖乖就饭我知道他们的反应会是如此但决定坚持自己的做法承担。
+[00:09:49.820 --> 00:10:19.220]  现在和父母关系隔阂的事实相信他们的力量也会因我的作为而逐渐改变现在感觉更有内在的力量更能掌控自己的人生这就是成长的喜悦这可能是我就这么长时间以来觉得最精彩的一篇留言这个留言我基本是一个字不来给大家完全念出来因为我个人感觉甚至我没有任何
+[00:10:19.460 --> 00:10:20.780]  可以修改的地方
+[00:10:20.780 --> 00:10:48.060]  这个留言我觉得是写的如此的铿锵有力把它整个人生成年领悟以及付出代价感受到喜悦的这种感觉我觉得是表达的淋漓尽致我个人看了之后我觉得这个故事本身就是最好的说明甚至我都不需要再做任何的点评了但是我狗尾续雕给大家稍微点评一下
+[00:10:49.100 --> 00:11:18.040]  这是一个现象啊在我们中国人中是非常普遍的我甚至认为像这样的女生如果在中国越来越多我们这个国家这个民族都会越来越强大绝大多数的中国子女啊在面对父母的时候是非常弱势的因为这个社会有太多的大帽子给你扣啊比如说你如果不借你爸钱那就是不孝对吧会给你扣非常多的帽子这时候你能真正想明白我
+[00:11:18.740 --> 00:11:48.380]  这个世界的本源清晰的想清楚你与父母的责任因为你与父母本质上就是签署的一个契约而且这个契约当然未经你同意啊你当他们的女儿是没有经过你同意你就发了这个帽子你必须当呢那么你再遵守一份你没有经过主动选择的契约时你应该付出多少这个契约的边界在哪里中国是从来传统文化都不做任何定义的传统文化
+[00:11:48.380 --> 00:12:18.020]  强调于像就比如说你爸说明天你自杀请你自杀你也应该自杀啊在传统文化中为了父母的你应该付出一切啊因为传统文化的价值说是父母给予了你生命所以我可以随时拿走我杀了你都可以那你的财产还有什么需要保护的吗而真正正确的理念应该是你没有让我选择把我带到这个世界上所以我与你的契约应该是一个未经我选择的
+[00:12:18.020 --> 00:12:47.660]  血金契约而这个契约的权利和责任这个女生的文章也表达的非常清楚我觉得是表达的非常好这一个案例几乎可以当做中国所有成年人与自己父母交流交往的一个必经的选择而且这里面最让我打动的是他以前最克服不了的一个心理障碍是没有办法向父母说不而且你可以看到他这个家庭是非常糟糕的一个家庭
+[00:12:47.660 --> 00:13:16.940]  他这个家庭他35岁通过这次选择成年了我相信他的父母和奶奶这三个人都没有成年别看他年纪那么大但是他们三个人都没有成年他们居然可以无条件的剥夺自己子女的财产权而且就这个剥夺这个财产本身还无数次的获悉尼无数次的去要挟一定要从这个女生身上拿走钱他奶奶
+[00:13:17.300 --> 00:13:46.940]  就他爸欠了债他奶奶会获悉尼你去帮他还了是吧还有你去道歉他不给他爸钱他妈也会去获悉尼说你怎么能不给你爸钱首先他们不懂得财产权的真正定义他们不懂得父母和子女的边界我相信在他们小的时候他们同样也不会处理他们和父母之间的关系所以我觉得这个女生太伟大了首先她自己蹚出了一条自己的成长道路而且我觉得她在用
+[00:13:46.940 --> 00:14:16.580]  用实际行动为他的亲人上着一堂成年的课其实这堂成年的课他们的他父母他的奶奶早就应该明白但是却没有任何一个人给他们上过这个课现在他的女儿正在给他们生动的上着一堂成长的课程这一个其实在他们成年之前就应该去学习的而他女儿愿意承担这种代价我们所说的不给父母兜底并且承担我不兜底之后
+[00:14:16.580 --> 00:14:17.960]  你与我的隔阂
+[00:14:17.960 --> 00:14:19.480]  这个世界我们也知道
+[00:14:19.480 --> 00:14:22.080]  天下经常没有不散的宴席
+[00:14:22.080 --> 00:14:25.240]  任何时候如果有一个人有过分的要求
+[00:14:25.240 --> 00:14:28.800]  那么我们就应该采取不来向他证明我们的态度
+[00:14:28.800 --> 00:14:30.440]  即便父母也是这样
+[00:14:30.440 --> 00:14:34.100]  所以我觉得他承担了这个隔阂的结果
+[00:14:34.100 --> 00:14:38.500]  而且我觉得最好的是他不仅不为此感到难受
+[00:14:38.500 --> 00:14:41.460]  而感受到了真正成长
+[00:14:41.460 --> 00:14:44.680]  掌握自己命运的喜悦
+[00:14:44.680 --> 00:14:46.220]  这也是最根本的原因
+[00:14:46.220 --> 00:14:49.520]  绝大多数这个世界上的人
+[00:14:49.520 --> 00:14:55.340]  他的开心与否都来自外界的评价与认可
+[00:14:55.340 --> 00:14:57.720]  就比如说我们经常会听到很多故事说
+[00:14:57.720 --> 00:14:59.140]  我无论混得再好
+[00:14:59.140 --> 00:15:00.660]  如果我爸说你是个人渣
+[00:15:00.660 --> 00:15:02.000]  那我就感觉非常痛苦
+[00:15:02.000 --> 00:15:05.820]  我这个人好像就混得根本就没有任何价值了
+[00:15:05.820 --> 00:15:07.880]  这种例子发生太多了
+[00:15:07.880 --> 00:15:12.720]  而这个女生她真正的幸福感和喜悦来自哪里
+[00:15:12.720 --> 00:15:15.320]  来自自己自由选择
+[00:15:15.860 --> 00:15:18.460]  知道后果承担后果之后
+[00:15:18.460 --> 00:15:20.060]  成年的快感
+[00:15:20.060 --> 00:15:23.600]  这也是每一个成人我个人认为
+[00:15:23.600 --> 00:15:27.340]  她真正的幸福的源头
+[00:15:27.340 --> 00:15:31.160]  并不是你父母周边任何一个人对你的评价
+[00:15:31.160 --> 00:15:34.200]  只要你能做出我主动选择的一个事情
+[00:15:34.200 --> 00:15:35.000]  我知道他家
+[00:15:35.000 --> 00:15:36.560]  然后我把它做好了
+[00:15:36.560 --> 00:15:39.040]  承担了这个代价取得了成就
+[00:15:39.040 --> 00:15:40.660]  哪怕你失败
+[00:15:40.660 --> 00:15:43.380]  这也应该是你喜悦的来源
+[00:15:45.500 --> 00:15:48.040]  感谢大家的热情提供
+[00:15:48.040 --> 00:15:48.820]  感谢大家的热情提供
+[00:15:48.820 --> 00:15:49.420]  感谢大家的热情提供
+[00:15:49.420 --> 00:15:49.920]  感谢大家的热情提供
+[00:15:49.920 --> 00:15:50.520]  感谢大家的热情提供
+[00:15:50.520 --> 00:15:51.020]  感谢大家的热情提供
+[00:15:51.020 --> 00:15:51.520]  感谢大家的热情提供
+[00:15:51.520 --> 00:15:52.020]  感谢大家的热情提供
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/out.json'
+
+whisper_print_timings:     load time =   774.97 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   359.07 ms
+whisper_print_timings:   sample time =  8688.56 ms / 22585 runs (     0.38 ms per run)
+whisper_print_timings:   encode time = 38879.44 ms /    33 runs (  1178.16 ms per run)
+whisper_print_timings:   decode time =  9397.94 ms /   189 runs (    49.72 ms per run)
+whisper_print_timings:   batchd time = 290978.09 ms / 22234 runs (    13.09 ms per run)
+whisper_print_timings:   prompt time =  7620.83 ms /  7346 runs (     1.04 ms per run)
+whisper_print_timings:    total time = 357689.62 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/audio.wav -l zh -t 3 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__045__07f4f1d1/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。
