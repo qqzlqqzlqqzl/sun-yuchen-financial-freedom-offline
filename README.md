@@ -25,3 +25,7 @@
 - `wavlake-mp3/`: 145 个 MP3，约 1.8GB，已通过 `ffprobe` 校验
 - `official-vimeo-m4a-partial/`: 64 个官网 Vimeo m4a，约 1.0GB，作为补充来源
 - `metadata/`: 官方与 RSS 元数据、URL、文件清单、校验和
+
+## 完整性说明
+
+这不是官网 Vimeo 157 条音频的完整离线镜像。当前完整的是 Wavlake RSS 直链 MP3 集合；官网 Vimeo 来源只下载了 64 条。详见 `AUDIT-2026-05-26.md`。
