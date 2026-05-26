@@ -660,3 +660,265 @@ Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/t
 size=    4511KiB time=00:02:24.36 bitrate= 256.0kbits/s speed=1.63e+03x elapsed=0:00:00.08    
 Conversion failed!
 $ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/audio.wav
+
+=== START 2026-05-26 14:27:57 ===
+{"id": "official-vimeo-m4a-partial__010__52931080", "source": "official-vimeo-m4a-partial", "path": "sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a", "filename": "010 - 010预告-财富自由是什么 [1179690712].m4a", "duration_seconds": 458.987}
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    encoder         : Lavf62.12.100
+  Duration: 00:07:38.99, start: 0.000000, bitrate: 190 kb/s
+  Stream #0:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 189 kb/s (default)
+    Metadata:
+      handler_name    : Vimeo Isopod Audio Handler
+Stream mapping:
+  Stream #0:0 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, wav, to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/audio.wav':
+  Metadata:
+    major_brand     : M4A 
+    minor_version   : 512
+    compatible_brands: M4A isomiso2
+    ISFT            : Lavf62.12.100
+  Stream #0:0(und): Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.28.100 pcm_s16le
+      handler_name    : Vimeo Isopod Audio Handler
+[out#0/wav @ 0x97cc60180] video:0KiB audio:14343KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000531%
+size=   14343KiB time=00:07:38.98 bitrate= 256.0kbits/s speed=1.47e+03x elapsed=0:00:00.31    
+$ ffmpeg -hide_banner -nostdin -y -i /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a -ar 16000 -ac 1 -c:a pcm_s16le /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.019 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.9.11/libexec/libggml-cpu-apple_m4.so
+whisper_init_from_file_with_params_no_state: loading model from 'models/whisper-cpp/ggml-large-v3.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51866
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1280
+whisper_model_load: n_audio_head  = 20
+whisper_model_load: n_audio_layer = 32
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1280
+whisper_model_load: n_text_head   = 20
+whisper_model_load: n_text_layer  = 32
+whisper_model_load: n_mels        = 128
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 5 (large v3)
+whisper_model_load: adding 1609 extra tokens
+whisper_model_load: n_langs       = 100
+whisper_model_load:         MTL0 total size =  3094.36 MB
+whisper_model_load: model size    = 3094.36 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M4 Pro
+ggml_metal_init: picking default device: Apple M4 Pro
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   83.89 MB
+whisper_init_state: kv cross size =  251.66 MB
+whisper_init_state: kv pad  size  =    7.86 MB
+whisper_init_state: compute buffer (conv)   =   37.69 MB
+whisper_init_state: compute buffer (encode) =   67.31 MB
+whisper_init_state: compute buffer (cross)  =  132.15 MB
+whisper_init_state: compute buffer (decode) =  100.04 MB
+
+system_info: n_threads = 4 / 12 | WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/audio.wav' (7343787 samples, 459.0 sec), 4 threads, 1 processors, 5 beams + best of 5, lang = zh, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:59.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:01:00.000 --> 00:01:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:01:30.000 --> 00:01:59.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:02:00.000 --> 00:02:06.720]  对财富自由真理理解的差距本质上决定了每个人是否能够真正实现财富自由
+[00:02:06.720 --> 00:02:11.260]  所以在本期我们会告诉你财富自由的真正定义
+[00:02:11.260 --> 00:02:16.240]  以及如何真正的切实达到财富自由的基本理论
+[00:02:16.240 --> 00:02:19.960]  第二个我相信很多读者朋友也会有一个疑问
+[00:02:19.960 --> 00:02:22.560]  我们应该去关心财富自由吗
+[00:02:22.560 --> 00:02:26.100]  其实也许很多人会举一些例子说
+[00:02:26.100 --> 00:02:28.720]  这个社会中很多人不关心发财
+[00:02:30.000 --> 00:02:33.380]  不关心财富自由其实也能够活得很不错
+[00:02:33.380 --> 00:02:35.380]  也能有一个比较好品质的生活
+[00:02:35.380 --> 00:02:40.200]  对此我们的看法是确实应该关心
+[00:02:40.200 --> 00:02:47.300]  甚至在我看来这是当代中国年轻人90后首先需要去关注的问题
+[00:02:47.300 --> 00:02:51.320]  我们甚至可以抛出一个有点极端的观点
+[00:02:51.320 --> 00:02:57.400]  财富自由合法赚钱是每个中国年轻人唯一需要关心的问题
+[00:02:57.400 --> 00:02:59.720]  因为每一个人
+[00:03:00.000 --> 00:03:01.320]  每一代人
+[00:03:01.320 --> 00:03:04.440]  他能关心的核心议题都是极为有限的
+[00:03:04.440 --> 00:03:11.000]  所以我个人认为合法赚钱财富自由应该放在中国年轻人关心问题优先级的第一位
+[00:03:11.000 --> 00:03:14.180]  因此也就是他们唯一需要关心的问题
+[00:03:14.180 --> 00:03:16.740]  当然也许我们周边很多人都不这么想
+[00:03:16.740 --> 00:03:20.160]  甚至整个社会也不一定对我们有这样的期望
+[00:03:20.160 --> 00:03:22.500]  甚至整个社会的期望
+[00:03:22.500 --> 00:03:26.240]  周边的影响都希望我们去关心些别的事情
+[00:03:26.240 --> 00:03:29.880]  比方说在我读书的时候
+[00:03:30.000 --> 00:03:34.740]  父母甚至周边的老师都希望我们能够去多关心国家大事
+[00:03:34.740 --> 00:03:36.340]  甚至关心中国的发展
+[00:03:36.340 --> 00:03:37.820]  长大之后
+[00:03:37.820 --> 00:03:40.000]  我进入了北京大学
+[00:03:40.000 --> 00:03:44.180]  因为北大有非常强的关心国家时事的传统
+[00:03:44.180 --> 00:03:47.660]  同学们绝大多数都很关心国家的前途
+[00:03:47.660 --> 00:03:49.640]  我们经常开玩笑说
+[00:03:49.640 --> 00:03:52.020]  我们经常把酒问苍天
+[00:03:52.020 --> 00:03:56.320]  问问什么这个国家会好吗之类的
+[00:03:56.320 --> 00:03:58.440]  同时再打个比方
+[00:03:58.440 --> 00:03:59.980]  其实主要是因为中国的国家
+[00:04:00.000 --> 00:04:02.240]  其实我们经常逛论坛
+[00:04:02.240 --> 00:04:06.340]  去强国虎扑铁血论坛
+[00:04:06.340 --> 00:04:09.900]  也能经常发现一些关心国家大事
+[00:04:09.900 --> 00:04:11.180]  中美合作与冲突
+[00:04:11.180 --> 00:04:13.320]  中日必有一战之类的
+[00:04:13.320 --> 00:04:14.880]  对于这些年轻人来说
+[00:04:14.880 --> 00:04:16.300]  他们觉得不关心大事呢
+[00:04:16.300 --> 00:04:17.220]  就是没有灵魂
+[00:04:17.220 --> 00:04:18.880]  青春就是白白浪费了
+[00:04:18.880 --> 00:04:21.280]  我在网上曾经看了一个段子
+[00:04:21.280 --> 00:04:22.660]  我在这里引用一下
+[00:04:22.660 --> 00:04:26.200]  我自己觉得才是能蛮明显的说明这个问题的
+[00:04:26.200 --> 00:04:27.840]  现在段子开始了
+[00:04:27.840 --> 00:04:29.980]  在一个阴暗潮湿的
+[00:04:30.000 --> 00:04:30.840]  地下室
+[00:04:30.840 --> 00:04:32.680]  一个瘦弱的青年
+[00:04:32.680 --> 00:04:35.960]  一手拿了三块五毛钱一包的椰树烟
+[00:04:35.960 --> 00:04:37.980]  一边看着铁血论坛
+[00:04:37.980 --> 00:04:40.820]  愁眉紧锁的他陷入了沉思
+[00:04:40.820 --> 00:04:43.720]  国家的下一步该怎么走
+[00:04:43.720 --> 00:04:46.140]  如何突破美国的封锁
+[00:04:46.140 --> 00:04:48.620]  如何保住南沙群岛
+[00:04:48.620 --> 00:04:51.520]  犯中华者虽远必诛
+[00:04:51.520 --> 00:04:54.440]  一个个难题需要他思索
+[00:04:54.440 --> 00:04:55.700]  需要他抉择
+[00:04:55.700 --> 00:04:59.440]  此时门外传来了光光的
+[00:04:59.440 --> 00:05:00.260]  串门声
+[00:05:00.260 --> 00:05:01.280]  开门
+[00:05:01.280 --> 00:05:02.940]  该交房租了
+[00:05:02.940 --> 00:05:05.500]  也许很多人
+[00:05:05.500 --> 00:05:07.680]  其实在网上都看过这个段子
+[00:05:07.680 --> 00:05:08.900]  但这个段子呢
+[00:05:08.900 --> 00:05:11.860]  其实我觉得是可以很明显的反映出
+[00:05:11.860 --> 00:05:13.620]  并不关心财富自由
+[00:05:13.620 --> 00:05:15.460]  甚至并不关心合法赚钱
+[00:05:15.460 --> 00:05:17.160]  人的生活了
+[00:05:17.160 --> 00:05:18.880]  其实我们可以看到
+[00:05:18.880 --> 00:05:20.240]  在生活中
+[00:05:20.240 --> 00:05:23.360]  我们最应该解决的是自己的问题
+[00:05:23.360 --> 00:05:25.880]  其实不光有关心大事的
+[00:05:25.880 --> 00:05:27.380]  也有关心小事的
+[00:05:27.380 --> 00:05:28.760]  比方说
+[00:05:28.760 --> 00:05:29.420]  掏粉的
+[00:05:29.440 --> 00:05:29.780]  男孩
+[00:05:29.780 --> 00:05:31.120]  陆寒吴亦凡
+[00:05:31.120 --> 00:05:33.120]  都有大量的迷妹和迷弟
+[00:05:33.120 --> 00:05:34.820]  甚至在我自己
+[00:05:34.820 --> 00:05:36.300]  非常小的时候
+[00:05:36.300 --> 00:05:37.480]  初高中的时候
+[00:05:37.480 --> 00:05:38.500]  我也当过脑残粉
+[00:05:38.500 --> 00:05:40.360]  我们也经常觉得
+[00:05:40.360 --> 00:05:41.960]  要把很多时间花在追星上
+[00:05:41.960 --> 00:05:43.900]  包括我自己的妹妹
+[00:05:43.900 --> 00:05:45.820]  家里就贴满了掏粉男孩的海报
+[00:05:45.820 --> 00:05:47.060]  甚至有的人
+[00:05:47.060 --> 00:05:48.400]  不关心明星
+[00:05:48.400 --> 00:05:50.660]  但是会关心别人的家长里短
+[00:05:50.660 --> 00:05:52.820]  天天像狗仔队一样
+[00:05:52.820 --> 00:05:53.920]  关心周边人的八卦
+[00:05:53.920 --> 00:05:55.220]  皇帝不及太监急
+[00:05:55.220 --> 00:05:56.520]  比所有人都急
+[00:05:56.520 --> 00:05:59.180]  其实所有的这些事情呢
+[00:05:59.180 --> 00:06:00.840]  我们讲极端点
+[00:06:00.840 --> 00:06:02.100]  都可以用
+[00:06:02.100 --> 00:06:04.960]  干我屁事和干你屁事来解决
+[00:06:04.960 --> 00:06:05.840]  财富自由
+[00:06:05.840 --> 00:06:07.880]  才是我们关心的正经事
+[00:06:07.880 --> 00:06:09.280]  我们甚至可以说
+[00:06:09.280 --> 00:06:11.300]  财富自由与独立
+[00:06:11.300 --> 00:06:14.400]  会给个人带来精神的自由与解放
+[00:06:14.400 --> 00:06:17.160]  给社会带来积极的进步与变化
+[00:06:17.160 --> 00:06:19.400]  会给国家带来无数个
+[00:06:19.400 --> 00:06:21.800]  有钱有趣有理想的新公民
+[00:06:21.800 --> 00:06:22.620]  当然
+[00:06:22.620 --> 00:06:24.600]  财富自由本身就是目的
+[00:06:24.600 --> 00:06:25.580]  不是手段
+[00:06:25.580 --> 00:06:27.140]  财富自由
+[00:06:27.140 --> 00:06:29.060]  光听一听就很美好了
+[00:06:29.180 --> 00:06:30.300]  不是吗
+[00:06:30.300 --> 00:06:32.100]  让我们一起树立
+[00:06:32.100 --> 00:06:33.820]  赚钱在中国的合法性吧
+[00:06:33.820 --> 00:06:35.520]  多一个赚钱的人
+[00:06:35.520 --> 00:06:37.240]  国家就多一份希望
+[00:06:37.240 --> 00:06:39.160]  我希望到这里
+[00:06:39.160 --> 00:06:40.200]  你多了一个
+[00:06:40.200 --> 00:06:42.500]  订阅财富自由专栏的理由
+[00:06:42.500 --> 00:06:44.260]  欢迎订阅
+[00:06:44.260 --> 00:06:46.480]  我在财富自由的那一端
+[00:06:46.480 --> 00:06:47.360]  等着你
+[00:06:47.360 --> 00:06:48.860]  欢迎到喜马拉雅
+[00:06:48.860 --> 00:06:50.020]  我的同名微博
+[00:06:50.020 --> 00:06:51.440]  孙宇晨评论处留言
+[00:06:51.440 --> 00:06:53.720]  参加的所有优秀留言
+[00:06:53.720 --> 00:06:55.140]  都有机会获得
+[00:06:55.140 --> 00:06:57.240]  每周抽奖的神秘礼物
+[00:06:57.240 --> 00:06:59.100]  如果你去我的微博
+[00:06:59.100 --> 00:06:59.160]  看我的视频
+[00:06:59.160 --> 00:07:01.000]  我们最近正在抽的
+[00:07:01.000 --> 00:07:01.720]  置顶微博
+[00:07:01.720 --> 00:07:03.160]  是抽一台iPhone7
+[00:07:03.160 --> 00:07:05.020]  所以好好参加
+[00:07:05.020 --> 00:07:06.280]  抽奖提问
+[00:07:06.280 --> 00:07:08.140]  还是有不错的礼物的
+[00:07:08.140 --> 00:07:09.380]  本期的问题
+[00:07:09.380 --> 00:07:11.080]  你同意年轻人
+[00:07:11.080 --> 00:07:12.020]  首先应当
+[00:07:12.020 --> 00:07:13.540]  关心合法赚钱吗
+[00:07:13.540 --> 00:07:14.300]  为什么
+[00:07:14.300 --> 00:07:15.660]  如果有了答案
+[00:07:15.660 --> 00:07:17.180]  请到我的新浪微博
+[00:07:17.180 --> 00:07:19.000]  以及喜马拉雅的留言处
+[00:07:19.000 --> 00:07:19.780]  给我留言
+[00:07:19.780 --> 00:07:21.040]  谢谢
+output_txt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/out.txt'
+output_srt: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/out.srt'
+output_json: saving output to '/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/out.json'
+
+whisper_print_timings:     load time =  5558.80 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =   136.32 ms
+whisper_print_timings:   sample time =  2576.71 ms /  9276 runs (     0.28 ms per run)
+whisper_print_timings:   encode time = 11680.15 ms /    16 runs (   730.01 ms per run)
+whisper_print_timings:   decode time =  5499.14 ms /   181 runs (    30.38 ms per run)
+whisper_print_timings:   batchd time = 74698.91 ms /  9016 runs (     8.29 ms per run)
+whisper_print_timings:   prompt time =  2366.46 ms /  3306 runs (     0.72 ms per run)
+whisper_print_timings:    total time = 103059.88 ms
+ggml_metal_free: deallocating
+$ whisper-cli -m models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/audio.wav -l zh -t 4 -bs 5 -bo 5 -oj -ojf -otxt -osrt -of /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/transcriptions/tmp/official-vimeo-m4a-partial__010__52931080/out --prompt 以下是孙宇晨《财富自由革命之路》在喜马拉雅上的中文口播音频。常见词包括孙宇晨、财富自由、喜马拉雅、创业、投资、区块链、比特币、互联网、波场、TRON。

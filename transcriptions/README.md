@@ -6,8 +6,8 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 
 - Audio manifest: 209 local audio files
 - Wavlake MP3: 145 files, 29.996 hours
-- Official Vimeo m4a local partial mirror: 64 files, 12.689 hours
-- Total transcribed local audio: 42.685 hours
+- Official Vimeo m4a local partial mirror: 64 files, 13.069 hours
+- Total transcribed local audio: 43.064 hours
 
 ## Output Folders
 
@@ -32,9 +32,9 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 
 All 209 local audio files have `raw-json`, `clean-json`, `txt`, and `srt` outputs. JSON validation passed with replacement decoding, and no text/SRT outputs are empty.
 
-Two official m4a files had AAC decode errors and were transcribed from recovered partial WAV files:
+Two previously corrupted official m4a files were redownloaded from the official Vimeo player HLS audio-only source, verified with strict ffmpeg decoding, and re-transcribed:
 
-- `official-vimeo-m4a-partial__010__52931080`: source duration 149.824s, recovered WAV 144.361625s
-- `official-vimeo-m4a-partial__062__9e655304`: source duration 5.952s, recovered WAV 1.749313s
+- `official-vimeo-m4a-partial__010__52931080`: fixed duration 458.987s
+- `official-vimeo-m4a-partial__062__9e655304`: fixed duration 1062.912s
 
 Offline audio completeness: Wavlake RSS MP3 is complete locally at 145/145. The official website listed 157 Vimeo URLs, but the local official direct m4a mirror remains partial at 64 files; these 64 local m4a files were included in this transcription run.
