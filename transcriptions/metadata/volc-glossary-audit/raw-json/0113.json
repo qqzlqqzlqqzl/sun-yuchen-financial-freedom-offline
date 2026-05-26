@@ -1,0 +1,381 @@
+{
+  "item": {
+    "index": 113,
+    "file_id": "wavlake-mp3__123__83fe2b60",
+    "audio_path": "sun-audio-offline/wavlake-mp3/123 - 123 - 124 孙宇晨：【家人边界】与家人和解.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0113__wavlake-mp3__123__83fe2b60__term_cc7cc0d6.wav",
+    "start_seconds": 475.76,
+    "end_seconds": 485.06,
+    "duration_seconds": 9.3,
+    "matched_terms": [
+      "雨晨"
+    ],
+    "srt_text": "说,雨晨,你是不是脑子进水了?别人视频直播做这么火,你做语音直播不两天半就倒闭,被淘汰了吗?"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526145155837C9C5FA4A40F272437",
+    "request_id": "201dc232-38bf-4a60-950b-044242cf591f",
+    "response": {
+      "audio_info": {
+        "duration": 9300
+      },
+      "result": {
+        "additions": {
+          "duration": "9300"
+        },
+        "text": "也觉得不太靠谱，说雨辰你是不是脑子进水了？是吧？别人视频直播做这么火，你做语音直播不两天半就倒闭被淘汰了吗？你这往坑里",
+        "utterances": [
+          {
+            "end_time": 3310,
+            "start_time": 190,
+            "text": "也觉得不太靠谱，说雨辰你是不是脑子进水了？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 390,
+                "start_time": 190,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 510,
+                "start_time": 390,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 590,
+                "start_time": 510,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 710,
+                "start_time": 590,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 870,
+                "start_time": 710,
+                "text": "太"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1070,
+                "start_time": 870,
+                "text": "靠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1230,
+                "start_time": 1070,
+                "text": "谱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2070,
+                "start_time": 1830,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2190,
+                "start_time": 2150,
+                "text": "雨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2350,
+                "start_time": 2310,
+                "text": "辰"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2510,
+                "start_time": 2390,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2590,
+                "start_time": 2510,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2630,
+                "start_time": 2590,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2710,
+                "start_time": 2630,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2830,
+                "start_time": 2710,
+                "text": "脑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2910,
+                "start_time": 2830,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3030,
+                "start_time": 2910,
+                "text": "进"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3190,
+                "start_time": 3030,
+                "text": "水"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3310,
+                "start_time": 3190,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 3590,
+            "start_time": 3390,
+            "text": "是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3510,
+                "start_time": 3390,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3590,
+                "start_time": 3510,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 9230,
+            "start_time": 3670,
+            "text": "别人视频直播做这么火，你做语音直播不两天半就倒闭被淘汰了吗？你这往坑里",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3790,
+                "start_time": 3670,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3950,
+                "start_time": 3790,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4070,
+                "start_time": 3950,
+                "text": "视"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4190,
+                "start_time": 4070,
+                "text": "频"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4310,
+                "start_time": 4190,
+                "text": "直"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4470,
+                "start_time": 4310,
+                "text": "播"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4630,
+                "start_time": 4470,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4710,
+                "start_time": 4630,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4870,
+                "start_time": 4710,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5110,
+                "start_time": 4870,
+                "text": "火"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5630,
+                "start_time": 5430,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5830,
+                "start_time": 5630,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5950,
+                "start_time": 5830,
+                "text": "语"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6070,
+                "start_time": 5950,
+                "text": "音"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6190,
+                "start_time": 6070,
+                "text": "直"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6270,
+                "start_time": 6190,
+                "text": "播"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6470,
+                "start_time": 6270,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6550,
+                "start_time": 6470,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6670,
+                "start_time": 6550,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6830,
+                "start_time": 6670,
+                "text": "半"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6990,
+                "start_time": 6830,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7110,
+                "start_time": 6990,
+                "text": "倒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7230,
+                "start_time": 7110,
+                "text": "闭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7550,
+                "start_time": 7350,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7670,
+                "start_time": 7550,
+                "text": "淘"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7830,
+                "start_time": 7670,
+                "text": "汰"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7990,
+                "start_time": 7830,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8190,
+                "start_time": 7990,
+                "text": "吗"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8670,
+                "start_time": 8470,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8790,
+                "start_time": 8670,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8950,
+                "start_time": 8830,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9110,
+                "start_time": 8990,
+                "text": "坑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9230,
+                "start_time": 9110,
+                "text": "里"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

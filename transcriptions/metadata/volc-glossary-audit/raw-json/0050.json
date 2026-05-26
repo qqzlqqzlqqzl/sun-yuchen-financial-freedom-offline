@@ -1,0 +1,109 @@
+{
+  "item": {
+    "index": 50,
+    "file_id": "wavlake-mp3__008__1b95d206",
+    "audio_path": "sun-audio-offline/wavlake-mp3/008 - 008 - 008 孙宇晨：创业、比特币、湖畔大学.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0050__wavlake-mp3__008__1b95d206__term_8eac83a2.wav",
+    "start_seconds": 752.58,
+    "end_seconds": 755.5,
+    "duration_seconds": 2.92,
+    "matched_terms": [
+      "冯伦"
+    ],
+    "srt_text": "冯伦"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526145139C70DB66D9B0AD22CD770",
+    "request_id": "274f0323-63ee-4656-9553-07c478c3f800",
+    "response": {
+      "audio_info": {
+        "duration": 2920
+      },
+      "result": {
+        "additions": {
+          "duration": "2920"
+        },
+        "text": "祝马云、冯仑、沈国军、郭广昌。",
+        "utterances": [
+          {
+            "end_time": 2800,
+            "start_time": 120,
+            "text": "祝马云、冯仑、沈国军、郭广昌。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "祝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 720,
+                "text": "云"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1320,
+                "text": "冯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1520,
+                "text": "仑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "沈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2120,
+                "text": "军"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2360,
+                "text": "郭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2520,
+                "text": "广"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2760,
+                "text": "昌"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

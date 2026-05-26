@@ -1,0 +1,24 @@
+{
+  "item": {
+    "index": 4,
+    "file_id": "official-vimeo-m4a-partial__008__4bb31bf0",
+    "audio_path": "sun-audio-offline/audio/008 - 008【花絮】人生中的那些关键节点 [1179689834].m4a",
+    "snippet_path": "review-audio-snippets/glossary-audit/0004__official-vimeo-m4a-partial__008__4bb31bf0__term_cc7cc0d6.wav",
+    "start_seconds": 437.76,
+    "end_seconds": 441.04,
+    "duration_seconds": 3.28,
+    "matched_terms": [
+      "雨晨"
+    ],
+    "srt_text": "说这个雨晨啊,"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 405,
+    "api_status": null,
+    "api_message": null,
+    "tt_logid": "20260526145137D8C31DACC53382CB53FE",
+    "request_id": "daecace1-88d2-4874-b4ee-c96f65ef6b55",
+    "response_text": "Endpoint \"auc/bigmodel/recognize/flash\" only supports POST method"
+  }
+}

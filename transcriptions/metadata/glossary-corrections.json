@@ -8,137 +8,829 @@
   "raw_json_preserved": true,
   "replacements": [
     {
-      "from": "company interest",
-      "to": "compound interest",
-      "reason": "compound interest quote typo",
-      "count": 6,
+      "from": "facebook",
+      "to": "Facebook",
+      "reason": "Facebook capitalization, confirmed by Volcengine ASR audit",
+      "count": 3,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__063__d4cd5332.txt",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
           "count": 1
         },
         {
-          "path": "text/wavlake-mp3__063__a2ff3819.txt",
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
           "count": 1
         },
         {
-          "path": "srt/official-vimeo-m4a-partial__063__d4cd5332.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__063__a2ff3819.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__063__d4cd5332.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__063__a2ff3819.json",
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "heat and the soul",
-      "to": "heart and soul",
-      "reason": "compound interest quote typo",
-      "count": 6,
+      "from": "last就是性欲",
+      "to": "lust就是性欲",
+      "reason": "seven deadly sins term typo, confirmed by context",
+      "count": 3,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__063__d4cd5332.txt",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
           "count": 1
         },
         {
-          "path": "text/wavlake-mp3__063__a2ff3819.txt",
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
           "count": 1
         },
         {
-          "path": "srt/official-vimeo-m4a-partial__063__d4cd5332.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__063__a2ff3819.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__063__d4cd5332.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__063__a2ff3819.json",
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "伊隆马斯作为",
-      "to": "伊隆马斯克作为",
-      "reason": "Elon Musk name typo",
-      "count": 6,
+      "from": "linkin",
+      "to": "LinkedIn",
+      "reason": "LinkedIn name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__007__a8b90f85.txt",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
           "count": 1
         },
         {
-          "path": "text/wavlake-mp3__007__53a702f0.txt",
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
           "count": 1
         },
         {
-          "path": "srt/official-vimeo-m4a-partial__007__a8b90f85.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__007__53a702f0.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__007__a8b90f85.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__007__53a702f0.json",
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "吴小波",
-      "to": "吴晓波",
-      "reason": "person name typo",
-      "count": 6,
+      "from": "ready和twitter",
+      "to": "Reddit和Twitter",
+      "reason": "Reddit/Twitter capitalization, confirmed by Volcengine ASR audit",
+      "count": 3,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__003__1d38f06f.txt",
+          "path": "text/official-vimeo-m4a-partial__027__5309b3f0.txt",
           "count": 1
         },
         {
-          "path": "text/wavlake-mp3__003__8615665f.txt",
+          "path": "srt/official-vimeo-m4a-partial__027__5309b3f0.srt",
           "count": 1
         },
         {
-          "path": "srt/official-vimeo-m4a-partial__003__1d38f06f.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__003__8615665f.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__003__1d38f06f.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__003__8615665f.json",
+          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "孙宇春",
+      "from": "ready对应的是知乎",
+      "to": "Reddit对应的是知乎",
+      "reason": "Reddit name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__027__5309b3f0.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__027__5309b3f0.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "snapchat",
+      "to": "Snapchat",
+      "reason": "Snapchat capitalization, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "twitter",
+      "to": "Twitter",
+      "reason": "Twitter capitalization, confirmed by Volcengine ASR audit",
+      "count": 15,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__027__5309b3f0.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__027__9d74e009.txt",
+          "count": 3
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__027__5309b3f0.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__027__9d74e009.srt",
+          "count": 3
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__027__9d74e009.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__027__9d74e009.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__027__9d74e009.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "一道冲",
+      "to": "易到充",
+      "reason": "ride-hailing brand typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__116__09f832bb.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__116__09f832bb.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__116__09f832bb.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "一道用车",
+      "to": "易到用车",
+      "reason": "ride-hailing brand typo, confirmed by Volcengine ASR audit",
+      "count": 45,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__048__131d2e58.txt",
+          "count": 1
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__056__26c9651d.txt",
+          "count": 5
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__058__f42e9ec2.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__048__8b1ae8f0.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__056__2fd11844.txt",
+          "count": 5
+        },
+        {
+          "path": "text/wavlake-mp3__058__489fd374.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__116__09f832bb.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__048__131d2e58.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__056__26c9651d.srt",
+          "count": 5
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__058__f42e9ec2.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__048__8b1ae8f0.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__056__2fd11844.srt",
+          "count": 5
+        },
+        {
+          "path": "srt/wavlake-mp3__058__489fd374.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__116__09f832bb.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__048__131d2e58.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__058__f42e9ec2.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__048__8b1ae8f0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__056__2fd11844.json",
+          "count": 4
+        },
+        {
+          "path": "clean-json/wavlake-mp3__056__2fd11844.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__058__489fd374.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__116__09f832bb.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "他人祭地狱",
+      "to": "他人即地狱",
+      "reason": "Sartre quote typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__129__ce692f38.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__129__ce692f38.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__129__ce692f38.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "伊罗曼斯作为",
+      "to": "Elon Musk作为",
+      "reason": "Elon Musk name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__016__71e7d985.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__016__71e7d985.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__016__71e7d985.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "伊罗曼斯克",
+      "to": "伊隆马斯克",
+      "reason": "Elon Musk name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__016__71e7d985.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__016__71e7d985.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__016__71e7d985.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "伊罗马斯克",
+      "to": "伊隆马斯克",
+      "reason": "Elon Musk name typo, confirmed by Volcengine ASR audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__016__71e7d985.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__016__817bdf46.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__016__71e7d985.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__016__817bdf46.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__016__71e7d985.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__016__817bdf46.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "住板家",
+      "to": "住百家",
+      "reason": "company name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__056__26c9651d.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__056__26c9651d.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "做last",
+      "to": "做lust",
+      "reason": "seven deadly sins term typo, confirmed by context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "冯伦",
+      "to": "冯仑",
+      "reason": "person name typo, confirmed by Volcengine ASR audit",
+      "count": 18,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__008__4bb31bf0.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__008__1b95d206.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__082__3a025f97.txt",
+          "count": 3
+        },
+        {
+          "path": "text/wavlake-mp3__117__0f43c944.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__008__4bb31bf0.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__008__1b95d206.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__082__3a025f97.srt",
+          "count": 3
+        },
+        {
+          "path": "srt/wavlake-mp3__117__0f43c944.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__008__4bb31bf0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__008__1b95d206.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__117__0f43c944.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "区分企业",
+      "to": "趣分期",
+      "reason": "company name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "区分期",
+      "to": "趣分期",
+      "reason": "company name typo, confirmed by Volcengine ASR audit",
+      "count": 9,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 3
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 3
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "from": "区电之前",
+      "to": "趣店之前",
+      "reason": "company name typo, confirmed by Volcengine ASR audit context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "区链集团",
+      "to": "趣店集团",
+      "reason": "company name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "叫做prime",
+      "to": "叫做pride",
+      "reason": "seven deadly sins term typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "四研创业公司",
+      "to": "四家创业公司",
+      "reason": "word typo verified by Volcengine ASR audit and duplicate transcript",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__027__5309b3f0.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__027__5309b3f0.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "孙云群",
       "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
+      "reason": "Justin Sun name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__048__8b1ae8f0.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__048__8b1ae8f0.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__048__8b1ae8f0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "孙云诚",
+      "to": "孙宇晨",
+      "reason": "Justin Sun name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__008__4bb31bf0.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__008__4bb31bf0.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__008__4bb31bf0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "孙云辰",
+      "to": "孙宇晨",
+      "reason": "Justin Sun name typo, confirmed by Volcengine ASR audit",
+      "count": 51,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 2
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__041__8902d828.txt",
+          "count": 1
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__042__c8359174.txt",
+          "count": 2
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__048__131d2e58.txt",
+          "count": 1
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__053__b7c092ee.txt",
+          "count": 1
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__058__f42e9ec2.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__041__5af9497a.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__042__1203f8e6.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__049__0fdcd03f.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__068__8931adfc.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__076__9bee36c9.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__107__b184caea.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__041__8902d828.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__042__c8359174.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__048__131d2e58.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__053__b7c092ee.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__058__f42e9ec2.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__041__5af9497a.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__042__1203f8e6.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__049__0fdcd03f.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__068__8931adfc.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__076__9bee36c9.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__107__b184caea.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__041__8902d828.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__042__c8359174.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__042__c8359174.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__048__131d2e58.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__053__b7c092ee.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__058__f42e9ec2.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__058__f42e9ec2.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__042__1203f8e6.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__049__0fdcd03f.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__068__8931adfc.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__076__9bee36c9.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__107__b184caea.json",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "from": "孙俊成",
+      "to": "孙宇晨",
+      "reason": "Justin Sun name typo, confirmed by Volcengine ASR audit",
       "count": 3,
       "files": [
         {
@@ -156,29 +848,325 @@
       ]
     },
     {
-      "from": "孙宇权",
+      "from": "孙允诚",
       "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
+      "reason": "Justin Sun name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__107__b184caea.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__107__b184caea.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__107__b184caea.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "孙允辰",
+      "to": "孙宇晨",
+      "reason": "Justin Sun name typo, confirmed by Volcengine ASR audit",
       "count": 6,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__056__26c9651d.txt",
+          "path": "text/wavlake-mp3__041__5af9497a.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__041__5af9497a.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
           "count": 1
         },
+        {
+          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "富利是第八大世界奇迹",
+      "to": "复利是第八大世界奇迹",
+      "reason": "compound interest term typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "异道",
+      "to": "易到",
+      "reason": "ride-hailing brand typo, confirmed by Volcengine ASR audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__006__a47f6122.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__006__3aa7bdab.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__006__a47f6122.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__006__3aa7bdab.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__006__a47f6122.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__006__3aa7bdab.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "张恒德",
+      "to": "张亨德",
+      "reason": "person name typo, confirmed by Volcengine ASR audit and public references",
+      "count": 21,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__056__26c9651d.txt",
+          "count": 3
+        },
+        {
+          "path": "text/wavlake-mp3__056__2fd11844.txt",
+          "count": 3
+        },
+        {
+          "path": "text/wavlake-mp3__082__3a025f97.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__056__26c9651d.srt",
+          "count": 3
+        },
+        {
+          "path": "srt/wavlake-mp3__056__2fd11844.srt",
+          "count": 3
+        },
+        {
+          "path": "srt/wavlake-mp3__082__3a025f97.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__056__2fd11844.json",
+          "count": 3
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "明智维新",
+      "to": "明治维新",
+      "reason": "historical term typo, confirmed by Volcengine ASR audit",
+      "count": 15,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 4
+        },
+        {
+          "path": "text/wavlake-mp3__144__7d6ac21c.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 4
+        },
+        {
+          "path": "srt/wavlake-mp3__144__7d6ac21c.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__144__7d6ac21c.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "校园代",
+      "to": "校园贷",
+      "reason": "finance term typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "符合prime",
+      "to": "符合pride",
+      "reason": "seven deadly sins term typo, confirmed by Volcengine ASR audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "from": "网站叫ready,就是r-e-d-d-i-t",
+      "to": "网站叫Reddit,就是r-e-d-d-i-t",
+      "reason": "Reddit name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__027__5309b3f0.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__027__5309b3f0.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "罗明",
+      "to": "罗敏",
+      "reason": "person name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "罗米啊",
+      "to": "罗敏啊",
+      "reason": "person name typo, confirmed by Volcengine ASR audit context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "萨特斯",
+      "to": "萨特",
+      "reason": "Sartre name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__129__ce692f38.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__129__ce692f38.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__129__ce692f38.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "著版家",
+      "to": "住百家",
+      "reason": "company name typo, confirmed by Volcengine ASR audit",
+      "count": 3,
+      "files": [
         {
           "path": "text/wavlake-mp3__056__2fd11844.txt",
           "count": 1
         },
         {
-          "path": "srt/official-vimeo-m4a-partial__056__26c9651d.srt",
-          "count": 1
-        },
-        {
           "path": "srt/wavlake-mp3__056__2fd11844.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
           "count": 1
         },
         {
@@ -188,333 +1176,45 @@
       ]
     },
     {
-      "from": "孙宇诚",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
+      "from": "陆飞你莫属",
+      "to": "录《非你莫属》",
+      "reason": "show title typo, confirmed by Volcengine ASR audit",
       "count": 3,
       "files": [
         {
-          "path": "text/wavlake-mp3__095__3bea9fa5.txt",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
           "count": 1
         },
         {
-          "path": "srt/wavlake-mp3__095__3bea9fa5.srt",
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
           "count": 1
         },
         {
-          "path": "clean-json/wavlake-mp3__095__3bea9fa5.json",
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "孙宇辰",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
-      "count": 42,
+      "from": "陌陌无闻",
+      "to": "默默无闻",
+      "reason": "restore common phrase after Momo app normalization",
+      "count": 4,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__027__5309b3f0.txt",
-          "count": 1
-        },
-        {
-          "path": "text/official-vimeo-m4a-partial__036__6c5b57fc.txt",
-          "count": 4
-        },
-        {
-          "path": "text/official-vimeo-m4a-partial__058__f42e9ec2.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__058__489fd374.txt",
-          "count": 3
-        },
-        {
-          "path": "text/wavlake-mp3__128__fa2d5a99.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__132__53ed6043.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__137__33989990.txt",
-          "count": 3
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__027__5309b3f0.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__036__6c5b57fc.srt",
-          "count": 4
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__058__f42e9ec2.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__058__489fd374.srt",
-          "count": 3
-        },
-        {
-          "path": "srt/wavlake-mp3__128__fa2d5a99.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__132__53ed6043.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__137__33989990.srt",
-          "count": 3
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__036__6c5b57fc.json",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
           "count": 2
         },
         {
-          "path": "clean-json/official-vimeo-m4a-partial__036__6c5b57fc.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__036__6c5b57fc.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__058__f42e9ec2.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__058__489fd374.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__058__489fd374.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__058__489fd374.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__128__fa2d5a99.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__132__53ed6043.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__137__33989990.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__137__33989990.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__137__33989990.json",
-          "count": 1
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 2
         }
       ]
     },
     {
-      "from": "孙玉晨",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
-      "count": 6,
-      "files": [
-        {
-          "path": "text/wavlake-mp3__027__9d74e009.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__041__5af9497a.txt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__027__9d74e009.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__041__5af9497a.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__027__9d74e009.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "from": "孙益晨",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
-      "count": 3,
-      "files": [
-        {
-          "path": "text/official-vimeo-m4a-partial__041__8902d828.txt",
-          "count": 1
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__041__8902d828.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__041__8902d828.json",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "from": "孙远晨",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
-      "count": 6,
-      "files": [
-        {
-          "path": "text/official-vimeo-m4a-partial__041__8902d828.txt",
-          "count": 2
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__041__8902d828.srt",
-          "count": 2
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__041__8902d828.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__041__8902d828.json",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "from": "孙逸臣",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
-      "count": 21,
-      "files": [
-        {
-          "path": "text/official-vimeo-m4a-partial__029__bea15de4.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__021__2cde99a5.txt",
-          "count": 2
-        },
-        {
-          "path": "text/wavlake-mp3__029__34570f84.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__080__63763504.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__097__e53f6314.txt",
-          "count": 2
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__029__bea15de4.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__021__2cde99a5.srt",
-          "count": 2
-        },
-        {
-          "path": "srt/wavlake-mp3__029__34570f84.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__080__63763504.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__097__e53f6314.srt",
-          "count": 2
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__029__bea15de4.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__021__2cde99a5.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__021__2cde99a5.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__029__34570f84.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__080__63763504.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__097__e53f6314.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__097__e53f6314.json",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "from": "孙雨晨",
-      "to": "孙宇晨",
-      "reason": "Justin Sun name typo",
-      "count": 9,
-      "files": [
-        {
-          "path": "text/wavlake-mp3__027__9d74e009.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__041__5af9497a.txt",
-          "count": 2
-        },
-        {
-          "path": "srt/wavlake-mp3__027__9d74e009.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__041__5af9497a.srt",
-          "count": 2
-        },
-        {
-          "path": "clean-json/wavlake-mp3__027__9d74e009.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "from": "宇辰",
-      "to": "宇晨",
-      "reason": "Justin Sun given-name typo",
+      "from": "陌陌物资",
+      "to": "陌陌市值",
+      "reason": "Momo market-cap typo, confirmed by Volcengine ASR audit",
       "count": 3,
       "files": [
         {
@@ -532,170 +1232,630 @@
       ]
     },
     {
-      "from": "扎克伯和",
-      "to": "扎克伯格和",
-      "reason": "Zuckerberg name typo",
-      "count": 3,
+      "from": "雨晨",
+      "to": "宇晨",
+      "reason": "Justin Sun given-name typo, confirmed as name mentions by Volcengine ASR audit",
+      "count": 141,
       "files": [
         {
-          "path": "text/wavlake-mp3__080__63763504.txt",
+          "path": "text/official-vimeo-m4a-partial__008__4bb31bf0.txt",
+          "count": 2
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__030__3e990640.txt",
+          "count": 3
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__047__809f0c28.txt",
           "count": 1
         },
         {
+          "path": "text/official-vimeo-m4a-partial__048__131d2e58.txt",
+          "count": 2
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__053__b7c092ee.txt",
+          "count": 2
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__055__f49ce1be.txt",
+          "count": 1
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__056__26c9651d.txt",
+          "count": 1
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__057__47c7ae7b.txt",
+          "count": 2
+        },
+        {
+          "path": "text/official-vimeo-m4a-partial__058__f42e9ec2.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__030__5f474667.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__033__3202b3ed.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__041__5af9497a.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__047__aa0baa82.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__048__8b1ae8f0.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__056__2fd11844.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__058__489fd374.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__067__6fa7563b.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__076__9bee36c9.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__078__32514846.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__079__893ed966.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 3
+        },
+        {
+          "path": "text/wavlake-mp3__083__09588e6c.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__093__c3783dcd.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__097__e53f6314.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__107__b184caea.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__109__be90b738.txt",
+          "count": 3
+        },
+        {
+          "path": "text/wavlake-mp3__122__2839a873.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__123__83fe2b60.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__131__7f6a9b2b.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__132__53ed6043.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__140__f55c81c4.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__008__4bb31bf0.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__030__3e990640.srt",
+          "count": 3
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__047__809f0c28.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__048__131d2e58.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__053__b7c092ee.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__055__f49ce1be.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__056__26c9651d.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__057__47c7ae7b.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__058__f42e9ec2.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__030__5f474667.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__033__3202b3ed.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__041__5af9497a.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__047__aa0baa82.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__048__8b1ae8f0.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__056__2fd11844.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__058__489fd374.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__067__6fa7563b.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__076__9bee36c9.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__078__32514846.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__079__893ed966.srt",
+          "count": 2
+        },
+        {
           "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 3
+        },
+        {
+          "path": "srt/wavlake-mp3__083__09588e6c.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__093__c3783dcd.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__097__e53f6314.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__107__b184caea.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__109__be90b738.srt",
+          "count": 3
+        },
+        {
+          "path": "srt/wavlake-mp3__122__2839a873.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__123__83fe2b60.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__131__7f6a9b2b.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__132__53ed6043.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__140__f55c81c4.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__008__4bb31bf0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__008__4bb31bf0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__030__3e990640.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__030__3e990640.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__030__3e990640.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__047__809f0c28.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__048__131d2e58.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__048__131d2e58.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__053__b7c092ee.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__053__b7c092ee.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__055__f49ce1be.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__057__47c7ae7b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__057__47c7ae7b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__058__f42e9ec2.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__030__5f474667.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__033__3202b3ed.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__041__5af9497a.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__047__aa0baa82.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__048__8b1ae8f0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__048__8b1ae8f0.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__056__2fd11844.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__058__489fd374.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__076__9bee36c9.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__079__893ed966.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__079__893ed966.json",
           "count": 1
         },
         {
           "path": "clean-json/wavlake-mp3__080__63763504.json",
           "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__083__09588e6c.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__093__c3783dcd.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__093__c3783dcd.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__097__e53f6314.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__107__b184caea.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__109__be90b738.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__109__be90b738.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__109__be90b738.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__122__2839a873.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__123__83fe2b60.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__131__7f6a9b2b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__132__53ed6043.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__140__f55c81c4.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__140__f55c81c4.json",
+          "count": 1
         }
       ]
     },
     {
-      "from": "波长链",
-      "to": "波场链",
-      "reason": "blockchain term typo",
+      "from": "鱼龙马斯克",
+      "to": "Elon Musk",
+      "reason": "Elon Musk name typo, confirmed by Volcengine ASR audit",
       "count": 3,
       "files": [
         {
-          "path": "text/wavlake-mp3__137__33989990.txt",
+          "path": "text/wavlake-mp3__016__817bdf46.txt",
           "count": 1
         },
         {
-          "path": "srt/wavlake-mp3__137__33989990.srt",
+          "path": "srt/wavlake-mp3__016__817bdf46.srt",
           "count": 1
         },
         {
-          "path": "clean-json/wavlake-mp3__137__33989990.json",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "from": "矛头孙宇晨",
-      "to": "孙宇晨",
-      "reason": "phrase cleanup after name correction",
-      "count": 3,
-      "files": [
-        {
-          "path": "text/wavlake-mp3__137__33989990.txt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__137__33989990.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__137__33989990.json",
+          "path": "clean-json/wavlake-mp3__016__817bdf46.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "矛头苦干的孙宇晨",
-      "to": "埋头苦干的孙宇晨",
-      "reason": "phrase cleanup after name correction",
-      "count": 3,
+      "from": "默默",
+      "to": "陌陌",
+      "reason": "Momo app name typo, confirmed by Volcengine ASR audit",
+      "count": 70,
       "files": [
         {
-          "path": "text/wavlake-mp3__137__33989990.txt",
+          "path": "text/official-vimeo-m4a-partial__006__a47f6122.txt",
           "count": 1
         },
         {
-          "path": "srt/wavlake-mp3__137__33989990.srt",
+          "path": "text/wavlake-mp3__006__3aa7bdab.txt",
           "count": 1
         },
         {
-          "path": "clean-json/wavlake-mp3__137__33989990.json",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
+          "count": 4
+        },
+        {
+          "path": "text/wavlake-mp3__067__6fa7563b.txt",
+          "count": 7
+        },
+        {
+          "path": "text/wavlake-mp3__078__32514846.txt",
+          "count": 6
+        },
+        {
+          "path": "text/wavlake-mp3__116__09f832bb.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__132__53ed6043.txt",
+          "count": 4
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__006__a47f6122.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__006__3aa7bdab.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
+          "count": 4
+        },
+        {
+          "path": "srt/wavlake-mp3__067__6fa7563b.srt",
+          "count": 7
+        },
+        {
+          "path": "srt/wavlake-mp3__078__32514846.srt",
+          "count": 6
+        },
+        {
+          "path": "srt/wavlake-mp3__116__09f832bb.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__132__53ed6043.srt",
+          "count": 4
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__006__a47f6122.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__006__3aa7bdab.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 3
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__067__6fa7563b.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__116__09f832bb.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__132__53ed6043.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__132__53ed6043.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__132__53ed6043.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__132__53ed6043.json",
           "count": 1
         }
       ]
     },
     {
-      "from": "财务自由",
-      "to": "财富自由",
-      "reason": "course term normalization",
-      "count": 24,
+      "from": "默默无闻",
+      "to": "默默无闻",
+      "reason": "idempotent common phrase preservation",
+      "count": 4,
       "files": [
         {
-          "path": "text/official-vimeo-m4a-partial__001__1a0d7a82.txt",
+          "path": "text/wavlake-mp3__059__be99c1d2.txt",
           "count": 2
         },
         {
-          "path": "text/official-vimeo-m4a-partial__003__1d38f06f.txt",
-          "count": 1
-        },
-        {
-          "path": "text/official-vimeo-m4a-partial__012__842975e3.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__001__c835b506.txt",
+          "path": "srt/wavlake-mp3__059__be99c1d2.srt",
           "count": 2
-        },
-        {
-          "path": "text/wavlake-mp3__003__8615665f.txt",
-          "count": 1
-        },
-        {
-          "path": "text/wavlake-mp3__012__a90a69b6.txt",
-          "count": 1
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__001__1a0d7a82.srt",
-          "count": 2
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__003__1d38f06f.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/official-vimeo-m4a-partial__012__842975e3.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__001__c835b506.srt",
-          "count": 2
-        },
-        {
-          "path": "srt/wavlake-mp3__003__8615665f.srt",
-          "count": 1
-        },
-        {
-          "path": "srt/wavlake-mp3__012__a90a69b6.srt",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__001__1a0d7a82.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__001__1a0d7a82.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__003__1d38f06f.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/official-vimeo-m4a-partial__012__842975e3.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__001__c835b506.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__001__c835b506.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__003__8615665f.json",
-          "count": 1
-        },
-        {
-          "path": "clean-json/wavlake-mp3__012__a90a69b6.json",
-          "count": 1
         }
       ]
     }

@@ -18,6 +18,7 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 - `logs/`: per-file logs
 - `metadata/transcription-summary.json`: machine-readable run summary
 - `metadata/glossary-corrections.json`: high-confidence glossary/proper-noun correction report
+- `metadata/volc-glossary-audit/`: Volcengine ASR review data for the second glossary pass, including raw API returns
 
 ## Model
 
@@ -34,6 +35,8 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 All 209 local audio files have `raw-json`, `clean-json`, `txt`, and `srt` outputs. JSON validation passed with replacement decoding, and no text/SRT outputs are empty.
 
 `text/`, `srt/`, and `clean-json/` include high-confidence glossary corrections for proper nouns and course terms. The original model return files in `raw-json/` are preserved unchanged.
+
+The second glossary pass used Volcengine flash ASR on 124 timestamped audio snippets cut from the original local audio. 118 snippets returned successfully. Raw Volcengine API responses are preserved under `metadata/volc-glossary-audit/raw-json/`, and the reviewed snippet manifest/results are stored alongside them. These cloud-audited corrections were applied only to `text/`, `srt/`, and `clean-json`; `raw-json/` remains unchanged.
 
 Two previously corrupted official m4a files were redownloaded from the official Vimeo player HLS audio-only source, verified with strict ffmpeg decoding, and re-transcribed:
 

@@ -1,0 +1,1070 @@
+{
+  "item": {
+    "index": 105,
+    "file_id": "wavlake-mp3__107__b184caea",
+    "audio_path": "sun-audio-offline/wavlake-mp3/107 - 107 - 108 孙宇晨：【医疗】看病与破案.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0105__wavlake-mp3__107__b184caea__term_8bc7839b.wav",
+    "start_seconds": 235.08,
+    "end_seconds": 267.3,
+    "duration_seconds": 32.22,
+    "matched_terms": [
+      "孙云辰",
+      "雨晨"
+    ],
+    "srt_text": "劳动的价值,而且这里面很好玩的一件事情是,还是举刚才破案的这个例子,在破案当中,比如说侦探可能对孙云辰对这老板有些要求,就比如说雨晨,你能不能给我提供一下之前你你们员工的很多档案呢,能不能提供一下这个员工去这个被杀害员工的家属的联系方式,我跟他们做访谈啊,这就是医生就会叫你去做一些检查,这时候比如说孙云辰不仅不配合这个侦探破案,"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052614515243C1966A6FA0D98EA8B9",
+    "request_id": "bf44e66f-8183-4b6b-b405-e203677e62ec",
+    "response": {
+      "audio_info": {
+        "duration": 32220
+      },
+      "result": {
+        "additions": {
+          "duration": "32220"
+        },
+        "text": "断定医生劳动的价值。而且这里面很好玩的一件事事情是，还是举刚才破案的这个例子。在破案当中，比如说侦探可能对孙宇晨，对这老板又有些要求。就比如说雨晨，你能不能给我提供一下之前你你们员工的很多档案呢？能不能提供一下这个员工去这个被杀害员工的家属的联系方式，我跟他们做访谈啊。这就是医生就会叫你去做一些检查。这时候，比如说孙宇晨不仅不配合这个侦探破案，反而认为",
+        "utterances": [
+          {
+            "end_time": 2250,
+            "start_time": 410,
+            "text": "断定医生劳动的价值。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 610,
+                "start_time": 410,
+                "text": "断"
+              },
+              {
+                "confidence": 0,
+                "end_time": 850,
+                "start_time": 610,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1130,
+                "start_time": 1010,
+                "text": "医"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1330,
+                "start_time": 1170,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1610,
+                "start_time": 1370,
+                "text": "劳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1730,
+                "start_time": 1610,
+                "text": "动"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1930,
+                "start_time": 1730,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2130,
+                "start_time": 1930,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2250,
+                "start_time": 2130,
+                "text": "值"
+              }
+            ]
+          },
+          {
+            "end_time": 7770,
+            "start_time": 2690,
+            "text": "而且这里面很好玩的一件事事情是，还是举刚才破案的这个例子。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2890,
+                "start_time": 2690,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3010,
+                "start_time": 2890,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3210,
+                "start_time": 3010,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3330,
+                "start_time": 3210,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3490,
+                "start_time": 3330,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3810,
+                "start_time": 3610,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3970,
+                "start_time": 3810,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4130,
+                "start_time": 3970,
+                "text": "玩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4250,
+                "start_time": 4130,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4370,
+                "start_time": 4250,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4490,
+                "start_time": 4370,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4690,
+                "start_time": 4490,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5010,
+                "start_time": 4850,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5170,
+                "start_time": 5010,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5530,
+                "start_time": 5210,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6130,
+                "start_time": 5930,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6330,
+                "start_time": 6130,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6610,
+                "start_time": 6370,
+                "text": "举"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6730,
+                "start_time": 6610,
+                "text": "刚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6850,
+                "start_time": 6730,
+                "text": "才"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7010,
+                "start_time": 6850,
+                "text": "破"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7130,
+                "start_time": 7010,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7250,
+                "start_time": 7130,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7330,
+                "start_time": 7250,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7490,
+                "start_time": 7330,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7650,
+                "start_time": 7490,
+                "text": "例"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7770,
+                "start_time": 7650,
+                "text": "子"
+              }
+            ]
+          },
+          {
+            "end_time": 13010,
+            "start_time": 8370,
+            "text": "在破案当中，比如说侦探可能对孙宇晨，对这老板又有些要求。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8650,
+                "start_time": 8370,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8890,
+                "start_time": 8650,
+                "text": "破"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9090,
+                "start_time": 8890,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9290,
+                "start_time": 9090,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9490,
+                "start_time": 9290,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9890,
+                "start_time": 9690,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9970,
+                "start_time": 9890,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10170,
+                "start_time": 9970,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10410,
+                "start_time": 10210,
+                "text": "侦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10570,
+                "start_time": 10410,
+                "text": "探"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10730,
+                "start_time": 10570,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10810,
+                "start_time": 10730,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10970,
+                "start_time": 10810,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11090,
+                "start_time": 10970,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11210,
+                "start_time": 11170,
+                "text": "宇"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11410,
+                "start_time": 11330,
+                "text": "晨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11730,
+                "start_time": 11570,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11930,
+                "start_time": 11730,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12090,
+                "start_time": 11930,
+                "text": "老"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12170,
+                "start_time": 12090,
+                "text": "板"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12330,
+                "start_time": 12210,
+                "text": "又"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12450,
+                "start_time": 12330,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12650,
+                "start_time": 12450,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12850,
+                "start_time": 12650,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13010,
+                "start_time": 12850,
+                "text": "求"
+              }
+            ]
+          },
+          {
+            "end_time": 18160,
+            "start_time": 13400,
+            "text": "就比如说雨晨，你能不能给我提供一下之前你你们员工的很多档案呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 13520,
+                "start_time": 13400,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13640,
+                "start_time": 13520,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13680,
+                "start_time": 13640,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13760,
+                "start_time": 13680,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13880,
+                "start_time": 13840,
+                "text": "雨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14040,
+                "start_time": 14000,
+                "text": "晨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14280,
+                "start_time": 14120,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14360,
+                "start_time": 14280,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14440,
+                "start_time": 14360,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14520,
+                "start_time": 14440,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14640,
+                "start_time": 14520,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14800,
+                "start_time": 14640,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14960,
+                "start_time": 14800,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15080,
+                "start_time": 14960,
+                "text": "供"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15240,
+                "start_time": 15080,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15480,
+                "start_time": 15240,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16000,
+                "start_time": 15800,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16200,
+                "start_time": 16000,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16440,
+                "start_time": 16200,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16640,
+                "start_time": 16480,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16800,
+                "start_time": 16640,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17000,
+                "start_time": 16800,
+                "text": "员"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17080,
+                "start_time": 17000,
+                "text": "工"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17280,
+                "start_time": 17080,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17400,
+                "start_time": 17280,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17560,
+                "start_time": 17400,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17760,
+                "start_time": 17560,
+                "text": "档"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17960,
+                "start_time": 17760,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18160,
+                "start_time": 18000,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 24520,
+            "start_time": 18360,
+            "text": "能不能提供一下这个员工去这个被杀害员工的家属的联系方式，我跟他们做访谈啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 18520,
+                "start_time": 18360,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18600,
+                "start_time": 18520,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18760,
+                "start_time": 18600,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18920,
+                "start_time": 18760,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19040,
+                "start_time": 18920,
+                "text": "供"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19240,
+                "start_time": 19040,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19360,
+                "start_time": 19240,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19520,
+                "start_time": 19360,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19680,
+                "start_time": 19520,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19840,
+                "start_time": 19680,
+                "text": "员"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20000,
+                "start_time": 19840,
+                "text": "工"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20760,
+                "start_time": 20480,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20920,
+                "start_time": 20800,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21080,
+                "start_time": 20920,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21240,
+                "start_time": 21080,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21400,
+                "start_time": 21240,
+                "text": "杀"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21600,
+                "start_time": 21400,
+                "text": "害"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21800,
+                "start_time": 21640,
+                "text": "员"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21840,
+                "start_time": 21800,
+                "text": "工"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22120,
+                "start_time": 21840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22440,
+                "start_time": 22160,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22560,
+                "start_time": 22440,
+                "text": "属"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22760,
+                "start_time": 22560,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22840,
+                "start_time": 22760,
+                "text": "联"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22960,
+                "start_time": 22840,
+                "text": "系"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23120,
+                "start_time": 22960,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23200,
+                "start_time": 23120,
+                "text": "式"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23440,
+                "start_time": 23240,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23640,
+                "start_time": 23520,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23720,
+                "start_time": 23640,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23800,
+                "start_time": 23720,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23920,
+                "start_time": 23800,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24160,
+                "start_time": 23960,
+                "text": "访"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24320,
+                "start_time": 24160,
+                "text": "谈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24520,
+                "start_time": 24360,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 27330,
+            "start_time": 24850,
+            "text": "这就是医生就会叫你去做一些检查。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 25010,
+                "start_time": 24850,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25130,
+                "start_time": 25010,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25290,
+                "start_time": 25130,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25530,
+                "start_time": 25370,
+                "text": "医"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25690,
+                "start_time": 25530,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25930,
+                "start_time": 25730,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26050,
+                "start_time": 25930,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26210,
+                "start_time": 26050,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26330,
+                "start_time": 26210,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26490,
+                "start_time": 26330,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26610,
+                "start_time": 26490,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26690,
+                "start_time": 26610,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26850,
+                "start_time": 26690,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27130,
+                "start_time": 26850,
+                "text": "检"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27330,
+                "start_time": 27130,
+                "text": "查"
+              }
+            ]
+          },
+          {
+            "end_time": 32130,
+            "start_time": 28410,
+            "text": "这时候，比如说孙宇晨不仅不配合这个侦探破案，反而认为",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28610,
+                "start_time": 28410,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28730,
+                "start_time": 28610,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28810,
+                "start_time": 28730,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28930,
+                "start_time": 28810,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29010,
+                "start_time": 28930,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29050,
+                "start_time": 29010,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29170,
+                "start_time": 29050,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29290,
+                "start_time": 29250,
+                "text": "宇"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29450,
+                "start_time": 29410,
+                "text": "晨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29690,
+                "start_time": 29570,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29810,
+                "start_time": 29690,
+                "text": "仅"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30050,
+                "start_time": 29810,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30210,
+                "start_time": 30050,
+                "text": "配"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30370,
+                "start_time": 30210,
+                "text": "合"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30490,
+                "start_time": 30370,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30610,
+                "start_time": 30490,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30770,
+                "start_time": 30610,
+                "text": "侦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30890,
+                "start_time": 30770,
+                "text": "探"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31130,
+                "start_time": 30970,
+                "text": "破"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31330,
+                "start_time": 31130,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31810,
+                "start_time": 31610,
+                "text": "反"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31930,
+                "start_time": 31810,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32050,
+                "start_time": 31930,
+                "text": "认"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32130,
+                "start_time": 32050,
+                "text": "为"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "item": {
+    "index": 16,
+    "file_id": "official-vimeo-m4a-partial__027__5309b3f0",
+    "audio_path": "sun-audio-offline/audio/027 - 027川普为什么赢 [1179695544].m4a",
+    "snippet_path": "review-audio-snippets/glossary-audit/0016__official-vimeo-m4a-partial__027__5309b3f0__ready_75c05337.wav",
+    "start_seconds": 541.22,
+    "end_seconds": 553.42,
+    "duration_seconds": 12.2,
+    "matched_terms": [
+      "ready"
+    ],
+    "srt_text": "就是4chan就是对应的是b站,ready对应的是知乎,twitter对应的是微博,就是它在美国的这个媒体的光谱里面。"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261451299F6C9DE5ECE18ACDBE73",
+    "request_id": "54d201d1-3a18-4015-b34b-c05b05f8f158",
+    "response": {
+      "audio_info": {
+        "duration": 12200
+      },
+      "result": {
+        "additions": {
+          "duration": "12200"
+        },
+        "text": "微博啊，那个 fortune 就是对应的是 b 站。嗯， Reddit 对应的是知乎啊，Twitter 对应的是微博啊，就是它在美国的这个媒体的光谱里面。啊，其实呢，大家其实我",
+        "utterances": [
+          {
+            "end_time": 2520,
+            "start_time": 40,
+            "text": "微博啊，那个 fortune 就是对应的是 b 站。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 40,
+                "text": "微"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 200,
+                "text": "博"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 640,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 760,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 960,
+                "text": "fortune"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1320,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1440,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1600,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1680,
+                "text": "应"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1920,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2080,
+                "text": "b"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2280,
+                "text": "站"
+              }
+            ]
+          },
+          {
+            "end_time": 12170,
+            "start_time": 3160,
+            "text": "嗯， Reddit 对应的是知乎啊，Twitter 对应的是微博啊，就是它在美国的这个媒体的光谱里面。啊，其实呢，大家其实我",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3160,
+                "text": "嗯"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 3520,
+                "text": "Reddit"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4120,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4240,
+                "text": "应"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4320,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4440,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4760,
+                "start_time": 4640,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4800,
+                "text": "乎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5120,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5400,
+                "text": "Twitter"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5920,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 6040,
+                "text": "应"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6200,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6520,
+                "start_time": 6360,
+                "text": "微"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6520,
+                "text": "博"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6920,
+                "start_time": 6760,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7080,
+                "start_time": 6960,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 7080,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7200,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7280,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 7480,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7640,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7760,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8040,
+                "start_time": 7920,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8040,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8600,
+                "text": "媒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8880,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9600,
+                "start_time": 9320,
+                "text": "光"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9720,
+                "start_time": 9680,
+                "text": "谱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10000,
+                "start_time": 9840,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10120,
+                "start_time": 10000,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10730,
+                "start_time": 10690,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11010,
+                "start_time": 10850,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11130,
+                "start_time": 11010,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11370,
+                "start_time": 11130,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11730,
+                "start_time": 11570,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11850,
+                "start_time": 11730,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11970,
+                "start_time": 11850,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12010,
+                "start_time": 11970,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12170,
+                "start_time": 12010,
+                "text": "我"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

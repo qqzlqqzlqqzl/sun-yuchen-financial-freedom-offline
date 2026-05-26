@@ -1,0 +1,139 @@
+{
+  "item": {
+    "index": 102,
+    "file_id": "wavlake-mp3__093__c3783dcd",
+    "audio_path": "sun-audio-offline/wavlake-mp3/093 - 093 - 093 孙宇晨：【互联网】现在进入还来得及么？.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0102__wavlake-mp3__093__c3783dcd__term_cc7cc0d6.wav",
+    "start_seconds": 356.34,
+    "end_seconds": 360.84,
+    "duration_seconds": 4.5,
+    "matched_terms": [
+      "雨晨"
+    ],
+    "srt_text": "这是因为雨晨。"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261451511ED0E6891E0883C985B1",
+    "request_id": "e5b204cf-c5ba-48f6-ba00-0a34c1620beb",
+    "response": {
+      "audio_info": {
+        "duration": 4500
+      },
+      "result": {
+        "additions": {
+          "duration": "4500"
+        },
+        "text": "嗯，有人觉得，这是因为雨辰你太厉害了。",
+        "utterances": [
+          {
+            "end_time": 4400,
+            "start_time": 80,
+            "text": "嗯，有人觉得，这是因为雨辰你太厉害了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 200,
+                "start_time": 80,
+                "text": "嗯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 480,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 720,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 920,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1080,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2320,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2600,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2760,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2840,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 3000,
+                "text": "雨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3240,
+                "text": "辰"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3360,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3720,
+                "text": "太"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 3960,
+                "text": "厉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4120,
+                "text": "害"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4240,
+                "text": "了"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

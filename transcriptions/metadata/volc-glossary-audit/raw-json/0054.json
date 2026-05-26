@@ -1,0 +1,923 @@
+{
+  "item": {
+    "index": 54,
+    "file_id": "wavlake-mp3__033__3202b3ed",
+    "audio_path": "sun-audio-offline/wavlake-mp3/033 - 033 - 033 孙宇晨：通缩与通胀的经济影响.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0054__wavlake-mp3__033__3202b3ed__term_cc7cc0d6.wav",
+    "start_seconds": 411.36,
+    "end_seconds": 442.56,
+    "duration_seconds": 31.2,
+    "matched_terms": [
+      "雨晨"
+    ],
+    "srt_text": "我爸从小时候教育我的,是不是啊?如果你能吃一碗,雨晨,为了省钱,你最好吃半了,宁愿饿着肚子,少吃点,这会把人害惨的,这甚至把种粮食的人也害惨了,因为种粮食的人呢,希望有一个大规模的需求,这样他才能扩大规模生产,把单位成本降下来,这一点在很多领域都是出现的,包括当然对我们整体的整个经济领域也是这样的,"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261451385E53598A16FA718F815B",
+    "request_id": "83e159ea-29c2-475a-88b5-5a99367746c8",
+    "response": {
+      "audio_info": {
+        "duration": 31200
+      },
+      "result": {
+        "additions": {
+          "duration": "31200"
+        },
+        "text": "而并不是说我爸从小时候教育我的，是不是啊？如果你能吃一碗，雨晨为了省钱，你最好吃半碗，宁愿饿着肚子少吃点。这会把人害惨的。其实这甚至把种粮食的人也害惨了，因为种粮食的人呢，希望有一个大规模的需求，这样他才能扩大规模生产，把单位成本降下来。这一点在很多领域都是出现的，包括当然对我们整体的整个经济领域也是这样的。如",
+        "utterances": [
+          {
+            "end_time": 3570,
+            "start_time": 330,
+            "text": "而并不是说我爸从小时候教育我的，是不是啊？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 570,
+                "start_time": 330,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 730,
+                "start_time": 570,
+                "text": "并"
+              },
+              {
+                "confidence": 0,
+                "end_time": 850,
+                "start_time": 730,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 970,
+                "start_time": 850,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1250,
+                "start_time": 970,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1690,
+                "start_time": 1450,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1930,
+                "start_time": 1690,
+                "text": "爸"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2090,
+                "start_time": 1930,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2250,
+                "start_time": 2090,
+                "text": "小"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2370,
+                "start_time": 2250,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2530,
+                "start_time": 2370,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2730,
+                "start_time": 2570,
+                "text": "教"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2850,
+                "start_time": 2730,
+                "text": "育"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3010,
+                "start_time": 2850,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3170,
+                "start_time": 3010,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3250,
+                "start_time": 3170,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3330,
+                "start_time": 3250,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3410,
+                "start_time": 3330,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3570,
+                "start_time": 3410,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 9850,
+            "start_time": 3650,
+            "text": "如果你能吃一碗，雨晨为了省钱，你最好吃半碗，宁愿饿着肚子少吃点。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3850,
+                "start_time": 3650,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3970,
+                "start_time": 3850,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4170,
+                "start_time": 3970,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4370,
+                "start_time": 4170,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4530,
+                "start_time": 4370,
+                "text": "吃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4690,
+                "start_time": 4530,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4850,
+                "start_time": 4690,
+                "text": "碗"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5210,
+                "start_time": 5170,
+                "text": "雨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5410,
+                "start_time": 5370,
+                "text": "晨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5970,
+                "start_time": 5770,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6050,
+                "start_time": 5970,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6250,
+                "start_time": 6050,
+                "text": "省"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6450,
+                "start_time": 6250,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6690,
+                "start_time": 6490,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6810,
+                "start_time": 6690,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6970,
+                "start_time": 6810,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7130,
+                "start_time": 6970,
+                "text": "吃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7330,
+                "start_time": 7130,
+                "text": "半"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7530,
+                "start_time": 7370,
+                "text": "碗"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8290,
+                "start_time": 8090,
+                "text": "宁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8450,
+                "start_time": 8290,
+                "text": "愿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8690,
+                "start_time": 8490,
+                "text": "饿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8850,
+                "start_time": 8690,
+                "text": "着"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9010,
+                "start_time": 8850,
+                "text": "肚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9130,
+                "start_time": 9010,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9410,
+                "start_time": 9210,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9610,
+                "start_time": 9410,
+                "text": "吃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9850,
+                "start_time": 9610,
+                "text": "点"
+              }
+            ]
+          },
+          {
+            "end_time": 12810,
+            "start_time": 11650,
+            "text": "这会把人害惨的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11810,
+                "start_time": 11650,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12010,
+                "start_time": 11810,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12090,
+                "start_time": 12010,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12290,
+                "start_time": 12090,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12490,
+                "start_time": 12290,
+                "text": "害"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12690,
+                "start_time": 12490,
+                "text": "惨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12810,
+                "start_time": 12730,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 23250,
+            "start_time": 13170,
+            "text": "其实这甚至把种粮食的人也害惨了，因为种粮食的人呢，希望有一个大规模的需求，这样他才能扩大规模生产，把单位成本降下来。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 13210,
+                "start_time": 13170,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13290,
+                "start_time": 13210,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13490,
+                "start_time": 13290,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13650,
+                "start_time": 13490,
+                "text": "甚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13730,
+                "start_time": 13650,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13970,
+                "start_time": 13730,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14210,
+                "start_time": 14010,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14490,
+                "start_time": 14290,
+                "text": "粮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14530,
+                "start_time": 14490,
+                "text": "食"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14730,
+                "start_time": 14570,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14850,
+                "start_time": 14730,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15010,
+                "start_time": 14850,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15210,
+                "start_time": 15010,
+                "text": "害"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15410,
+                "start_time": 15210,
+                "text": "惨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15650,
+                "start_time": 15410,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16170,
+                "start_time": 16010,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16330,
+                "start_time": 16170,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16570,
+                "start_time": 16330,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16890,
+                "start_time": 16650,
+                "text": "粮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16970,
+                "start_time": 16890,
+                "text": "食"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17170,
+                "start_time": 17010,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17330,
+                "start_time": 17170,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17490,
+                "start_time": 17330,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18010,
+                "start_time": 17730,
+                "text": "希"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18170,
+                "start_time": 18010,
+                "text": "望"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18410,
+                "start_time": 18170,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18530,
+                "start_time": 18410,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18730,
+                "start_time": 18530,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19010,
+                "start_time": 18730,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19210,
+                "start_time": 19010,
+                "text": "规"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19330,
+                "start_time": 19210,
+                "text": "模"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19490,
+                "start_time": 19330,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19610,
+                "start_time": 19490,
+                "text": "需"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19770,
+                "start_time": 19610,
+                "text": "求"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19930,
+                "start_time": 19810,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20090,
+                "start_time": 19930,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20210,
+                "start_time": 20130,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20370,
+                "start_time": 20250,
+                "text": "才"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20570,
+                "start_time": 20370,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20810,
+                "start_time": 20570,
+                "text": "扩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21050,
+                "start_time": 20810,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21250,
+                "start_time": 21050,
+                "text": "规"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21370,
+                "start_time": 21250,
+                "text": "模"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21570,
+                "start_time": 21410,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21730,
+                "start_time": 21570,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21970,
+                "start_time": 21730,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22250,
+                "start_time": 22010,
+                "text": "单"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22450,
+                "start_time": 22250,
+                "text": "位"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22650,
+                "start_time": 22490,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22770,
+                "start_time": 22650,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22970,
+                "start_time": 22810,
+                "text": "降"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23130,
+                "start_time": 23010,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23250,
+                "start_time": 23130,
+                "text": "来"
+              }
+            ]
+          },
+          {
+            "end_time": 31070,
+            "start_time": 23910,
+            "text": "这一点在很多领域都是出现的，包括当然对我们整体的整个经济领域也是这样的。如",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24110,
+                "start_time": 23910,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24190,
+                "start_time": 24110,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24390,
+                "start_time": 24190,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24630,
+                "start_time": 24390,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24870,
+                "start_time": 24630,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25070,
+                "start_time": 24870,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25310,
+                "start_time": 25110,
+                "text": "领"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25430,
+                "start_time": 25310,
+                "text": "域"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25630,
+                "start_time": 25470,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25790,
+                "start_time": 25630,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25950,
+                "start_time": 25790,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26070,
+                "start_time": 25950,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26230,
+                "start_time": 26070,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26750,
+                "start_time": 26470,
+                "text": "包"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26990,
+                "start_time": 26750,
+                "text": "括"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27230,
+                "start_time": 27070,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27350,
+                "start_time": 27230,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27550,
+                "start_time": 27350,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27670,
+                "start_time": 27550,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27830,
+                "start_time": 27670,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28030,
+                "start_time": 27830,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28190,
+                "start_time": 28030,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28350,
+                "start_time": 28190,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28470,
+                "start_time": 28350,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28630,
+                "start_time": 28470,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28870,
+                "start_time": 28630,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29030,
+                "start_time": 28870,
+                "text": "济"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29230,
+                "start_time": 29110,
+                "text": "领"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29350,
+                "start_time": 29230,
+                "text": "域"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29510,
+                "start_time": 29390,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29630,
+                "start_time": 29510,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29750,
+                "start_time": 29630,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29870,
+                "start_time": 29750,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30110,
+                "start_time": 29870,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31070,
+                "start_time": 30830,
+                "text": "如"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
