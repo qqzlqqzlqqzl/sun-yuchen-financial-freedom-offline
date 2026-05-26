@@ -17,6 +17,7 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 - `srt/`: subtitle files
 - `logs/`: per-file logs
 - `metadata/transcription-summary.json`: machine-readable run summary
+- `metadata/glossary-corrections.json`: high-confidence glossary/proper-noun correction report
 
 ## Model
 
@@ -31,6 +32,8 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 ## Quality Notes
 
 All 209 local audio files have `raw-json`, `clean-json`, `txt`, and `srt` outputs. JSON validation passed with replacement decoding, and no text/SRT outputs are empty.
+
+`text/`, `srt/`, and `clean-json/` include high-confidence glossary corrections for proper nouns and course terms. The original model return files in `raw-json/` are preserved unchanged.
 
 Two previously corrupted official m4a files were redownloaded from the official Vimeo player HLS audio-only source, verified with strict ffmpeg decoding, and re-transcribed:
 

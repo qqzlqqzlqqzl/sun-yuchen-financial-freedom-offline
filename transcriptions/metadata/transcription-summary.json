@@ -1,5 +1,5 @@
 {
-  "generated_at_local": "2026-05-26 14:30:19 CST",
+  "generated_at_local": "2026-05-26 14:35:15 CST",
   "workspace": "/Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3",
   "audio_manifest_items": 209,
   "audio_sources": {
@@ -64,5 +64,17 @@
   "offline_audio_completeness_note": {
     "wavlake_rss_mp3": "145/145 downloaded and transcribed locally.",
     "official_vimeo_from_website": "Official page listed 157 Vimeo URLs; local official direct m4a mirror remains partial at 64 files. Transcription covered the 64 local official m4a files plus 145 Wavlake MP3 files. Two previously corrupted official m4a files, 010 and 062, were redownloaded and replaced."
+  },
+  "glossary_corrections": {
+    "applied": true,
+    "corrected_file_groups": [
+      "text",
+      "srt",
+      "clean-json"
+    ],
+    "raw_json_preserved": true,
+    "report": "transcriptions/metadata/glossary-corrections.json",
+    "replacement_rule_count": 19,
+    "total_replacement_applications": 162
   }
 }
