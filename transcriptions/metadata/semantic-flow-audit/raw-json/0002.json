@@ -1,0 +1,1106 @@
+{
+  "item": {
+    "index": 2,
+    "audio_id": "wavlake-mp3__080__63763504",
+    "clean_json": "wavlake-mp3__080__63763504.json",
+    "segment_index": 49,
+    "segment_start": 518.3,
+    "segment_end": 548.18,
+    "snippet_start": 517.0999999999999,
+    "snippet_end": 549.38,
+    "score": 95,
+    "flags": [
+      "literal:黄正士",
+      "literal:五星宇",
+      "literal:莫言一会",
+      "low_tokens=11"
+    ],
+    "current_text": "就学校时候就开始,像我黄正士和五星宇都是学校时候起创业的,就是一会黄正士的故事更精彩,莫言一会我会问他,我觉得就是根据我刚才这个scientific定律,是吧,你只要在这个领域待的越久,总有好事会撞上你啊,当然前面啊,你战略还是要确定对的,我相信比如说如果我还没毕业就开始种田,连种十年可能是没有任何好处的,是吧,所以你还是得待在这种scientific啊,比较密集的,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0002__wavlake-mp3__080__63763504__seg0049.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261512568B6B54031909FB3637DD",
+    "request_id": "e5bb0f46-2ae4-45d1-ab77-a1f2a09d9193",
+    "response": {
+      "audio_info": {
+        "duration": 32280
+      },
+      "result": {
+        "additions": {
+          "duration": "32280"
+        },
+        "text": "其实不一定毕业就，学校时候就开始。像我，黄正士和武新宇都是学校时候其实创业的，就一会黄正士的故事更精彩，莫言一会会问他。我觉得就是根据我刚才这个 serendipity 这个定律是吧？你只要在这个领域待的越久，总有好事会撞上你。啊，当然前面啊，你战略还是要确定对了。我相信，比如说如果我还没毕业就开始种田，连种10年，可能是没有任何好处的，是吧？所以你还是得待在这种 celebrity 啊比较密集的行业，就是像",
+        "utterances": [
+          {
+            "end_time": 2560,
+            "start_time": 40,
+            "text": "其实不一定毕业就，学校时候就开始。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 200,
+                "start_time": 40,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 200,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 440,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 520,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 680,
+                "text": "毕"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 880,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1080,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1520,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "校"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1840,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1960,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2080,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2240,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2400,
+                "text": "始"
+              }
+            ]
+          },
+          {
+            "end_time": 10240,
+            "start_time": 2960,
+            "text": "像我，黄正士和武新宇都是学校时候其实创业的，就一会黄正士的故事更精彩，莫言一会会问他。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 2960,
+                "text": "像"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3240,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3800,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 4080,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4320,
+                "text": "士"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 4920,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5320,
+                "text": "武"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5520,
+                "text": "新"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5760,
+                "start_time": 5720,
+                "text": "宇"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5840,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5960,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6080,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6200,
+                "text": "校"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6320,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6520,
+                "start_time": 6400,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6640,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6720,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6840,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 7080,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7200,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7400,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7560,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7840,
+                "start_time": 7720,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7960,
+                "start_time": 7920,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 8040,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8200,
+                "start_time": 8160,
+                "text": "士"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8400,
+                "start_time": 8240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8480,
+                "start_time": 8400,
+                "text": "故"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8600,
+                "start_time": 8480,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8800,
+                "start_time": 8600,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8800,
+                "text": "精"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9080,
+                "start_time": 8960,
+                "text": "彩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9320,
+                "text": "莫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9520,
+                "start_time": 9480,
+                "text": "言"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9680,
+                "start_time": 9600,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9680,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9960,
+                "start_time": 9800,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10160,
+                "start_time": 9960,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 10160,
+                "text": "他"
+              }
+            ]
+          },
+          {
+            "end_time": 14250,
+            "start_time": 10890,
+            "text": "我觉得就是根据我刚才这个 serendipity 这个定律是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11170,
+                "start_time": 10890,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11330,
+                "start_time": 11170,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11450,
+                "start_time": 11330,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11610,
+                "start_time": 11450,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11850,
+                "start_time": 11610,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12010,
+                "start_time": 11850,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12090,
+                "start_time": 12010,
+                "text": "据"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12290,
+                "start_time": 12090,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12410,
+                "start_time": 12290,
+                "text": "刚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12490,
+                "start_time": 12410,
+                "text": "才"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12610,
+                "start_time": 12490,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12690,
+                "start_time": 12610,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 13210,
+                "start_time": 12730,
+                "text": "serendipity"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 13410,
+                "start_time": 13330,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13530,
+                "start_time": 13410,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13690,
+                "start_time": 13530,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13890,
+                "start_time": 13690,
+                "text": "律"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14090,
+                "start_time": 13970,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14250,
+                "start_time": 14090,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 17970,
+            "start_time": 14290,
+            "text": "你只要在这个领域待的越久，总有好事会撞上你。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14450,
+                "start_time": 14290,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14570,
+                "start_time": 14450,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14650,
+                "start_time": 14570,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14810,
+                "start_time": 14650,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14890,
+                "start_time": 14810,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15010,
+                "start_time": 14890,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15130,
+                "start_time": 15010,
+                "text": "领"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15250,
+                "start_time": 15130,
+                "text": "域"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15450,
+                "start_time": 15290,
+                "text": "待"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15530,
+                "start_time": 15490,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15770,
+                "start_time": 15570,
+                "text": "越"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16010,
+                "start_time": 15770,
+                "text": "久"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16570,
+                "start_time": 16330,
+                "text": "总"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16810,
+                "start_time": 16570,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17050,
+                "start_time": 16810,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17210,
+                "start_time": 17050,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17370,
+                "start_time": 17210,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17530,
+                "start_time": 17370,
+                "text": "撞"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17690,
+                "start_time": 17530,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17970,
+                "start_time": 17770,
+                "text": "你"
+              }
+            ]
+          },
+          {
+            "end_time": 21370,
+            "start_time": 18130,
+            "text": "啊，当然前面啊，你战略还是要确定对了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 18250,
+                "start_time": 18130,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18730,
+                "start_time": 18530,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18930,
+                "start_time": 18730,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19210,
+                "start_time": 18930,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19370,
+                "start_time": 19210,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19530,
+                "start_time": 19410,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19730,
+                "start_time": 19530,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19930,
+                "start_time": 19730,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20090,
+                "start_time": 19930,
+                "text": "略"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20250,
+                "start_time": 20130,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20370,
+                "start_time": 20250,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20530,
+                "start_time": 20370,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20730,
+                "start_time": 20530,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20890,
+                "start_time": 20730,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21130,
+                "start_time": 20890,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21370,
+                "start_time": 21130,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 27650,
+            "start_time": 21570,
+            "text": "我相信，比如说如果我还没毕业就开始种田，连种10年，可能是没有任何好处的，是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 21810,
+                "start_time": 21570,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21930,
+                "start_time": 21810,
+                "text": "相"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22050,
+                "start_time": 21930,
+                "text": "信"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22250,
+                "start_time": 22090,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22290,
+                "start_time": 22250,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22410,
+                "start_time": 22290,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22530,
+                "start_time": 22410,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22650,
+                "start_time": 22530,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22890,
+                "start_time": 22650,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23650,
+                "start_time": 23410,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23810,
+                "start_time": 23650,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23970,
+                "start_time": 23810,
+                "text": "毕"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24050,
+                "start_time": 23970,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24210,
+                "start_time": 24050,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24290,
+                "start_time": 24210,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24410,
+                "start_time": 24290,
+                "text": "始"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24650,
+                "start_time": 24410,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24890,
+                "start_time": 24650,
+                "text": "田"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25290,
+                "start_time": 25050,
+                "text": "连"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25450,
+                "start_time": 25370,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25730,
+                "start_time": 25570,
+                "text": "10"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25930,
+                "start_time": 25730,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26090,
+                "start_time": 25930,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26170,
+                "start_time": 26090,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26370,
+                "start_time": 26170,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26490,
+                "start_time": 26370,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26570,
+                "start_time": 26490,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26690,
+                "start_time": 26570,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26810,
+                "start_time": 26690,
+                "text": "何"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27050,
+                "start_time": 26810,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27170,
+                "start_time": 27050,
+                "text": "处"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27410,
+                "start_time": 27170,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27530,
+                "start_time": 27450,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27650,
+                "start_time": 27530,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 32190,
+            "start_time": 28030,
+            "text": "所以你还是得待在这种 celebrity 啊比较密集的行业，就是像",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28110,
+                "start_time": 28030,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28190,
+                "start_time": 28110,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28310,
+                "start_time": 28190,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28430,
+                "start_time": 28310,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28550,
+                "start_time": 28430,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28670,
+                "start_time": 28550,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28870,
+                "start_time": 28710,
+                "text": "待"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29030,
+                "start_time": 28870,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29150,
+                "start_time": 29030,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29270,
+                "start_time": 29150,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 29910,
+                "start_time": 29390,
+                "text": "celebrity"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 30190,
+                "start_time": 30070,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30350,
+                "start_time": 30230,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30470,
+                "start_time": 30350,
+                "text": "较"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30790,
+                "start_time": 30550,
+                "text": "密"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30950,
+                "start_time": 30790,
+                "text": "集"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31190,
+                "start_time": 30990,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31390,
+                "start_time": 31190,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31510,
+                "start_time": 31390,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31710,
+                "start_time": 31590,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31910,
+                "start_time": 31710,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32190,
+                "start_time": 32030,
+                "text": "像"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "item": {
+    "index": 33,
+    "audio_id": "wavlake-mp3__095__3bea9fa5",
+    "clean_json": "wavlake-mp3__095__3bea9fa5.json",
+    "segment_index": 16,
+    "segment_start": 122.14,
+    "segment_end": 128.12,
+    "snippet_start": 120.94,
+    "snippet_end": 129.32,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不了几句就被删了。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/095 - 095 - 095 孙宇晨：【案例】现在开淘宝店靠谱吗？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0033__wavlake-mp3__095__3bea9fa5__seg0016.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615130228713764D224D6CE4DC7",
+    "request_id": "51828aaa-ffb3-4755-954d-5dfbb55de9af",
+    "response": {
+      "audio_info": {
+        "duration": 8380
+      },
+      "result": {
+        "additions": {
+          "duration": "8380"
+        },
+        "text": "是有各种相亲软件，在海量的信息里面呢，找啊找啊找啊找，可能刚加好友啊，聊不了几句就被删了，能见面呢",
+        "utterances": [
+          {
+            "end_time": 8200,
+            "start_time": 40,
+            "text": "是有各种相亲软件，在海量的信息里面呢，找啊找啊找啊找，可能刚加好友啊，聊不了几句就被删了，能见面呢",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 280,
+                "text": "各"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 400,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 520,
+                "text": "相"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 720,
+                "text": "亲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 880,
+                "text": "软"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1080,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1760,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 2000,
+                "text": "海"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2160,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2320,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2480,
+                "text": "信"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2640,
+                "text": "息"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2920,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3040,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3280,
+                "text": "找"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3520,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3640,
+                "text": "找"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3800,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3840,
+                "text": "找"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 4040,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "找"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4400,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4560,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4640,
+                "text": "刚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 4880,
+                "text": "加"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5080,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5280,
+                "text": "友"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5640,
+                "text": "聊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5800,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5960,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6080,
+                "text": "几"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6200,
+                "text": "句"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6320,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6600,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7040,
+                "start_time": 6800,
+                "text": "删"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7240,
+                "start_time": 7040,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7800,
+                "start_time": 7520,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7960,
+                "start_time": 7800,
+                "text": "见"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8120,
+                "start_time": 7960,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8200,
+                "start_time": 8160,
+                "text": "呢"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

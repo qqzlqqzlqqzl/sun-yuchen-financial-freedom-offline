@@ -1,0 +1,222 @@
+{
+  "item": {
+    "index": 50,
+    "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+    "clean_json": "official-vimeo-m4a-partial__029__bea15de4.json",
+    "segment_index": 199,
+    "segment_start": 539.46,
+    "segment_end": 541.46,
+    "snippet_start": 538.26,
+    "snippet_end": 542.6600000000001,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "你看我上次对你这样这样这样,",
+    "audio_path": "sun-audio-offline/audio/029 - 029子女与父母的关系 [1179696163].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0050__official-vimeo-m4a-partial__029__bea15de4__seg0199.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151306CC52341B05FB5093A801",
+    "request_id": "8e03d901-1438-463c-a4bc-453b15d59046",
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "两天又要求他，你看我上次对你这样这样这样，你要对我怎么样怎么样。",
+        "utterances": [
+          {
+            "end_time": 3880,
+            "start_time": 40,
+            "text": "两天又要求他，你看我上次对你这样这样这样，你要对我怎么样怎么样。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 40,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 120,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 360,
+                "text": "又"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 560,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 680,
+                "text": "求"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 840,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 960,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1080,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1200,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1320,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1480,
+                "text": "次"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1720,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1880,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2000,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2120,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2240,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2320,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2440,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2520,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2640,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2800,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3120,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3320,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3400,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3480,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3680,
+                "start_time": 3600,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3680,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3760,
+                "text": "样"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

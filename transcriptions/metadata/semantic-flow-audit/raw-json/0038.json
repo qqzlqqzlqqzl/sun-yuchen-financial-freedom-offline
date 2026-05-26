@@ -1,0 +1,354 @@
+{
+  "item": {
+    "index": 38,
+    "audio_id": "wavlake-mp3__029__34570f84",
+    "clean_json": "wavlake-mp3__029__34570f84.json",
+    "segment_index": 65,
+    "segment_start": 536.58,
+    "segment_end": 542.04,
+    "snippet_start": 535.38,
+    "snippet_end": 543.24,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "你不能说好,我帮了我爸,我哪天又要求他,你看我上次对你这样这样这样,你要对我怎么样怎么样。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/029 - 029 - 029 孙宇晨：家庭关系与义务.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0038__wavlake-mp3__029__34570f84__seg0065.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151303EA2C03EA0FAC992B7E8D",
+    "request_id": "6f798c19-0e57-4d1b-9ef1-4194f6aefd15",
+    "response": {
+      "audio_info": {
+        "duration": 7860
+      },
+      "result": {
+        "additions": {
+          "duration": "7860"
+        },
+        "text": "没有任何感情，你不能说好，我帮了我爸，我哪天又要求他，你看我上次对你这样这样这样，你要对我怎么样怎么样。你千万不要",
+        "utterances": [
+          {
+            "end_time": 7820,
+            "start_time": 540,
+            "text": "没有任何感情，你不能说好，我帮了我爸，我哪天又要求他，你看我上次对你这样这样这样，你要对我怎么样怎么样。你千万不要",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 660,
+                "start_time": 540,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 740,
+                "start_time": 660,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 820,
+                "start_time": 740,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 900,
+                "start_time": 820,
+                "text": "何"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1100,
+                "start_time": 900,
+                "text": "感"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1180,
+                "start_time": 1100,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1420,
+                "start_time": 1300,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1540,
+                "start_time": 1420,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1620,
+                "start_time": 1540,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1820,
+                "start_time": 1620,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2020,
+                "start_time": 1820,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2140,
+                "start_time": 2020,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2300,
+                "start_time": 2140,
+                "text": "帮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2420,
+                "start_time": 2300,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2500,
+                "start_time": 2420,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2660,
+                "start_time": 2540,
+                "text": "爸"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2860,
+                "start_time": 2700,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2980,
+                "start_time": 2860,
+                "text": "哪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3100,
+                "start_time": 2980,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3420,
+                "start_time": 3220,
+                "text": "又"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3540,
+                "start_time": 3420,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3660,
+                "start_time": 3540,
+                "text": "求"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3780,
+                "start_time": 3700,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3980,
+                "start_time": 3820,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4100,
+                "start_time": 3980,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4220,
+                "start_time": 4100,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4380,
+                "start_time": 4220,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4500,
+                "start_time": 4380,
+                "text": "次"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4740,
+                "start_time": 4580,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4900,
+                "start_time": 4740,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4980,
+                "start_time": 4900,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5100,
+                "start_time": 4980,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5220,
+                "start_time": 5100,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5300,
+                "start_time": 5220,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5420,
+                "start_time": 5300,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5540,
+                "start_time": 5420,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5700,
+                "start_time": 5540,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5860,
+                "start_time": 5700,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6020,
+                "start_time": 5860,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6180,
+                "start_time": 6020,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6260,
+                "start_time": 6180,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6380,
+                "start_time": 6260,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6500,
+                "start_time": 6380,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6580,
+                "start_time": 6500,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6660,
+                "start_time": 6580,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6780,
+                "start_time": 6660,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7420,
+                "start_time": 7220,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7540,
+                "start_time": 7420,
+                "text": "千"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7660,
+                "start_time": 7540,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7740,
+                "start_time": 7700,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7820,
+                "start_time": 7780,
+                "text": "要"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

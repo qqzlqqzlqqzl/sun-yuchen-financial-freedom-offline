@@ -1,0 +1,1087 @@
+{
+  "item": {
+    "index": 42,
+    "audio_id": "wavlake-mp3__018__aeb5367d",
+    "clean_json": "wavlake-mp3__018__aeb5367d.json",
+    "segment_index": 22,
+    "segment_start": 622.02,
+    "segment_end": 651.6,
+    "snippet_start": 620.8199999999999,
+    "snippet_end": 652.8000000000001,
+    "score": 30,
+    "flags": [
+      "rep_phrase",
+      "filler_run"
+    ],
+    "current_text": "你要加入美国还是苏联,你告诉我,我告诉你是美国,就跟你抄错了,你投奔苏联去了,你做垮了,你怪我,一定要注意啊,哥们,站队啊,站队,哥们,其实绝大多数,我不知道,人生很多悲剧是站队站错导致的啊,所以这个观念战争啊,大家知道,整个财富自由就是一场观念战争,站队一定要站队,然后呢,所以这一张啊,站队站队了之后,我们会给大家普及几个点,所谓自由意志主义利己主义究竟是什么,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/018 - 018 - 018 孙宇晨：战略.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0042__wavlake-mp3__018__aeb5367d__seg0022.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151305397A9A7481180F8B3ED5",
+    "request_id": "f47b953b-e484-4a49-b93e-215e790859d3",
+    "response": {
+      "audio_info": {
+        "duration": 31980
+      },
+      "result": {
+        "additions": {
+          "duration": "31980"
+        },
+        "text": "好，我要加入美国还是苏联？你告诉我，我告诉你是美国。结果你抄错了，你投奔苏联去了，你最后垮了你怪我？啊，这一定要注意啊，哥们，站队啊。战队，哥们。其实绝大多数，我不知道人生很多悲剧是站对站错导致的啊。所以这这个观念战争啊，大家知道整个财富自由就是一场观念战争，站队一定要站对。然后呢，所以这一章啊，站队站对了之后，我们会给大家普及几个点，所谓自由意志主义、利己主义究竟是什么鬼。",
+        "utterances": [
+          {
+            "end_time": 2360,
+            "start_time": 80,
+            "text": "好，我要加入美国还是苏联？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 80,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 760,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1000,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1200,
+                "text": "加"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1360,
+                "text": "入"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1560,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1840,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 2000,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2080,
+                "text": "苏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2280,
+                "text": "联"
+              }
+            ]
+          },
+          {
+            "end_time": 4560,
+            "start_time": 2800,
+            "text": "你告诉我，我告诉你是美国。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2800,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3040,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3200,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3360,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3600,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3840,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3960,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4080,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4320,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4440,
+                "text": "国"
+              }
+            ]
+          },
+          {
+            "end_time": 7600,
+            "start_time": 4920,
+            "text": "结果你抄错了，你投奔苏联去了，你最后垮了你怪我？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4920,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 5040,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5160,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5280,
+                "text": "抄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5400,
+                "text": "错"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5560,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5600,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5720,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5840,
+                "text": "奔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 6040,
+                "text": "苏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6160,
+                "text": "联"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6280,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6400,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6480,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6560,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6680,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6920,
+                "start_time": 6800,
+                "text": "垮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7040,
+                "start_time": 6920,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7200,
+                "start_time": 7040,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7200,
+                "text": "怪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7360,
+                "text": "我"
+              }
+            ]
+          },
+          {
+            "end_time": 10440,
+            "start_time": 8000,
+            "text": "啊，这一定要注意啊，哥们，站队啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8160,
+                "start_time": 8000,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8400,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8680,
+                "start_time": 8560,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8760,
+                "start_time": 8680,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8760,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8880,
+                "text": "注"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9160,
+                "start_time": 9040,
+                "text": "意"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9240,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9400,
+                "text": "哥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9680,
+                "start_time": 9560,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9720,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10120,
+                "start_time": 9920,
+                "text": "队"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10440,
+                "start_time": 10320,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 12500,
+            "start_time": 11420,
+            "text": "战队，哥们。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11500,
+                "start_time": 11420,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11860,
+                "start_time": 11780,
+                "text": "队"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12340,
+                "start_time": 12140,
+                "text": "哥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12500,
+                "start_time": 12340,
+                "text": "们"
+              }
+            ]
+          },
+          {
+            "end_time": 17490,
+            "start_time": 14050,
+            "text": "其实绝大多数，我不知道人生很多悲剧是站对站错导致的啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14250,
+                "start_time": 14050,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14330,
+                "start_time": 14250,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14570,
+                "start_time": 14450,
+                "text": "绝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14770,
+                "start_time": 14570,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14890,
+                "start_time": 14770,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14970,
+                "start_time": 14890,
+                "text": "数"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15130,
+                "start_time": 14970,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15250,
+                "start_time": 15130,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15330,
+                "start_time": 15250,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15450,
+                "start_time": 15330,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15570,
+                "start_time": 15450,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15690,
+                "start_time": 15570,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15850,
+                "start_time": 15730,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15930,
+                "start_time": 15850,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16090,
+                "start_time": 15930,
+                "text": "悲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16210,
+                "start_time": 16090,
+                "text": "剧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16370,
+                "start_time": 16210,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16450,
+                "start_time": 16370,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16610,
+                "start_time": 16490,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16730,
+                "start_time": 16650,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16970,
+                "start_time": 16770,
+                "text": "错"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17130,
+                "start_time": 17010,
+                "text": "导"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17210,
+                "start_time": 17130,
+                "text": "致"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17370,
+                "start_time": 17210,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17490,
+                "start_time": 17370,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 22850,
+            "start_time": 17530,
+            "text": "所以这这个观念战争啊，大家知道整个财富自由就是一场观念战争，站队一定要站对。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17610,
+                "start_time": 17530,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17730,
+                "start_time": 17610,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17850,
+                "start_time": 17730,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18010,
+                "start_time": 17890,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18090,
+                "start_time": 18010,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18290,
+                "start_time": 18090,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18410,
+                "start_time": 18290,
+                "text": "念"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18690,
+                "start_time": 18530,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18850,
+                "start_time": 18690,
+                "text": "争"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19050,
+                "start_time": 18890,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19490,
+                "start_time": 19290,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19610,
+                "start_time": 19490,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19730,
+                "start_time": 19610,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19890,
+                "start_time": 19730,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20210,
+                "start_time": 20050,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20370,
+                "start_time": 20210,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20530,
+                "start_time": 20370,
+                "text": "财"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20650,
+                "start_time": 20530,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20770,
+                "start_time": 20650,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20850,
+                "start_time": 20770,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20970,
+                "start_time": 20850,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21050,
+                "start_time": 20970,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21130,
+                "start_time": 21050,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21250,
+                "start_time": 21130,
+                "text": "场"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21410,
+                "start_time": 21290,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21530,
+                "start_time": 21410,
+                "text": "念"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21730,
+                "start_time": 21570,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21810,
+                "start_time": 21730,
+                "text": "争"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22090,
+                "start_time": 21970,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22210,
+                "start_time": 22090,
+                "text": "队"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22330,
+                "start_time": 22210,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22410,
+                "start_time": 22330,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22530,
+                "start_time": 22410,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22650,
+                "start_time": 22570,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22850,
+                "start_time": 22690,
+                "text": "对"
+              }
+            ]
+          },
+          {
+            "end_time": 31690,
+            "start_time": 23370,
+            "text": "然后呢，所以这一章啊，站队站对了之后，我们会给大家普及几个点，所谓自由意志主义、利己主义究竟是什么鬼。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 23570,
+                "start_time": 23370,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23690,
+                "start_time": 23570,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23970,
+                "start_time": 23690,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24210,
+                "start_time": 24090,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24330,
+                "start_time": 24210,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24490,
+                "start_time": 24330,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24610,
+                "start_time": 24490,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24810,
+                "start_time": 24610,
+                "text": "章"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25050,
+                "start_time": 24890,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25290,
+                "start_time": 25170,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25450,
+                "start_time": 25290,
+                "text": "队"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25610,
+                "start_time": 25570,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25850,
+                "start_time": 25690,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25970,
+                "start_time": 25850,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26090,
+                "start_time": 25970,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26210,
+                "start_time": 26090,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26330,
+                "start_time": 26210,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26450,
+                "start_time": 26330,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26570,
+                "start_time": 26450,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26690,
+                "start_time": 26570,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26810,
+                "start_time": 26690,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26930,
+                "start_time": 26810,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27170,
+                "start_time": 26970,
+                "text": "普"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27290,
+                "start_time": 27170,
+                "text": "及"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27530,
+                "start_time": 27370,
+                "text": "几"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27650,
+                "start_time": 27530,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27890,
+                "start_time": 27650,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28410,
+                "start_time": 28210,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28570,
+                "start_time": 28410,
+                "text": "谓"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28770,
+                "start_time": 28570,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28890,
+                "start_time": 28770,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29090,
+                "start_time": 28930,
+                "text": "意"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29170,
+                "start_time": 29130,
+                "text": "志"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29450,
+                "start_time": 29250,
+                "text": "主"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29530,
+                "start_time": 29450,
+                "text": "义"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29810,
+                "start_time": 29770,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30010,
+                "start_time": 29970,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30250,
+                "start_time": 30130,
+                "text": "主"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30370,
+                "start_time": 30250,
+                "text": "义"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30610,
+                "start_time": 30410,
+                "text": "究"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30770,
+                "start_time": 30610,
+                "text": "竟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31090,
+                "start_time": 30770,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31250,
+                "start_time": 31090,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31370,
+                "start_time": 31250,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31690,
+                "start_time": 31370,
+                "text": "鬼"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

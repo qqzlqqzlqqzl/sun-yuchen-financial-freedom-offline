@@ -1,0 +1,416 @@
+{
+  "item": {
+    "index": 18,
+    "audio_id": "official-vimeo-m4a-partial__036__6c5b57fc",
+    "clean_json": "official-vimeo-m4a-partial__036__6c5b57fc.json",
+    "segment_index": 87,
+    "segment_start": 995.6,
+    "segment_end": 1004.18,
+    "snippet_start": 994.4,
+    "snippet_end": 1005.38,
+    "score": 43,
+    "flags": [
+      "rep_word",
+      "literal:我我我"
+    ],
+    "current_text": "这样我就我我我当时还挺惊讶的我想这种银行啊就是一般都不给这种初创企业贷款的吗就怕我们还不起跑路了啊",
+    "audio_path": "sun-audio-offline/audio/036 - 036【全球流动性过剩】通过加“杠杆”来增加财富 [1179724973].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0018__official-vimeo-m4a-partial__036__6c5b57fc__seg0087.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615130016DC4FBDB9BC328AF9B4",
+    "request_id": "696389a1-f7d9-4275-9c69-645d8f14148e",
+    "response": {
+      "audio_info": {
+        "duration": 10980
+      },
+      "result": {
+        "additions": {
+          "duration": "10980"
+        },
+        "text": "贷款给你。然后我就我我我当时还挺惊讶的。我想这种银行啊，就是一般都不给这种初创企业贷款的嘛，就怕我们还不起跑路了啊。说你这么好你",
+        "utterances": [
+          {
+            "end_time": 840,
+            "start_time": 160,
+            "text": "贷款给你。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 160,
+                "text": "贷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 320,
+                "text": "款"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 480,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 640,
+                "text": "你"
+              }
+            ]
+          },
+          {
+            "end_time": 4010,
+            "start_time": 2090,
+            "text": "然后我就我我我当时还挺惊讶的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2210,
+                "start_time": 2090,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2290,
+                "start_time": 2210,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2410,
+                "start_time": 2290,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2610,
+                "start_time": 2410,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2770,
+                "start_time": 2690,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3010,
+                "start_time": 2850,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3170,
+                "start_time": 3050,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3290,
+                "start_time": 3170,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3370,
+                "start_time": 3290,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3490,
+                "start_time": 3410,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3650,
+                "start_time": 3490,
+                "text": "挺"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3770,
+                "start_time": 3650,
+                "text": "惊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3890,
+                "start_time": 3770,
+                "text": "讶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4010,
+                "start_time": 3890,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 10850,
+            "start_time": 4010,
+            "text": "我想这种银行啊，就是一般都不给这种初创企业贷款的嘛，就怕我们还不起跑路了啊。说你这么好你",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 4130,
+                "start_time": 4010,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4330,
+                "start_time": 4130,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4610,
+                "start_time": 4490,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4770,
+                "start_time": 4610,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4970,
+                "start_time": 4770,
+                "text": "银"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5130,
+                "start_time": 4970,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5330,
+                "start_time": 5210,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5490,
+                "start_time": 5450,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5610,
+                "start_time": 5490,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5810,
+                "start_time": 5690,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5930,
+                "start_time": 5810,
+                "text": "般"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6050,
+                "start_time": 5930,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6170,
+                "start_time": 6050,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6290,
+                "start_time": 6170,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6370,
+                "start_time": 6290,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6450,
+                "start_time": 6370,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6570,
+                "start_time": 6490,
+                "text": "初"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6770,
+                "start_time": 6650,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6930,
+                "start_time": 6770,
+                "text": "企"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7050,
+                "start_time": 6930,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7250,
+                "start_time": 7050,
+                "text": "贷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7370,
+                "start_time": 7250,
+                "text": "款"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7530,
+                "start_time": 7370,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7650,
+                "start_time": 7530,
+                "text": "嘛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7930,
+                "start_time": 7730,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8130,
+                "start_time": 7970,
+                "text": "怕"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8250,
+                "start_time": 8130,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8370,
+                "start_time": 8250,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8530,
+                "start_time": 8370,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8650,
+                "start_time": 8530,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8810,
+                "start_time": 8650,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9050,
+                "start_time": 8850,
+                "text": "跑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9210,
+                "start_time": 9050,
+                "text": "路"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9410,
+                "start_time": 9210,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9570,
+                "start_time": 9450,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10210,
+                "start_time": 10010,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10410,
+                "start_time": 10210,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10530,
+                "start_time": 10410,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10610,
+                "start_time": 10530,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10770,
+                "start_time": 10610,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10850,
+                "start_time": 10810,
+                "text": "你"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

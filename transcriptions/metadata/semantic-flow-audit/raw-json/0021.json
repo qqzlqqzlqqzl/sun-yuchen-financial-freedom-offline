@@ -1,0 +1,216 @@
+{
+  "item": {
+    "index": 21,
+    "audio_id": "wavlake-mp3__009__c72b9118",
+    "clean_json": "wavlake-mp3__009__c72b9118.json",
+    "segment_index": 143,
+    "segment_start": 399.66,
+    "segment_end": 401.48,
+    "snippet_start": 398.46000000000004,
+    "snippet_end": 402.68,
+    "score": 39,
+    "flags": [
+      "low_avg_p=0.23",
+      "low_tokens=6"
+    ],
+    "current_text": "所以我觉得其实是很感恩的",
+    "audio_path": "sun-audio-offline/wavlake-mp3/009 - 009 - 009 孙宇晨：创业与财富自由.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0021__wavlake-mp3__009__c72b9118__seg0143.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615125923C6E9A623CEFEDF21D0",
+    "request_id": "e1bcffdb-dd4a-4dec-b080-992116eaf4ba",
+    "response": {
+      "audio_info": {
+        "duration": 4220
+      },
+      "result": {
+        "additions": {
+          "duration": "4220"
+        },
+        "text": "我甚至在北京现在也没有户口，黑户创业的这么一个人啊。这当时在",
+        "utterances": [
+          {
+            "end_time": 4160,
+            "start_time": 40,
+            "text": "我甚至在北京现在也没有户口，黑户创业的这么一个人啊。这当时在",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 160,
+                "text": "甚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 240,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 320,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "北"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 560,
+                "text": "京"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 680,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 800,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 840,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 960,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 1040,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1120,
+                "text": "户"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1400,
+                "start_time": 1240,
+                "text": "口"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1440,
+                "text": "黑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1640,
+                "text": "户"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 2040,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2160,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2320,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2400,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2480,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2680,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2840,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3720,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3840,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3920,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4000,
+                "text": "在"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

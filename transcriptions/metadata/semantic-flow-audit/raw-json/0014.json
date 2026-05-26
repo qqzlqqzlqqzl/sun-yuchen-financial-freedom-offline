@@ -1,0 +1,102 @@
+{
+  "item": {
+    "index": 14,
+    "audio_id": "official-vimeo-m4a-partial__010__52931080",
+    "clean_json": "official-vimeo-m4a-partial__010__52931080.json",
+    "segment_index": 80,
+    "segment_start": 328.76,
+    "segment_end": 329.42,
+    "snippet_start": 327.56,
+    "snippet_end": 330.62,
+    "score": 46,
+    "flags": [
+      "literal:掏粉的",
+      "low_avg_p=0.42"
+    ],
+    "current_text": "掏粉的",
+    "audio_path": "sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0014__official-vimeo-m4a-partial__010__52931080__seg0080.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151258FDFC98E425664F8B0898",
+    "request_id": "df4d274c-5901-46be-b447-ca9822cc832f",
+    "response": {
+      "audio_info": {
+        "duration": 3060
+      },
+      "result": {
+        "additions": {
+          "duration": "3060"
+        },
+        "text": "比方说，掏粪男孩，鹿晗。",
+        "utterances": [
+          {
+            "end_time": 2990,
+            "start_time": 550,
+            "text": "比方说，掏粪男孩，鹿晗。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 750,
+                "start_time": 550,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 910,
+                "start_time": 750,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1150,
+                "start_time": 910,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1550,
+                "start_time": 1510,
+                "text": "掏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1750,
+                "start_time": 1710,
+                "text": "粪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2070,
+                "start_time": 1870,
+                "text": "男"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2270,
+                "start_time": 2070,
+                "text": "孩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2790,
+                "start_time": 2750,
+                "text": "鹿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2990,
+                "start_time": 2950,
+                "text": "晗"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

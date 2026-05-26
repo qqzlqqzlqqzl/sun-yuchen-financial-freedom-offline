@@ -1,0 +1,175 @@
+{
+  "item": {
+    "index": 43,
+    "audio_id": "wavlake-mp3__016__817bdf46",
+    "clean_json": "wavlake-mp3__016__817bdf46.json",
+    "segment_index": 245,
+    "segment_start": 582.06,
+    "segment_end": 583.38,
+    "snippet_start": 580.8599999999999,
+    "snippet_end": 584.58,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "就价格价格价格",
+    "audio_path": "sun-audio-offline/wavlake-mp3/016 - 016 - 016 孙宇晨：财富自由从未如此容易过.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0043__wavlake-mp3__016__817bdf46__seg0245.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151305392CB168A11A14CBE4FB",
+    "request_id": "58be8ac5-7066-4397-b5f8-19649510cca5",
+    "response": {
+      "audio_info": {
+        "duration": 3720
+      },
+      "result": {
+        "additions": {
+          "duration": "3720"
+        },
+        "text": "啊，还是价格。就价格价格价格，重要的事情说三遍。",
+        "utterances": [
+          {
+            "end_time": 840,
+            "start_time": 40,
+            "text": "啊，还是价格。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 200,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 320,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 680,
+                "text": "格"
+              }
+            ]
+          },
+          {
+            "end_time": 3640,
+            "start_time": 1200,
+            "text": "就价格价格价格，重要的事情说三遍。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1200,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1480,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1640,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1880,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2000,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2320,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "重"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2920,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 3000,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3120,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3200,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3280,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3480,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3600,
+                "text": "遍"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

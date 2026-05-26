@@ -1,0 +1,121 @@
+{
+  "item": {
+    "index": 20,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "clean_json": "official-vimeo-m4a-partial__049__a4da2ce3.json",
+    "segment_index": 191,
+    "segment_start": 834.0,
+    "segment_end": 834.5,
+    "snippet_start": 832.8,
+    "snippet_end": 835.7,
+    "score": 40,
+    "flags": [
+      "low_avg_p=0.36",
+      "low_tokens=8",
+      "dense_22.0cps"
+    ],
+    "current_text": "想做一些更多细腻的概念",
+    "audio_path": "sun-audio-offline/audio/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0020__official-vimeo-m4a-partial__049__a4da2ce3__seg0191.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151259DC1B00C075837BCAD9C8",
+    "request_id": "0dda74a6-534a-4eed-b62c-29e0eccb4743",
+    "response": {
+      "audio_info": {
+        "duration": 2900
+      },
+      "result": {
+        "additions": {
+          "duration": "2900"
+        },
+        "text": "啊，喜欢捧的概念。像当时欧托",
+        "utterances": [
+          {
+            "end_time": 2640,
+            "start_time": 200,
+            "text": "啊，喜欢捧的概念。像当时欧托",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 200,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "喜"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "欢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 800,
+                "text": "捧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1000,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1200,
+                "text": "概"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1360,
+                "text": "念"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1880,
+                "text": "像"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2080,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2240,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2440,
+                "text": "欧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2560,
+                "text": "托"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

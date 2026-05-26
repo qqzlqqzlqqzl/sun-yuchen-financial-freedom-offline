@@ -11,7 +11,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[2]
-AUDIT_ROOT = ROOT / "review-audio-snippets" / "glossary-audit"
+PATH_ROOT = Path(os.environ.get("VOLC_PATH_ROOT", ROOT)).resolve()
+AUDIT_ROOT = ROOT / os.environ.get("VOLC_AUDIT_DIR", "review-audio-snippets/glossary-audit")
 MANIFEST = AUDIT_ROOT / "snippets-manifest.json"
 RAW_DIR = AUDIT_ROOT / "volc-raw-json"
 SUMMARY = AUDIT_ROOT / "volc-audit-results.json"
@@ -21,7 +22,7 @@ RESOURCE_ID = "volc.bigasr.auc_turbo"
 
 
 def recognize(item, api_key):
-    snippet = ROOT / item["snippet_path"]
+    snippet = PATH_ROOT / item["snippet_path"]
     request_id = str(uuid.uuid4())
     body = {
         "user": {"uid": "codex-glossary-audit"},
@@ -110,7 +111,7 @@ def main():
                 "volc_message": result.get("api_message"),
                 "volc_logid": result.get("tt_logid"),
                 "volc_text": text,
-                "raw_json_path": str((RAW_DIR / f"{item['index']:04d}.json").relative_to(ROOT)),
+                "raw_json_path": str((RAW_DIR / f"{item['index']:04d}.json").relative_to(AUDIT_ROOT)),
             }
             (RAW_DIR / f"{item['index']:04d}.json").write_text(
                 json.dumps({"item": item, "volc_result": result}, ensure_ascii=False, indent=2) + "\n",
@@ -123,7 +124,7 @@ def main():
     summary = {
         "created_at": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
         "note": "Volcengine flash ASR audit for glossary correction candidates. API key is not stored.",
-        "source_manifest": str(MANIFEST.relative_to(ROOT)),
+        "source_manifest": str(MANIFEST.relative_to(AUDIT_ROOT)),
         "resource_id": RESOURCE_ID,
         "count": len(results),
         "ok_count": sum(1 for r in results if r["volc_ok"]),

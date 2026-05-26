@@ -1,0 +1,204 @@
+{
+  "item": {
+    "index": 44,
+    "audio_id": "wavlake-mp3__012__a90a69b6",
+    "clean_json": "wavlake-mp3__012__a90a69b6.json",
+    "segment_index": 195,
+    "segment_start": 519.36,
+    "segment_end": 521.34,
+    "snippet_start": 518.16,
+    "snippet_end": 522.5400000000001,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "我就要立刻干什么干什么干什么了",
+    "audio_path": "sun-audio-offline/wavlake-mp3/012 - 012 - 012 孙宇晨：财富自由与精神自由的关系.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0044__wavlake-mp3__012__a90a69b6__seg0195.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151307EA484C206F9D332AD2B5",
+    "request_id": "83477961-e197-4ee0-9ead-dc03289392b2",
+    "response": {
+      "audio_info": {
+        "duration": 4380
+      },
+      "result": {
+        "additions": {
+          "duration": "4380"
+        },
+        "text": "财富自由之后，我就要立刻干什么干什么干什么了。如果你真的",
+        "utterances": [
+          {
+            "end_time": 4200,
+            "start_time": 200,
+            "text": "财富自由之后，我就要立刻干什么干什么干什么了。如果你真的",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 200,
+                "text": "财"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 480,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 640,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 760,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 880,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1320,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1680,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1800,
+                "text": "立"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1920,
+                "text": "刻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2080,
+                "text": "干"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2320,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2400,
+                "text": "干"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2520,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2600,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2680,
+                "text": "干"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2840,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2920,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3000,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3440,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3640,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3760,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 3920,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 4120,
+                "text": "的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

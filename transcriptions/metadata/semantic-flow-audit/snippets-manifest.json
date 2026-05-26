@@ -1,0 +1,1104 @@
+{
+  "created_at": "2026-05-26T00:00:00+0800",
+  "note": "Semantic-flow audit candidates selected from low-confidence/repetition/discontinuity heuristics.",
+  "count": 60,
+  "items": [
+    {
+      "index": 1,
+      "audio_id": "wavlake-mp3__066__b5b8e991",
+      "clean_json": "wavlake-mp3__066__b5b8e991.json",
+      "segment_index": 107,
+      "segment_start": 811.82,
+      "segment_end": 815.42,
+      "snippet_start": 810.62,
+      "snippet_end": 816.62,
+      "score": 101,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "filler_run",
+        "literal:这个这个这个",
+        "literal:每天都火的跟这个这个这个"
+      ],
+      "current_text": "每天都火的跟这个这个这个啊",
+      "audio_path": "sun-audio-offline/wavlake-mp3/066 - 066 - 066 孙宇晨：【番外】新文化趋势（演讲）.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0001__wavlake-mp3__066__b5b8e991__seg0107.wav"
+    },
+    {
+      "index": 2,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "clean_json": "wavlake-mp3__080__63763504.json",
+      "segment_index": 49,
+      "segment_start": 518.3,
+      "segment_end": 548.18,
+      "snippet_start": 517.0999999999999,
+      "snippet_end": 549.38,
+      "score": 95,
+      "flags": [
+        "literal:黄正士",
+        "literal:五星宇",
+        "literal:莫言一会",
+        "low_tokens=11"
+      ],
+      "current_text": "就学校时候就开始,像我黄正士和五星宇都是学校时候起创业的,就是一会黄正士的故事更精彩,莫言一会我会问他,我觉得就是根据我刚才这个scientific定律,是吧,你只要在这个领域待的越久,总有好事会撞上你啊,当然前面啊,你战略还是要确定对的,我相信比如说如果我还没毕业就开始种田,连种十年可能是没有任何好处的,是吧,所以你还是得待在这种scientific啊,比较密集的,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0002__wavlake-mp3__080__63763504__seg0049.wav"
+    },
+    {
+      "index": 3,
+      "audio_id": "wavlake-mp3__140__f55c81c4",
+      "clean_json": "wavlake-mp3__140__f55c81c4.json",
+      "segment_index": 56,
+      "segment_start": 724.46,
+      "segment_end": 726.46,
+      "snippet_start": 723.26,
+      "snippet_end": 727.6600000000001,
+      "score": 77,
+      "flags": [
+        "rep_phrase",
+        "literal:公司的公司",
+        "low_avg_p=0.55",
+        "low_tokens=16",
+        "dense_16.5cps"
+      ],
+      "current_text": "当然有个前提条件哦,就是我们这边有一个公司的公司,就是我们的公司的公司。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/140 - 140 - 141【From It to Bit】区块链、硅基化、数字资产、意识互联.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0003__wavlake-mp3__140__f55c81c4__seg0056.wav"
+    },
+    {
+      "index": 4,
+      "audio_id": "official-vimeo-m4a-partial__053__b7c092ee",
+      "clean_json": "official-vimeo-m4a-partial__053__b7c092ee.json",
+      "segment_index": 19,
+      "segment_start": 144.56,
+      "segment_end": 148.36,
+      "snippet_start": 143.36,
+      "snippet_end": 149.56,
+      "score": 73,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "filler_run",
+        "literal:这个这个这个"
+      ],
+      "current_text": "包括这个这个这个契丹人啊,都没有这个概念。",
+      "audio_path": "sun-audio-offline/audio/053 - 053【90后不买房】让我们做一个游牧民族 [1179740334].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0004__official-vimeo-m4a-partial__053__b7c092ee__seg0019.wav"
+    },
+    {
+      "index": 5,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "clean_json": "wavlake-mp3__080__63763504.json",
+      "segment_index": 47,
+      "segment_start": 488.42,
+      "segment_end": 501.98,
+      "snippet_start": 487.22,
+      "snippet_end": 503.18,
+      "score": 65,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "literal:山上朝顶",
+        "low_tokens=7"
+      ],
+      "current_text": "那可能就错过一个特别好的一个历史机遇点啊,所以我觉得其实作为老板啊,大学毕业以后做还还还还挺好啊,就是可以捕捉好这个山上朝顶啊,控制好时间啊,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0005__wavlake-mp3__080__63763504__seg0047.wav"
+    },
+    {
+      "index": 6,
+      "audio_id": "wavlake-mp3__055__2675560a",
+      "clean_json": "wavlake-mp3__055__2675560a.json",
+      "segment_index": 20,
+      "segment_start": 417.5,
+      "segment_end": 447.48,
+      "snippet_start": 416.3,
+      "snippet_end": 448.68,
+      "score": 61,
+      "flags": [
+        "asr_noise",
+        "literal:由 Amara.org 社群提供的字",
+        "sparse_30.0s/8c"
+      ],
+      "current_text": "由 Amara.org 社群提供的字幕",
+      "audio_path": "sun-audio-offline/wavlake-mp3/055 - 055 - 055 孙宇晨：【鸡年大吉】我们共同走过的2016与即将踏上的2017.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0006__wavlake-mp3__055__2675560a__seg0020.wav"
+    },
+    {
+      "index": 7,
+      "audio_id": "wavlake-mp3__137__33989990",
+      "clean_json": "wavlake-mp3__137__33989990.json",
+      "segment_index": 117,
+      "segment_start": 647.28,
+      "segment_end": 653.34,
+      "snippet_start": 646.0799999999999,
+      "snippet_end": 654.5400000000001,
+      "score": 58,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "literal:你你你你你"
+      ],
+      "current_text": "你你你你你你你你你你你你你你你你你你你你你你你你你你你",
+      "audio_path": "sun-audio-offline/wavlake-mp3/137 - 137 - 138 孙宇晨：【财富流向】学习的力量，谈教育革新与创业.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0007__wavlake-mp3__137__33989990__seg0117.wav"
+    },
+    {
+      "index": 8,
+      "audio_id": "wavlake-mp3__036__8bed1231",
+      "clean_json": "wavlake-mp3__036__8bed1231.json",
+      "segment_index": 45,
+      "segment_start": 988.32,
+      "segment_end": 1018.2,
+      "snippet_start": 987.12,
+      "snippet_end": 1019.4000000000001,
+      "score": 58,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "literal:我我我"
+      ],
+      "current_text": "好孙权你你太好了,我就不说哪家银行的名字了,说你太牛了,我们觉得你就是未来,你就是马云,我们要贷款给你,这样我就我我我当时还挺惊讶的,我想这种银行啊,就是一般都不给这种初创企业贷款的嘛,就怕我们还不起跑路了啊,说你这么好,你愿意贷款给我,你愿意贷多少钱啊,我可以给你贷十万块钱,这这不贷了跟没贷一样吗,所以所以就这个道理啊,就是对于没有钱的人和发展媒体,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0008__wavlake-mp3__036__8bed1231__seg0045.wav"
+    },
+    {
+      "index": 9,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "clean_json": "wavlake-mp3__082__3a025f97.json",
+      "segment_index": 8,
+      "segment_start": 41.8,
+      "segment_end": 54.06,
+      "snippet_start": 40.599999999999994,
+      "snippet_end": 55.260000000000005,
+      "score": 56,
+      "flags": [
+        "literal:黄正士",
+        "literal:五星宇"
+      ],
+      "current_text": "番外篇的老师冯仑,我的小伙伴张亨德,黄正士,五星宇,还有沐妍,其中绝大多数也都来自于湖畔大学。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0009__wavlake-mp3__082__3a025f97__seg0008.wav"
+    },
+    {
+      "index": 10,
+      "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+      "clean_json": "official-vimeo-m4a-partial__006__a47f6122.json",
+      "segment_index": 22,
+      "segment_start": 471.52,
+      "segment_end": 500.66,
+      "snippet_start": 470.32,
+      "snippet_end": 501.86,
+      "score": 56,
+      "flags": [
+        "literal:醒外的人",
+        "literal:培养民里"
+      ],
+      "current_text": "是头条,就跟Leo他们在拯救黑客帝国的时候,不知道大家看过没有,这个真的是很值得看,他们就是要把所有的人类,就是你脑袋后面那个东西给你拔掉,让那个人醒过来啊,当然其实这个本身是错误的,很多人还会骂Leo,因为那些人被机器人插到那个培养民里啊,其实活得很幸福倒是,结果拔掉了那个醒了到面临外星的围剿,就那个电脑对这种醒外的人进行围剿啊,",
+      "audio_path": "sun-audio-offline/audio/006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0010__official-vimeo-m4a-partial__006__a47f6122__seg0022.wav"
+    },
+    {
+      "index": 11,
+      "audio_id": "wavlake-mp3__086__bf2c2a6d",
+      "clean_json": "wavlake-mp3__086__bf2c2a6d.json",
+      "segment_index": 287,
+      "segment_start": 716.66,
+      "segment_end": 719.4,
+      "snippet_start": 715.4599999999999,
+      "snippet_end": 720.6,
+      "score": 54,
+      "flags": [
+        "literal:确认是否正确实现公务员的权益",
+        "low_avg_p=0.49",
+        "low_tokens=14"
+      ],
+      "current_text": "并且要确认是否正确实现公务员的权益",
+      "audio_path": "sun-audio-offline/wavlake-mp3/086 - 086 - 086 孙宇晨：【不确定性】以人民的名义.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0011__wavlake-mp3__086__bf2c2a6d__seg0287.wav"
+    },
+    {
+      "index": 12,
+      "audio_id": "wavlake-mp3__025__ee3f2f4c",
+      "clean_json": "wavlake-mp3__025__ee3f2f4c.json",
+      "segment_index": 33,
+      "segment_start": 800.2,
+      "segment_end": 808.32,
+      "snippet_start": 799.0,
+      "snippet_end": 809.5200000000001,
+      "score": 53,
+      "flags": [
+        "literal:王尔德这句话是非常重要的,所以我觉得",
+        "low_tokens=15",
+        "dense_12.6cps"
+      ],
+      "current_text": "所以我觉得王尔德这个话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/025 - 025 - 025 孙宇晨：性与权力.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0012__wavlake-mp3__025__ee3f2f4c__seg0033.wav"
+    },
+    {
+      "index": 13,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "clean_json": "wavlake-mp3__080__63763504.json",
+      "segment_index": 50,
+      "segment_start": 548.18,
+      "segment_end": 578.06,
+      "snippet_start": 546.9799999999999,
+      "snippet_end": 579.26,
+      "score": 49,
+      "flags": [
+        "filler_run",
+        "literal:柳暗发明",
+        "low_tokens=6"
+      ],
+      "current_text": "也就是像互联网就是,它就柳暗发明两三天啊,几个月就一个热点,不知道哪个就给你装上了,你就一下子起来了,所以就是,所以我从这个角度来说啊,我觉得就是啊,从这个角度来说,所以你得越早创业,你撞到这种scientific的几率就越高,其实跟你其实真的做的好还是坏,关系真的是不大,举一个啊,就是从我们原来的比特币创业的例子,我当时其实毕业的时候,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0013__wavlake-mp3__080__63763504__seg0050.wav"
+    },
+    {
+      "index": 14,
+      "audio_id": "official-vimeo-m4a-partial__010__52931080",
+      "clean_json": "official-vimeo-m4a-partial__010__52931080.json",
+      "segment_index": 80,
+      "segment_start": 328.76,
+      "segment_end": 329.42,
+      "snippet_start": 327.56,
+      "snippet_end": 330.62,
+      "score": 46,
+      "flags": [
+        "literal:掏粉的",
+        "low_avg_p=0.42"
+      ],
+      "current_text": "掏粉的",
+      "audio_path": "sun-audio-offline/audio/010 - 010预告-财富自由是什么 [1179690712].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0014__official-vimeo-m4a-partial__010__52931080__seg0080.wav"
+    },
+    {
+      "index": 15,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "clean_json": "wavlake-mp3__118__86d1aebf.json",
+      "segment_index": 114,
+      "segment_start": 554.68,
+      "segment_end": 556.72,
+      "snippet_start": 553.4799999999999,
+      "snippet_end": 557.9200000000001,
+      "score": 44,
+      "flags": [
+        "low_avg_p=0.18",
+        "low_tokens=7"
+      ],
+      "current_text": "那么我们就来看这个问题",
+      "audio_path": "sun-audio-offline/wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0015__wavlake-mp3__118__86d1aebf__seg0114.wav"
+    },
+    {
+      "index": 16,
+      "audio_id": "wavlake-mp3__072__e0e92c38",
+      "clean_json": "wavlake-mp3__072__e0e92c38.json",
+      "segment_index": 33,
+      "segment_start": 295.48,
+      "segment_end": 324.4,
+      "snippet_start": 294.28000000000003,
+      "snippet_end": 325.59999999999997,
+      "score": 43,
+      "flags": [
+        "rep_word",
+        "literal:我我我"
+      ],
+      "current_text": "这一点啊,很多观点还需要更多的例子去打磨,但是观点本身的自信我们是有的,可能我们以后还会出第二本书,我希望会更好,但是其实在第一本书的时候,我觉得大方向战略已经没有问题了,其实熟悉我节目的读者可能就知道,就是我我我一直觉得战略是核心,战略解决百分之八九十的问题,战略只要解决这百分之八九十的问题,后面太简单了,很容易做。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/072 - 072 - 072 孙宇晨：【番外】我为什么要写这样一本书？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0016__wavlake-mp3__072__e0e92c38__seg0033.wav"
+    },
+    {
+      "index": 17,
+      "audio_id": "wavlake-mp3__006__3aa7bdab",
+      "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+      "segment_index": 357,
+      "segment_start": 1076.76,
+      "segment_end": 1078.86,
+      "snippet_start": 1075.56,
+      "snippet_end": 1080.06,
+      "score": 43,
+      "flags": [
+        "rep_word",
+        "literal:我我我"
+      ],
+      "current_text": "我我我个人认为呢",
+      "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0017__wavlake-mp3__006__3aa7bdab__seg0357.wav"
+    },
+    {
+      "index": 18,
+      "audio_id": "official-vimeo-m4a-partial__036__6c5b57fc",
+      "clean_json": "official-vimeo-m4a-partial__036__6c5b57fc.json",
+      "segment_index": 87,
+      "segment_start": 995.6,
+      "segment_end": 1004.18,
+      "snippet_start": 994.4,
+      "snippet_end": 1005.38,
+      "score": 43,
+      "flags": [
+        "rep_word",
+        "literal:我我我"
+      ],
+      "current_text": "这样我就我我我当时还挺惊讶的我想这种银行啊就是一般都不给这种初创企业贷款的吗就怕我们还不起跑路了啊",
+      "audio_path": "sun-audio-offline/audio/036 - 036【全球流动性过剩】通过加“杠杆”来增加财富 [1179724973].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0018__official-vimeo-m4a-partial__036__6c5b57fc__seg0087.wav"
+    },
+    {
+      "index": 19,
+      "audio_id": "wavlake-mp3__006__3aa7bdab",
+      "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+      "segment_index": 98,
+      "segment_start": 299.6,
+      "segment_end": 329.52,
+      "snippet_start": 298.40000000000003,
+      "snippet_end": 330.71999999999997,
+      "score": 40,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "low_tokens=10"
+      ],
+      "current_text": "因为没有做战略很多人啊一直觉得啊好像战略是个很大的词马云才做战略我做啥战略呢小公司也不用做了我人也不用做了其实恰恰恰恰恰相反就跟我们经常讲的就是就是没钱人更应该做呀哥们儿这是决定成功的唯一因素你连你这么穷还不做那怎么可能赚到钱呢对吧那马云有可能不做战略损失还没那么大你不做战略就玩完了所以个人是更应该做战略我就首先说,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0019__wavlake-mp3__006__3aa7bdab__seg0098.wav"
+    },
+    {
+      "index": 20,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "clean_json": "official-vimeo-m4a-partial__049__a4da2ce3.json",
+      "segment_index": 191,
+      "segment_start": 834.0,
+      "segment_end": 834.5,
+      "snippet_start": 832.8,
+      "snippet_end": 835.7,
+      "score": 40,
+      "flags": [
+        "low_avg_p=0.36",
+        "low_tokens=8",
+        "dense_22.0cps"
+      ],
+      "current_text": "想做一些更多细腻的概念",
+      "audio_path": "sun-audio-offline/audio/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0020__official-vimeo-m4a-partial__049__a4da2ce3__seg0191.wav"
+    },
+    {
+      "index": 21,
+      "audio_id": "wavlake-mp3__009__c72b9118",
+      "clean_json": "wavlake-mp3__009__c72b9118.json",
+      "segment_index": 143,
+      "segment_start": 399.66,
+      "segment_end": 401.48,
+      "snippet_start": 398.46000000000004,
+      "snippet_end": 402.68,
+      "score": 39,
+      "flags": [
+        "low_avg_p=0.23",
+        "low_tokens=6"
+      ],
+      "current_text": "所以我觉得其实是很感恩的",
+      "audio_path": "sun-audio-offline/wavlake-mp3/009 - 009 - 009 孙宇晨：创业与财富自由.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0021__wavlake-mp3__009__c72b9118__seg0143.wav"
+    },
+    {
+      "index": 22,
+      "audio_id": "wavlake-mp3__086__bf2c2a6d",
+      "clean_json": "wavlake-mp3__086__bf2c2a6d.json",
+      "segment_index": 291,
+      "segment_start": 723.44,
+      "segment_end": 724.3,
+      "snippet_start": 722.24,
+      "snippet_end": 725.5,
+      "score": 38,
+      "flags": [
+        "literal:确认是否正确实现公务员的权益",
+        "dense_19.8cps"
+      ],
+      "current_text": "并且要确认是否正确实现公务员的权益",
+      "audio_path": "sun-audio-offline/wavlake-mp3/086 - 086 - 086 孙宇晨：【不确定性】以人民的名义.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0022__wavlake-mp3__086__bf2c2a6d__seg0291.wav"
+    },
+    {
+      "index": 23,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "clean_json": "wavlake-mp3__081__b0c91068.json",
+      "segment_index": 10,
+      "segment_start": 89.88,
+      "segment_end": 119.82,
+      "snippet_start": 88.67999999999999,
+      "snippet_end": 121.02,
+      "score": 38,
+      "flags": [
+        "literal:森林代理",
+        "low_tokens=10"
+      ],
+      "current_text": "第二个事情就是判断那个时间是不是到了,就因为很多事情,其实你做的时候,这个时机对不对非常重要,这个也是在森林代理里面,我觉得重点其实需要关注的,就很多事情其实没有对错,只有遇到的时间对不对,这个其实跟爱情其实某种程度上也很类似啊,就是两个人能不能在一块,其实跟人没有好坏的关系,有时候跟时机关系特别大,这是第二点,第三点就是你要看这一个,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0023__wavlake-mp3__081__b0c91068__seg0010.wav"
+    },
+    {
+      "index": 24,
+      "audio_id": "wavlake-mp3__029__34570f84",
+      "clean_json": "wavlake-mp3__029__34570f84.json",
+      "segment_index": 88,
+      "segment_start": 612.06,
+      "segment_end": 624.3,
+      "snippet_start": 610.8599999999999,
+      "snippet_end": 625.5,
+      "score": 38,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "low_tokens=8"
+      ],
+      "current_text": "不笑那个谁谁谁怎么能这样呢哎怎么能这样呢哎怎么能这样呢就挥动他道德大棒啊对全整个整个城市的人或整个村子的人进行舆论监督。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/029 - 029 - 029 孙宇晨：家庭关系与义务.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0024__wavlake-mp3__029__34570f84__seg0088.wav"
+    },
+    {
+      "index": 25,
+      "audio_id": "wavlake-mp3__006__3aa7bdab",
+      "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+      "segment_index": 99,
+      "segment_start": 329.52,
+      "segment_end": 359.44,
+      "snippet_start": 328.32,
+      "snippet_end": 360.64,
+      "score": 38,
+      "flags": [
+        "rep_word",
+        "rep_phrase",
+        "low_tokens=8"
+      ],
+      "current_text": "就是你不要想想着啊我赶紧录去秀丝区块别别别你先想清楚你的人生是为了啥为啥要干这些事情这些事情有什么好处这个事情符不符合你的初心你是谁从哪里来到哪里去先把这些根本问题想清楚很多人有时候想说觉得还嘲笑想这种问题的人啊你脑子是有病什么的是吧你如果这个问题都没想清楚是绝对一人生都过不好当然会导致这个,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0025__wavlake-mp3__006__3aa7bdab__seg0099.wav"
+    },
+    {
+      "index": 26,
+      "audio_id": "wavlake-mp3__048__8b1ae8f0",
+      "clean_json": "wavlake-mp3__048__8b1ae8f0.json",
+      "segment_index": 70,
+      "segment_start": 566.3,
+      "segment_end": 566.62,
+      "snippet_start": 565.0999999999999,
+      "snippet_end": 567.82,
+      "score": 36,
+      "flags": [
+        "low_avg_p=0.32",
+        "dense_18.7cps"
+      ],
+      "current_text": "所以我们可以",
+      "audio_path": "sun-audio-offline/wavlake-mp3/048 - 048 - 048 孙宇晨：租房也可以很美好.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0026__wavlake-mp3__048__8b1ae8f0__seg0070.wav"
+    },
+    {
+      "index": 27,
+      "audio_id": "wavlake-mp3__136__e4306ed8",
+      "clean_json": "wavlake-mp3__136__e4306ed8.json",
+      "segment_index": 52,
+      "segment_start": 179.54,
+      "segment_end": 179.98,
+      "snippet_start": 178.34,
+      "snippet_end": 181.17999999999998,
+      "score": 35,
+      "flags": [
+        "literal:甚至国不得",
+        "low_avg_p=0.55"
+      ],
+      "current_text": "甚至国不得",
+      "audio_path": "sun-audio-offline/wavlake-mp3/136 - 136 - 137 孙宇晨：【财富流向】弯道超车.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0027__wavlake-mp3__136__e4306ed8__seg0052.wav"
+    },
+    {
+      "index": 28,
+      "audio_id": "wavlake-mp3__048__8b1ae8f0",
+      "clean_json": "wavlake-mp3__048__8b1ae8f0.json",
+      "segment_index": 142,
+      "segment_start": 716.4,
+      "segment_end": 718.06,
+      "snippet_start": 715.1999999999999,
+      "snippet_end": 719.26,
+      "score": 34,
+      "flags": [
+        "low_avg_p=0.31",
+        "low_tokens=8"
+      ],
+      "current_text": "然后我们就会再做一个设计",
+      "audio_path": "sun-audio-offline/wavlake-mp3/048 - 048 - 048 孙宇晨：租房也可以很美好.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0028__wavlake-mp3__048__8b1ae8f0__seg0142.wav"
+    },
+    {
+      "index": 29,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "clean_json": "wavlake-mp3__080__63763504.json",
+      "segment_index": 44,
+      "segment_start": 398.68,
+      "segment_end": 428.66,
+      "snippet_start": 397.48,
+      "snippet_end": 429.86,
+      "score": 33,
+      "flags": [
+        "rep_phrase",
+        "low_tokens=18"
+      ],
+      "current_text": "其实毕业以后,其实在我爱我家工作过一段,但是刚才就那个宇晨这话题,其实我觉得你要不要创业啊,其实早一点,当年第一次,我记得我那会儿也是上了初中的时候吧,13岁时候,开始也有一段经历开始成为一个折腾的创业的事儿,所以后来我们那个,比如公司在自己创业立场的时候,我也觉得就是说,一轮一轮的这个高管的这个团队升级啊,然后更新换代啊,后来我发现其实你若作为一个创始人来说的话,可能越早的话,可能越早的话,就会有一个更新换代。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0029__wavlake-mp3__080__63763504__seg0044.wav"
+    },
+    {
+      "index": 30,
+      "audio_id": "wavlake-mp3__114__1125512e",
+      "clean_json": "wavlake-mp3__114__1125512e.json",
+      "segment_index": 81,
+      "segment_start": 607.8,
+      "segment_end": 610.3,
+      "snippet_start": 606.5999999999999,
+      "snippet_end": 611.5,
+      "score": 31,
+      "flags": [
+        "low_avg_p=0.36",
+        "low_tokens=8"
+      ],
+      "current_text": "好,我们下个礼拜再聊吧。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0030__wavlake-mp3__114__1125512e__seg0081.wav"
+    },
+    {
+      "index": 31,
+      "audio_id": "wavlake-mp3__078__32514846",
+      "clean_json": "wavlake-mp3__078__32514846.json",
+      "segment_index": 524,
+      "segment_start": 1717.04,
+      "segment_end": 1718.04,
+      "snippet_start": 1715.84,
+      "snippet_end": 1719.24,
+      "score": 31,
+      "flags": [
+        "low_avg_p=0.26"
+      ],
+      "current_text": "回家了,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/078 - 078 - 078 孙宇晨：【番外】相信折腾的力量.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0031__wavlake-mp3__078__32514846__seg0524.wav"
+    },
+    {
+      "index": 32,
+      "audio_id": "wavlake-mp3__097__e53f6314",
+      "clean_json": "wavlake-mp3__097__e53f6314.json",
+      "segment_index": 20,
+      "segment_start": 539.7,
+      "segment_end": 569.68,
+      "snippet_start": 538.5,
+      "snippet_end": 570.88,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "距离副行长,距离你们那个分行的那个行长,距离你们那个营业部的这个行长,是吧?分行分行分行分行的行长,知行的行长,都隔着可能四五级的,你就再逆天再努力干破天,人家不可能知道,这个关键原因一定要注意,人家不可能知道,也不可能教你去独当一面,所以呢,从这个角度来说,在创业公司干活也是很占便宜的,因为你成功了,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/097 - 097 - 097 孙宇晨：【小结】不当南郭先生.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0032__wavlake-mp3__097__e53f6314__seg0020.wav"
+    },
+    {
+      "index": 33,
+      "audio_id": "wavlake-mp3__095__3bea9fa5",
+      "clean_json": "wavlake-mp3__095__3bea9fa5.json",
+      "segment_index": 16,
+      "segment_start": 122.14,
+      "segment_end": 128.12,
+      "snippet_start": 120.94,
+      "snippet_end": 129.32,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不了几句就被删了。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/095 - 095 - 095 孙宇晨：【案例】现在开淘宝店靠谱吗？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0033__wavlake-mp3__095__3bea9fa5__seg0016.wav"
+    },
+    {
+      "index": 34,
+      "audio_id": "wavlake-mp3__083__09588e6c",
+      "clean_json": "wavlake-mp3__083__09588e6c.json",
+      "segment_index": 24,
+      "segment_start": 158.68,
+      "segment_end": 168.7,
+      "snippet_start": 157.48000000000002,
+      "snippet_end": 169.89999999999998,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "举个例子,他们往往会想,好,我们要向互联网转型,那么我要设计一个什么什么样的网站,我要设计一个什么什么什么样的APP。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/083 - 083 - 083 孙宇晨：【不确定性】互联网时代的MVP.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0034__wavlake-mp3__083__09588e6c__seg0024.wav"
+    },
+    {
+      "index": 35,
+      "audio_id": "wavlake-mp3__059__be99c1d2",
+      "clean_json": "wavlake-mp3__059__be99c1d2.json",
+      "segment_index": 69,
+      "segment_start": 1978.72,
+      "segment_end": 2008.7,
+      "snippet_start": 1977.52,
+      "snippet_end": 2009.9,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "就这一只股票,就特斯拉啊,别人做都不行啊,特斯拉的那个创始人啊,伊隆马斯克也我们学校校友宾大的啊,他也是个营销天才,他最早大家知道他最早做跑车起家,而且做低价跑车起家,这时候就不得不讲啊,他之前切了有一个刚需特别厉害,大家知道这个跑车界大家喜欢装逼,装逼老师说我这个百米加速到所谓啊,多少多少多少,用几秒,这个领域啊,就是汽油汽车啊,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/059 - 059 - 059 孙宇晨：【番外】如何赚到自己的100万？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0035__wavlake-mp3__059__be99c1d2__seg0069.wav"
+    },
+    {
+      "index": 36,
+      "audio_id": "wavlake-mp3__036__8bed1231",
+      "clean_json": "wavlake-mp3__036__8bed1231.json",
+      "segment_index": 44,
+      "segment_start": 958.44,
+      "segment_end": 988.26,
+      "snippet_start": 957.24,
+      "snippet_end": 989.46,
+      "score": 30,
+      "flags": [
+        "rep_phrase",
+        "filler_run"
+      ],
+      "current_text": "我们根本没有办法去银行借钱,在银行上面我们是没有受信的啊,有一次我记得印象特别深,就大家要知道啊,我先给大家大家普及几个概念吧,就像我们这样的互联网公司一个月怎么着也得烧个啊,一两百万是很正常的啊,啊,所以呢,整个公司呢,可能你哪怕融个三四千万,可能也就顶多坚持两年,这是最多了啊,然后呢,我我因为我还算半个网红吧啊,所以当地政府啊,很多人也也觉得我不错啊,有一次就有一个人说,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0036__wavlake-mp3__036__8bed1231__seg0044.wav"
+    },
+    {
+      "index": 37,
+      "audio_id": "wavlake-mp3__036__8bed1231",
+      "clean_json": "wavlake-mp3__036__8bed1231.json",
+      "segment_index": 38,
+      "segment_start": 779.16,
+      "segment_end": 809.04,
+      "snippet_start": 777.9599999999999,
+      "snippet_end": 810.24,
+      "score": 30,
+      "flags": [
+        "rep_phrase",
+        "filler_run"
+      ],
+      "current_text": "而且你要注意这时候这个腾讯员工他没有出一分钱去买这个股票,所以也是增强了杠杆啊,这是为什么就是我觉得期权的本质也是杠杆的一个核心原因,当然当然我们觉得就是啊,就是我们后面会讲一个好的房地产投资啊,它的本质也是杠杆,我们这一点具体在90后不买房的一张会讲的,现在的很多人对买房的理解是错误的,它是一种非杠杆性投资,所以也是也是杠杆,当然了就是每一种这个根据每一种的投资,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0037__wavlake-mp3__036__8bed1231__seg0038.wav"
+    },
+    {
+      "index": 38,
+      "audio_id": "wavlake-mp3__029__34570f84",
+      "clean_json": "wavlake-mp3__029__34570f84.json",
+      "segment_index": 65,
+      "segment_start": 536.58,
+      "segment_end": 542.04,
+      "snippet_start": 535.38,
+      "snippet_end": 543.24,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "你不能说好,我帮了我爸,我哪天又要求他,你看我上次对你这样这样这样,你要对我怎么样怎么样。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/029 - 029 - 029 孙宇晨：家庭关系与义务.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0038__wavlake-mp3__029__34570f84__seg0065.wav"
+    },
+    {
+      "index": 39,
+      "audio_id": "wavlake-mp3__025__ee3f2f4c",
+      "clean_json": "wavlake-mp3__025__ee3f2f4c.json",
+      "segment_index": 13,
+      "segment_start": 219.3,
+      "segment_end": 238.6,
+      "snippet_start": 218.10000000000002,
+      "snippet_end": 239.79999999999998,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "所以这时候你都要想一想,那这些事情全都一孤岛的全部都过来了,产业结构转型所带来的产业结构,那当然不用说了,那基本上不是人下岗的问题,是一个一个一个产业成批量的被拔掉啊,然后同时可能社会的safety net,我们讲的社保养老金。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/025 - 025 - 025 孙宇晨：性与权力.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0039__wavlake-mp3__025__ee3f2f4c__seg0013.wav"
+    },
+    {
+      "index": 40,
+      "audio_id": "wavlake-mp3__022__05b72a7e",
+      "clean_json": "wavlake-mp3__022__05b72a7e.json",
+      "segment_index": 33,
+      "segment_start": 745.44,
+      "segment_end": 775.42,
+      "snippet_start": 744.24,
+      "snippet_end": 776.62,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "他发现死记应被倒是考了一种考了一种也是人中很宝贵的一种能力,这当然有点老百姓歪打正着啊,就老百姓想的只是只是想让有钱人跟所谓我们讲的三观正确的人把他们隔绝掉,因为他们在其他领域都太优秀了,不许考不许考不许考这个最白痴考这个考这个我我是白痴,所以我在这儿我会有优势,就发现哪怕考最白痴的地方也考了一种能力叫自控高考只有一个难度,就是他的内容为难度,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/022 - 022 - 022 孙宇晨：穷人思维下的教育问题.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0040__wavlake-mp3__022__05b72a7e__seg0033.wav"
+    },
+    {
+      "index": 41,
+      "audio_id": "wavlake-mp3__021__2cde99a5",
+      "clean_json": "wavlake-mp3__021__2cde99a5.json",
+      "segment_index": 29,
+      "segment_start": 597.7,
+      "segment_end": 627.24,
+      "snippet_start": 596.5,
+      "snippet_end": 628.44,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "我在外界写这些文章的时候,对于哪怕反对我的各种人,我都是很客气的,是吧,都是老师老师的说,是吧,让人家知道,知道至少我们是尊重人家的,是吧,这也是我们和解和解,从不走暴力革命道路,这得一定要注意和解,一切东西都要和解和解和解和解再和解,哥们有话好好说,别动手,这是我们就是这个课程的交代的最重要的事情,一定要注意,这得一定要注意,因为我年轻时候,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/021 - 021 - 021 孙宇晨：财富自由与和解艺术.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0041__wavlake-mp3__021__2cde99a5__seg0029.wav"
+    },
+    {
+      "index": 42,
+      "audio_id": "wavlake-mp3__018__aeb5367d",
+      "clean_json": "wavlake-mp3__018__aeb5367d.json",
+      "segment_index": 22,
+      "segment_start": 622.02,
+      "segment_end": 651.6,
+      "snippet_start": 620.8199999999999,
+      "snippet_end": 652.8000000000001,
+      "score": 30,
+      "flags": [
+        "rep_phrase",
+        "filler_run"
+      ],
+      "current_text": "你要加入美国还是苏联,你告诉我,我告诉你是美国,就跟你抄错了,你投奔苏联去了,你做垮了,你怪我,一定要注意啊,哥们,站队啊,站队,哥们,其实绝大多数,我不知道,人生很多悲剧是站队站错导致的啊,所以这个观念战争啊,大家知道,整个财富自由就是一场观念战争,站队一定要站队,然后呢,所以这一张啊,站队站队了之后,我们会给大家普及几个点,所谓自由意志主义利己主义究竟是什么,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/018 - 018 - 018 孙宇晨：战略.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0042__wavlake-mp3__018__aeb5367d__seg0022.wav"
+    },
+    {
+      "index": 43,
+      "audio_id": "wavlake-mp3__016__817bdf46",
+      "clean_json": "wavlake-mp3__016__817bdf46.json",
+      "segment_index": 245,
+      "segment_start": 582.06,
+      "segment_end": 583.38,
+      "snippet_start": 580.8599999999999,
+      "snippet_end": 584.58,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "就价格价格价格",
+      "audio_path": "sun-audio-offline/wavlake-mp3/016 - 016 - 016 孙宇晨：财富自由从未如此容易过.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0043__wavlake-mp3__016__817bdf46__seg0245.wav"
+    },
+    {
+      "index": 44,
+      "audio_id": "wavlake-mp3__012__a90a69b6",
+      "clean_json": "wavlake-mp3__012__a90a69b6.json",
+      "segment_index": 195,
+      "segment_start": 519.36,
+      "segment_end": 521.34,
+      "snippet_start": 518.16,
+      "snippet_end": 522.5400000000001,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "我就要立刻干什么干什么干什么了",
+      "audio_path": "sun-audio-offline/wavlake-mp3/012 - 012 - 012 孙宇晨：财富自由与精神自由的关系.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0044__wavlake-mp3__012__a90a69b6__seg0195.wav"
+    },
+    {
+      "index": 45,
+      "audio_id": "wavlake-mp3__006__3aa7bdab",
+      "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+      "segment_index": 421,
+      "segment_start": 1208.84,
+      "segment_end": 1210.98,
+      "snippet_start": 1207.6399999999999,
+      "snippet_end": 1212.18,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "但这时候你就你就你就会发现问题",
+      "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0045__wavlake-mp3__006__3aa7bdab__seg0421.wav"
+    },
+    {
+      "index": 46,
+      "audio_id": "official-vimeo-m4a-partial__042__c8359174",
+      "clean_json": "official-vimeo-m4a-partial__042__c8359174.json",
+      "segment_index": 99,
+      "segment_start": 414.34,
+      "segment_end": 414.98,
+      "snippet_start": 413.14,
+      "snippet_end": 416.18,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "不是不是不是,",
+      "audio_path": "sun-audio-offline/audio/042 - 042【90后不结婚】找到正确的婚姻“合伙人” [1179726102].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0046__official-vimeo-m4a-partial__042__c8359174__seg0099.wav"
+    },
+    {
+      "index": 47,
+      "audio_id": "official-vimeo-m4a-partial__036__6c5b57fc",
+      "clean_json": "official-vimeo-m4a-partial__036__6c5b57fc.json",
+      "segment_index": 85,
+      "segment_start": 958.0,
+      "segment_end": 982.06,
+      "snippet_start": 956.8,
+      "snippet_end": 983.26,
+      "score": 30,
+      "flags": [
+        "rep_phrase",
+        "filler_run"
+      ],
+      "current_text": "我们根本没有办法去银行借钱在银行上面我们是没有受信的啊有一次我记得印象特别深就大家要知道啊我先给大家大家普及几个概念吧就像我们这样的互联网公司一个月怎么着也得烧个一两百万是很正常的啊啊所以呢整个公司呢可能你哪怕融个三四千万可能也就顶多坚持两年这是最多了啊然后呢我我因为我",
+      "audio_path": "sun-audio-offline/audio/036 - 036【全球流动性过剩】通过加“杠杆”来增加财富 [1179724973].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0047__official-vimeo-m4a-partial__036__6c5b57fc__seg0085.wav"
+    },
+    {
+      "index": 48,
+      "audio_id": "official-vimeo-m4a-partial__036__6c5b57fc",
+      "clean_json": "official-vimeo-m4a-partial__036__6c5b57fc.json",
+      "segment_index": 69,
+      "segment_start": 772.34,
+      "segment_end": 802.3,
+      "snippet_start": 771.14,
+      "snippet_end": 803.5,
+      "score": 30,
+      "flags": [
+        "rep_phrase",
+        "filler_run"
+      ],
+      "current_text": "在腾讯就是相当于10万块钱啊10万人民币然后这个可能过了4年就变成了40万而且你要注意这时候这个腾讯员工他没有出一分钱去买这个股票所以也是增强了杠杆啊这是为什么就是我觉得期权的本质也是杠杆的一个核心原因当然当然我们觉得就是啊就是我们后面会讲一个好的房地产投资啊他的本质也是杠杆我们这一点具体在90后不买房那一章会讲的现在的很多人对买房的理解是错误的他是一种",
+      "audio_path": "sun-audio-offline/audio/036 - 036【全球流动性过剩】通过加“杠杆”来增加财富 [1179724973].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0048__official-vimeo-m4a-partial__036__6c5b57fc__seg0069.wav"
+    },
+    {
+      "index": 49,
+      "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+      "clean_json": "official-vimeo-m4a-partial__029__bea15de4.json",
+      "segment_index": 229,
+      "segment_start": 611.22,
+      "segment_end": 613.22,
+      "snippet_start": 610.02,
+      "snippet_end": 614.4200000000001,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "那个那个谁谁谁不笑,",
+      "audio_path": "sun-audio-offline/audio/029 - 029子女与父母的关系 [1179696163].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0049__official-vimeo-m4a-partial__029__bea15de4__seg0229.wav"
+    },
+    {
+      "index": 50,
+      "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+      "clean_json": "official-vimeo-m4a-partial__029__bea15de4.json",
+      "segment_index": 199,
+      "segment_start": 539.46,
+      "segment_end": 541.46,
+      "snippet_start": 538.26,
+      "snippet_end": 542.6600000000001,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "你看我上次对你这样这样这样,",
+      "audio_path": "sun-audio-offline/audio/029 - 029子女与父母的关系 [1179696163].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0050__official-vimeo-m4a-partial__029__bea15de4__seg0199.wav"
+    },
+    {
+      "index": 51,
+      "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+      "clean_json": "official-vimeo-m4a-partial__025__5b4cc5d1.json",
+      "segment_index": 150,
+      "segment_start": 480.12,
+      "segment_end": 486.52,
+      "snippet_start": 478.92,
+      "snippet_end": 487.71999999999997,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不会过了",
+      "audio_path": "sun-audio-offline/audio/025 - 025未来社会的演变 [1179695011].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0051__official-vimeo-m4a-partial__025__5b4cc5d1__seg0150.wav"
+    },
+    {
+      "index": 52,
+      "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+      "clean_json": "official-vimeo-m4a-partial__025__5b4cc5d1.json",
+      "segment_index": 58,
+      "segment_start": 226.38,
+      "segment_end": 233.04,
+      "snippet_start": 225.18,
+      "snippet_end": 234.23999999999998,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "所带来的产业结构那当然不用说了那基本上不是人下岗的问题是一个一个一个产业成批量的",
+      "audio_path": "sun-audio-offline/audio/025 - 025未来社会的演变 [1179695011].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0052__official-vimeo-m4a-partial__025__5b4cc5d1__seg0058.wav"
+    },
+    {
+      "index": 53,
+      "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+      "clean_json": "official-vimeo-m4a-partial__016__71e7d985.json",
+      "segment_index": 262,
+      "segment_start": 581.84,
+      "segment_end": 583.36,
+      "snippet_start": 580.64,
+      "snippet_end": 584.5600000000001,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "就价格价格价格",
+      "audio_path": "sun-audio-offline/audio/016 - 016财富自由从未如此容易过 [1179692693].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0053__official-vimeo-m4a-partial__016__71e7d985__seg0262.wav"
+    },
+    {
+      "index": 54,
+      "audio_id": "official-vimeo-m4a-partial__012__842975e3",
+      "clean_json": "official-vimeo-m4a-partial__012__842975e3.json",
+      "segment_index": 201,
+      "segment_start": 519.38,
+      "segment_end": 521.34,
+      "snippet_start": 518.18,
+      "snippet_end": 522.5400000000001,
+      "score": 30,
+      "flags": [
+        "rep_word",
+        "rep_phrase"
+      ],
+      "current_text": "我就要立刻干什么干什么干什么了",
+      "audio_path": "sun-audio-offline/audio/012 - 012财富自由的本质 [1179691257].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0054__official-vimeo-m4a-partial__012__842975e3__seg0201.wav"
+    },
+    {
+      "index": 55,
+      "audio_id": "official-vimeo-m4a-partial__009__6e724caa",
+      "clean_json": "official-vimeo-m4a-partial__009__6e724caa.json",
+      "segment_index": 17,
+      "segment_start": 349.94,
+      "segment_end": 375.58,
+      "snippet_start": 348.74,
+      "snippet_end": 376.78,
+      "score": 30,
+      "flags": [
+        "rep_phrase",
+        "filler_run"
+      ],
+      "current_text": "以及付出啊,比如说甚至断绝这种经济经济的这种代价,当然断绝经济本来就是我吃亏啊,啊,就是首先我觉得没有必要付出这种代价,而且感情上对大家都伤害啊,所以我觉得其实如果回头想想,我觉得我自己想法并没有错,但是我可能会采取一种更加gentle的方式去handle这个这个问题,",
+      "audio_path": "sun-audio-offline/audio/009 - 009【花絮】个人选择与成长问答 [1179690308].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0055__official-vimeo-m4a-partial__009__6e724caa__seg0017.wav"
+    },
+    {
+      "index": 56,
+      "audio_id": "official-vimeo-m4a-partial__031__d398abc0",
+      "clean_json": "official-vimeo-m4a-partial__031__d398abc0.json",
+      "segment_index": 63,
+      "segment_start": 473.36,
+      "segment_end": 502.82,
+      "snippet_start": 472.16,
+      "snippet_end": 504.02,
+      "score": 29,
+      "flags": [
+        "rep_phrase",
+        "low_tokens=14"
+      ],
+      "current_text": "我们这个节目的目的也达到了,从二十四年以来,我们这个节目的目的也达到了,从二十四年以来,我们这个节目的目的也达到了,我们这个节目的目的也达到了,我们这个节目的目的也达到了。",
+      "audio_path": "sun-audio-offline/audio/031 - 031如何利用好你的100万 [1179724042].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0056__official-vimeo-m4a-partial__031__d398abc0__seg0063.wav"
+    },
+    {
+      "index": 57,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "clean_json": "wavlake-mp3__082__3a025f97.json",
+      "segment_index": 24,
+      "segment_start": 152.56,
+      "segment_end": 159.26,
+      "snippet_start": 151.36,
+      "snippet_end": 160.45999999999998,
+      "score": 28,
+      "flags": [
+        "literal:五星宇"
+      ],
+      "current_text": "然后五星宇呢,其实是我2014年刚刚创业的时候就认识的一个小伙伴了。",
+      "audio_path": "sun-audio-offline/wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0057__wavlake-mp3__082__3a025f97__seg0024.wav"
+    },
+    {
+      "index": 58,
+      "audio_id": "wavlake-mp3__021__2cde99a5",
+      "clean_json": "wavlake-mp3__021__2cde99a5.json",
+      "segment_index": 36,
+      "segment_start": 804.48,
+      "segment_end": 834.02,
+      "snippet_start": 803.28,
+      "snippet_end": 835.22,
+      "score": 28,
+      "flags": [
+        "literal:黄正士"
+      ],
+      "current_text": "像昨天晚上我也与一个90后亿万富豪吧,当然我也是他的股东,叫黄正士,聊天,他对我们的节目其实也很看好,他说他都想过来讲两句,很有共鸣,所以我不排除就是有些课程我会邀请几个特效嘉宾,大家一起来聊聊,其实我觉得大家真的吃两百块钱,操有人两百块钱不愿意订,我就这么丧心病狂,因为中国找亿万富豪级别的人浪费时间在这跟你说话,他不赚钱他来跟你说话,我觉得要两点,一他有一定程度,",
+      "audio_path": "sun-audio-offline/wavlake-mp3/021 - 021 - 021 孙宇晨：财富自由与和解艺术.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0058__wavlake-mp3__021__2cde99a5__seg0036.wav"
+    },
+    {
+      "index": 59,
+      "audio_id": "wavlake-mp3__006__3aa7bdab",
+      "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+      "segment_index": 104,
+      "segment_start": 479.12,
+      "segment_end": 509.04,
+      "snippet_start": 477.92,
+      "snippet_end": 510.24,
+      "score": 28,
+      "flags": [
+        "literal:培养民里"
+      ],
+      "current_text": "他们就是要把所有的人类就是你脑袋后面那个东西给你拔掉让那个人醒过来当然其实这个本身是错误的很多人还会骂Leo因为那些人被机器人插到那个培养民里啊其实活得很幸福当时结果拔掉了那个醒了变成外星的围剿就那个电脑对这种醒来的人进行围剿啊到处追杀他们然后活得非常惨因为你都被追杀呀那你不可能活得像以前被豢养的羔羊一样了吗",
+      "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0059__wavlake-mp3__006__3aa7bdab__seg0104.wav"
+    },
+    {
+      "index": 60,
+      "audio_id": "official-vimeo-m4a-partial__021__eaa9b1ef",
+      "clean_json": "official-vimeo-m4a-partial__021__eaa9b1ef.json",
+      "segment_index": 32,
+      "segment_start": 805.4,
+      "segment_end": 834.94,
+      "snippet_start": 804.1999999999999,
+      "snippet_end": 836.1400000000001,
+      "score": 28,
+      "flags": [
+        "literal:黄正士"
+      ],
+      "current_text": "我也与一个90后亿万富豪吧,当然我也是他的股东,叫黄正士,聊天,他对我们的节目其实也很看好,他说他都想过来讲两句,很有共鸣,所以我不排除就是有些课程我会邀请几个特效嘉宾,大家一起来聊聊,其实我觉得大家真的是两百块钱,操有人两百块钱不愿意订,我就这么丧心病狂,因为中国找亿万富豪级别的人浪费时间在这跟你说话,他不赚钱他来跟你说话,我觉得要两点,一他有一定程度的收费责任感,",
+      "audio_path": "sun-audio-offline/audio/021 - 021课程大纲讲解续二 [1179693830].m4a",
+      "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0060__official-vimeo-m4a-partial__021__eaa9b1ef__seg0032.wav"
+    }
+  ]
+}

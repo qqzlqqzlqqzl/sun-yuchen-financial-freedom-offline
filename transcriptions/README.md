@@ -17,8 +17,9 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 - `srt/`: subtitle files
 - `logs/`: per-file logs
 - `metadata/transcription-summary.json`: machine-readable run summary
-- `metadata/glossary-corrections.json`: high-confidence glossary/proper-noun correction report
+- `metadata/glossary-corrections.json`: high-confidence glossary/proper-noun and semantic-flow correction report
 - `metadata/volc-glossary-audit/`: Volcengine ASR review data for the second glossary pass, including raw API returns
+- `metadata/semantic-flow-audit/`: Volcengine ASR review data for semantic-discontinuity candidates, including raw API returns
 
 ## Model
 
@@ -34,9 +35,11 @@ Generated on 2026-05-26 with offline `whisper.cpp` using `ggml-large-v3.bin`.
 
 All 209 local audio files have `raw-json`, `clean-json`, `txt`, and `srt` outputs. JSON validation passed with replacement decoding, and no text/SRT outputs are empty.
 
-`text/`, `srt/`, and `clean-json/` include high-confidence glossary corrections for proper nouns and course terms. The original model return files in `raw-json/` are preserved unchanged.
+`text/`, `srt/`, and `clean-json/` include high-confidence glossary corrections for proper nouns and course terms, plus a semantic-flow cleanup pass for obvious recognition discontinuities. The original model return files in `raw-json/` are preserved unchanged.
 
 The second glossary pass used Volcengine flash ASR on 124 timestamped audio snippets cut from the original local audio. 118 snippets returned successfully. Raw Volcengine API responses are preserved under `metadata/volc-glossary-audit/raw-json/`, and the reviewed snippet manifest/results are stored alongside them. These cloud-audited corrections were applied only to `text/`, `srt/`, and `clean-json`; `raw-json/` remains unchanged.
+
+The semantic-flow pass scored transcript segments for low confidence, repetition loops, sparse/silent hallucinations, and local context breaks, then sent 60 candidate audio snippets to Volcengine flash ASR. 51 snippets returned successfully. The pass removed confirmed silent hallucinations and corrected only high-confidence discontinuities such as broken idioms, person names, English terms, and repeated hallucinated outro text. Raw Volcengine API responses are preserved under `metadata/semantic-flow-audit/raw-json/`.
 
 Two previously corrupted official m4a files were redownloaded from the official Vimeo player HLS audio-only source, verified with strict ffmpeg decoding, and re-transcribed:
 

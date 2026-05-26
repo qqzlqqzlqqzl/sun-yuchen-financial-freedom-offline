@@ -1,11 +1,16 @@
 {
-  "note": "Applied only high-confidence glossary/proper-noun corrections. raw-json is preserved unchanged.",
+  "note": "Applied only high-confidence glossary/proper-noun and semantic-flow corrections. raw-json is preserved unchanged.",
   "corrected_file_groups": [
     "text",
     "srt",
     "clean-json"
   ],
   "raw_json_preserved": true,
+  "source_reports": [
+    "previous committed glossary pass",
+    "semantic-flow pass initial run",
+    "semantic-flow pass residual run"
+  ],
   "replacements": [
     {
       "from": "facebook",
@@ -108,6 +113,66 @@
       ]
     },
     {
+      "from": "scientific啊,比较密集的",
+      "to": "serendipity比较密集的",
+      "reason": "English term repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "scientific定律",
+      "to": "serendipity定律",
+      "reason": "English term repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "scientific的几率",
+      "to": "serendipity的几率",
+      "reason": "English term repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "snapchat",
       "to": "Snapchat",
       "reason": "Snapchat capitalization, confirmed by Volcengine ASR audit",
@@ -167,6 +232,38 @@
         },
         {
           "path": "clean-json/wavlake-mp3__027__9d74e009.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "一孤岛的全部都过来了",
+      "to": "一股脑地全部都过来了",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__025__5b4cc5d1.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__025__ee3f2f4c.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__025__5b4cc5d1.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__025__ee3f2f4c.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__025__5b4cc5d1.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__025__ee3f2f4c.json",
           "count": 1
         }
       ]
@@ -304,6 +401,82 @@
       ]
     },
     {
+      "from": "不会过了",
+      "to": "不为过了",
+      "reason": "idiom repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__025__5b4cc5d1.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__025__5b4cc5d1.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__025__5b4cc5d1.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "不笑那个谁谁谁",
+      "to": "不孝那个谁谁谁",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__029__34570f84.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__029__34570f84.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__029__34570f84.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "五星宇",
+      "to": "武星宇",
+      "reason": "person name typo, confirmed by semantic-flow Volcengine audit and public references",
+      "count": 9,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__082__3a025f97.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__082__3a025f97.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "他人祭地狱",
       "to": "他人即地狱",
       "reason": "Sartre quote typo, confirmed by Volcengine ASR audit",
@@ -319,6 +492,26 @@
         },
         {
           "path": "clean-json/wavlake-mp3__129__ce692f38.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "他的内容为难度",
+      "to": "它的内容有点多",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__022__05b72a7e.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__022__05b72a7e.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__022__05b72a7e.json",
           "count": 1
         }
       ]
@@ -411,6 +604,26 @@
         },
         {
           "path": "clean-json/official-vimeo-m4a-partial__056__26c9651d.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "你你你你你你你你你你你你你你你你你你你你你你你你你你你",
+      "to": "",
+      "reason": "silent hallucination removed after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__137__33989990.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__137__33989990.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__137__33989990.json",
           "count": 1
         }
       ]
@@ -580,6 +793,26 @@
       ]
     },
     {
+      "from": "变成外星的围剿",
+      "to": "要面临外星的围剿",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__006__3aa7bdab.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__006__3aa7bdab.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__006__3aa7bdab.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "叫做prime",
       "to": "叫做pride",
       "reason": "seven deadly sins term typo, confirmed by Volcengine ASR audit",
@@ -600,6 +833,46 @@
       ]
     },
     {
+      "from": "叫自控高考",
+      "to": "叫自控力。高考",
+      "reason": "sentence-boundary repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__022__05b72a7e.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__022__05b72a7e.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__022__05b72a7e.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "吴星宇",
+      "to": "武星宇",
+      "reason": "person name typo, confirmed by semantic-flow Volcengine audit and public references",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "四研创业公司",
       "to": "四家创业公司",
       "reason": "word typo verified by Volcengine ASR audit and duplicate transcript",
@@ -615,6 +888,198 @@
         },
         {
           "path": "clean-json/official-vimeo-m4a-partial__027__5309b3f0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "回家了,",
+      "to": "",
+      "reason": "semantic-discontinuity hallucination removed after semantic-flow Volcengine audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__078__32514846.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__078__32514846.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "因为这可能是唯一一个关系之一",
+      "to": "因为这可能是唯一一个关系中",
+      "reason": "semantic discontinuity repaired after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__118__86d1aebf.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__118__86d1aebf.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__118__86d1aebf.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "培养民里",
+      "to": "培养皿里",
+      "reason": "Matrix reference repair confirmed by semantic-flow Volcengine audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__006__a47f6122.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__006__3aa7bdab.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__006__a47f6122.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__006__3aa7bdab.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__006__a47f6122.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__006__3aa7bdab.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "大家可以把我这个演讲本发到朋友圈就可以了。",
+      "to": "大家可以把我这个演讲发到朋友圈就可以了。",
+      "reason": "phrase repair from semantic context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__140__f55c81c4.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__140__f55c81c4.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__140__f55c81c4.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "大家真的吃两百块钱",
+      "to": "大家真的这两百块钱",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__021__2cde99a5.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__021__2cde99a5.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__021__2cde99a5.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "大家真的是两百块钱",
+      "to": "大家真的这两百块钱",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "好,我们下个礼拜再聊吧。",
+      "to": "",
+      "reason": "silent hallucination removed after semantic-flow Volcengine audit",
+      "count": 30,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__114__1125512e.txt",
+          "count": 10
+        },
+        {
+          "path": "srt/wavlake-mp3__114__1125512e.srt",
+          "count": 10
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__114__1125512e.json",
           "count": 1
         }
       ]
@@ -892,6 +1357,26 @@
       ]
     },
     {
+      "from": "官至省不及",
+      "to": "官至省部级",
+      "reason": "phrase repair from semantic context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__136__e4306ed8.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__136__e4306ed8.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__136__e4306ed8.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "富利是第八大世界奇迹",
       "to": "复利是第八大世界奇迹",
       "reason": "compound interest term typo, confirmed by Volcengine ASR audit",
@@ -907,6 +1392,66 @@
         },
         {
           "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "山上朝顶",
+      "to": "时代浪潮点",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "并且要确认是否正确实现公务员的权益",
+      "to": "",
+      "reason": "silent hallucination removed after semantic-flow Volcengine audit",
+      "count": 18,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__086__bf2c2a6d.txt",
+          "count": 6
+        },
+        {
+          "path": "srt/wavlake-mp3__086__bf2c2a6d.srt",
+          "count": 6
+        },
+        {
+          "path": "clean-json/wavlake-mp3__086__bf2c2a6d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__086__bf2c2a6d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__086__bf2c2a6d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__086__bf2c2a6d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__086__bf2c2a6d.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__086__bf2c2a6d.json",
           "count": 1
         }
       ]
@@ -996,6 +1541,198 @@
       ]
     },
     {
+      "from": "张欧德",
+      "to": "张亨德",
+      "reason": "person name typo, confirmed by recurring guest context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "当然有个前提条件哦,就是我们这边有一个公司的公司,就是我们的公司的公司。",
+      "to": "当然有个前提条件哦,",
+      "reason": "semantic discontinuity repaired after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__140__f55c81c4.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__140__f55c81c4.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__140__f55c81c4.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "录去秀丝区块",
+      "to": "撸起袖子去干",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__006__3aa7bdab.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__006__3aa7bdab.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__006__3aa7bdab.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "我们这个节目的目的也达到了,从二十四年以来,我们这个节目的目的也达到了,从二十四年以来,我们这个节目的目的也达到了,我们这个节目的目的也达到了,我们这个节目的目的也达到了。",
+      "to": "当这个过程完成的时候,我觉得这个节目本身也可以取得它的升华。因为我们的听众和读者是真正依靠着自己三观上的修炼实现的精神自由,而且通过这种精神自由实打实地实现了财富自由,又用这种财富自由捍卫着自己精神自由的时候,我们这个节目的目的也达到了。",
+      "reason": "repeated hallucination repaired after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__031__d398abc0.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__031__d398abc0.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__031__d398abc0.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "我就这么丧心病狂",
+      "to": "我觉得这么丧心病狂",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__021__2cde99a5.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__021__2cde99a5.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__021__2cde99a5.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "所以我们才能做这个对比",
+      "to": "所以我们才能做这个review啊",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__078__32514846.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__078__32514846.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "所以我觉得王尔德这个话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,所以我觉得王尔德这句话是非常重要的,",
+      "to": "",
+      "reason": "silent hallucination removed after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__025__ee3f2f4c.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__025__ee3f2f4c.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__025__ee3f2f4c.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "掏粉的",
+      "to": "掏粪男孩,鹿晗",
+      "reason": "celebrity reference repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__010__52931080.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__010__52931080.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__010__52931080.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "收费责任感",
+      "to": "社会责任感",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "明智维新",
       "to": "明治维新",
       "reason": "historical term typo, confirmed by Volcengine ASR audit",
@@ -1036,6 +1773,26 @@
       ]
     },
     {
+      "from": "柳暗发明",
+      "to": "柳暗花明",
+      "reason": "idiom repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "校园代",
       "to": "校园贷",
       "reason": "finance term typo, confirmed by Volcengine ASR audit",
@@ -1051,6 +1808,162 @@
         },
         {
           "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "森林代理",
+      "to": "The Dip",
+      "reason": "English book-title repair from semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__081__b0c91068.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__081__b0c91068.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__081__b0c91068.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "死记应被",
+      "to": "死记硬背",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__022__05b72a7e.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__022__05b72a7e.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__022__05b72a7e.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "沐妍",
+      "to": "慕岩",
+      "reason": "person name typo, confirmed by semantic-flow Volcengine audit and public references",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__082__3a025f97.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__082__3a025f97.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "特效嘉宾",
+      "to": "特邀嘉宾",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__021__2cde99a5.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__021__2cde99a5.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__021__2cde99a5.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "甚至国不得",
+      "to": "甚至",
+      "reason": "phrase repair from semantic context",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__136__e4306ed8.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__136__e4306ed8.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__136__e4306ed8.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "由 Amara.org 社群提供的字幕",
+      "to": "",
+      "reason": "silent hallucination removed after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__055__2675560a.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__055__2675560a.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__055__2675560a.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "知行的行长",
+      "to": "支行的行长",
+      "reason": "bank branch title repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__097__e53f6314.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__097__e53f6314.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__097__e53f6314.json",
           "count": 1
         }
       ]
@@ -1072,6 +1985,26 @@
         {
           "path": "clean-json/wavlake-mp3__059__be99c1d2.json",
           "count": 2
+        }
+      ]
+    },
+    {
+      "from": "给你装上了",
+      "to": "给你撞上了",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
         }
       ]
     },
@@ -1136,6 +2069,26 @@
       ]
     },
     {
+      "from": "莫言一会我会问他",
+      "to": "慕岩一会会问他",
+      "reason": "person name typo and phrase repair from semantic-flow audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 1
+        }
+      ]
+    },
+    {
       "from": "萨特斯",
       "to": "萨特",
       "reason": "Sartre name typo, confirmed by Volcengine ASR audit",
@@ -1171,6 +2124,106 @@
         },
         {
           "path": "clean-json/wavlake-mp3__056__2fd11844.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "这个Centrality又发生",
+      "to": "这个事情又发生",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__078__32514846.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__078__32514846.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__078__32514846.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "那个那个谁谁谁不笑",
+      "to": "那个那个谁谁谁不孝",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__029__bea15de4.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__029__bea15de4.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__029__bea15de4.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "那么我们就来看这个问题",
+      "to": "",
+      "reason": "semantic discontinuity removed after semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__118__86d1aebf.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__118__86d1aebf.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__118__86d1aebf.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "醒了到面临外星的围剿",
+      "to": "醒了要面临外星的围剿",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__006__a47f6122.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__006__a47f6122.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__006__a47f6122.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "醒外的人",
+      "to": "醒过来的人",
+      "reason": "phrase repair confirmed by semantic-flow Volcengine audit",
+      "count": 3,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__006__a47f6122.txt",
+          "count": 1
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__006__a47f6122.srt",
+          "count": 1
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__006__a47f6122.json",
           "count": 1
         }
       ]
@@ -1704,6 +2757,86 @@
       ]
     },
     {
+      "from": "黄正士",
+      "to": "黄正世",
+      "reason": "person name typo, confirmed by semantic-flow Volcengine audit and public references",
+      "count": 18,
+      "files": [
+        {
+          "path": "text/official-vimeo-m4a-partial__021__eaa9b1ef.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__021__2cde99a5.txt",
+          "count": 1
+        },
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 2
+        },
+        {
+          "path": "text/wavlake-mp3__082__3a025f97.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/official-vimeo-m4a-partial__021__eaa9b1ef.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__021__2cde99a5.srt",
+          "count": 1
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__082__3a025f97.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/official-vimeo-m4a-partial__021__eaa9b1ef.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__021__2cde99a5.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        },
+        {
+          "path": "clean-json/wavlake-mp3__082__3a025f97.json",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "from": "黄正式",
+      "to": "黄正世",
+      "reason": "person name typo, confirmed by semantic-flow Volcengine audit and public references",
+      "count": 6,
+      "files": [
+        {
+          "path": "text/wavlake-mp3__080__63763504.txt",
+          "count": 2
+        },
+        {
+          "path": "srt/wavlake-mp3__080__63763504.srt",
+          "count": 2
+        },
+        {
+          "path": "clean-json/wavlake-mp3__080__63763504.json",
+          "count": 2
+        }
+      ]
+    },
+    {
       "from": "默默",
       "to": "陌陌",
       "reason": "Momo app name typo, confirmed by Volcengine ASR audit",
@@ -1858,6 +2991,19 @@
           "count": 2
         }
       ]
+    }
+  ],
+  "targeted_semantic_fixes": [
+    {
+      "path_group": [
+        "text/wavlake-mp3__048__8b1ae8f0.txt",
+        "srt/wavlake-mp3__048__8b1ae8f0.srt",
+        "clean-json/wavlake-mp3__048__8b1ae8f0.json"
+      ],
+      "from": "所以我们可以",
+      "to": "",
+      "reason": "single confirmed semantic-discontinuity segment removed after Volcengine audit; not applied globally because the phrase has valid occurrences elsewhere",
+      "count": 3
     }
   ]
 }

@@ -1,0 +1,1156 @@
+{
+  "item": {
+    "index": 58,
+    "audio_id": "wavlake-mp3__021__2cde99a5",
+    "clean_json": "wavlake-mp3__021__2cde99a5.json",
+    "segment_index": 36,
+    "segment_start": 804.48,
+    "segment_end": 834.02,
+    "snippet_start": 803.28,
+    "snippet_end": 835.22,
+    "score": 28,
+    "flags": [
+      "literal:黄正士"
+    ],
+    "current_text": "像昨天晚上我也与一个90后亿万富豪吧,当然我也是他的股东,叫黄正士,聊天,他对我们的节目其实也很看好,他说他都想过来讲两句,很有共鸣,所以我不排除就是有些课程我会邀请几个特效嘉宾,大家一起来聊聊,其实我觉得大家真的吃两百块钱,操有人两百块钱不愿意订,我就这么丧心病狂,因为中国找亿万富豪级别的人浪费时间在这跟你说话,他不赚钱他来跟你说话,我觉得要两点,一他有一定程度,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/021 - 021 - 021 孙宇晨：财富自由与和解艺术.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0058__wavlake-mp3__021__2cde99a5__seg0036.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151308D3F3B931F5B2C39ADDFE",
+    "request_id": "04fe30f6-a5f1-449d-9ee0-b949b413e37a",
+    "response": {
+      "audio_info": {
+        "duration": 31940
+      },
+      "result": {
+        "additions": {
+          "duration": "31940"
+        },
+        "text": "周边的朋友。像昨天晚上，我也与一个90后亿万富豪吧，啊，当然我也是他的股东，叫黄正世。聊天，他对我们这节目其实也很看好，他说他都想过来讲两句。很有共鸣啊，所以我我不排除就是有些课程我会邀请几个特邀嘉宾，大家一起来聊聊。其实我觉得大家真的，这200块钱，操，有人200块钱还不愿意订，我觉得这么丧心病狂。你中国找亿万富豪级别的人，浪费时间在这跟你说话，他不赚钱，他来跟你说话，我觉得要两点，一他有一定程度的社会责任。",
+        "utterances": [
+          {
+            "end_time": 920,
+            "start_time": 120,
+            "text": "周边的朋友。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 120,
+                "text": "周"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 240,
+                "text": "边"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 600,
+                "text": "朋"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 760,
+                "text": "友"
+              }
+            ]
+          },
+          {
+            "end_time": 6120,
+            "start_time": 1240,
+            "text": "像昨天晚上，我也与一个90后亿万富豪吧，啊，当然我也是他的股东，叫黄正世。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1240,
+                "text": "像"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1520,
+                "text": "昨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1680,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1760,
+                "text": "晚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 2040,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2160,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2320,
+                "text": "与"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2480,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2720,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3040,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3240,
+                "text": "亿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3360,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3560,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3720,
+                "text": "豪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3840,
+                "text": "吧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4160,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4320,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4440,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4520,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4640,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4720,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4880,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 4920,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5080,
+                "text": "股"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5240,
+                "text": "东"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5400,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5640,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5920,
+                "start_time": 5880,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 6080,
+                "text": "世"
+              }
+            ]
+          },
+          {
+            "end_time": 11560,
+            "start_time": 6600,
+            "text": "聊天，他对我们这节目其实也很看好，他说他都想过来讲两句。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6600,
+                "text": "聊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6800,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7200,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7320,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7440,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 7560,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7640,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7760,
+                "text": "节"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7880,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8160,
+                "start_time": 8000,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8160,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8440,
+                "start_time": 8280,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8600,
+                "start_time": 8440,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8760,
+                "start_time": 8600,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8760,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9520,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9880,
+                "start_time": 9640,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10000,
+                "start_time": 9920,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10600,
+                "start_time": 10360,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10800,
+                "start_time": 10640,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10920,
+                "start_time": 10800,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11080,
+                "start_time": 10920,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11280,
+                "start_time": 11080,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11440,
+                "start_time": 11280,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11560,
+                "start_time": 11440,
+                "text": "句"
+              }
+            ]
+          },
+          {
+            "end_time": 18350,
+            "start_time": 12390,
+            "text": "很有共鸣啊，所以我我不排除就是有些课程我会邀请几个特邀嘉宾，大家一起来聊聊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12550,
+                "start_time": 12390,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12710,
+                "start_time": 12550,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12910,
+                "start_time": 12710,
+                "text": "共"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13030,
+                "start_time": 12910,
+                "text": "鸣"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13350,
+                "start_time": 13190,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13550,
+                "start_time": 13390,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13630,
+                "start_time": 13550,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13830,
+                "start_time": 13630,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13990,
+                "start_time": 13870,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14230,
+                "start_time": 13990,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14390,
+                "start_time": 14230,
+                "text": "排"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14550,
+                "start_time": 14390,
+                "text": "除"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14710,
+                "start_time": 14590,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14910,
+                "start_time": 14710,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15070,
+                "start_time": 14910,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15230,
+                "start_time": 15070,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15390,
+                "start_time": 15230,
+                "text": "课"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15510,
+                "start_time": 15390,
+                "text": "程"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15670,
+                "start_time": 15510,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15910,
+                "start_time": 15670,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16310,
+                "start_time": 16150,
+                "text": "邀"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16470,
+                "start_time": 16310,
+                "text": "请"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16590,
+                "start_time": 16470,
+                "text": "几"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16670,
+                "start_time": 16590,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16790,
+                "start_time": 16670,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16910,
+                "start_time": 16870,
+                "text": "邀"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17150,
+                "start_time": 16990,
+                "text": "嘉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17270,
+                "start_time": 17150,
+                "text": "宾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17590,
+                "start_time": 17430,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17710,
+                "start_time": 17590,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17830,
+                "start_time": 17710,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17910,
+                "start_time": 17830,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18070,
+                "start_time": 17910,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18190,
+                "start_time": 18070,
+                "text": "聊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18350,
+                "start_time": 18270,
+                "text": "聊"
+              }
+            ]
+          },
+          {
+            "end_time": 22910,
+            "start_time": 18550,
+            "text": "其实我觉得大家真的，这200块钱，操，有人200块钱还不愿意订，我觉得这么丧心病狂。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 18710,
+                "start_time": 18550,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18790,
+                "start_time": 18710,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18910,
+                "start_time": 18790,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19030,
+                "start_time": 18910,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19070,
+                "start_time": 19030,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19190,
+                "start_time": 19070,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19270,
+                "start_time": 19190,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19390,
+                "start_time": 19270,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19510,
+                "start_time": 19390,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19630,
+                "start_time": 19590,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19750,
+                "text": "200"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20150,
+                "start_time": 19990,
+                "text": "块"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20230,
+                "start_time": 20150,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20430,
+                "start_time": 20350,
+                "text": "操"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20670,
+                "start_time": 20510,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20790,
+                "start_time": 20670,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21030,
+                "start_time": 20790,
+                "text": "200"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21110,
+                "start_time": 21030,
+                "text": "块"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21190,
+                "start_time": 21110,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21310,
+                "start_time": 21190,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21390,
+                "start_time": 21310,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21470,
+                "start_time": 21390,
+                "text": "愿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21510,
+                "start_time": 21470,
+                "text": "意"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21670,
+                "start_time": 21550,
+                "text": "订"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21870,
+                "start_time": 21710,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21950,
+                "start_time": 21870,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22030,
+                "start_time": 21990,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22110,
+                "start_time": 22030,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22230,
+                "start_time": 22110,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22390,
+                "start_time": 22310,
+                "text": "丧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22590,
+                "start_time": 22470,
+                "text": "心"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22710,
+                "start_time": 22630,
+                "text": "病"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22910,
+                "start_time": 22790,
+                "text": "狂"
+              }
+            ]
+          },
+          {
+            "end_time": 31760,
+            "start_time": 23520,
+            "text": "你中国找亿万富豪级别的人，浪费时间在这跟你说话，他不赚钱，他来跟你说话，我觉得要两点，一他有一定程度的社会责任。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 23560,
+                "start_time": 23520,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23880,
+                "start_time": 23720,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24000,
+                "start_time": 23880,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24240,
+                "start_time": 24000,
+                "text": "找"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24400,
+                "start_time": 24280,
+                "text": "亿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24600,
+                "start_time": 24400,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24760,
+                "start_time": 24600,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24920,
+                "start_time": 24760,
+                "text": "豪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25120,
+                "start_time": 24960,
+                "text": "级"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25200,
+                "start_time": 25120,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25320,
+                "start_time": 25200,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25520,
+                "start_time": 25320,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25720,
+                "start_time": 25520,
+                "text": "浪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25840,
+                "start_time": 25720,
+                "text": "费"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25960,
+                "start_time": 25840,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26040,
+                "start_time": 25960,
+                "text": "间"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26200,
+                "start_time": 26040,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26280,
+                "start_time": 26200,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26480,
+                "start_time": 26360,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26640,
+                "start_time": 26480,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26840,
+                "start_time": 26640,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27080,
+                "start_time": 26840,
+                "text": "话"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27720,
+                "start_time": 27640,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27920,
+                "start_time": 27720,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28080,
+                "start_time": 27920,
+                "text": "赚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28200,
+                "start_time": 28080,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28320,
+                "start_time": 28280,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28520,
+                "start_time": 28360,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28600,
+                "start_time": 28520,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28760,
+                "start_time": 28600,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28880,
+                "start_time": 28760,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29080,
+                "start_time": 28880,
+                "text": "话"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29440,
+                "start_time": 29240,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29560,
+                "start_time": 29440,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29640,
+                "start_time": 29560,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29840,
+                "start_time": 29640,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29960,
+                "start_time": 29840,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30200,
+                "start_time": 29960,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30480,
+                "start_time": 30240,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30600,
+                "start_time": 30520,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30760,
+                "start_time": 30640,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30840,
+                "start_time": 30760,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30960,
+                "start_time": 30840,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31080,
+                "start_time": 30960,
+                "text": "程"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31200,
+                "start_time": 31080,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31280,
+                "start_time": 31200,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31400,
+                "start_time": 31320,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31520,
+                "start_time": 31400,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31680,
+                "start_time": 31520,
+                "text": "责"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31760,
+                "start_time": 31680,
+                "text": "任"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
