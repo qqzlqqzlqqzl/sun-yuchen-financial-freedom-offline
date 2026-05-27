@@ -166,9 +166,9 @@
     }
     .tline {
       display: grid;
-      grid-template-columns: 48px minmax(0, 1fr);
+      grid-template-columns: 64px minmax(0, 1fr);
       gap: 10px;
-      padding: 5px 10px;
+      padding: 7px 12px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.04);
     }
     .tline:last-child { border-bottom: 0; }
@@ -2063,6 +2063,102 @@
       document.getElementById('metricClean').textContent = list.filter((item) => item.risk === 'clean').length;
     }
 
+    function splitReadablePieces(line, lineNumber) {
+      const text = (line || '').trim();
+      if (!text) return [];
+      const pieces = [];
+      const strong = /[。！？!?；;]/;
+      const weak = /[，,、]/;
+      let start = 0;
+      let lastWeak = -1;
+
+      for (let i = 0; i < text.length; i += 1) {
+        const ch = text[i];
+        const len = i - start + 1;
+        if (weak.test(ch)) lastWeak = i;
+
+        if ((strong.test(ch) && len >= 28) || len >= 120) {
+          let end = i + 1;
+          if (len >= 120 && lastWeak > start + 36) end = lastWeak + 1;
+          pieces.push({ text: text.slice(start, end).trim(), lineNumber });
+          start = end;
+          lastWeak = -1;
+        }
+      }
+
+      if (start < text.length) {
+        pieces.push({ text: text.slice(start).trim(), lineNumber });
+      }
+      return pieces.filter((piece) => piece.text);
+    }
+
+    function lineRangeLabel(lines) {
+      const unique = [...new Set(lines)].sort((a, b) => a - b);
+      if (!unique.length) return '';
+      const ranges = [];
+      let start = unique[0];
+      let prev = unique[0];
+      for (let i = 1; i <= unique.length; i += 1) {
+        const current = unique[i];
+        if (current === prev + 1) {
+          prev = current;
+          continue;
+        }
+        ranges.push(start === prev ? `${start}` : `${start}-${prev}`);
+        start = current;
+        prev = current;
+      }
+      return ranges.join(',');
+    }
+
+    function segmentLevel(lines, flaggedLines) {
+      let level = '';
+      lines.forEach((lineNumber) => {
+        const current = flaggedLines.get(lineNumber);
+        if (current === 'high') level = 'high';
+        else if (current === 'medium' && level !== 'high') level = 'medium';
+        else if (current === 'low' && !level) level = 'low';
+      });
+      return level;
+    }
+
+    function buildReadableSegments(item) {
+      const pieces = item.lines.flatMap((line, idx) => splitReadablePieces(line, idx + 1));
+      const segments = [];
+      let current = null;
+      const minChars = 48;
+      const maxChars = 128;
+
+      function flush() {
+        if (!current) return;
+        current.text = current.text.trim();
+        current.label = lineRangeLabel(current.lines);
+        current.level = segmentLevel(current.lines, item.flaggedLines);
+        segments.push(current);
+        current = null;
+      }
+
+      pieces.forEach((piece) => {
+        if (!current) {
+          current = { text: piece.text, lines: [piece.lineNumber] };
+          return;
+        }
+
+        const nextText = `${current.text}${piece.text}`;
+        const canMerge = nextText.length <= maxChars || current.text.length < minChars;
+        if (canMerge) {
+          current.text = nextText;
+          current.lines.push(piece.lineNumber);
+          return;
+        }
+
+        flush();
+        current = { text: piece.text, lines: [piece.lineNumber] };
+      });
+      flush();
+      return segments;
+    }
+
     function renderTranscript(container, item) {
       container.textContent = '';
       if (!item.lines.length || (item.lines.length === 1 && !item.lines[0])) {
@@ -2070,19 +2166,18 @@
         return;
       }
 
-      item.lines.forEach((line, idx) => {
-        const lineNumber = idx + 1;
+      buildReadableSegments(item).forEach((segment) => {
         const row = document.createElement('div');
-        const level = item.flaggedLines.get(lineNumber);
-        row.className = `tline${level ? ` flag ${level}` : ''}`;
+        row.className = `tline${segment.level ? ` flag ${segment.level}` : ''}`;
 
         const ln = document.createElement('span');
         ln.className = 'ln';
-        ln.textContent = lineNumber;
+        ln.textContent = segment.label;
+        ln.title = `原始行 ${segment.label}`;
 
         const text = document.createElement('span');
         text.className = 'txt';
-        text.textContent = line || ' ';
+        text.textContent = segment.text || ' ';
 
         row.append(ln, text);
         container.appendChild(row);
