@@ -1,0 +1,53 @@
+{
+  "note": "Third pass high-confidence semantic ASR fixes.",
+  "replacements": {
+    "放出鸟来了": "放出笼来了",
+    "因为应该程序出了点bug": "因为应该是程序出了点bug",
+    "说出顺顺": "说孙宇晨",
+    "请劳而不负有": "勤劳而不富有",
+    "规级暂停": "硅基化",
+    "规级生命": "硅基生命",
+    "看鸡生命": "碳基生命",
+    "做Vase的事情": "做类似的事情",
+    "类似于国产,包括预测市场": "类似于博彩,包括预测市场"
+  },
+  "counts": {
+    "放出鸟来了": 2,
+    "因为应该程序出了点bug": 2,
+    "说出顺顺": 1,
+    "请劳而不负有": 1,
+    "规级暂停": 1,
+    "规级生命": 1,
+    "看鸡生命": 1,
+    "做Vase的事情": 1,
+    "类似于国产,包括预测市场": 1
+  },
+  "changed_files": [
+    {
+      "path": "transcriptions/text/wavlake-mp3__140__f55c81c4.txt",
+      "counts": {
+        "规级暂停": 1,
+        "规级生命": 1,
+        "看鸡生命": 1,
+        "做Vase的事情": 1,
+        "类似于国产,包括预测市场": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__006__3aa7bdab.txt",
+      "counts": {
+        "放出鸟来了": 1,
+        "因为应该程序出了点bug": 1,
+        "请劳而不负有": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__006__a47f6122.txt",
+      "counts": {
+        "放出鸟来了": 1,
+        "因为应该程序出了点bug": 1,
+        "说出顺顺": 1
+      }
+    }
+  ]
+}

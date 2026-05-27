@@ -27,6 +27,7 @@ def extract_episode_name(filename: str) -> str:
     title = re.sub(r"^\d+\s*-\s*\d+\s*", "", title)
     title = re.sub(r"^\d+\s*", "", title)
     title = title.strip(" -")
+    title = title.replace("布林顿森林体系", "布雷顿森林体系")
     return title
 
 

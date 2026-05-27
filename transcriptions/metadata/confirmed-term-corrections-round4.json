@@ -1,0 +1,12 @@
+{
+  "note": "High-confidence ASR typo corrections only; no stylistic polishing.",
+  "corrections": [
+    {"from": "万通中文", "to": "万通冯仑", "reason": "Episode title and speaker identity confirm 冯仑 from 万通。"},
+    {"from": "恶意地", "to": "愿意地", "reason": "Context is sharing ideas with audience; original phrase is semantically impossible."},
+    {"from": "恶意把", "to": "愿意把", "reason": "Context is sharing ideas with audience; original phrase is semantically impossible."},
+    {"from": "跟大家搭搭了一下", "to": "跟大家交流一下", "reason": "ASR phrase break; fits the surrounding recommendation wording."},
+    {"from": "跟大家创造给大家", "to": "跟大家交流一下", "reason": "Duplicate source confirms the same sentence position and intent."},
+    {"from": "北大成立了很好的人文数量", "to": "北大曾经有很好的人文素养", "reason": "Parallel source and context confirm the intended phrase."},
+    {"from": "取得的一些成本", "to": "取得的一些成功", "reason": "创业经历 context; parallel source confirms 成功。"}
+  ]
+}

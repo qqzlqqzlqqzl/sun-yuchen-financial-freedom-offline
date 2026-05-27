@@ -1,0 +1,131 @@
+{
+  "note": "Second high-confidence ASR term corrections; no stylistic polishing.",
+  "replacements": {
+    "马英大活泼台": "马云的湖畔大学",
+    "马英大胡潘台": "马云的湖畔大学",
+    "被执了一个程序": "被植入了一个程序",
+    "Leo": "Neo",
+    "西安的救世主": "锡安的救世主",
+    "其他不富有": "勤劳而不富有",
+    "待半天": "攒半年",
+    "孙权": "孙宇晨",
+    "李皮": "里皮",
+    "翻外篇": "番外篇",
+    "国族": "国足",
+    "批指": "估值",
+    "蒙场": "上链",
+    "亲入式": "侵入式",
+    "通心化": "中心化",
+    "房币": "法币",
+    "恋家": "链家",
+    "生殖空间": "升值空间",
+    "1100吧": "1100万"
+  },
+  "counts": {
+    "马英大活泼台": 1,
+    "马英大胡潘台": 1,
+    "被执了一个程序": 2,
+    "Leo": 8,
+    "西安的救世主": 2,
+    "其他不富有": 2,
+    "待半天": 1,
+    "孙权": 7,
+    "李皮": 14,
+    "翻外篇": 0,
+    "国族": 1,
+    "批指": 1,
+    "蒙场": 1,
+    "亲入式": 4,
+    "通心化": 1,
+    "房币": 1,
+    "恋家": 2,
+    "生殖空间": 2,
+    "1100吧": 1
+  },
+  "changed_files": [
+    {
+      "path": "transcriptions/text/wavlake-mp3__008__1b95d206.txt",
+      "counts": {
+        "孙权": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__140__f55c81c4.txt",
+      "counts": {
+        "蒙场": 1,
+        "亲入式": 4,
+        "通心化": 1,
+        "房币": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__036__8bed1231.txt",
+      "counts": {
+        "孙权": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__006__3aa7bdab.txt",
+      "counts": {
+        "马英大胡潘台": 1,
+        "被执了一个程序": 1,
+        "Leo": 4,
+        "西安的救世主": 1,
+        "其他不富有": 1,
+        "孙权": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__136__e4306ed8.txt",
+      "counts": {
+        "批指": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__047__aa0baa82.txt",
+      "counts": {
+        "恋家": 1,
+        "生殖空间": 1,
+        "1100吧": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__006__a47f6122.txt",
+      "counts": {
+        "马英大活泼台": 1,
+        "被执了一个程序": 1,
+        "Leo": 4,
+        "西安的救世主": 1,
+        "其他不富有": 1,
+        "待半天": 1,
+        "孙权": 2
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__041__8902d828.txt",
+      "counts": {
+        "孙权": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__008__4bb31bf0.txt",
+      "counts": {
+        "孙权": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__077__1eaabcfd.txt",
+      "counts": {
+        "李皮": 14,
+        "国族": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__047__809f0c28.txt",
+      "counts": {
+        "恋家": 1,
+        "生殖空间": 1
+      }
+    }
+  ]
+}

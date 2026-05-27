@@ -2,18 +2,18 @@
   "summary": {
     "manifest_items": 209,
     "reviewed_transcripts": 209,
-    "high": 53,
+    "high": 52,
     "medium": 35,
-    "low": 71,
-    "clean": 50,
+    "low": 66,
+    "clean": 56,
     "issue_counts": {
       "连续重复": 158,
       "行内循环": 156,
       "近似重复": 132,
       "固定口播堆叠": 103,
       "长音频短文稿": 32,
-      "疑似错词": 24,
       "空行": 7,
+      "疑似错词": 5,
       "长音频文稿过密": 2,
       "全文重复": 1
     }
@@ -4961,184 +4961,6 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__139__60c2d49e",
-      "source": "wavlake-mp3",
-      "filename": "139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3",
-      "duration_seconds": 714.756646,
-      "text_path": "transcriptions/text/wavlake-mp3__139__60c2d49e.txt",
-      "line_count": 307,
-      "char_count": 4096,
-      "severity": 118,
-      "level": "high",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 15,
-          "term": "归击",
-          "count": 5,
-          "reason": "疑似术语误识别"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 18,
-          "end": 19,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "跟张教授这个话也是不某样的,它就成为了人类在归击世界里的第一种基础货币。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 20,
-          "end": 21,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "所以我们经常讲一下,人类要从肉体为基础的这个碳基生命,转化成为以数据为基础的一个归基生命。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 22,
-          "end": 23,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "所以如果我们有了这样的一个基础,对人类未来发展趋势的一个基础判断。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 24,
-          "end": 25,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "那我们看待整个产业的发展就有了一个非常好的参照模型和参照模式。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 30,
-          "end": 31,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "然后同时呢,它的整个,因为我们有碳基生命,它也有碳基生命。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 18,
-          "end": 19,
-          "len": 2,
-          "text": "跟张教授这个话也是不某样的,它就成为了人类在归击世界里的第一种基础货币。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 20,
-          "end": 21,
-          "len": 2,
-          "text": "所以我们经常讲一下,人类要从肉体为基础的这个碳基生命,转化成为以数据为基础的一个归基生命。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 22,
-          "end": 23,
-          "len": 2,
-          "text": "所以如果我们有了这样的一个基础,对人类未来发展趋势的一个基础判断。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 24,
-          "end": 25,
-          "len": 2,
-          "text": "那我们看待整个产业的发展就有了一个非常好的参照模型和参照模式。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 30,
-          "end": 31,
-          "len": 2,
-          "text": "然后同时呢,它的整个,因为我们有碳基生命,它也有碳基生命。"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 6,
-          "term": "不某样",
-          "count": 2,
-          "reason": "疑似语义断裂"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 6,
-          "term": "叛击",
-          "count": 2,
-          "reason": "疑似术语误识别"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 28,
-          "text": "这点我相信大家也深有体会,因为我们都是碳基生命嘛,对吧?碳基生命有几几几两,就是我们自己大家最清楚,对吧?",
-          "unit": "几",
-          "count": 3,
-          "sample": "生命嘛,对吧?碳基生命有几几几两,就是我们自己大家最清"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 145,
-          "text": "然后他们其中有1000多个都向我求婚了。",
-          "unit": "0",
-          "count": 3,
-          "sample": "然后他们其中有1000多个都向我求婚了。"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 208,
-          "text": "像B信的老板丢掉8000个币,",
-          "unit": "0",
-          "count": 3,
-          "sample": "像B信的老板丢掉8000个币,"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 215,
-          "text": "8000个币就这样没了,",
-          "unit": "0",
-          "count": 3,
-          "sample": "8000个币就这样没了,"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 267,
-          "text": "如果我们再看2000年的互联网革命啊,",
-          "unit": "0",
-          "count": 3,
-          "sample": "如果我们再看2000年的互联网革命啊,"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "赵成仇",
-          "count": 1,
-          "reason": "疑似人名误识别"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "拿诺奖",
-          "count": 1,
-          "reason": "疑似“拿诺贝尔奖/拿诺奖”等上下文需确认"
-        }
-      ]
-    },
-    {
       "audio_id": "wavlake-mp3__016__817bdf46",
       "source": "wavlake-mp3",
       "filename": "016 - 016 - 016 孙宇晨：财富自由从未如此容易过.mp3",
@@ -5294,88 +5116,152 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "audio_id": "wavlake-mp3__139__60c2d49e",
       "source": "wavlake-mp3",
-      "filename": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
-      "duration_seconds": 565.382688,
-      "text_path": "transcriptions/text/wavlake-mp3__118__86d1aebf.txt",
-      "line_count": 116,
-      "char_count": 2629,
+      "filename": "139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3",
+      "duration_seconds": 714.756646,
+      "text_path": "transcriptions/text/wavlake-mp3__139__60c2d49e.txt",
+      "line_count": 307,
+      "char_count": 4098,
       "severity": 88,
       "level": "high",
       "issues": [
         {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 63,
-          "end": 65,
-          "len": 3,
-          "text": "我们只是用学语类的事实告诉大家,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 69,
-          "end": 71,
-          "len": 3,
-          "text": "找一个好的伴侣,对自己来说是非常重要的。"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 15,
-          "term": "真公夫",
-          "count": 15,
-          "reason": "疑似专名误识别"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 9,
-          "term": "学语类",
-          "count": 3,
-          "reason": "疑似语义断裂"
-        },
-        {
           "type": "近似重复",
           "severity": 7,
-          "start": 60,
-          "end": 61,
+          "start": 18,
+          "end": 19,
           "pairs": 1,
           "max_ratio": 1.0,
-          "text": "如果愿意去探索真公夫离婚案的读者,可以找来去看一看。"
+          "text": "跟张教授这个话也是不谋而合的,它就成为了人类在硅基世界里的第一种基础货币。"
         },
         {
           "type": "近似重复",
           "severity": 7,
-          "start": 63,
-          "end": 65,
-          "pairs": 2,
+          "start": 20,
+          "end": 21,
+          "pairs": 1,
           "max_ratio": 1.0,
-          "text": "我们只是用学语类的事实告诉大家,"
+          "text": "所以我们经常讲一下,人类要从肉体为基础的这个碳基生命,转化成为以数据为基础的一个硅基生命。"
         },
         {
           "type": "近似重复",
           "severity": 7,
-          "start": 69,
-          "end": 71,
-          "pairs": 2,
+          "start": 22,
+          "end": 23,
+          "pairs": 1,
           "max_ratio": 1.0,
-          "text": "找一个好的伴侣,对自己来说是非常重要的。"
+          "text": "所以如果我们有了这样的一个基础,对人类未来发展趋势的一个基础判断。"
+        },
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 24,
+          "end": 25,
+          "pairs": 1,
+          "max_ratio": 1.0,
+          "text": "那我们看待整个产业的发展就有了一个非常好的参照模型和参照模式。"
+        },
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 30,
+          "end": 31,
+          "pairs": 1,
+          "max_ratio": 1.0,
+          "text": "然后同时呢,它的整个,因为我们有碳基生命,它也有碳基生命。"
         },
         {
           "type": "连续重复",
           "severity": 6,
-          "start": 60,
-          "end": 61,
+          "start": 18,
+          "end": 19,
           "len": 2,
-          "text": "如果愿意去探索真公夫离婚案的读者,可以找来去看一看。"
+          "text": "跟张教授这个话也是不谋而合的,它就成为了人类在硅基世界里的第一种基础货币。"
         },
         {
-          "type": "空行",
-          "severity": 1,
+          "type": "连续重复",
+          "severity": 6,
+          "start": 20,
+          "end": 21,
+          "len": 2,
+          "text": "所以我们经常讲一下,人类要从肉体为基础的这个碳基生命,转化成为以数据为基础的一个硅基生命。"
+        },
+        {
+          "type": "连续重复",
+          "severity": 6,
+          "start": 22,
+          "end": 23,
+          "len": 2,
+          "text": "所以如果我们有了这样的一个基础,对人类未来发展趋势的一个基础判断。"
+        },
+        {
+          "type": "连续重复",
+          "severity": 6,
+          "start": 24,
+          "end": 25,
+          "len": 2,
+          "text": "那我们看待整个产业的发展就有了一个非常好的参照模型和参照模式。"
+        },
+        {
+          "type": "连续重复",
+          "severity": 6,
+          "start": 30,
+          "end": 31,
+          "len": 2,
+          "text": "然后同时呢,它的整个,因为我们有碳基生命,它也有碳基生命。"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 28,
+          "text": "这点我相信大家也深有体会,因为我们都是碳基生命嘛,对吧?碳基生命有几几几两,就是我们自己大家最清楚,对吧?",
+          "unit": "几",
+          "count": 3,
+          "sample": "生命嘛,对吧?碳基生命有几几几两,就是我们自己大家最清"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 145,
+          "text": "然后他们其中有1000多个都向我求婚了。",
+          "unit": "0",
+          "count": 3,
+          "sample": "然后他们其中有1000多个都向我求婚了。"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 208,
+          "text": "像B信的老板丢掉8000个币,",
+          "unit": "0",
+          "count": 3,
+          "sample": "像B信的老板丢掉8000个币,"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 215,
+          "text": "8000个币就这样没了,",
+          "unit": "0",
+          "count": 3,
+          "sample": "8000个币就这样没了,"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 267,
+          "text": "如果我们再看2000年的互联网革命啊,",
+          "unit": "0",
+          "count": 3,
+          "sample": "如果我们再看2000年的互联网革命啊,"
+        },
+        {
+          "type": "疑似错词",
+          "severity": 3,
+          "term": "拿诺奖",
           "count": 1,
-          "lines": [
-            115
-          ]
+          "reason": "疑似“拿诺贝尔奖/拿诺奖”等上下文需确认"
         }
       ]
     },
@@ -5386,8 +5272,8 @@
       "duration_seconds": 581.938521,
       "text_path": "transcriptions/text/wavlake-mp3__136__e4306ed8.txt",
       "line_count": 213,
-      "char_count": 2219,
-      "severity": 87,
+      "char_count": 2220,
+      "severity": 84,
       "level": "high",
       "issues": [
         {
@@ -5459,17 +5345,10 @@
           "type": "行内循环",
           "severity": 4,
           "line": 153,
-          "text": "可能据爸爸刚刚2015年上市有2000亿",
+          "text": "可能阿里巴巴刚刚2015年上市有2000亿",
           "unit": "0",
           "count": 3,
-          "sample": "爸刚刚2015年上市有2000亿"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "据爸爸",
-          "count": 1,
-          "reason": "疑似“阿里巴巴”等误识别"
+          "sample": "巴刚刚2015年上市有2000亿"
         }
       ]
     },
@@ -5923,6 +5802,78 @@
       ]
     },
     {
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "source": "wavlake-mp3",
+      "filename": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "duration_seconds": 565.382688,
+      "text_path": "transcriptions/text/wavlake-mp3__118__86d1aebf.txt",
+      "line_count": 116,
+      "char_count": 2629,
+      "severity": 64,
+      "level": "medium",
+      "issues": [
+        {
+          "type": "连续重复",
+          "severity": 18,
+          "start": 63,
+          "end": 65,
+          "len": 3,
+          "text": "我们只是用血淋淋的事实告诉大家,"
+        },
+        {
+          "type": "连续重复",
+          "severity": 18,
+          "start": 69,
+          "end": 71,
+          "len": 3,
+          "text": "找一个好的伴侣,对自己来说是非常重要的。"
+        },
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 60,
+          "end": 61,
+          "pairs": 1,
+          "max_ratio": 1.0,
+          "text": "如果愿意去探索真功夫离婚案的读者,可以找来去看一看。"
+        },
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 63,
+          "end": 65,
+          "pairs": 2,
+          "max_ratio": 1.0,
+          "text": "我们只是用血淋淋的事实告诉大家,"
+        },
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 69,
+          "end": 71,
+          "pairs": 2,
+          "max_ratio": 1.0,
+          "text": "找一个好的伴侣,对自己来说是非常重要的。"
+        },
+        {
+          "type": "连续重复",
+          "severity": 6,
+          "start": 60,
+          "end": 61,
+          "len": 2,
+          "text": "如果愿意去探索真功夫离婚案的读者,可以找来去看一看。"
+        },
+        {
+          "type": "空行",
+          "severity": 1,
+          "count": 1,
+          "lines": [
+            115
+          ]
+        }
+      ]
+    },
+    {
       "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
       "source": "official-vimeo-m4a-partial",
       "filename": "016 - 016财富自由从未如此容易过 [1179692693].m4a",
@@ -6135,67 +6086,6 @@
           "pairs": 36,
           "max_ratio": 1.0,
           "text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,在喜马拉雅上的中文口播音频。"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__128__fa2d5a99",
-      "source": "wavlake-mp3",
-      "filename": "128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3",
-      "duration_seconds": 399.336979,
-      "text_path": "transcriptions/text/wavlake-mp3__128__fa2d5a99.txt",
-      "line_count": 55,
-      "char_count": 1574,
-      "severity": 44,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 9,
-          "term": "波斯顿",
-          "count": 3,
-          "reason": "疑似“波士顿”"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 9,
-          "term": "星业银行",
-          "count": 3,
-          "reason": "疑似“兴业银行”"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 24,
-          "end": 25,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 27,
-          "end": 28,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "2016年,中国境外投资规模有5.4万亿,波斯顿咨询公司与星业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 24,
-          "end": 25,
-          "len": 2,
-          "text": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 27,
-          "end": 28,
-          "len": 2,
-          "text": "2016年,中国境外投资规模有5.4万亿,波斯顿咨询公司与星业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
         }
       ]
     },
@@ -6605,7 +6495,7 @@
       "duration_seconds": 1212.337063,
       "text_path": "transcriptions/text/wavlake-mp3__036__8bed1231.txt",
       "line_count": 53,
-      "char_count": 5670,
+      "char_count": 5671,
       "severity": 35,
       "level": "medium",
       "issues": [
@@ -6638,75 +6528,10 @@
           "type": "行内循环",
           "severity": 4,
           "line": 46,
-          "text": "好孙权你你太好了,我就不说哪家银行的名字了,说你太牛了,我们觉得你就是未来,你就是马云,我们要贷款给你,这样我就我我我当时还挺惊讶的,我想这种银行啊,就是一般都不给这种初创企业贷款的嘛,就怕我们还不起跑路了啊,说你这么好,你愿意贷款给我,你愿意贷多少钱啊,我可以给你贷十万块钱,这这不贷了跟没贷一样吗,所以所以就这个道理啊,就是对于没有钱的人和发展媒体,",
+          "text": "好孙宇晨你你太好了,我就不说哪家银行的名字了,说你太牛了,我们觉得你就是未来,你就是马云,我们要贷款给你,这样我就我我我当时还挺惊讶的,我想这种银行啊,就是一般都不给这种初创企业贷款的嘛,就怕我们还不起跑路了啊,说你这么好,你愿意贷款给我,你愿意贷多少钱啊,我可以给你贷十万块钱,这这不贷了跟没贷一样吗,所以所以就这个道理啊,就是对于没有钱的人和发展媒体,",
           "unit": "我",
           "count": 3,
           "sample": "我们要贷款给你,这样我就我我我当时还挺惊讶的,我想这种"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__110__44e2adc7",
-      "source": "wavlake-mp3",
-      "filename": "110 - 110 - 111 孙宇晨：【医疗】AI医疗与就医误区.mp3",
-      "duration_seconds": 329.258958,
-      "text_path": "transcriptions/text/wavlake-mp3__110__44e2adc7.txt",
-      "line_count": 109,
-      "char_count": 1499,
-      "severity": 35,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 15,
-          "term": "何牧家",
-          "count": 5,
-          "reason": "疑似“和睦家”"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 21,
-          "text": "如果你去何牧家治疗感冒花了2000块,",
-          "unit": "0",
-          "count": 3,
-          "sample": "你去何牧家治疗感冒花了2000块,"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 25,
-          "text": "何牧家治疗感冒的可能1000多块,",
-          "unit": "0",
-          "count": 3,
-          "sample": "何牧家治疗感冒的可能1000多块,"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 26,
-          "text": "并不是2000元,",
-          "unit": "0",
-          "count": 3,
-          "sample": "并不是2000元,"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 28,
-          "text": "何牧家会把这1000元讲的道理讲得很清楚,",
-          "unit": "0",
-          "count": 3,
-          "sample": "何牧家会把这1000元讲的道理讲得很清楚,"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 30,
-          "text": "这1000元中的900元啊,",
-          "unit": "0",
-          "count": 3,
-          "sample": "这1000元中的900元啊,"
         }
       ]
     },
@@ -6889,89 +6714,6 @@
       ]
     },
     {
-      "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
-      "source": "official-vimeo-m4a-partial",
-      "filename": "006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
-      "duration_seconds": 1558.315,
-      "text_path": "transcriptions/text/official-vimeo-m4a-partial__006__a47f6122.txt",
-      "line_count": 402,
-      "char_count": 7810,
-      "severity": 31,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 18,
-          "text": "战略损失还没那么大,你不做战略就玩完了,所以个人是更应该做战略,我觉得首先所有事你不要想,想着赶紧撸起袖子去灌,别别别,你先想清楚,你的人生是为了啥,为啥要干这些事情,这些事情有什么好处,这个事情符不符合你的初心,你是谁,从哪里来到哪里去,先把这些根本问题想清楚,很多人有时候想说,觉得还嘲笑想这种问题的人啊,你脑子是有病什么的,是吧,",
-          "unit": "别",
-          "count": 3,
-          "sample": ",想着赶紧撸起袖子去灌,别别别,你先想清楚,你的人生是"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 277,
-          "text": "把姥姥姥爷爷奶奶两方的一共12个人",
-          "unit": "姥",
-          "count": 3,
-          "sample": "把姥姥姥爷爷奶奶两方的一共12个"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 291,
-          "text": "就大概从45,000涨到55,000",
-          "unit": "0",
-          "count": 3,
-          "sample": "就大概从45,000涨到55,000"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 291,
-          "text": "就大概从45,000涨到55,000",
-          "unit": "0",
-          "count": 3,
-          "sample": "从45,000涨到55,000"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 293,
-          "text": "都从45,000涨57",
-          "unit": "0",
-          "count": 3,
-          "sample": "都从45,000涨57"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 294,
-          "text": "你说45,000涨55,000不就",
-          "unit": "0",
-          "count": 3,
-          "sample": "你说45,000涨55,000不就"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 295,
-          "text": "45,000涨到55,000",
-          "unit": "0",
-          "count": 3,
-          "sample": "45,000涨到55,000"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "牛生碗水",
-          "count": 1,
-          "reason": "疑似成语/口语误识别"
-        }
-      ]
-    },
-    {
       "audio_id": "wavlake-mp3__050__a0af7ba3",
       "source": "wavlake-mp3",
       "filename": "050 - 050 - 050 孙宇晨：【案例】小王在燕郊的房子.mp3",
@@ -7056,7 +6798,7 @@
       "duration_seconds": 1558.395667,
       "text_path": "transcriptions/text/wavlake-mp3__006__3aa7bdab.txt",
       "line_count": 583,
-      "char_count": 7883,
+      "char_count": 7886,
       "severity": 28,
       "level": "medium",
       "issues": [
@@ -7113,6 +6855,82 @@
           "unit": "姥",
           "count": 3,
           "sample": "把他父母把姥姥姥爷爷奶奶两方的一共十二个"
+        }
+      ]
+    },
+    {
+      "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+      "source": "official-vimeo-m4a-partial",
+      "filename": "006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
+      "duration_seconds": 1558.315,
+      "text_path": "transcriptions/text/official-vimeo-m4a-partial__006__a47f6122.txt",
+      "line_count": 402,
+      "char_count": 7812,
+      "severity": 28,
+      "level": "medium",
+      "issues": [
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 18,
+          "text": "战略损失还没那么大,你不做战略就玩完了,所以个人是更应该做战略,我觉得首先所有事你不要想,想着赶紧撸起袖子去灌,别别别,你先想清楚,你的人生是为了啥,为啥要干这些事情,这些事情有什么好处,这个事情符不符合你的初心,你是谁,从哪里来到哪里去,先把这些根本问题想清楚,很多人有时候想说,觉得还嘲笑想这种问题的人啊,你脑子是有病什么的,是吧,",
+          "unit": "别",
+          "count": 3,
+          "sample": ",想着赶紧撸起袖子去灌,别别别,你先想清楚,你的人生是"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 277,
+          "text": "把姥姥姥爷爷奶奶两方的一共12个人",
+          "unit": "姥",
+          "count": 3,
+          "sample": "把姥姥姥爷爷奶奶两方的一共12个"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 291,
+          "text": "就大概从45,000涨到55,000",
+          "unit": "0",
+          "count": 3,
+          "sample": "就大概从45,000涨到55,000"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 291,
+          "text": "就大概从45,000涨到55,000",
+          "unit": "0",
+          "count": 3,
+          "sample": "从45,000涨到55,000"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 293,
+          "text": "都从45,000涨57",
+          "unit": "0",
+          "count": 3,
+          "sample": "都从45,000涨57"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 294,
+          "text": "你说45,000涨55,000不就",
+          "unit": "0",
+          "count": 3,
+          "sample": "你说45,000涨55,000不就"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 295,
+          "text": "45,000涨到55,000",
+          "unit": "0",
+          "count": 3,
+          "sample": "45,000涨到55,000"
         }
       ]
     },
@@ -7316,13 +7134,60 @@
       ]
     },
     {
+      "audio_id": "wavlake-mp3__128__fa2d5a99",
+      "source": "wavlake-mp3",
+      "filename": "128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3",
+      "duration_seconds": 399.336979,
+      "text_path": "transcriptions/text/wavlake-mp3__128__fa2d5a99.txt",
+      "line_count": 55,
+      "char_count": 1574,
+      "severity": 26,
+      "level": "medium",
+      "issues": [
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 24,
+          "end": 25,
+          "pairs": 1,
+          "max_ratio": 1.0,
+          "text": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
+        },
+        {
+          "type": "近似重复",
+          "severity": 7,
+          "start": 27,
+          "end": 28,
+          "pairs": 1,
+          "max_ratio": 1.0,
+          "text": "2016年,中国境外投资规模有5.4万亿,波士顿咨询公司与兴业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
+        },
+        {
+          "type": "连续重复",
+          "severity": 6,
+          "start": 24,
+          "end": 25,
+          "len": 2,
+          "text": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
+        },
+        {
+          "type": "连续重复",
+          "severity": 6,
+          "start": 27,
+          "end": 28,
+          "len": 2,
+          "text": "2016年,中国境外投资规模有5.4万亿,波士顿咨询公司与兴业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
+        }
+      ]
+    },
+    {
       "audio_id": "wavlake-mp3__008__1b95d206",
       "source": "wavlake-mp3",
       "filename": "008 - 008 - 008 孙宇晨：创业、比特币、湖畔大学.mp3",
       "duration_seconds": 1102.297688,
       "text_path": "transcriptions/text/wavlake-mp3__008__1b95d206.txt",
       "line_count": 418,
-      "char_count": 5440,
+      "char_count": 5441,
       "severity": 25,
       "level": "medium",
       "issues": [
@@ -7696,6 +7561,64 @@
           "unit": "不许考",
           "count": 3,
           "sample": "们在其他领域都太优秀了,不许考不许考不许考这个最白痴考这个考这个我"
+        }
+      ]
+    },
+    {
+      "audio_id": "wavlake-mp3__110__44e2adc7",
+      "source": "wavlake-mp3",
+      "filename": "110 - 110 - 111 孙宇晨：【医疗】AI医疗与就医误区.mp3",
+      "duration_seconds": 329.258958,
+      "text_path": "transcriptions/text/wavlake-mp3__110__44e2adc7.txt",
+      "line_count": 109,
+      "char_count": 1499,
+      "severity": 20,
+      "level": "low",
+      "issues": [
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 21,
+          "text": "如果你去和睦家治疗感冒花了2000块,",
+          "unit": "0",
+          "count": 3,
+          "sample": "你去和睦家治疗感冒花了2000块,"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 25,
+          "text": "和睦家治疗感冒的可能1000多块,",
+          "unit": "0",
+          "count": 3,
+          "sample": "和睦家治疗感冒的可能1000多块,"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 26,
+          "text": "并不是2000元,",
+          "unit": "0",
+          "count": 3,
+          "sample": "并不是2000元,"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 28,
+          "text": "和睦家会把这1000元讲的道理讲得很清楚,",
+          "unit": "0",
+          "count": 3,
+          "sample": "和睦家会把这1000元讲的道理讲得很清楚,"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 30,
+          "text": "这1000元中的900元啊,",
+          "unit": "0",
+          "count": 3,
+          "sample": "这1000元中的900元啊,"
         }
       ]
     },
@@ -8227,7 +8150,7 @@
       "duration_seconds": 1102.251,
       "text_path": "transcriptions/text/official-vimeo-m4a-partial__008__4bb31bf0.txt",
       "line_count": 408,
-      "char_count": 5893,
+      "char_count": 5894,
       "severity": 15,
       "level": "low",
       "issues": [
@@ -8950,60 +8873,6 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__145__2f481088",
-      "source": "wavlake-mp3",
-      "filename": "145 - 145 - 146 孙宇晨：【完结】我们就是这个时代的既得利益者.mp3",
-      "duration_seconds": 391.25625,
-      "text_path": "transcriptions/text/wavlake-mp3__145__2f481088.txt",
-      "line_count": 126,
-      "char_count": 1686,
-      "severity": 9,
-      "level": "low",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 6,
-          "term": "深航",
-          "count": 2,
-          "reason": "疑似“深杭/深圳杭州”等地名误识别，需听音频确认"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "火壳和新榜",
-          "count": 1,
-          "reason": "与部分稿“果壳和新榜”不一致，需确认"
-        }
-      ]
-    },
-    {
-      "audio_id": "official-vimeo-m4a-partial__000__7c18aa7d",
-      "source": "official-vimeo-m4a-partial",
-      "filename": "000 - 000我们就是这个时代的既得利益者 [1179679629].m4a",
-      "duration_seconds": 391.253,
-      "text_path": "transcriptions/text/official-vimeo-m4a-partial__000__7c18aa7d.txt",
-      "line_count": 126,
-      "char_count": 1686,
-      "severity": 9,
-      "level": "low",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 6,
-          "term": "深航",
-          "count": 2,
-          "reason": "疑似“深杭/深圳杭州”等地名误识别，需听音频确认"
-        },
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "火壳和新榜",
-          "count": 1,
-          "reason": "与部分稿“果壳和新榜”不一致，需确认"
-        }
-      ]
-    },
-    {
       "audio_id": "wavlake-mp3__033__3202b3ed",
       "source": "wavlake-mp3",
       "filename": "033 - 033 - 033 孙宇晨：通缩与通胀的经济影响.mp3",
@@ -9497,7 +9366,7 @@
           "type": "行内循环",
           "severity": 4,
           "line": 21,
-          "text": "那么这样我就算买一个100平方米的房子吧,那叫1100吧,其实买一个90平方米的都将近要1000万了,像这么贵的房子,首先我个人其实觉得生殖空间也极为有限了,同时呢,我肯定是不会买的,而我又有很高的生活品质要求,就我要求我自己无论如何去哪工作,我住的地方就离我不行就大概五分钟,这是最好的,",
+          "text": "那么这样我就算买一个100平方米的房子吧,那叫1100万,其实买一个90平方米的都将近要1000万了,像这么贵的房子,首先我个人其实觉得升值空间也极为有限了,同时呢,我肯定是不会买的,而我又有很高的生活品质要求,就我要求我自己无论如何去哪工作,我住的地方就离我不行就大概五分钟,这是最好的,",
           "unit": "0",
           "count": 3,
           "sample": "个90平方米的都将近要1000万了,像这么贵的房子,首"
@@ -9527,122 +9396,42 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__056__2fd11844",
+      "audio_id": "wavlake-mp3__145__2f481088",
       "source": "wavlake-mp3",
-      "filename": "056 - 056 - 056 孙宇晨：【90后不买车】谈90后不买车与共享经济.mp3",
-      "duration_seconds": 767.81425,
-      "text_path": "transcriptions/text/wavlake-mp3__056__2fd11844.txt",
-      "line_count": 31,
-      "char_count": 3647,
+      "filename": "145 - 145 - 146 孙宇晨：【完结】我们就是这个时代的既得利益者.mp3",
+      "duration_seconds": 391.25625,
+      "text_path": "transcriptions/text/wavlake-mp3__145__2f481088.txt",
+      "line_count": 126,
+      "char_count": 1685,
       "severity": 3,
       "level": "low",
       "issues": [
         {
           "type": "疑似错词",
           "severity": 3,
-          "term": "深航",
+          "term": "果壳和新榜",
           "count": 1,
-          "reason": "疑似“深杭/深圳杭州”等地名误识别，需听音频确认"
+          "reason": "与部分稿“火壳和新榜”不一致，需确认"
         }
       ]
     },
     {
-      "audio_id": "official-vimeo-m4a-partial__002__5ff1220b",
+      "audio_id": "official-vimeo-m4a-partial__000__7c18aa7d",
       "source": "official-vimeo-m4a-partial",
-      "filename": "002 - 002【冯仑推荐】我很期待听到这样的声音 [1179683841].m4a",
-      "duration_seconds": 84.011,
-      "text_path": "transcriptions/text/official-vimeo-m4a-partial__002__5ff1220b.txt",
-      "line_count": 7,
-      "char_count": 346,
+      "filename": "000 - 000我们就是这个时代的既得利益者 [1179679629].m4a",
+      "duration_seconds": 391.253,
+      "text_path": "transcriptions/text/official-vimeo-m4a-partial__000__7c18aa7d.txt",
+      "line_count": 126,
+      "char_count": 1685,
       "severity": 3,
       "level": "low",
       "issues": [
         {
           "type": "疑似错词",
           "severity": 3,
-          "term": "万通中文",
+          "term": "果壳和新榜",
           "count": 1,
-          "reason": "疑似人名/机构名误识别"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__002__32bb5e3a",
-      "source": "wavlake-mp3",
-      "filename": "002 - 002 - 002【冯仑推荐】我很期待听到这样的声音.mp3",
-      "duration_seconds": 84.102688,
-      "text_path": "transcriptions/text/wavlake-mp3__002__32bb5e3a.txt",
-      "line_count": 6,
-      "char_count": 342,
-      "severity": 3,
-      "level": "low",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "万通中文",
-          "count": 1,
-          "reason": "疑似人名/机构名误识别"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__001__c835b506",
-      "source": "wavlake-mp3",
-      "filename": "001 - 001 - 001【马东推荐】我心生羡慕嫉妒恨.mp3",
-      "duration_seconds": 60.046813,
-      "text_path": "transcriptions/text/wavlake-mp3__001__c835b506.txt",
-      "line_count": 6,
-      "char_count": 288,
-      "severity": 3,
-      "level": "low",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "小读记长",
-          "count": 1,
-          "reason": "疑似成语/短语误识别"
-        }
-      ]
-    },
-    {
-      "audio_id": "official-vimeo-m4a-partial__001__1a0d7a82",
-      "source": "official-vimeo-m4a-partial",
-      "filename": "001 - 001【马东推荐】我心生羡慕嫉妒恨 [1179683060].m4a",
-      "duration_seconds": 58.304,
-      "text_path": "transcriptions/text/official-vimeo-m4a-partial__001__1a0d7a82.txt",
-      "line_count": 6,
-      "char_count": 267,
-      "severity": 3,
-      "level": "low",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "小读记长",
-          "count": 1,
-          "reason": "疑似成语/短语误识别"
-        }
-      ]
-    },
-    {
-      "audio_id": "official-vimeo-m4a-partial__005__836776aa",
-      "source": "official-vimeo-m4a-partial",
-      "filename": "005 - 005【同道大叔推荐】宇晨是一个很特别的人 [1179687907].m4a",
-      "duration_seconds": 42.581,
-      "text_path": "transcriptions/text/official-vimeo-m4a-partial__005__836776aa.txt",
-      "line_count": 9,
-      "char_count": 198,
-      "severity": 3,
-      "level": "low",
-      "issues": [
-        {
-          "type": "疑似错词",
-          "severity": 3,
-          "term": "铜刀大叔",
-          "count": 1,
-          "reason": "疑似“同道大叔”"
+          "reason": "与部分稿“火壳和新榜”不一致，需确认"
         }
       ]
     },
@@ -9653,7 +9442,7 @@
       "duration_seconds": 1530.005,
       "text_path": "transcriptions/text/official-vimeo-m4a-partial__041__8902d828.txt",
       "line_count": 660,
-      "char_count": 8244,
+      "char_count": 8245,
       "severity": 0,
       "level": "clean",
       "issues": []
@@ -9713,7 +9502,7 @@
       "duration_seconds": 736.258333,
       "text_path": "transcriptions/text/wavlake-mp3__140__f55c81c4.txt",
       "line_count": 59,
-      "char_count": 4059,
+      "char_count": 4056,
       "severity": 0,
       "level": "clean",
       "issues": []
@@ -9750,6 +9539,18 @@
       "text_path": "transcriptions/text/official-vimeo-m4a-partial__046__dbc9c66a.txt",
       "line_count": 93,
       "char_count": 3743,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "wavlake-mp3__056__2fd11844",
+      "source": "wavlake-mp3",
+      "filename": "056 - 056 - 056 孙宇晨：【90后不买车】谈90后不买车与共享经济.mp3",
+      "duration_seconds": 767.81425,
+      "text_path": "transcriptions/text/wavlake-mp3__056__2fd11844.txt",
+      "line_count": 31,
+      "char_count": 3647,
       "severity": 0,
       "level": "clean",
       "issues": []
@@ -10163,6 +9964,42 @@
       "issues": []
     },
     {
+      "audio_id": "official-vimeo-m4a-partial__002__5ff1220b",
+      "source": "official-vimeo-m4a-partial",
+      "filename": "002 - 002【冯仑推荐】我很期待听到这样的声音 [1179683841].m4a",
+      "duration_seconds": 84.011,
+      "text_path": "transcriptions/text/official-vimeo-m4a-partial__002__5ff1220b.txt",
+      "line_count": 7,
+      "char_count": 345,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "wavlake-mp3__002__32bb5e3a",
+      "source": "wavlake-mp3",
+      "filename": "002 - 002 - 002【冯仑推荐】我很期待听到这样的声音.mp3",
+      "duration_seconds": 84.102688,
+      "text_path": "transcriptions/text/wavlake-mp3__002__32bb5e3a.txt",
+      "line_count": 6,
+      "char_count": 341,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "wavlake-mp3__001__c835b506",
+      "source": "wavlake-mp3",
+      "filename": "001 - 001 - 001【马东推荐】我心生羡慕嫉妒恨.mp3",
+      "duration_seconds": 60.046813,
+      "text_path": "transcriptions/text/wavlake-mp3__001__c835b506.txt",
+      "line_count": 6,
+      "char_count": 288,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
       "audio_id": "official-vimeo-m4a-partial__104__27a0c3dd",
       "source": "official-vimeo-m4a-partial",
       "filename": "104 - 104【比特币】买买提 [1182083775].m4a",
@@ -10170,6 +10007,30 @@
       "text_path": "transcriptions/text/official-vimeo-m4a-partial__104__27a0c3dd.txt",
       "line_count": 9,
       "char_count": 270,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "official-vimeo-m4a-partial__001__1a0d7a82",
+      "source": "official-vimeo-m4a-partial",
+      "filename": "001 - 001【马东推荐】我心生羡慕嫉妒恨 [1179683060].m4a",
+      "duration_seconds": 58.304,
+      "text_path": "transcriptions/text/official-vimeo-m4a-partial__001__1a0d7a82.txt",
+      "line_count": 6,
+      "char_count": 267,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "official-vimeo-m4a-partial__005__836776aa",
+      "source": "official-vimeo-m4a-partial",
+      "filename": "005 - 005【同道大叔推荐】宇晨是一个很特别的人 [1179687907].m4a",
+      "duration_seconds": 42.581,
+      "text_path": "transcriptions/text/official-vimeo-m4a-partial__005__836776aa.txt",
+      "line_count": 9,
+      "char_count": 198,
       "severity": 0,
       "level": "clean",
       "issues": []

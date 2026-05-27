@@ -1,0 +1,155 @@
+{
+  "note": "High-confidence ASR term corrections only; no stylistic polishing.",
+  "replacements": {
+    "牛生碗水": "游山玩水",
+    "牛神玩水": "游山玩水",
+    "小读记长": "小肚鸡肠",
+    "铜刀大叔": "同道大叔",
+    "波斯顿": "波士顿",
+    "星业银行": "兴业银行",
+    "产产配置": "资产配置",
+    "真公夫": "真功夫",
+    "香脂排骨饭": "香汁排骨饭",
+    "学语类": "血淋淋",
+    "何牧家": "和睦家",
+    "据爸爸": "阿里巴巴",
+    "赵成仇": "张首晟",
+    "叛击": "碳基",
+    "探机": "碳基",
+    "归击": "硅基",
+    "碳击": "碳基",
+    "碳级": "碳基",
+    "归基": "硅基",
+    "不某样": "不谋而合",
+    "火壳和新榜": "果壳和新榜",
+    "北上广,深航": "北上广深杭",
+    "北上广深航": "北上广深杭"
+  },
+  "counts": {
+    "牛生碗水": 1,
+    "牛神玩水": 1,
+    "小读记长": 2,
+    "铜刀大叔": 1,
+    "波斯顿": 3,
+    "星业银行": 3,
+    "产产配置": 1,
+    "真公夫": 15,
+    "香脂排骨饭": 1,
+    "学语类": 3,
+    "何牧家": 5,
+    "据爸爸": 1,
+    "赵成仇": 1,
+    "叛击": 2,
+    "探机": 3,
+    "归击": 5,
+    "碳击": 1,
+    "碳级": 14,
+    "归基": 21,
+    "不某样": 2,
+    "火壳和新榜": 2,
+    "北上广,深航": 2,
+    "北上广深航": 3
+  },
+  "changed_files": [
+    {
+      "path": "transcriptions/text/wavlake-mp3__140__f55c81c4.txt",
+      "counts": {
+        "探机": 3,
+        "碳级": 2,
+        "归基": 3
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__005__836776aa.txt",
+      "counts": {
+        "铜刀大叔": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__145__2f481088.txt",
+      "counts": {
+        "火壳和新榜": 1,
+        "北上广,深航": 1,
+        "北上广深航": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__006__3aa7bdab.txt",
+      "counts": {
+        "牛神玩水": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__136__e4306ed8.txt",
+      "counts": {
+        "据爸爸": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__006__a47f6122.txt",
+      "counts": {
+        "牛生碗水": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__110__44e2adc7.txt",
+      "counts": {
+        "何牧家": 5
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__001__1a0d7a82.txt",
+      "counts": {
+        "小读记长": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__128__fa2d5a99.txt",
+      "counts": {
+        "波斯顿": 3,
+        "星业银行": 3,
+        "产产配置": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__139__60c2d49e.txt",
+      "counts": {
+        "赵成仇": 1,
+        "叛击": 2,
+        "归击": 5,
+        "碳击": 1,
+        "碳级": 12,
+        "归基": 18,
+        "不某样": 2
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__056__2fd11844.txt",
+      "counts": {
+        "北上广深航": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/official-vimeo-m4a-partial__000__7c18aa7d.txt",
+      "counts": {
+        "火壳和新榜": 1,
+        "北上广,深航": 1,
+        "北上广深航": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__001__c835b506.txt",
+      "counts": {
+        "小读记长": 1
+      }
+    },
+    {
+      "path": "transcriptions/text/wavlake-mp3__118__86d1aebf.txt",
+      "counts": {
+        "真公夫": 15,
+        "香脂排骨饭": 1,
+        "学语类": 3
+      }
+    }
+  ]
+}
