@@ -1,0 +1,627 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 83.397 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.420]  大家好,我是陪我APP创始人孙宇辰
+[00:00:02.420 --> 00:00:05.980]  我想邀你一起与我踏上财富自由革命之路
+[00:00:05.980 --> 00:00:08.840]  我在财富自由的另一边,等着你
+[00:00:08.840 --> 00:00:11.900]  今天呢,根据我们的大纲
+[00:00:11.900 --> 00:00:14.520]  我们会跟大家一起来讨论一个问题
+[00:00:14.520 --> 00:00:19.380]  就是女人20岁之后是否一直在贬值
+[00:00:19.380 --> 00:00:23.680]  当然这个贬值相对应的含义就是在婚姻的市场中
+[00:00:23.680 --> 00:00:25.600]  我们经常讲的女人是不是如果
+[00:00:25.600 --> 00:00:28.520]  20岁或者25岁嫁不出去
+[00:00:28.520 --> 00:00:30.520]  它后面越价就会越差
+[00:00:30.520 --> 00:00:33.660]  包括对这些问题的一个回应吧
+[00:00:33.660 --> 00:00:34.680]  也要表达一下
+[00:00:34.680 --> 00:00:36.020]  我们对这个问题的思索
+[00:00:36.020 --> 00:00:37.760]  这就是我们这一期节目的
+[00:00:37.760 --> 00:00:40.320]  一个主要想提的一个问题
+[00:00:40.320 --> 00:00:42.240]  回答这个问题前呢
+[00:00:42.240 --> 00:00:44.920]  我最近也在看一个节目
+[00:00:44.920 --> 00:00:46.600]  希望跟大家推荐一下
+[00:00:46.600 --> 00:00:49.380]  就是叫金星主持的一个节目
+[00:00:49.380 --> 00:00:50.940]  叫中国式相亲
+[00:00:50.940 --> 00:00:53.520]  我希望大家一定可以去看一看
+[00:00:53.520 --> 00:00:55.440]  经常你茶余饭后的时间
+[00:00:55.440 --> 00:00:56.760]  我就可以去看一看
+[00:00:56.760 --> 00:00:58.200]  我个人认为
+[00:00:58.200 --> 00:01:02.920]  这是对整个中国最落后相亲文化的一个集中体现
+[00:01:02.920 --> 00:01:06.980]  我稍微给大家讲几个这个节目的细节吧
+[00:01:06.980 --> 00:01:08.880]  你们就可以感受到
+[00:01:08.880 --> 00:01:13.880]  首先这个节目和你们通常可能听过的《非诚勿扰》
+[00:01:13.880 --> 00:01:15.280]  这些节目都不一样
+[00:01:15.280 --> 00:01:16.960]  它不是男选女
+[00:01:16.960 --> 00:01:18.520]  也不是女选男
+[00:01:18.520 --> 00:01:23.400]  而是父母替你去选对象
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 82.897 -t 83.219 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.880]  一个女生上来之后呢
+[00:00:01.880 --> 00:00:04.140]  女生是看不到男方的长相的
+[00:00:04.140 --> 00:00:06.980]  只能根据场上的局势去判断
+[00:00:06.980 --> 00:00:11.480]  然后在场上的选择对象的那五个男人呢
+[00:00:11.480 --> 00:00:14.720]  他是父母去替他选的
+[00:00:14.720 --> 00:00:15.920]  而且呢
+[00:00:15.920 --> 00:00:17.920]  这五个男人中啊
+[00:00:17.920 --> 00:00:20.560]  必须有三个男人选中了那个女生
+[00:00:20.560 --> 00:00:22.640]  女生才能够反选
+[00:00:22.640 --> 00:00:24.780]  否则这个女生就被淘汰了
+[00:00:24.780 --> 00:00:27.060]  首先从他这个节目机制中
+[00:00:27.060 --> 00:00:27.740]  你可以看出来
+[00:00:27.740 --> 00:00:32.200]  他做主要决策的决策人是父母
+[00:00:32.200 --> 00:00:33.300]  而不是小孩
+[00:00:33.300 --> 00:00:35.420]  所以你就可以淋漓尽致的看出
+[00:00:35.420 --> 00:00:40.400]  父母是怎么去干涉子女的择偶需求
+[00:00:40.400 --> 00:00:44.540]  以及父母的三观与子女的三观吧
+[00:00:44.540 --> 00:00:45.920]  有多么大的差距
+[00:00:45.920 --> 00:00:47.700]  我个人觉得呢
+[00:00:47.700 --> 00:00:50.600]  这个节目淋漓尽致的体现出了
+[00:00:50.600 --> 00:00:53.800]  积极参政议政的中国式父母的择偶观
+[00:00:53.800 --> 00:00:57.720]  有的父母是找老妈子的
+[00:00:57.720 --> 00:01:00.380]  对女方的唯一要求是能干活
+[00:01:00.380 --> 00:01:04.160]  有的要求女生一定不能守良
+[00:01:04.160 --> 00:01:05.760]  当然他有一整套的
+[00:01:05.760 --> 00:01:08.520]  我个人觉得是伪科学养生理论
+[00:01:08.520 --> 00:01:12.000]  就是觉得守良的女生一定会公寒
+[00:01:12.000 --> 00:01:13.940]  生男孩会善气
+[00:01:13.940 --> 00:01:15.120]  生女孩会贫血
+[00:01:15.120 --> 00:01:19.180]  希望如果有人可以专门写一篇文章
+[00:01:19.180 --> 00:01:23.220]  讲讲守良的女孩是不是会公寒
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 165.616 -t 65.172 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.620]  也有见到女嘉宾
+[00:00:02.620 --> 00:00:05.660]  40岁而吓得尿裤子的男嘉宾
+[00:00:05.660 --> 00:00:06.820]  当时有一个女嘉宾
+[00:00:06.820 --> 00:00:08.300]  上台长得非常好看
+[00:00:08.300 --> 00:00:09.320]  但是40岁
+[00:00:09.320 --> 00:00:11.480]  当时他这个年龄
+[00:00:11.480 --> 00:00:12.980]  别人一般是看不出来的
+[00:00:12.980 --> 00:00:14.780]  当他把自己这个年龄是40岁
+[00:00:14.780 --> 00:00:16.580]  告诉全场的时候
+[00:00:16.580 --> 00:00:19.160]  把那男嘉宾的吓得都快尿裤子了
+[00:00:19.160 --> 00:00:20.940]  也有呢
+[00:00:20.940 --> 00:00:23.380]  包括父母非常理直气壮的
+[00:00:23.380 --> 00:00:24.420]  坚定的声称
+[00:00:24.420 --> 00:00:26.920]  20岁的男人是期货
+[00:00:26.920 --> 00:00:29.140]  30岁的男人是现货
+[00:00:29.140 --> 00:00:31.280]  40岁的男人是抢手货
+[00:00:31.280 --> 00:00:33.340]  然后来要求女嘉宾
+[00:00:33.340 --> 00:00:36.180]  说你有多大能耐
+[00:00:36.180 --> 00:00:37.620]  就比如说10年之后
+[00:00:37.620 --> 00:00:38.860]  当这个男人啊
+[00:00:38.860 --> 00:00:40.820]  越长越老的时候啊
+[00:00:40.820 --> 00:00:42.480]  你还能够把握住他
+[00:00:42.480 --> 00:00:44.480]  这种奇葩理论啊
+[00:00:44.480 --> 00:00:44.980]  其实这个
+[00:00:44.980 --> 00:00:47.180]  包括刚才讲的这个
+[00:00:47.180 --> 00:00:48.660]  20岁男人是期货
+[00:00:48.660 --> 00:00:51.240]  40岁男人是抢手货
+[00:00:51.240 --> 00:00:53.280]  这个也跟所有我们讲的
+[00:00:53.280 --> 00:00:54.800]  女生是不是一直在贬值
+[00:00:54.800 --> 00:00:56.600]  男生是不是在一直在升值
+[00:00:56.600 --> 00:00:58.380]  反映一个典型的
+[00:00:58.380 --> 00:00:59.560]  这个社会观点
+[00:00:59.560 --> 00:01:02.780]  整个这个节目中啊
+[00:01:02.780 --> 00:01:04.540]  只有一对父母的观点
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 230.288 -t 75.099 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.080]  择偶的观点就是儿子喜欢就可以了
+[00:00:03.080 --> 00:00:04.220]  只有这么一对
+[00:00:04.220 --> 00:00:07.320]  所以你就可以看到这个这个节目啊
+[00:00:07.320 --> 00:00:11.240]  你去看一看就能非常淋漓尽致的了解
+[00:00:11.240 --> 00:00:14.040]  中国是相亲的择偶观
+[00:00:14.040 --> 00:00:16.240]  而这种择偶观
+[00:00:16.240 --> 00:00:20.240]  我原来以为一直只出现在上海市的人民广场
+[00:00:20.240 --> 00:00:22.700]  那种父母相亲角啊才会出现
+[00:00:22.700 --> 00:00:26.040]  其实如果你通过今天这档节目的话
+[00:00:26.040 --> 00:00:28.040]  通过互联网也可以了解这种三观
+[00:00:28.040 --> 00:00:33.460]  这个现象现在我个人觉得在互联网之外的社会还是很普遍的
+[00:00:33.460 --> 00:00:35.240]  有一个女生给我留言
+[00:00:35.240 --> 00:00:36.700]  说她28岁了
+[00:00:36.700 --> 00:00:38.800]  老家是河南农村的
+[00:00:38.800 --> 00:00:41.400]  最近不是马上过春节了吗
+[00:00:41.400 --> 00:00:43.260]  她正发愁要不要回家
+[00:00:43.260 --> 00:00:47.200]  因为她24岁来北京工作之后呢
+[00:00:47.200 --> 00:00:49.020]  每年回家过年
+[00:00:49.020 --> 00:00:51.060]  她父母就要给她安排相亲
+[00:00:51.060 --> 00:00:55.060]  最多的一次一次性见了五个人
+[00:00:55.060 --> 00:00:57.740]  基本上天天都安排的
+[00:00:57.740 --> 00:00:59.020]  跟相亲有关的事情
+[00:00:59.020 --> 00:01:01.580]  所以他不想回家相亲
+[00:01:01.580 --> 00:01:03.640]  但是他父母呢
+[00:01:03.640 --> 00:01:05.960]  反而对这个事情非常急
+[00:01:05.960 --> 00:01:08.100]  因为他妈总是认为
+[00:01:08.100 --> 00:01:11.000]  如果一个女人快三十了
+[00:01:11.000 --> 00:01:12.000]  还没有嫁出去
+[00:01:12.000 --> 00:01:13.260]  还没有找到对象的话
+[00:01:13.260 --> 00:01:15.100]  就没有人会要你了
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 304.887 -t 74.782 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:04.140]  其实听我这个节目的女听众有很多
+[00:00:04.140 --> 00:00:08.080]  我相信也有些人跟这个女孩有相似的经历
+[00:00:08.080 --> 00:00:10.600]  很多人甚至这个恐惧症啊
+[00:00:10.600 --> 00:00:11.620]  更严重啊
+[00:00:11.620 --> 00:00:15.280]  可能跨过20岁甚至25岁生日啊
+[00:00:15.280 --> 00:00:17.800]  他就觉得自己开始奔三了啊
+[00:00:17.800 --> 00:00:20.120]  然后已经奔三了之后呢
+[00:00:20.120 --> 00:00:22.500]  如果30岁之前没有把自己嫁出去啊
+[00:00:22.500 --> 00:00:26.160]  他就认为是不是贬值的非常厉害啊
+[00:00:26.160 --> 00:00:29.140]  而且以后都不可能有好的机会把人嫁出去了
+[00:00:29.140 --> 00:00:30.260]  今天呢
+[00:00:30.260 --> 00:00:31.580]  其实我们就一起来
+[00:00:31.580 --> 00:00:33.040]  谈谈这个观点
+[00:00:33.040 --> 00:00:35.180]  以及我们觉得未来
+[00:00:35.180 --> 00:00:36.980]  如果这个观点不成立的话
+[00:00:36.980 --> 00:00:39.080]  中国会发生什么样的变化
+[00:00:39.080 --> 00:00:40.540]  当然啊
+[00:00:40.540 --> 00:00:43.040]  首先来分析这个观点本身啊
+[00:00:43.040 --> 00:00:44.400]  我们当然是不能同意的
+[00:00:44.400 --> 00:00:47.660]  因为我们觉得这个女人贬
+[00:00:47.660 --> 00:00:48.940]  所谓女人贬值
+[00:00:48.940 --> 00:00:50.000]  男人升值
+[00:00:50.000 --> 00:00:51.580]  这个观点的核心
+[00:00:51.580 --> 00:00:56.180]  没有把女人当做正常人来对待
+[00:00:56.180 --> 00:00:59.100]  其实也没有把男人当做正常人来对
+[00:00:59.100 --> 00:01:05.560]  他把女人当作是一个以色相为主要卖相的物品来出售
+[00:01:05.560 --> 00:01:09.000]  女人的价值仅仅来自于她的年龄
+[00:01:09.000 --> 00:01:09.820]  她的外貌
+[00:01:09.820 --> 00:01:14.160]  主要的使命则是完成生育的机器
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 379.169 -t 73.400 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.340]  这么一个使命
+[00:00:01.340 --> 00:00:03.760]  从这个角度来看呢
+[00:00:03.760 --> 00:00:06.720]  确实是年龄越低
+[00:00:06.720 --> 00:00:07.880]  价格越高
+[00:00:07.880 --> 00:00:11.520]  首先如果以色相为主要卖相的话呢
+[00:00:11.520 --> 00:00:13.940]  我们从出台来看啊
+[00:00:13.940 --> 00:00:14.820]  也是这样的
+[00:00:14.820 --> 00:00:16.320]  最近圣诞节啊
+[00:00:16.320 --> 00:00:17.920]  保利俱乐部被查封了
+[00:00:17.920 --> 00:00:21.720]  保利俱乐部里面的出台的价格划分
+[00:00:21.720 --> 00:00:24.100]  也是年龄越大
+[00:00:24.100 --> 00:00:25.280]  价格越低啊
+[00:00:25.280 --> 00:00:28.740]  而且某种程度上年龄大到一定程度就不能出台了
+[00:00:28.740 --> 00:00:29.820]  而且呢
+[00:00:29.820 --> 00:00:31.980]  如果以生育来看
+[00:00:31.980 --> 00:00:33.580]  当然也是年龄越大
+[00:00:33.580 --> 00:00:34.800]  价值越低
+[00:00:34.800 --> 00:00:36.460]  因为我们经常认为
+[00:00:36.460 --> 00:00:39.380]  年轻来完成生育这个使命
+[00:00:39.380 --> 00:00:41.000]  至少从生物学的角度来说
+[00:00:41.000 --> 00:00:42.200]  也当然是越好的
+[00:00:42.200 --> 00:00:45.180]  但是如果除去这两点
+[00:00:45.180 --> 00:00:48.360]  随着我自己的这个创业历程的拉长
+[00:00:48.360 --> 00:00:50.580]  我现在越来越发现一个问题
+[00:00:50.580 --> 00:00:52.440]  就是这个世界上只有人
+[00:00:52.440 --> 00:00:54.620]  没有所谓的男人和女人之分
+[00:00:54.620 --> 00:00:57.580]  其实尤其在婚姻领域是如此
+[00:00:57.580 --> 00:00:59.440]  一个女人也好
+[00:00:59.440 --> 00:01:00.560]  一个男人也好
+[00:01:00.560 --> 00:01:03.240]  他的竞争力是多方面的
+[00:01:03.240 --> 00:01:04.880]  相貌和颜值
+[00:01:04.880 --> 00:01:07.580]  只是其中很小的一个部分
+[00:01:07.580 --> 00:01:10.580]  而随着时间的推移
+[00:01:10.580 --> 00:01:13.400]  我越来越发现
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 452.070 -t 94.026 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.240]  对于一个人来说
+[00:00:02.240 --> 00:00:03.960]  他最核心的竞争力
+[00:00:03.960 --> 00:00:07.660]  还是个人职业能力的发展曲线
+[00:00:07.660 --> 00:00:08.920]  这件事情本身
+[00:00:08.920 --> 00:00:11.320]  是最具有核心竞争力的
+[00:00:11.320 --> 00:00:13.780]  跟你的性别没有关系
+[00:00:13.780 --> 00:00:15.620]  跟你的种族没有关系
+[00:00:15.620 --> 00:00:17.580]  跟你的颜值没有关系
+[00:00:17.580 --> 00:00:19.360]  跟很多东西都没有关系
+[00:00:19.360 --> 00:00:22.620]  核心还是个人职业能力的发展曲线
+[00:00:22.620 --> 00:00:27.820]  对于一个正常理性的男性来说
+[00:00:27.820 --> 00:00:29.300]  他择偶的时候
+[00:00:29.300 --> 00:00:32.800]  一定会选择对自己经济结盟有利
+[00:00:32.800 --> 00:00:36.800]  对人生路线发展有帮助的人生合伙人
+[00:00:36.800 --> 00:00:38.560]  当然我个人认为
+[00:00:38.560 --> 00:00:41.460]  这对一个正常理性的女性来说也是如此
+[00:00:41.460 --> 00:00:46.760]  与创业是一场复杂的多维度战争一样
+[00:00:46.760 --> 00:00:49.400]  婚姻择偶的选择
+[00:00:49.400 --> 00:00:52.680]  我个人认为也是一个复杂
+[00:00:52.680 --> 00:00:55.040]  多维度控制下的选择
+[00:00:55.040 --> 00:00:57.180]  经常我们有很多俗话
+[00:00:57.180 --> 00:00:59.400]  我觉得其实空前的
+[00:00:59.400 --> 00:01:01.380]  把这个事情搞得非常简单化
+[00:01:01.380 --> 00:01:03.660]  而这往往很多是很多悲剧的开始
+[00:01:03.660 --> 00:01:06.540]  我们这样讲就把复杂问题简单化
+[00:01:06.540 --> 00:01:10.400]  这个也是一个非常糟糕的思维模式
+[00:01:10.400 --> 00:01:12.880]  就比方说我们经常俗语刚才讲的
+[00:01:12.880 --> 00:01:15.900]  说女人随着年龄推移一直在贬值
+[00:01:15.900 --> 00:01:18.780]  男人随着年龄一直推移在增值
+[00:01:18.780 --> 00:01:21.360]  以及妖魔化男人说
+[00:01:21.360 --> 00:01:23.120]  比如说20岁的男人
+[00:01:23.120 --> 00:01:24.980]  也喜欢20岁的女人
+[00:01:24.980 --> 00:01:27.600]  30岁的男人喜欢20岁的女人
+[00:01:27.600 --> 00:01:30.420]  40岁的男人也喜欢20岁的女人
+[00:01:30.420 --> 00:01:33.320]  其实这也无法反映出
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 545.596 -t 78.485 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.680]  男女择偶的很多真相
+[00:00:02.680 --> 00:00:05.220]  像即便我个人而言
+[00:00:05.220 --> 00:00:06.220]  即便以我
+[00:00:06.220 --> 00:00:07.500]  以及我个人认为
+[00:00:07.500 --> 00:00:09.020]  一个理性正常的男性
+[00:00:09.020 --> 00:00:11.620]  他都愿意去选择一个
+[00:00:11.620 --> 00:00:13.840]  在复杂维度下的
+[00:00:13.840 --> 00:00:15.040]  一个最优选择
+[00:00:15.040 --> 00:00:17.120]  而不是仅仅简简单单的
+[00:00:17.120 --> 00:00:18.380]  一个20岁的女人
+[00:00:18.380 --> 00:00:20.060]  20岁女人
+[00:00:20.060 --> 00:00:21.460]  我不喜欢的人多了去了
+[00:00:21.460 --> 00:00:22.600]  40岁的女人
+[00:00:22.600 --> 00:00:23.860]  我喜欢的也多了去了
+[00:00:23.860 --> 00:00:25.940]  其实这个跟年龄呢
+[00:00:25.940 --> 00:00:27.540]  没有本质的关系
+[00:00:27.540 --> 00:00:29.820]  我们预言啊
+[00:00:29.820 --> 00:00:31.160]  在互联网时代
+[00:00:31.160 --> 00:00:34.820]  女人随着年龄推移贬值这个问题啊
+[00:00:34.820 --> 00:00:36.560]  如果单从女人来讲呢
+[00:00:36.560 --> 00:00:39.040]  我觉得是将来会不复存在了
+[00:00:39.040 --> 00:00:41.340]  当然我们大家也明白啊
+[00:00:41.340 --> 00:00:43.320]  人随着年龄的增大
+[00:00:43.320 --> 00:00:44.080]  精力啊
+[00:00:44.080 --> 00:00:45.600]  学习能力都会下降啊
+[00:00:45.600 --> 00:00:46.660]  这是一个事实
+[00:00:46.660 --> 00:00:50.020]  但是这是任何一个人呢
+[00:00:50.020 --> 00:00:51.960]  都会出现的贬值下降的问题
+[00:00:51.960 --> 00:00:54.440]  这跟女人是没有任何关系的
+[00:00:54.440 --> 00:00:55.920]  而且其实呢
+[00:00:55.920 --> 00:00:57.540]  人与人呢
+[00:00:57.540 --> 00:00:58.700]  学习能力啊
+[00:00:58.700 --> 00:01:00.120]  经历啊是否下降啊
+[00:01:00.120 --> 00:01:01.820]  是完全是因人而异的
+[00:01:01.820 --> 00:01:04.240]  其实跟年龄甚至没有本质关系
+[00:01:04.240 --> 00:01:05.760]  我们公司啊
+[00:01:05.760 --> 00:01:07.640]  有很多投资人啊
+[00:01:07.640 --> 00:01:08.440]  年纪非常大
+[00:01:08.440 --> 00:01:09.700]  都是上市公司董事长
+[00:01:09.700 --> 00:01:11.080]  或者很有名的投资人
+[00:01:11.080 --> 00:01:13.260]  我平常跟他们聊天啊
+[00:01:13.260 --> 00:01:15.480]  我感觉他们对很多前沿领域的了解
+[00:01:15.480 --> 00:01:17.940]  甚至比我一个二岁的年轻人还敏锐
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 623.581 -t 81.418 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.840]  而当我回到老家
+[00:00:01.840 --> 00:00:04.460]  看到我家乡爷爷奶奶那一辈的人
+[00:00:04.460 --> 00:00:07.000]  你就会感觉他们跟这个时代
+[00:00:07.000 --> 00:00:10.200]  最前沿的很多东西脱节已经非常严重了
+[00:00:10.200 --> 00:00:12.860]  所以年龄可能大家都差不多
+[00:00:12.860 --> 00:00:14.880]  可能都是六七十岁的人
+[00:00:14.880 --> 00:00:16.820]  但是对事物的理解
+[00:00:16.820 --> 00:00:18.660]  差距还是非常大的
+[00:00:18.660 --> 00:00:22.080]  所以这个事情本身也是因人而异的
+[00:00:22.080 --> 00:00:24.760]  其次其实我们也知道到互联网时代
+[00:00:24.760 --> 00:00:26.820]  一个女人的主要使命
+[00:00:26.820 --> 00:00:29.440]  已经是实现个人职业的发展了
+[00:00:29.440 --> 00:00:31.440]  而不是我们刚才讲的
+[00:00:31.440 --> 00:00:32.620]  所谓的年龄啊
+[00:00:32.620 --> 00:00:33.460]  相貌啊
+[00:00:33.460 --> 00:00:34.340]  生育价值
+[00:00:34.340 --> 00:00:35.960]  所以任何一个女人呢
+[00:00:35.960 --> 00:00:38.340]  都应该将自己的个人价值
+[00:00:38.340 --> 00:00:40.000]  职业发展放到第一位
+[00:00:40.000 --> 00:00:42.120]  在这个领域啊
+[00:00:42.120 --> 00:00:45.360]  其实我特别喜欢举雪梨跟王思聪的例子
+[00:00:45.360 --> 00:00:47.840]  我不知道大家知道雪梨跟王思聪吗
+[00:00:47.840 --> 00:00:48.440]  雪梨啊
+[00:00:48.440 --> 00:00:49.760]  在认识王思聪之前
+[00:00:49.760 --> 00:00:52.560]  自己就是新浪微博上很大的一个KOL
+[00:00:52.560 --> 00:00:55.120]  他的销售额啊
+[00:00:55.120 --> 00:00:56.560]  自己开淘宝销售额
+[00:00:56.560 --> 00:00:58.800]  都是达到上亿规模的
+[00:00:58.800 --> 00:01:04.220]  属于阿里巴巴在新浪微博这种新网红战略的典型代表
+[00:01:04.220 --> 00:01:06.220]  自己本身也可以赚非常多的钱
+[00:01:06.220 --> 00:01:08.460]  他与王思聪的恋爱呀
+[00:01:08.460 --> 00:01:10.000]  就是我经常讲的
+[00:01:10.000 --> 00:01:11.640]  就属于不卑不亢
+[00:01:11.640 --> 00:01:13.900]  两个独立灵魂之间的恋爱
+[00:01:13.900 --> 00:01:16.300]  我们经常讲这种恋爱的方式
+[00:01:16.300 --> 00:01:17.420]  就是我很好
+[00:01:17.420 --> 00:01:21.420]  我希望我们在一起能够更好
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 704.499 -t 77.134 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.920]  如果不能更好
+[00:00:01.920 --> 00:00:03.320]  那我们也可以分开
+[00:00:03.320 --> 00:00:05.940]  王思聪和雪梨现在好像已经是分手了
+[00:00:05.940 --> 00:00:09.080]  但是就是在他们在一起的这段时间内
+[00:00:09.080 --> 00:00:11.760]  雪梨得到了王思聪的加持
+[00:00:11.760 --> 00:00:13.020]  王思聪呢
+[00:00:13.020 --> 00:00:17.520]  也通过雪梨迅速在网红圈子建立了自己的声望
+[00:00:17.520 --> 00:00:19.360]  打开了自己的事业图景
+[00:00:19.360 --> 00:00:20.220]  我们也知道
+[00:00:20.220 --> 00:00:21.760]  现在王思聪做熊猫TV
+[00:00:21.760 --> 00:00:24.120]  做非常多的网红节目
+[00:00:24.120 --> 00:00:26.160]  打开了自己新的事业图景
+[00:00:26.160 --> 00:00:28.160]  所以对他们两个人来说
+[00:00:28.160 --> 00:00:29.460]  都是一个双赢
+[00:00:29.460 --> 00:00:31.680]  所以我个人感觉啊
+[00:00:31.680 --> 00:00:32.500]  这也体现出
+[00:00:32.500 --> 00:00:33.620]  你看雪梨啊
+[00:00:33.620 --> 00:00:35.720]  他只要有自己非常独立的事业
+[00:00:35.720 --> 00:00:38.520]  非常独立的想法
+[00:00:38.520 --> 00:00:40.940]  就不会产生很多人想的啊
+[00:00:40.940 --> 00:00:42.260]  我一定要嫁入豪门吗
+[00:00:42.260 --> 00:00:43.740]  我还是要怎么样啊
+[00:00:43.740 --> 00:00:46.380]  其实我只要实现了个人自己的价值
+[00:00:46.380 --> 00:00:47.920]  实现了个人的职业发展
+[00:00:47.920 --> 00:00:49.040]  就够了
+[00:00:49.040 --> 00:00:49.820]  其三呢
+[00:00:49.820 --> 00:00:51.860]  互联网时代的婚姻呢
+[00:00:51.860 --> 00:00:54.420]  不再是改变阶层的一种机会
+[00:00:54.420 --> 00:00:56.640]  而是一种经济结盟
+[00:00:56.640 --> 00:01:02.200]  也是我们选择人生道路合伙人的一个方式
+[00:01:02.200 --> 00:01:08.820]  我们不再认为这个时代会出现任何灰姑娘嫁入豪门的故事
+[00:01:08.820 --> 00:01:12.680]  因为豪门一定会跟豪门结婚
+[00:01:12.680 --> 00:01:17.140]  这本身就是对豪门来说最理性的一种选择
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 781.133 -t 68.851 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.060]  因此对于普通人来说
+[00:00:03.060 --> 00:00:05.840]  最实际最靠谱的
+[00:00:05.840 --> 00:00:08.260]  就是在你的生活范围内
+[00:00:08.260 --> 00:00:10.660]  寻找你的人生合伙人
+[00:00:10.660 --> 00:00:13.440]  这点我觉得与创业非常类似
+[00:00:13.440 --> 00:00:14.640]  我创业这么久
+[00:00:14.640 --> 00:00:17.460]  我觉得我们核心
+[00:00:17.460 --> 00:00:18.780]  就是要去寻找到
+[00:00:18.780 --> 00:00:20.380]  至少在现阶段
+[00:00:20.380 --> 00:00:22.300]  与我们最契合
+[00:00:22.300 --> 00:00:24.100]  欣赏我们的
+[00:00:24.100 --> 00:00:26.100]  我们也爱他的那个人
+[00:00:26.100 --> 00:00:27.520]  成为我们的合伙人
+[00:00:27.520 --> 00:00:29.940]  如果明白了这一点
+[00:00:29.940 --> 00:00:31.140]  我们也能知道
+[00:00:31.140 --> 00:00:34.960]  结婚和年龄没有任何关系
+[00:00:34.960 --> 00:00:39.880]  女性也不可能通过卖身卖色来获得尊严地位
+[00:00:39.880 --> 00:00:41.960]  越搞懂这一点呢
+[00:00:41.960 --> 00:00:44.520]  婚姻就越容易幸福
+[00:00:44.520 --> 00:00:48.880]  因为我们的婚姻是选择了那个我们喜欢
+[00:00:48.880 --> 00:00:51.000]  也喜欢我们的人
+[00:00:51.000 --> 00:00:53.340]  成为我们真正的人生合伙人
+[00:00:53.340 --> 00:00:55.840]  这样一种婚姻
+[00:00:55.840 --> 00:00:58.900]  即便是从创业公司投资的角度来讲
+[00:00:58.900 --> 00:01:02.240]  也是最具投资价值和最具前景的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__043__4c33cf4b/chunk-010/out -sns -nf -np

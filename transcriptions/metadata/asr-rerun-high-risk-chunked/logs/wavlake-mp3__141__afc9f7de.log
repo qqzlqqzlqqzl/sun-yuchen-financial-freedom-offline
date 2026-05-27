@@ -1,0 +1,294 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 70.436 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/141 - 141 - 142 孙宇晨：【未来趋势】战狼2如果应用了区块链技术（上）.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:31.100]  是9月3号了
+[00:00:31.100 --> 00:00:32.640]  这是我们上一次播出节目
+[00:00:32.640 --> 00:00:33.500]  8月25号
+[00:00:33.500 --> 00:00:35.200]  已经有9天的时间了
+[00:00:35.200 --> 00:00:37.540]  在这9天时间中
+[00:00:37.540 --> 00:00:39.540]  其实不光在这9天时间中
+[00:00:39.540 --> 00:00:42.900]  在过去的这两个月时间
+[00:00:42.900 --> 00:00:46.900]  我感觉至少过去了四五年
+[00:00:46.900 --> 00:00:48.200]  对于我来说
+[00:00:48.200 --> 00:00:49.480]  过去了四五年
+[00:00:49.480 --> 00:00:50.820]  大家也知道
+[00:00:50.820 --> 00:00:52.540]  可能有的关注我的朋友也知道
+[00:00:52.540 --> 00:00:54.640]  我们这个播场创的这个项目
+[00:00:54.640 --> 00:00:55.920]  正式上线了
+[00:00:55.920 --> 00:00:57.880]  不仅上线了
+[00:00:57.880 --> 00:01:00.680]  然后我们也在虚拟货币领域
+[00:01:00.680 --> 00:01:03.480]  造成了很大的影响
+[00:01:03.480 --> 00:01:05.660]  很多人都关注我们这个项目
+[00:01:05.660 --> 00:01:09.580]  非常多的人也都希望投资我们这个项目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 69.936 -t 77.477 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/141 - 141 - 142 孙宇晨：【未来趋势】战狼2如果应用了区块链技术（上）.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.300]  给我们确实带来了很多好处
+[00:00:03.300 --> 00:00:05.180]  我们当然也非常感谢大家的信任
+[00:00:05.180 --> 00:00:08.660]  当然同时也给我们带来了非常多的压力了
+[00:00:08.660 --> 00:00:11.140]  我们非常能期望把这件事情做好
+[00:00:11.140 --> 00:00:12.640]  我个人呢
+[00:00:12.640 --> 00:00:14.460]  当然是非常看好区块链
+[00:00:14.460 --> 00:00:16.520]  以及虚拟货币这个领域的啊
+[00:00:16.520 --> 00:00:19.680]  我甚至认为这就是下一代的互联网
+[00:00:19.680 --> 00:00:22.380]  会有非常多的巨头啊
+[00:00:22.380 --> 00:00:24.540]  真正从这个领域诞生
+[00:00:24.540 --> 00:00:26.580]  当然这也是给大家可以判断
+[00:00:26.580 --> 00:00:27.700]  你做的行业好不好
+[00:00:27.700 --> 00:00:28.980]  这个标准啊
+[00:00:28.980 --> 00:00:32.440]  就如果你在这个行业一天能当三天过
+[00:00:32.440 --> 00:00:32.920]  是吧
+[00:00:32.920 --> 00:00:34.720]  一周能当一个月过
+[00:00:34.720 --> 00:00:36.780]  这肯定是个好行业吧
+[00:00:36.780 --> 00:00:38.880]  我觉得这至少是个好行业的征兆
+[00:00:38.880 --> 00:00:41.500]  而虚拟货币恰恰啊
+[00:00:41.500 --> 00:00:42.000]  就是这样
+[00:00:42.000 --> 00:00:43.600]  这个节目呢
+[00:00:43.600 --> 00:00:46.320]  确实有一两期没录了啊
+[00:00:46.320 --> 00:00:47.640]  核心原因很简单
+[00:00:47.640 --> 00:00:51.000]  因为负责这个节目的同事离职了
+[00:00:51.000 --> 00:00:52.280]  然后呢
+[00:00:52.280 --> 00:00:53.340]  我呢
+[00:00:53.340 --> 00:00:55.480]  又奔波在全国各地
+[00:00:55.480 --> 00:00:58.820]  这个唯一能负责这个节目的另外一个同事呢
+[00:00:58.820 --> 00:01:01.160]  也被我们派去做中国行了
+[00:01:01.160 --> 00:01:04.000]  我们把全中国跑了一圈
+[00:01:04.000 --> 00:01:06.700]  去了这个北京
+[00:01:06.700 --> 00:01:10.980]  上海杭州深圳成都长沙
+[00:01:10.980 --> 00:01:12.460]  这几个城市吧
+[00:01:12.460 --> 00:01:14.100]  还有厦门武汉
+[00:01:14.100 --> 00:01:15.100]  总之吧
+[00:01:15.100 --> 00:01:17.480]  中国算是全跑了一圈
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 146.913 -t 77.249 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/141 - 141 - 142 孙宇晨：【未来趋势】战狼2如果应用了区块链技术（上）.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.600]  然后又发布了我们自己的白皮书
+[00:00:03.600 --> 00:00:05.120]  办了非常多的活动
+[00:00:05.120 --> 00:00:06.560]  现在活动都已经办完了
+[00:00:06.560 --> 00:00:08.700]  现在我们非常重要的组织
+[00:00:08.700 --> 00:00:10.640]  就可能是组织国际开发者了
+[00:00:10.640 --> 00:00:13.200]  大家想想这个事情也挺奇妙的
+[00:00:13.200 --> 00:00:15.920]  我们现在才做了两个月
+[00:00:15.920 --> 00:00:20.940]  在全世界已经有遍布20多个国家地区的粉丝了
+[00:00:20.940 --> 00:00:25.100]  而且真的不是说雨晨拿一个老白就算一个国家
+[00:00:25.100 --> 00:00:29.780]  而是我们在每个地方都有相当好的牛逼的社群
+[00:00:29.780 --> 00:00:31.840]  比方说我们在俄罗斯啊
+[00:00:31.840 --> 00:00:33.140]  就有一个叫波波夫
+[00:00:33.140 --> 00:00:34.820]  安德烈波波夫的粉丝
+[00:00:34.820 --> 00:00:36.920]  组织了500人的粉丝群
+[00:00:36.920 --> 00:00:40.420]  每天希望我们能够到俄罗斯去看一看
+[00:00:40.420 --> 00:00:41.180]  大家啊
+[00:00:41.180 --> 00:00:43.740]  如果今天咱们喜马拉雅的听众啊
+[00:00:43.740 --> 00:00:48.440]  还有人没有关注过我做的这个新的叫创播场这个项目的
+[00:00:48.440 --> 00:00:51.820]  非常希望大家能够好好关注关注
+[00:00:51.820 --> 00:00:52.800]  因为这个项目
+[00:00:52.800 --> 00:00:57.620]  其实我们现在在整个虚拟货币领域算是做的比较有新意吧
+[00:00:57.620 --> 00:01:01.840]  大家也不少人给予了很高的评价
+[00:01:01.840 --> 00:01:04.440]  同时在币圈中也是赚足了眼球吧
+[00:01:04.440 --> 00:01:06.080]  很多人都关注咱们这个项目
+[00:01:06.080 --> 00:01:08.960]  其实咱们这个项目的初心呢
+[00:01:08.960 --> 00:01:17.240]  核心就是想做一个未来能够赋能内容创业者的数字资产发行平台
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 223.662 -t 73.589 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/141 - 141 - 142 孙宇晨：【未来趋势】战狼2如果应用了区块链技术（上）.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.011 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.640]  也就是说我经常举的一个例子
+[00:00:02.640 --> 00:00:03.280]  就是未来
+[00:00:03.280 --> 00:00:06.960]  吴京不用通过卖房才能拍战狼2
+[00:00:06.960 --> 00:00:10.420]  而可以通过向吴京的社群
+[00:00:10.420 --> 00:00:13.960]  进行数字资产发行与登记的模式
+[00:00:13.960 --> 00:00:15.620]  来拍摄战狼2
+[00:00:15.620 --> 00:00:22.360]  当然参与战狼2数字资产发行募集的粉丝们
+[00:00:22.360 --> 00:00:26.860]  也可以获得吴京拍摄战狼2所带来的增值
+[00:00:26.860 --> 00:00:30.080]  当然如果没有增值
+[00:00:30.080 --> 00:00:33.380]  你就可以当做是为自己爱好的一种买单
+[00:00:33.380 --> 00:00:36.080]  就像我自己非常喜欢权力的游戏
+[00:00:36.080 --> 00:00:39.320]  这部美剧就冰与火之歌改编的
+[00:00:39.320 --> 00:00:42.920]  日后其实如果有冰与火之歌外传的改编
+[00:00:42.920 --> 00:00:46.660]  我甚至就是在制片方没有投钱之前
+[00:00:46.660 --> 00:00:48.460]  我自己都愿意投一部分钱
+[00:00:48.460 --> 00:00:50.900]  去资助这一个电影的拍摄
+[00:00:50.900 --> 00:00:52.460]  或者是电视剧的拍摄
+[00:00:52.460 --> 00:00:56.340]  这个我在我认为对未来的领域还是非常革命的
+[00:00:56.340 --> 00:00:59.540]  这基本上颠覆了整个产业结构
+[00:00:59.540 --> 00:01:00.540]  我们经常讲啊
+[00:01:00.540 --> 00:01:02.880]  以前啊都是所谓的
+[00:01:02.880 --> 00:01:05.780]  Maker to Fence
+[00:01:05.780 --> 00:01:07.740]  就是大家制作出来什么东西
+[00:01:07.740 --> 00:01:10.000]  你看什么东西对吧啊
+[00:01:10.000 --> 00:01:11.340]  但是我觉得在未来
+[00:01:11.340 --> 00:01:13.580]  我们这个时代是Fence to Maker
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 296.751 -t 75.574 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/141 - 141 - 142 孙宇晨：【未来趋势】战狼2如果应用了区块链技术（上）.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.560]  也是我们今天制造业
+[00:00:01.560 --> 00:00:02.720]  经常讲的一个新概念
+[00:00:02.720 --> 00:00:03.420]  叫C2M
+[00:00:03.420 --> 00:00:04.560]  就是Customer to Maker
+[00:00:04.560 --> 00:00:07.180]  就是顾客和粉丝
+[00:00:07.180 --> 00:00:08.600]  喜欢要什么样的产品
+[00:00:08.600 --> 00:00:11.460]  他们去进行一定程度的
+[00:00:11.460 --> 00:00:12.860]  筹资和发行
+[00:00:12.860 --> 00:00:16.460]  来决定上游的发行和制作
+[00:00:16.460 --> 00:00:18.840]  所以从某种程度上来讲
+[00:00:18.840 --> 00:00:21.180]  这会颠覆通过社群
+[00:00:21.180 --> 00:00:24.200]  以及粉丝金融的方式
+[00:00:24.200 --> 00:00:26.240]  去颠覆已有的
+[00:00:26.240 --> 00:00:28.080]  在之前人类没有互联网之前
+[00:00:28.080 --> 00:00:29.980]  无法完成连接
+[00:00:29.980 --> 00:00:32.380]  使得工业大革命的生产体系
+[00:00:32.380 --> 00:00:34.700]  以前工业革命时期的生产体系
+[00:00:34.700 --> 00:00:35.440]  为什么是这种
+[00:00:35.440 --> 00:00:37.120]  就比如说电影的是这种
+[00:00:37.120 --> 00:00:39.880]  资本来做电影进行制造呢
+[00:00:39.880 --> 00:00:42.120]  大家知道电影是个重资产投资行业
+[00:00:42.120 --> 00:00:42.900]  某种程度上
+[00:00:42.900 --> 00:00:44.460]  拍一部电影要花很多钱
+[00:00:44.460 --> 00:00:46.960]  从整个资源的调配
+[00:00:46.960 --> 00:00:49.760]  都不是每个人能够决定的
+[00:00:49.760 --> 00:00:51.900]  而现在已经不是这样了
+[00:00:51.900 --> 00:00:53.840]  现在互联网空前将每个人联系起来
+[00:00:53.840 --> 00:00:56.060]  数字虚拟货币要让全球的人
+[00:00:56.060 --> 00:00:59.620]  进行转账支付众筹都非常方便
+[00:00:59.620 --> 00:01:01.660]  然后在这样的情况下
+[00:01:01.660 --> 00:01:04.780]  只要信息公开项目透明
+[00:01:04.780 --> 00:01:06.940]  号召人有流量
+[00:01:06.940 --> 00:01:12.480]  这样的话就可以构造成一个全球性的项目网络
+[00:01:12.480 --> 00:01:13.780]  从这个角度来讲
+[00:01:13.780 --> 00:01:15.580]  我个人认为
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 371.825 -t 38.100 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/141 - 141 - 142 孙宇晨：【未来趋势】战狼2如果应用了区块链技术（上）.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.480 --> 00:00:02.260]  他还在一个革命的前夜
+[00:00:02.260 --> 00:00:07.640]  甚至会对未来各行各业的发展都会非常大的影响
+[00:00:07.640 --> 00:00:13.080]  我自己乍一想就会有音乐影视出版
+[00:00:13.080 --> 00:00:19.000]  这些以前我们经常讲是通过资本策划的公司策划
+[00:00:19.000 --> 00:00:21.920]  制作产品最后送达每个粉丝手中
+[00:00:21.920 --> 00:00:24.920]  很有可能都会被这种新粉丝社区模式而颠覆
+[00:00:30.000 --> 00:00:37.380]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__141__afc9f7de/chunk-005/out -sns -nf -np

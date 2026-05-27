@@ -1,0 +1,540 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 74.520 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.420]  大家好 我是陪我APP创始人孙宇辰
+[00:00:02.420 --> 00:00:05.980]  我想邀你一起与我踏上财富自由革命之路
+[00:00:05.980 --> 00:00:08.860]  我在财富自由的另一边等着你
+[00:00:08.860 --> 00:00:12.180]  大家以前对于一万小时定律
+[00:00:12.180 --> 00:00:13.540]  还有一个错误的理解
+[00:00:13.540 --> 00:00:15.400]  就是我们经常想说一万小时定律
+[00:00:15.400 --> 00:00:18.000]  好 我就像张无忌一样
+[00:00:18.000 --> 00:00:21.700]  进山洞里面苦练五年
+[00:00:21.700 --> 00:00:24.000]  九阳神功就成了
+[00:00:24.000 --> 00:00:26.100]  或者是扫地僧
+[00:00:26.100 --> 00:00:27.320]  天天扫地
+[00:00:27.320 --> 00:00:30.460]  比如说把那个扫把都扫成这种铁扫住了
+[00:00:30.460 --> 00:00:33.400]  用扫把随便一碰一个人就飞出武藏园
+[00:00:33.400 --> 00:00:36.720]  这种想象在现实生活中啊
+[00:00:36.720 --> 00:00:38.400]  是没法出现的
+[00:00:38.400 --> 00:00:41.600]  比如说以前记得还有一个很简单的道理
+[00:00:41.600 --> 00:00:42.740]  就是经常有人说
+[00:00:42.740 --> 00:00:46.880]  我们小时候喜欢把手往这个米缸里面插
+[00:00:46.880 --> 00:00:47.260]  是吧
+[00:00:47.260 --> 00:00:49.180]  就感觉我在练铁杀掌
+[00:00:49.180 --> 00:00:52.340]  就经常有一些这种少林的电影啊
+[00:00:52.340 --> 00:00:53.800]  也经常对我们具有误导
+[00:00:53.800 --> 00:00:55.180]  就说好像啊
+[00:00:55.180 --> 00:00:56.460]  我练个少林神功
+[00:00:56.460 --> 00:00:59.160]  每天把手在这个砖头上磕
+[00:00:59.160 --> 00:00:59.680]  是不是啊
+[00:00:59.680 --> 00:01:01.220]  磕它五万次
+[00:01:01.220 --> 00:01:03.280]  随便一碰砖头就碎了
+[00:01:03.280 --> 00:01:05.180]  我个人认为啊
+[00:01:05.180 --> 00:01:08.500]  这种事情一般都是很难发生的
+[00:01:08.500 --> 00:01:11.760]  天天用脑袋去撞墙
+[00:01:11.760 --> 00:01:14.520]  绝对不会
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 74.020 -t 72.702 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.960 --> 00:00:03.440]  下次你再一撞的时候可以把墙撞倒
+[00:00:03.440 --> 00:00:07.040]  而我觉得只可能把脑袋还是磕一个大包
+[00:00:07.040 --> 00:00:09.000]  原因很简单
+[00:00:09.000 --> 00:00:10.860]  就是一万小时定律
+[00:00:10.860 --> 00:00:15.340]  它最重要的并不是这个一万小时本身
+[00:00:15.340 --> 00:00:19.920]  而是如何将这一万小时分割练习
+[00:00:19.920 --> 00:00:22.580]  并反馈的一连串的机制
+[00:00:22.580 --> 00:00:25.800]  所以在这个一万小时定律
+[00:00:25.800 --> 00:00:28.140]  不仅没有降低老师的作用
+[00:00:28.320 --> 00:00:30.740]  反而是增强了老师的作用
+[00:00:30.740 --> 00:00:32.260]  就像我刚才讲的
+[00:00:32.260 --> 00:00:35.240]  为什么我们也经常说
+[00:00:35.240 --> 00:00:38.260]  中国要有自己的足球清训体系
+[00:00:38.260 --> 00:00:39.400]  以及这一整套的
+[00:00:39.400 --> 00:00:40.760]  的确就是如此
+[00:00:40.760 --> 00:00:44.000]  球员不是说我们撒开了花
+[00:00:44.000 --> 00:00:45.960]  大家随便踢随便练
+[00:00:45.960 --> 00:00:47.300]  就能练好的
+[00:00:47.300 --> 00:00:50.140]  相信因为我自己本身是学围棋的
+[00:00:50.140 --> 00:00:52.520]  相信大家以前也有这样体会
+[00:00:52.520 --> 00:00:53.760]  如果你以前学过棋
+[00:00:53.760 --> 00:00:56.340]  或者甚至包括大家现在打王者荣耀
+[00:00:56.340 --> 00:00:57.000]  打的很多
+[00:00:57.000 --> 00:01:00.480]  都是反复去复盘分解
+[00:01:00.480 --> 00:01:02.600]  学习的速度啊
+[00:01:02.600 --> 00:01:06.020]  要远远比瞎玩提高的速度要快得多
+[00:01:06.020 --> 00:01:10.340]  这个里面最重要的就是有老师对你进行反馈
+[00:01:10.340 --> 00:01:11.780]  包括
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 146.223 -t 73.659 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.220 --> 00:00:04.700]  我们大家玩的王者荣耀这种MOBA 5v5的游戏
+[00:00:04.700 --> 00:00:08.620]  你叫把它分为战术切换
+[00:00:08.620 --> 00:00:10.900]  骚扰对方的时机
+[00:00:10.900 --> 00:00:14.220]  进入比如说对方也去打野的时机
+[00:00:14.220 --> 00:00:15.600]  打野偷塔
+[00:00:15.600 --> 00:00:20.500]  每个操作都要进行细化性的分析
+[00:00:20.500 --> 00:00:23.160]  以及五个人在进行配合
+[00:00:23.160 --> 00:00:27.140]  才能取得一个比较良好的进展
+[00:00:27.140 --> 00:00:29.700]  而不是有的人比如经常也跟我说
+[00:00:29.700 --> 00:00:33.180]  我说宇晨我王者荣耀都打了5000盘了
+[00:00:33.180 --> 00:00:36.080]  为什么还徘徊在白银水平呢
+[00:00:36.080 --> 00:00:38.060]  原因就是如此
+[00:00:38.060 --> 00:00:41.120]  所以这时候我们知道了
+[00:00:41.120 --> 00:00:44.420]  往往能够决定训练员出成绩的
+[00:00:44.420 --> 00:00:47.320]  训练认真与否
+[00:00:47.320 --> 00:00:51.340]  仅仅是其中非常小的一个环节
+[00:00:51.340 --> 00:00:56.380]  核心还是有没有非常好的老师
+[00:00:56.380 --> 00:00:58.800]  对这个进行分工和指导
+[00:00:58.800 --> 00:01:00.080]  当然了
+[00:01:00.080 --> 00:01:01.560]  我们生活中有时候
+[00:01:01.560 --> 00:01:03.180]  你并没有办法
+[00:01:03.180 --> 00:01:04.860]  一下就找到这样好的老师
+[00:01:04.860 --> 00:01:06.420]  那从这个道理
+[00:01:06.420 --> 00:01:07.880]  就像久病成医一样
+[00:01:07.880 --> 00:01:09.140]  你自己啊
+[00:01:09.140 --> 00:01:10.980]  就要做自己比较好的教练
+[00:01:10.980 --> 00:01:13.660]  不断的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 219.381 -t 68.438 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.380 --> 00:00:02.520]  对自己进行反馈和提升
+[00:00:02.520 --> 00:00:04.820]  然后这时候老师啊
+[00:00:04.820 --> 00:00:07.220]  他的真正作用也发挥出来了
+[00:00:07.220 --> 00:00:09.460]  老师其实我们经常讲啊
+[00:00:09.460 --> 00:00:10.680]  老师并不是说好
+[00:00:10.680 --> 00:00:11.800]  你来一个补习班
+[00:00:11.800 --> 00:00:14.920]  这个老师天天在这填鸭式教学
+[00:00:14.920 --> 00:00:15.740]  给你讲课
+[00:00:15.740 --> 00:00:18.000]  讲比如说五六天
+[00:00:18.000 --> 00:00:20.020]  往往啊
+[00:00:20.020 --> 00:00:21.540]  老师的真正价值不是这个
+[00:00:21.540 --> 00:00:23.480]  老师的真正价值是
+[00:00:23.480 --> 00:00:24.840]  其实你学过五六天
+[00:00:24.840 --> 00:00:26.360]  无论是老师讲的也好
+[00:00:26.360 --> 00:00:27.560]  你是自学的也好
+[00:00:27.560 --> 00:00:29.360]  学过五六天之后
+[00:00:29.360 --> 00:00:29.960]  老师说好
+[00:00:29.960 --> 00:00:32.600]  你把剩下的东西给我复述一遍
+[00:00:32.600 --> 00:00:34.560]  这时候你复述的时候
+[00:00:34.560 --> 00:00:36.240]  老师对你进行反馈
+[00:00:36.240 --> 00:00:39.020]  告诉你哪些你复述的是对的
+[00:00:39.020 --> 00:00:40.980]  哪些你复述的是错的
+[00:00:40.980 --> 00:00:44.240]  这一个环节是最值钱的
+[00:00:44.240 --> 00:00:45.900]  这个大家也会发现
+[00:00:45.900 --> 00:00:49.300]  就是类似的职业都有这个特征
+[00:00:49.300 --> 00:00:51.080]  就比方说医生也是
+[00:00:51.080 --> 00:00:53.140]  一个医生啊
+[00:00:53.140 --> 00:00:55.540]  往往我们去看医院看病
+[00:00:55.540 --> 00:01:00.360]  其实中国现在对医生的理解也有这个偏差
+[00:01:00.360 --> 00:01:02.020]  我们去医院看病
+[00:01:02.020 --> 00:01:04.280]  医生首先会让你去做很多检查
+[00:01:04.280 --> 00:01:06.320]  比如说去照个胸镜
+[00:01:06.320 --> 00:01:08.440]  比如这次我去感冒
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 287.320 -t 73.109 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.012 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.160 --> 00:00:02.060]  医生叫你去照个胸镜
+[00:00:02.060 --> 00:00:03.900]  然后做个B超
+[00:00:03.900 --> 00:00:05.120]  有一连串的这些
+[00:00:05.120 --> 00:00:10.320]  其实这些本身检查无论多少钱都不是最关键的
+[00:00:10.320 --> 00:00:13.260]  最关键的核心溢价是
+[00:00:13.260 --> 00:00:17.760]  医生基于这些数据以及提供的这些症状
+[00:00:17.760 --> 00:00:22.280]  能够做出一个符合减轻症状
+[00:00:22.280 --> 00:00:24.940]  同时又能把你病治好的这么一个判断
+[00:00:24.940 --> 00:00:27.500]  这个判断是最贵的
+[00:00:27.740 --> 00:00:30.760]  包括医生可能熟练练习一辈子
+[00:00:30.760 --> 00:00:32.340]  都是在为这个判断做准备
+[00:00:32.340 --> 00:00:33.860]  这就是医生的价值
+[00:00:33.860 --> 00:00:35.520]  老师的价值也是这样
+[00:00:35.520 --> 00:00:37.120]  他做出所有东西啊
+[00:00:37.120 --> 00:00:38.640]  在一万小时定律里
+[00:00:38.640 --> 00:00:42.240]  最大的就是为你的这个反馈做准备
+[00:00:42.240 --> 00:00:44.660]  他就能一下子告诉你说
+[00:00:44.660 --> 00:00:45.540]  好没有问题
+[00:00:45.540 --> 00:00:48.160]  这种练习方式是最好的
+[00:00:48.160 --> 00:00:51.100]  所以从这个角度来说啊
+[00:00:51.100 --> 00:00:52.180]  我们发现啊
+[00:00:52.180 --> 00:00:53.860]  为什么啊
+[00:00:53.860 --> 00:00:55.220]  我们经常平常说的
+[00:00:55.220 --> 00:00:56.420]  说我怎么
+[00:00:56.420 --> 00:00:57.820]  他积累的好
+[00:00:57.820 --> 00:00:58.840]  我积累的不好
+[00:00:58.840 --> 00:01:00.960]  原因很有可能
+[00:01:00.960 --> 00:01:03.640]  就是发生在我们刚才讲的这些方面
+[00:01:03.640 --> 00:01:06.200]  给大家复习一遍
+[00:01:06.200 --> 00:01:06.720]  一
+[00:01:06.720 --> 00:01:09.000]  你是刻意的练习吗
+[00:01:09.000 --> 00:01:11.360]  如果不是刻意的练习
+[00:01:11.360 --> 00:01:12.060]  那不行
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 359.928 -t 75.577 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:00.740]  第二
+[00:00:00.740 --> 00:00:03.880]  你是不是在自己的舒适区练习
+[00:00:03.880 --> 00:00:06.940]  在自己的舒适区练习也是不行的
+[00:00:06.940 --> 00:00:12.440]  那你是不是又在一个自己可以达到的目标范围内练习呢
+[00:00:12.440 --> 00:00:14.340]  确实是如此
+[00:00:14.340 --> 00:00:19.380]  那最后就是有没有一个比较好的教练
+[00:00:19.380 --> 00:00:22.740]  或者你自己给你做反馈练习
+[00:00:22.740 --> 00:00:25.900]  包括将你希望练习的这件事情
+[00:00:25.900 --> 00:00:32.580]  有一个比较完美以及完善的收集机制
+[00:00:32.580 --> 00:00:33.780]  收集方式
+[00:00:33.780 --> 00:00:35.660]  并且不断进行反馈和复盘
+[00:00:35.660 --> 00:00:41.220]  如果你能把上述我们讲的原则都做到了
+[00:00:41.220 --> 00:00:44.180]  基础上不断的进行累加
+[00:00:44.180 --> 00:00:45.800]  一般来说
+[00:00:45.800 --> 00:00:52.900]  在五年之内是很容易将至少一个方向的练习方式
+[00:00:52.900 --> 00:00:54.660]  包括职业技能掌握
+[00:00:54.660 --> 00:00:57.800]  达到一个比较好的水平
+[00:00:57.800 --> 00:01:00.480]  这也是为什么我们经常讲的
+[00:01:00.480 --> 00:01:02.700]  往往稀里糊涂做一件事情
+[00:01:02.700 --> 00:01:04.680]  那做一万小时定律
+[00:01:04.680 --> 00:01:07.540]  往往也是无用功的一个核心原因
+[00:01:07.540 --> 00:01:09.380]  而且呢
+[00:01:09.380 --> 00:01:12.680]  当大家掌握了这个方式方法
+[00:01:12.680 --> 00:01:15.580]  就是一万小时定律呢
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 435.005 -t 75.691 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.300 --> 00:00:03.160]  不仅仅能让我们明确知道
+[00:00:03.160 --> 00:00:06.020]  我们在一万个小时之内
+[00:00:06.020 --> 00:00:10.080]  通过刻意练习反馈机制
+[00:00:10.080 --> 00:00:13.060]  能够很好的达成一个效果
+[00:00:13.060 --> 00:00:18.900]  同时也能够缩短我们达成这个效果所花的时间
+[00:00:18.900 --> 00:00:21.920]  而这个也是非常关键的
+[00:00:21.920 --> 00:00:24.280]  还是举我刚才讲的一个例子
+[00:00:24.280 --> 00:00:27.140]  有的人可能包括小学生是吧
+[00:00:27.140 --> 00:00:29.720]  连续打一年王者荣耀
+[00:00:29.720 --> 00:00:31.780]  水平都不会有任何提升
+[00:00:31.780 --> 00:00:36.120]  但是如果你用我这套反馈机制的方式方法
+[00:00:36.120 --> 00:00:37.620]  去玩王者荣耀
+[00:00:37.620 --> 00:00:42.320]  可能一个月就能将你的王者荣耀的水平
+[00:00:42.320 --> 00:00:44.320]  有一个非常高的飞跃
+[00:00:44.320 --> 00:00:46.280]  但我这个不是我的方法
+[00:00:46.280 --> 00:00:47.320]  我现在现编的
+[00:00:47.320 --> 00:00:48.220]  我王者荣耀水平
+[00:00:48.220 --> 00:00:49.620]  现在也是黄金而已
+[00:00:49.620 --> 00:00:53.060]  我从来没有把它分解过来学习
+[00:00:53.060 --> 00:00:54.060]  因为平常没有时间
+[00:00:54.060 --> 00:00:56.280]  但如果你想迅速提升
+[00:00:56.280 --> 00:01:00.480]  甚至包括在游戏各行各业领域的能力的话
+[00:01:00.480 --> 00:01:04.720]  用我这套方法论来提升速度也是最快的
+[00:01:04.720 --> 00:01:08.960]  包括很多类游戏性质的竞争
+[00:01:08.960 --> 00:01:10.360]  就一万小时定律
+[00:01:10.360 --> 00:01:11.720]  大家还要明确一点
+[00:01:11.720 --> 00:01:13.740]  就它在竞争中特别好使
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 510.196 -t 76.551 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.580 --> 00:00:01.920]  尤其简单竞争
+[00:00:01.920 --> 00:00:03.300]  比如说王者荣耀打游戏
+[00:00:03.300 --> 00:00:05.040]  然后包括类高考
+[00:00:05.040 --> 00:00:06.200]  大家都做同一套题
+[00:00:06.200 --> 00:00:07.920]  这种都是类竞争类的
+[00:00:07.920 --> 00:00:10.180]  一万小时定律都很容易发挥作用
+[00:00:10.180 --> 00:00:14.260]  就是只要你前面把战术搞好
+[00:00:14.260 --> 00:00:17.760]  根据每个阶段刻意练习提升
+[00:00:17.760 --> 00:00:21.480]  就再有比较好的反馈机制掌握
+[00:00:21.480 --> 00:00:23.860]  就这样一整套的这个循环
+[00:00:23.860 --> 00:00:26.180]  来做这种类竞争类都非常好
+[00:00:26.180 --> 00:00:27.900]  再举一个高考的例子
+[00:00:27.900 --> 00:00:29.500]  你想高考例子我们也是
+[00:00:29.500 --> 00:00:31.040]  好我们进去高考
+[00:00:31.040 --> 00:00:32.660]  比如说我们希望达到650分
+[00:00:32.660 --> 00:00:33.600]  750分满分
+[00:00:33.600 --> 00:00:36.580]  那么每一门科目是150分
+[00:00:36.580 --> 00:00:39.620]  分为语术Y综合和X科
+[00:00:39.620 --> 00:00:42.180]  那么比如说具体到数学这一门课
+[00:00:42.180 --> 00:00:43.620]  数学这一门课
+[00:00:43.620 --> 00:00:46.520]  你的学习的情况大概是什么样的
+[00:00:46.520 --> 00:00:47.860]  几何占多少
+[00:00:47.860 --> 00:00:49.240]  圆锥曲线占多少
+[00:00:49.240 --> 00:00:51.260]  然后具体都是到圆锥曲线
+[00:00:51.260 --> 00:00:53.600]  你对圆锥曲线哪个部分的结合点
+[00:00:53.600 --> 00:00:54.780]  掌握的怎么样
+[00:00:54.780 --> 00:00:55.740]  进行课义练习
+[00:00:55.740 --> 00:00:59.520]  所以只要把它分割成一个个小块
+[00:00:59.520 --> 00:01:03.540]  再对每个小块进行强化和刻意练习
+[00:01:03.540 --> 00:01:07.980]  很快慢慢就会在整体上呈现一个非常好的效果
+[00:01:07.980 --> 00:01:09.000]  所以呢
+[00:01:09.000 --> 00:01:10.720]  从这个角度来说
+[00:01:10.720 --> 00:01:13.540]  只要满足了以上几点
+[00:01:13.540 --> 00:01:16.020]  就可以有一个非常好的效果
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 586.247 -t 76.503 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.120]  当然这些事情的反例就是
+[00:00:03.120 --> 00:00:05.140]  如果你没有这么做
+[00:00:05.140 --> 00:00:07.420]  就算花了十万个小时
+[00:00:07.420 --> 00:00:09.160]  也不会有任何卵用的
+[00:00:09.160 --> 00:00:11.620]  就跟我可能学围棋
+[00:00:11.620 --> 00:00:13.440]  就系统性学习围棋之前
+[00:00:13.440 --> 00:00:15.140]  有很长一段时间
+[00:00:15.140 --> 00:00:16.840]  就跟我那小伙伴臭其搂子
+[00:00:16.840 --> 00:00:18.540]  下的都比我差的人天天下
+[00:00:18.540 --> 00:00:20.940]  只不过大家可能看到这个路边
+[00:00:20.940 --> 00:00:22.180]  经常我们摆的这种摊
+[00:00:22.180 --> 00:00:24.520]  下这种象棋的人也很多
+[00:00:24.520 --> 00:00:27.460]  这个往往就是完全是浪费时间
+[00:00:27.460 --> 00:00:29.440]  就跟我们想象的像扫地僧一样
+[00:00:29.440 --> 00:00:31.420]  我扫五万年
+[00:00:31.420 --> 00:00:32.720]  是不是这个用这个
+[00:00:32.720 --> 00:00:33.940]  随便用这个扫帚一碰
+[00:00:33.940 --> 00:00:34.420]  是吧
+[00:00:34.420 --> 00:00:35.260]  东西都飞出去
+[00:00:35.260 --> 00:00:36.160]  不可能的
+[00:00:36.160 --> 00:00:38.360]  就是在这种低效
+[00:00:38.360 --> 00:00:40.260]  缺乏刻意练习
+[00:00:40.260 --> 00:00:41.420]  缺乏反馈
+[00:00:41.420 --> 00:00:42.380]  缺乏纠正
+[00:00:42.380 --> 00:00:45.020]  缺乏就是分割体系
+[00:00:45.020 --> 00:00:47.380]  一个个逐个纠正的这种
+[00:00:47.380 --> 00:00:49.480]  像正确方向纠正的这种
+[00:00:49.480 --> 00:00:51.580]  特征的练习
+[00:00:51.580 --> 00:00:52.940]  那是完全是炮灰
+[00:00:52.940 --> 00:00:54.320]  这就是为什么
+[00:00:54.320 --> 00:00:55.960]  绝大多数人
+[00:00:55.960 --> 00:00:58.560]  在做一万小时定律的时候
+[00:00:58.560 --> 00:01:01.180]  并没有达到它的结果的核心原因
+[00:01:01.180 --> 00:01:02.340]  好的
+[00:01:02.340 --> 00:01:04.820]  那今天这一集就先到这里
+[00:01:04.820 --> 00:01:07.960]  也继续我们的这个问题收集
+[00:01:07.960 --> 00:01:09.540]  希望大家呢
+[00:01:09.540 --> 00:01:10.880]  可以给我讲一讲
+[00:01:10.880 --> 00:01:14.060]  你对一万小时定律是如何理解的
+[00:01:14.060 --> 00:01:15.900]  可以举一些
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 662.250 -t 60.099 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/070 - 070 - 070 孙宇晨：【原始积累】反馈体系的重要性.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.900]  你因没有遵守这个一万小时定律
+[00:00:03.900 --> 00:00:05.900]  而受到惩罚的例子吗
+[00:00:05.900 --> 00:00:07.460]  像我刚刚举过的
+[00:00:07.460 --> 00:00:11.520]  比如说下棋完全白浪费时间
+[00:00:11.520 --> 00:00:13.180]  包括打麻将
+[00:00:13.180 --> 00:00:17.500]  当然麻将可能因为跟运气的成分结合的太大
+[00:00:17.500 --> 00:00:18.720]  老是要摸一张牌
+[00:00:18.720 --> 00:00:20.440]  跟运气的成分结合大
+[00:00:20.440 --> 00:00:23.240]  但其实即便这样的也是可以练习的
+[00:00:23.240 --> 00:00:24.920]  像类似于德州普克
+[00:00:24.920 --> 00:00:28.280]  其实会打和不会打的人差距会非常大
+[00:00:28.280 --> 00:00:30.660]  包括下棋
+[00:00:30.660 --> 00:00:32.760]  我们比如说没有下好的原因
+[00:00:32.760 --> 00:00:34.500]  是因为我没有注重可以练习
+[00:00:34.500 --> 00:00:37.740]  以及你因为一万小时定律
+[00:00:37.740 --> 00:00:39.100]  获得过什么好处
+[00:00:39.100 --> 00:00:40.520]  也可以给我们讲一讲
+[00:00:40.520 --> 00:00:44.140]  就没有遵守而受到惩罚
+[00:00:44.140 --> 00:00:45.920]  和因遵守而获得的好处
+[00:00:45.920 --> 00:00:47.860]  都可以与我分享一下
+[00:00:47.860 --> 00:00:48.680]  谢谢大家
+[00:00:58.280 --> 00:01:00.200]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__070__a45f89e8/chunk-009/out -sns -nf -np

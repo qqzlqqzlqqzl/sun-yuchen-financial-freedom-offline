@@ -1,0 +1,418 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 73.602 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.760 --> 00:00:04.260]  大家好,我是90后创业者孙宇辰
+[00:00:04.260 --> 00:00:09.220]  我的新书《这世界既残酷也温柔》
+[00:00:09.220 --> 00:00:13.760]  已于今年的3月15号在中国大陆地区出版
+[00:00:13.760 --> 00:00:18.000]  欢迎你到京东图书与我相遇
+[00:00:18.000 --> 00:00:18.960]  谢谢
+[00:00:18.960 --> 00:00:25.620]  个人奋斗如果在中国受到了指责
+[00:00:25.620 --> 00:00:27.280]  那类似我们前面举的例子
+[00:00:27.280 --> 00:00:28.800]  说个人是奋斗没有任何意义
+[00:00:29.300 --> 00:00:30.720]  把自己献给国家
+[00:00:30.720 --> 00:00:31.500]  献给事业
+[00:00:31.500 --> 00:00:33.720]  或者精致利己主义者
+[00:00:33.720 --> 00:00:35.820]  奋斗只是为了谋取私利
+[00:00:35.820 --> 00:00:37.660]  他们在伪装
+[00:00:37.660 --> 00:00:39.180]  在谋私利
+[00:00:39.180 --> 00:00:39.600]  是吧
+[00:00:39.600 --> 00:00:41.780]  没有任何人谋私利
+[00:00:41.780 --> 00:00:43.200]  对他人都是好处的
+[00:00:43.200 --> 00:00:44.100]  合法的谋私利
+[00:00:44.100 --> 00:00:45.180]  不是说抢劫
+[00:00:45.180 --> 00:00:46.160]  这不行
+[00:00:46.160 --> 00:00:47.460]  这警察抓起来
+[00:00:47.460 --> 00:00:49.420]  但是正当的谋私利
+[00:00:49.420 --> 00:00:51.080]  比如我处心积虑
+[00:00:51.080 --> 00:00:52.420]  好好经营我的公司
+[00:00:52.420 --> 00:00:54.720]  为大家提供服务
+[00:00:54.720 --> 00:00:55.640]  那我赚了钱
+[00:00:55.640 --> 00:00:56.860]  大家也获得了满足
+[00:00:56.860 --> 00:00:58.780]  这个交易是个双赢
+[00:00:58.780 --> 00:01:02.440]  所以任何人即便如何处心积虑
+[00:01:02.440 --> 00:01:04.580]  是不是想当个坏人
+[00:01:04.580 --> 00:01:05.820]  合法交易
+[00:01:05.820 --> 00:01:07.080]  他也当了好人
+[00:01:07.080 --> 00:01:11.580]  这个世界我们道德也不是看动机
+[00:01:11.580 --> 00:01:12.440]  而是看结果
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 73.102 -t 73.964 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.010 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.380 --> 00:00:02.880]  他无论多么处心积虑是个坏人
+[00:00:02.880 --> 00:00:05.120]  结果做了很多交易
+[00:00:05.120 --> 00:00:06.480]  推动了社会进步
+[00:00:06.480 --> 00:00:07.600]  那他就是个好人
+[00:00:07.600 --> 00:00:10.680]  跟他的想法是没有任何关系的
+[00:00:10.680 --> 00:00:12.160]  包括有的人认为
+[00:00:12.160 --> 00:00:13.640]  人不应该某句词里说
+[00:00:13.640 --> 00:00:17.020]  一个人应该为了为别人而活着
+[00:00:17.020 --> 00:00:18.600]  相信我
+[00:00:18.600 --> 00:00:21.960]  如果一个人为自己而活都做不到
+[00:00:21.960 --> 00:00:24.200]  他绝对不可能为他人而活
+[00:00:24.200 --> 00:00:26.840]  就跟你告诉我
+[00:00:26.840 --> 00:00:29.560]  孙总我连一加一等于二都不知道
+[00:00:29.560 --> 00:00:31.120]  但是我微积分座特好
+[00:00:31.120 --> 00:00:32.140]  可能吗
+[00:00:32.140 --> 00:00:33.420]  对吧
+[00:00:33.420 --> 00:00:34.560]  这是不可能的
+[00:00:34.560 --> 00:00:36.520]  所以也希望大家
+[00:00:36.520 --> 00:00:38.780]  记住两个理论
+[00:00:38.780 --> 00:00:39.940]  那一个是安兰德
+[00:00:39.940 --> 00:00:42.960]  在他的《阿特拉斯松松间》里面讲的
+[00:00:42.960 --> 00:00:45.080]  将个人作为英雄
+[00:00:45.080 --> 00:00:47.180]  以个人的幸福作为人生
+[00:00:47.180 --> 00:00:48.880]  最终的道德意义
+[00:00:48.880 --> 00:00:51.240]  本身就是最终的目的
+[00:00:51.240 --> 00:00:54.080]  就是前面加尔文跟马丁路德讲
+[00:00:54.080 --> 00:00:56.500]  你好好工作就可以了
+[00:00:56.500 --> 00:00:58.540]  不用再给上帝行贿受贿
+[00:00:58.540 --> 00:01:00.740]  其实大家想想
+[00:01:00.740 --> 00:01:03.700]  以前的这个基督教的旧伦理
+[00:01:03.700 --> 00:01:04.800]  听起来很有道德
+[00:01:04.800 --> 00:01:05.180]  对不对
+[00:01:05.180 --> 00:01:07.160]  好像你赚钱的人都道德败坏
+[00:01:07.160 --> 00:01:08.900]  你要去给上帝行贿受贿
+[00:01:08.900 --> 00:01:09.700]  要买赎罪券
+[00:01:09.700 --> 00:01:13.140]  但这不本身就是最大道德的堕落吗
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 146.566 -t 76.249 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.380 --> 00:00:02.980]  这不把上帝变成贪官污吏了
+[00:00:02.980 --> 00:00:03.960]  是吧
+[00:00:03.960 --> 00:00:06.280]  上帝还还收贿赂吗
+[00:00:06.280 --> 00:00:07.240]  是不是
+[00:00:07.240 --> 00:00:11.060]  这本身就是最大的道德败坏
+[00:00:11.060 --> 00:00:13.140]  这怎么是有道德呢
+[00:00:13.140 --> 00:00:13.620]  对不对
+[00:00:13.620 --> 00:00:17.540]  就比如说我们再回头回到我们社会
+[00:00:17.540 --> 00:00:19.380]  现在当今中国社会
+[00:00:19.380 --> 00:00:20.860]  我觉得这一点也是非常明确
+[00:00:20.860 --> 00:00:22.740]  一个企业家
+[00:00:22.740 --> 00:00:25.580]  我们经常强调企业家别干本职工作了
+[00:00:25.580 --> 00:00:27.020]  去履行社会责任
+[00:00:27.020 --> 00:00:28.180]  这合适吗
+[00:00:28.180 --> 00:00:28.860]  当然不合适
+[00:00:28.860 --> 00:00:30.980]  这就跟刚才那赎罪券的逻辑
+[00:00:30.980 --> 00:00:33.900]  不是有有任何的差别吗
+[00:00:33.900 --> 00:00:34.160]  对吧
+[00:00:34.160 --> 00:00:37.080]  我相信社会也是一个公正的上帝
+[00:00:37.080 --> 00:00:37.580]  对吧
+[00:00:37.580 --> 00:00:39.960]  我只要为这个社会做了贡献赚了钱
+[00:00:39.960 --> 00:00:41.320]  那就是做了最大的贡献
+[00:00:41.320 --> 00:00:43.860]  我我难道还要再去贿赂社会
+[00:00:43.860 --> 00:00:46.340]  尽所谓的社会责任
+[00:00:46.340 --> 00:00:50.540]  才能让整个社会觉得我是个好人吗
+[00:00:50.540 --> 00:00:53.460]  那这社会跟这个刚才的旧上帝
+[00:00:53.460 --> 00:00:54.840]  有什么任何的差别吗
+[00:00:54.840 --> 00:01:00.060]  他如果连每个人踏踏实实做出的努力都不肯承认
+[00:01:00.060 --> 00:01:02.640]  还要通过额外的贿赂才能承认的话
+[00:01:02.640 --> 00:01:06.860]  那我觉得这社会和这上帝的道德本身相当糟糕
+[00:01:06.860 --> 00:01:09.740]  从这个角度来说
+[00:01:09.740 --> 00:01:12.020]  安兰德这个我去讲的非常好
+[00:01:12.020 --> 00:01:15.360]  同时我孙宇晨自己写了一篇叫新文明宣言
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 222.316 -t 75.956 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.280 --> 00:00:01.800]  写的也是这个道理
+[00:00:01.800 --> 00:00:02.760]  叫一人之本
+[00:00:02.760 --> 00:00:05.500]  我永远都不会为他人而活
+[00:00:05.500 --> 00:00:08.660]  也绝不要求他人为我而活
+[00:00:08.660 --> 00:00:12.740]  我们就在公正的气泡线下
+[00:00:12.740 --> 00:00:14.440]  个人奋斗
+[00:00:14.440 --> 00:00:17.980]  与他人进行互利交易
+[00:00:17.980 --> 00:00:20.520]  让彼此都变得更好
+[00:00:20.520 --> 00:00:23.640]  我觉得这就是精致利己者的
+[00:00:23.640 --> 00:00:26.360]  最重要的定义
+[00:00:26.360 --> 00:00:27.980]  而这样的精致利
+[00:00:27.980 --> 00:00:29.900]  对这样精致利己主义
+[00:00:29.900 --> 00:00:33.140]  对这种利己主义的认同
+[00:00:33.140 --> 00:00:35.220]  是整个中国建立
+[00:00:35.220 --> 00:00:37.140]  个人奋斗合法性的前提
+[00:00:37.140 --> 00:00:40.580]  也是社会繁荣的先决条件
+[00:00:40.580 --> 00:00:41.980]  好
+[00:00:41.980 --> 00:00:42.680]  我先讲一下
+[00:00:42.680 --> 00:00:44.180]  我其实节目讲到这里
+[00:00:44.180 --> 00:00:46.600]  我并不是否定社会责任
+[00:00:46.600 --> 00:00:48.920]  也不说我孙云辰不尽社会责任
+[00:00:48.920 --> 00:00:49.860]  其实大家看我
+[00:00:49.860 --> 00:00:50.860]  我其实经常讲
+[00:00:50.860 --> 00:00:52.980]  我录这个财富自由革命之路
+[00:00:52.980 --> 00:00:53.600]  这个节目
+[00:00:53.600 --> 00:00:54.820]  就是我尽社会责任的
+[00:00:54.820 --> 00:00:56.760]  一个重大的一个方法
+[00:00:56.760 --> 00:00:58.420]  包括大家也知道
+[00:00:58.420 --> 00:01:00.700]  我现在是广州市叛逆区的政协委员
+[00:01:00.700 --> 00:01:04.100]  我经常也会为民生问题出谋划策
+[00:01:04.100 --> 00:01:04.500]  对吧
+[00:01:04.500 --> 00:01:05.980]  贡献我自己的力量
+[00:01:05.980 --> 00:01:07.780]  都是在贡献我的时间和金钱
+[00:01:07.780 --> 00:01:09.360]  所以其实我
+[00:01:09.360 --> 00:01:12.260]  花了相当多的时间去尽社会责任
+[00:01:12.260 --> 00:01:13.200]  但是一
+[00:01:13.200 --> 00:01:15.960]  我觉得社会责任不能变成一个强制要求
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 297.772 -t 77.535 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:06.260]  第二企业家的本质就是来自于他的工作和个人奋斗
+[00:00:06.260 --> 00:00:08.520]  就像比如说我如果信基督
+[00:00:08.520 --> 00:00:10.380]  我觉得上帝不错
+[00:00:10.380 --> 00:00:13.580]  我愿意给上帝捐些钱建个教堂
+[00:00:13.580 --> 00:00:14.820]  这是完全没问题的
+[00:00:14.820 --> 00:00:17.580]  体现出我作为一个信徒的一个前程
+[00:00:17.580 --> 00:00:20.700]  但你上帝不能行贿所惠
+[00:00:20.700 --> 00:00:21.340]  对吧
+[00:00:21.340 --> 00:00:24.020]  而且还编出一套说你们都是坏人
+[00:00:24.020 --> 00:00:26.500]  你得重新行贿所惠
+[00:00:26.500 --> 00:00:27.420]  给我们汇钱
+[00:00:27.420 --> 00:00:28.880]  你才能别下地狱
+[00:00:28.880 --> 00:00:29.980]  这不变成威胁了吗
+[00:00:29.980 --> 00:00:30.420]  对吧
+[00:00:30.420 --> 00:00:32.120]  这是绝对不行的
+[00:00:32.120 --> 00:00:35.180]  这个会导致整个社会道德大倒退
+[00:00:35.180 --> 00:00:39.980]  我记得以前还有一个例子
+[00:00:39.980 --> 00:00:42.400]  这都好十年前了
+[00:00:42.400 --> 00:00:42.860]  基本上
+[00:00:42.860 --> 00:00:46.100]  我觉得也是很具有参照性的
+[00:00:46.100 --> 00:00:48.840]  当时王石就汶川地震
+[00:00:48.840 --> 00:00:50.720]  王石啊
+[00:00:50.720 --> 00:00:53.420]  就说我们万科要给汶川捐钱
+[00:00:53.420 --> 00:00:56.240]  但是首先我们觉得两点
+[00:00:56.240 --> 00:01:01.360]  一就是我觉得慈善要做可持续性的慈善
+[00:01:01.360 --> 00:01:02.680]  你不能说啊
+[00:01:02.680 --> 00:01:05.940]  汶川对的确同胞牺牲了我们很悲痛
+[00:01:05.940 --> 00:01:08.360]  我就把我家产全捐了吗
+[00:01:08.360 --> 00:01:09.320]  对不对
+[00:01:09.320 --> 00:01:13.140]  我希望即便死去的同胞也不希望我这样做呀
+[00:01:13.140 --> 00:01:16.500]  他也不希望因为因为他把我也饿死了
+[00:01:16.500 --> 00:01:17.540]  对不对啊
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 374.807 -t 75.429 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.260 --> 00:00:03.960]  我相信任何一个同胞也希望我们的同胞活得更好啊
+[00:00:03.960 --> 00:00:04.540]  对不对
+[00:00:04.540 --> 00:00:08.020]  所以慈善肯定是要可持续性的慈善
+[00:00:08.020 --> 00:00:09.580]  就像我献血一样
+[00:00:09.580 --> 00:00:11.500]  对对方的确是快死了
+[00:00:11.500 --> 00:00:12.340]  很需要我的血
+[00:00:12.340 --> 00:00:14.680]  但我也不能因为他把我的血给抽干了
+[00:00:14.680 --> 00:00:15.580]  是的道理吧
+[00:00:15.580 --> 00:00:17.020]  所以从这个角度讲
+[00:00:17.020 --> 00:00:18.440]  我觉得王石当时讲的很对
+[00:00:18.440 --> 00:00:20.420]  慈善本来就应该是有限度的
+[00:00:20.420 --> 00:00:21.200]  对吧
+[00:00:21.200 --> 00:00:22.520]  每个人的付出
+[00:00:22.520 --> 00:00:25.540]  不应该以伤害我自己为代价
+[00:00:25.540 --> 00:00:26.680]  我做好了
+[00:00:26.680 --> 00:00:29.880]  比如说我给温川捐了钱
+[00:00:30.000 --> 00:00:32.780]  但同时我自己也不应该受到伤害
+[00:00:32.780 --> 00:00:33.020]  对吧
+[00:00:33.020 --> 00:00:34.220]  我应该活得更好
+[00:00:34.220 --> 00:00:37.000]  因为这才能下一次我再捐钱的
+[00:00:37.000 --> 00:00:37.460]  对吧
+[00:00:37.460 --> 00:00:38.780]  这不是一个前提条件吗
+[00:00:38.780 --> 00:00:41.500]  结果当时被整个社会喷死了
+[00:00:41.500 --> 00:00:42.360]  说他是冷血
+[00:00:42.360 --> 00:00:43.860]  不捐钱坏人
+[00:00:43.860 --> 00:00:46.000]  我觉得这个非常大的误解
+[00:00:46.000 --> 00:00:48.940]  再举一个很简单的例子
+[00:00:48.940 --> 00:00:51.020]  其实对于房地产商来说
+[00:00:51.020 --> 00:00:53.760]  把一个房子踏踏实实盖好
+[00:00:53.760 --> 00:00:55.900]  不是你的最大道德吗
+[00:00:55.900 --> 00:00:57.460]  其实后来我们发现
+[00:00:57.460 --> 00:00:59.400]  中国反复强调所谓的道德
+[00:00:59.400 --> 00:01:02.180]  结果道德水平是最低的
+[00:01:02.180 --> 00:01:03.980]  汶川那么多房子垮了
+[00:01:03.980 --> 00:01:04.760]  把人压死了
+[00:01:04.760 --> 00:01:06.660]  不就是房地产上不好好盖房子吗
+[00:01:06.660 --> 00:01:11.100]  很多房子没有达到当时要求的政绩的要求
+[00:01:11.100 --> 00:01:12.720]  比如四川是个多镇地区
+[00:01:12.720 --> 00:01:14.880]  他对这个政绩是有要求的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 449.736 -t 85.275 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.200]  其实按理来说
+[00:00:01.200 --> 00:00:03.300]  有的政绩比较高的
+[00:00:03.300 --> 00:00:04.160]  不应该倒的
+[00:00:04.160 --> 00:00:06.500]  就我记得当时有很多
+[00:00:06.500 --> 00:00:08.280]  希望小学还是挺住了
+[00:00:08.280 --> 00:00:10.080]  政府大楼也挺住了
+[00:00:10.080 --> 00:00:10.280]  对吧
+[00:00:10.280 --> 00:00:10.680]  没有倒
+[00:00:10.680 --> 00:00:13.840]  就是他就达到了所谓的政绩要求
+[00:00:13.840 --> 00:00:15.280]  那有的那就偷空减料
+[00:00:15.280 --> 00:00:15.880]  没有达到
+[00:00:15.880 --> 00:00:19.840]  我觉得一个商人最大的道德
+[00:00:19.840 --> 00:00:21.860]  是踏踏实实好干工作
+[00:00:21.860 --> 00:00:23.920]  在你本职范围内进到最好
+[00:00:23.920 --> 00:00:24.820]  给人家什么承诺
+[00:00:24.820 --> 00:00:26.080]  你deliver什么服务
+[00:00:26.080 --> 00:00:28.020]  这不就是最大的慈善吗
+[00:00:28.020 --> 00:00:29.320]  是吧
+[00:00:29.320 --> 00:00:30.760]  要求整个社会
+[00:00:30.760 --> 00:00:31.820]  要大家都偷工减料
+[00:00:31.820 --> 00:00:33.840]  最后捐钱的装模作样捐一下
+[00:00:33.840 --> 00:00:36.180]  那对整个国家有任何好处吗
+[00:00:36.180 --> 00:00:38.800]  所以我觉得这一点
+[00:00:38.800 --> 00:00:41.040]  是非常重要的
+[00:00:41.040 --> 00:00:42.940]  一个人也真正只有在个人奋斗的时候
+[00:00:42.940 --> 00:00:44.460]  获得了道德上的合法性
+[00:00:44.460 --> 00:00:46.780]  他才能具有道德自信
+[00:00:46.780 --> 00:00:48.920]  去执行他的人生
+[00:00:48.920 --> 00:00:50.560]  不害怕他人的指责
+[00:00:50.560 --> 00:00:53.320]  这一点上是我自己奋斗这十几年
+[00:00:53.320 --> 00:00:54.540]  我觉得最重要的一点
+[00:00:54.540 --> 00:00:59.080]  个人奋斗本身就是在于社会做贡献
+[00:00:59.080 --> 00:01:00.880]  没有任何疏离的地方
+[00:01:00.880 --> 00:01:03.640]  踏踏实实好好干活
+[00:01:03.640 --> 00:01:05.720]  社会就会变好
+[00:01:05.720 --> 00:01:07.460]  这就是一个社会
+[00:01:07.460 --> 00:01:09.620]  对一个普通公民最大的善意
+[00:01:09.620 --> 00:01:11.520]  好的
+[00:01:11.520 --> 00:01:12.600]  谢谢大家
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__074__f1f77efa/chunk-006/out -sns -nf -np

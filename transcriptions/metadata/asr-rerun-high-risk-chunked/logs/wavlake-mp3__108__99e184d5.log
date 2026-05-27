@@ -1,0 +1,538 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 78.491 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.700]  大家好
+[00:00:01.700 --> 00:00:03.880]  我是陪我APP创始人孙宇晨
+[00:00:03.880 --> 00:00:07.440]  我想邀你一起与我踏上财富自由革命之路
+[00:00:07.440 --> 00:00:10.320]  我在财富自由的另一边等着你
+[00:00:10.320 --> 00:00:16.900]  我们大家经常也看一些这个电视剧里的桥段
+[00:00:16.900 --> 00:00:19.020]  这个其实有时候也是很荒谬的
+[00:00:19.020 --> 00:00:21.400]  当然我们现实生活中有时候也出现
+[00:00:21.400 --> 00:00:24.300]  比方说主人公的父母得了很重的病
+[00:00:24.300 --> 00:00:25.060]  住院了
+[00:00:25.060 --> 00:00:27.720]  主人公往往激动的拉住医生
+[00:00:27.720 --> 00:00:29.660]  撕心裂肺的嚎叫着
+[00:00:29.660 --> 00:00:32.440]  要不惜一切代价治好我爸
+[00:00:32.440 --> 00:00:34.000]  上最好的药
+[00:00:34.000 --> 00:00:35.200]  事实上呢
+[00:00:35.200 --> 00:00:36.040]  其实大家也知道
+[00:00:36.040 --> 00:00:38.020]  能不能治好病
+[00:00:38.020 --> 00:00:40.660]  本质取决于医生
+[00:00:40.660 --> 00:00:43.680]  能不能做出重要的战略判断
+[00:00:43.680 --> 00:00:46.420]  跟你花多少钱
+[00:00:46.420 --> 00:00:49.200]  其实本质上没有直接关系
+[00:00:49.200 --> 00:00:52.200]  这也是一个很简单的道理
+[00:00:52.200 --> 00:00:53.600]  中国的老百姓
+[00:00:53.600 --> 00:00:55.400]  其实某种程度上也理解不了
+[00:00:55.400 --> 00:00:57.080]  他们一方面啊
+[00:00:57.080 --> 00:00:58.420]  把医学看得很清贱
+[00:00:58.420 --> 00:01:00.040]  就像刚才的看法
+[00:01:00.040 --> 00:01:01.680]  吃个感冒怎么样两千呢
+[00:01:01.680 --> 00:01:03.020]  一定是奢侈符
+[00:01:03.020 --> 00:01:04.560]  两毛就够了吗
+[00:01:04.560 --> 00:01:05.360]  15块钱
+[00:01:05.360 --> 00:01:06.860]  但另一方面呢
+[00:01:06.860 --> 00:01:10.100]  他又认为在医学上用钱就能解决所有问题
+[00:01:10.100 --> 00:01:12.280]  他又把钱看得过于重要
+[00:01:12.280 --> 00:01:13.860]  他觉得上最好的药
+[00:01:13.860 --> 00:01:16.120]  不惜一切代价就能搞定
+[00:01:16.120 --> 00:01:17.900]  事实当然不是如此
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 77.991 -t 74.979 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.740]  再举一个很简单的例子
+[00:00:01.740 --> 00:00:02.740]  就可以说明这个问题
+[00:00:02.740 --> 00:00:05.180]  就是iPhone的发明者
+[00:00:05.180 --> 00:00:05.760]  我们也知道
+[00:00:05.760 --> 00:00:06.720]  现在如果他活着
+[00:00:06.720 --> 00:00:09.100]  肯定是世界的首富乔布斯
+[00:00:09.100 --> 00:00:12.140]  得了绝症之后
+[00:00:12.140 --> 00:00:15.080]  也没法摇晃着医生
+[00:00:15.080 --> 00:00:15.420]  是吧
+[00:00:15.420 --> 00:00:16.720]  撕心裂肺的嚎叫
+[00:00:16.720 --> 00:00:18.900]  说我给你100亿美金
+[00:00:18.900 --> 00:00:20.000]  立刻给我治好
+[00:00:20.000 --> 00:00:20.840]  所以大家也知道
+[00:00:20.840 --> 00:00:21.940]  其实医学本质
+[00:00:21.940 --> 00:00:23.920]  根本就不是钱的问题
+[00:00:23.920 --> 00:00:27.020]  再举一个非常不恰当的例子
+[00:00:27.020 --> 00:00:28.640]  就现在大家也知道
+[00:00:28.640 --> 00:00:29.880]  这个世界上有公害
+[00:00:29.880 --> 00:00:32.520]  就是有恐怖分子搞暗杀活动
+[00:00:32.520 --> 00:00:33.860]  经常搞些恐怖活动
+[00:00:33.860 --> 00:00:36.000]  让大家天怒人怨
+[00:00:36.000 --> 00:00:36.900]  群情激愤
+[00:00:36.900 --> 00:00:38.500]  这时候就是有人
+[00:00:38.500 --> 00:00:39.300]  阿生提议
+[00:00:39.300 --> 00:00:40.660]  这恐怖分子太可恨了
+[00:00:40.660 --> 00:00:42.820]  我们重金花原子弹
+[00:00:42.820 --> 00:00:43.860]  把恐怖分子炸死
+[00:00:43.860 --> 00:00:46.860]  我们一定要拿黄金相好的AK47
+[00:00:46.860 --> 00:00:48.380]  把恐怖分子扫死
+[00:00:48.380 --> 00:00:49.700]  就跟我们刚才讲的
+[00:00:49.700 --> 00:00:50.660]  说不惜一切代价
+[00:00:50.660 --> 00:00:51.220]  治好我爸
+[00:00:51.220 --> 00:00:52.300]  其实是一个道理
+[00:00:52.300 --> 00:00:54.440]  实际上问题的关键
+[00:00:54.440 --> 00:00:55.560]  根本不在于
+[00:00:55.560 --> 00:00:57.080]  这个原子弹牛不牛逼
+[00:00:57.080 --> 00:00:58.980]  镶着黄金的AK47
+[00:00:58.980 --> 00:01:01.200]  纯金黄金AK47牛不牛逼
+[00:01:01.200 --> 00:01:05.540]  关键问题是如何在恐怖分子进行恐怖活动前
+[00:01:05.540 --> 00:01:07.720]  识别和发现恐怖分子
+[00:01:07.720 --> 00:01:09.440]  只要能把它揪出来
+[00:01:09.440 --> 00:01:11.720]  拧个手铐一根棍子就可以把它敲晕了
+[00:01:11.720 --> 00:01:14.980]  根本无需原子弹跟AK47
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 152.470 -t 72.499 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.340]  如果不能识别它们
+[00:00:03.340 --> 00:00:05.280]  你家里有一万颗原子弹
+[00:00:05.280 --> 00:00:07.480]  堆满黄金做的AZC
+[00:00:07.480 --> 00:00:09.080]  也是无济于事的
+[00:00:09.080 --> 00:00:10.140]  所以金钱在这个上面
+[00:00:10.140 --> 00:00:13.120]  根本是不具有解决问题的作用
+[00:00:13.120 --> 00:00:17.740]  所以医学其实本质上
+[00:00:17.740 --> 00:00:21.100]  是一个非常昂贵的服务
+[00:00:21.100 --> 00:00:22.160]  其昂贵之处
+[00:00:22.160 --> 00:00:25.460]  不仅仅在于对病情的判断
+[00:00:25.460 --> 00:00:26.760]  诊断能力
+[00:00:26.760 --> 00:00:30.300]  还在于在漫长的历史长河中
+[00:00:30.300 --> 00:00:32.840]  所形成的医生能力
+[00:00:32.840 --> 00:00:34.980]  以及经验的积累
+[00:00:34.980 --> 00:00:36.160]  案例的积累
+[00:00:36.160 --> 00:00:39.740]  其实这在很多老百姓眼中
+[00:00:39.740 --> 00:00:40.920]  都是不值钱的
+[00:00:40.920 --> 00:00:43.140]  大家只认为值钱的
+[00:00:43.140 --> 00:00:44.560]  就是那几盒药钱
+[00:00:44.560 --> 00:00:45.380]  说到药
+[00:00:45.380 --> 00:00:46.660]  哪怕说到药钱
+[00:00:46.660 --> 00:00:48.600]  其实药钱跟大家的想法
+[00:00:48.600 --> 00:00:50.400]  也是不一样
+[00:00:50.400 --> 00:00:53.320]  药和医学诊断一样
+[00:00:53.320 --> 00:00:55.200]  成本也是非常高
+[00:00:55.200 --> 00:00:58.120]  其实很多媒体和老百姓
+[00:00:58.120 --> 00:00:59.300]  都不理解这一点
+[00:00:59.300 --> 00:01:01.500]  往往拿到一盒药
+[00:01:01.500 --> 00:01:03.520]  暗地里心里在骂娘
+[00:01:03.520 --> 00:01:04.380]  不就是什么
+[00:01:04.380 --> 00:01:05.480]  伪麻黄碱
+[00:01:05.480 --> 00:01:06.160]  本饼
+[00:01:06.160 --> 00:01:06.680]  春安
+[00:01:06.680 --> 00:01:07.440]  干草
+[00:01:07.440 --> 00:01:07.800]  荷鸡
+[00:01:07.800 --> 00:01:09.400]  这些东西才值几个钱
+[00:01:09.400 --> 00:01:10.600]  都是一些最常见
+[00:01:10.600 --> 00:01:12.500]  最便宜的工业之际
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 224.469 -t 73.187 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.480 --> 00:00:02.620]  论批发价是几百块钱一吨
+[00:00:02.620 --> 00:00:06.100]  结果有的药居然给我开的怎么一开要收好几百
+[00:00:06.100 --> 00:00:08.800]  真是暴力黑心啊
+[00:00:08.800 --> 00:00:10.360]  不光大家这么说
+[00:00:10.360 --> 00:00:15.580]  平常我还见过经常说什么盘点那些最暴力黑心的行业
+[00:00:15.580 --> 00:00:17.880]  看第一名就是药厂
+[00:00:17.880 --> 00:00:20.900]  其实大家根本看不到这个药为什么这么贵呢
+[00:00:20.900 --> 00:00:24.180]  虽然每一颗药的成本都是五分
+[00:00:24.180 --> 00:00:27.300]  我们经常有一个回答特别贴切
+[00:00:27.300 --> 00:00:30.840]  就说为什么这个药是不是要卖500块钱一颗
+[00:00:30.840 --> 00:00:32.120]  原因很简单
+[00:00:32.120 --> 00:00:34.800]  因为第一颗药的成本是50个亿美金
+[00:00:34.800 --> 00:00:37.900]  药企能发现某种有效成分
+[00:00:37.900 --> 00:00:40.800]  能对疾病进行干预
+[00:00:40.800 --> 00:00:45.900]  这个过程需要投入几百亿美金的投入
+[00:00:45.900 --> 00:00:48.780]  这个投入本身是非常惊人的
+[00:00:48.780 --> 00:00:52.520]  要经过无数次的实验才能得出结论
+[00:00:52.520 --> 00:00:54.120]  相比之下
+[00:00:54.120 --> 00:00:55.900]  最后生产这个药的成本
+[00:00:55.900 --> 00:00:57.340]  当然不算什么
+[00:00:57.340 --> 00:00:58.460]  而且大家要注意
+[00:00:58.460 --> 00:00:59.800]  这个还是一个赌博
+[00:00:59.800 --> 00:01:02.440]  其实如果大家有些人在A股
+[00:01:02.440 --> 00:01:03.740]  曾经不是在A股
+[00:01:03.740 --> 00:01:05.080]  在美股曾经炒过股
+[00:01:05.080 --> 00:01:06.000]  大家就会了解
+[00:01:06.000 --> 00:01:10.020]  美股中的药企都是最恐怖的
+[00:01:10.020 --> 00:01:12.600]  往往一赌最后没有研发成功
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 297.155 -t 80.778 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.280 --> 00:00:04.100]  股价暴跌95%的现象都有曾经出现
+[00:00:04.100 --> 00:00:07.180]  所以如果花很多钱去进行药品研制
+[00:00:07.180 --> 00:00:09.940]  最后毛线都没有研究出来一根
+[00:00:09.940 --> 00:00:11.840]  或者研究出来了毛线
+[00:00:11.840 --> 00:00:14.740]  但是被证明因果关系并不是那么强烈
+[00:00:14.740 --> 00:00:17.880]  或者最后通不过FDA的检测
+[00:00:17.880 --> 00:00:21.940]  最后对这个药企都是毁灭性打击
+[00:00:21.940 --> 00:00:24.140]  从这个角度来说
+[00:00:24.140 --> 00:00:28.700]  研发新药和去赌场赌博非常类似
+[00:00:29.140 --> 00:00:30.720]  只不过你去赌场赌博
+[00:00:30.720 --> 00:00:32.080]  庄家是开赌场的人
+[00:00:32.080 --> 00:00:33.160]  你研发新药
+[00:00:33.160 --> 00:00:34.300]  庄家是上帝
+[00:00:34.300 --> 00:00:36.740]  二者都有极大的不确定性
+[00:00:36.740 --> 00:00:39.240]  最终的结果当然也是赌赢了
+[00:00:39.240 --> 00:00:40.920]  赢得盆满钵满
+[00:00:40.920 --> 00:00:42.960]  赌输了血本无归
+[00:00:42.960 --> 00:00:46.740]  很多美国知名的风投企业
+[00:00:46.740 --> 00:00:49.780]  最后都是栽在药品研发上
+[00:00:49.780 --> 00:00:51.380]  大的对冲基金公司
+[00:00:51.380 --> 00:00:52.860]  都是栽在药品研发上面
+[00:00:52.860 --> 00:00:54.560]  不知道大家前面有没有看过
+[00:00:54.560 --> 00:00:55.660]  一个美剧叫Billions
+[00:00:55.660 --> 00:00:57.400]  里面有一个X-Rod
+[00:00:57.400 --> 00:01:01.680]  那个XROD就是一个非常有名的一个基金经理
+[00:01:01.680 --> 00:01:04.660]  也是那个那部Binance的那部剧的主角了
+[00:01:04.660 --> 00:01:07.240]  他曾经有一个投资的巨亏
+[00:01:07.240 --> 00:01:09.700]  就是当时好像投资了一家研发
+[00:01:09.700 --> 00:01:11.580]  以甘心药的公司
+[00:01:11.580 --> 00:01:13.340]  结果最后没研发出来
+[00:01:13.340 --> 00:01:14.800]  真是亏真够了
+[00:01:14.800 --> 00:01:16.580]  如果人家研发成功了
+[00:01:16.580 --> 00:01:17.920]  当然回报还是很不错的
+[00:01:17.920 --> 00:01:19.980]  所以有的药企过得还是比较滋润的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 377.434 -t 72.813 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.880]  但是现在整个社会啊
+[00:00:01.880 --> 00:00:03.040]  不光中国了
+[00:00:03.040 --> 00:00:03.920]  美国都包括
+[00:00:03.920 --> 00:00:06.200]  有一种严重不良的倾向
+[00:00:06.200 --> 00:00:09.120]  就是逼着已经研发出来新药的
+[00:00:09.120 --> 00:00:10.960]  不错的新药的药企呢
+[00:00:10.960 --> 00:00:12.720]  降价甚至免费
+[00:00:12.720 --> 00:00:15.120]  当然这个舆论的大棒啊
+[00:00:15.120 --> 00:00:16.680]  就是谴责那些药企
+[00:00:16.680 --> 00:00:17.480]  见死不救
+[00:00:17.480 --> 00:00:19.640]  有很多病人吃不起这个新药
+[00:00:19.640 --> 00:00:21.240]  活活就这么死了
+[00:00:21.240 --> 00:00:22.440]  谴责药企
+[00:00:22.440 --> 00:00:24.160]  但是大家可以想一想
+[00:00:24.160 --> 00:00:26.060]  这个生活都是公平的
+[00:00:26.060 --> 00:00:29.660]  如果我们听信了这种要求
+[00:00:29.660 --> 00:00:31.420]  比如说逼着药企真的降价了
+[00:00:31.420 --> 00:00:32.980]  那当然药企除了降价之外
+[00:00:32.980 --> 00:00:33.960]  就只能破产了
+[00:00:33.960 --> 00:00:34.340]  对吧
+[00:00:34.340 --> 00:00:36.240]  如果前面的这个研发投入
+[00:00:36.240 --> 00:00:37.300]  都收不回来的话
+[00:00:37.300 --> 00:00:38.460]  那只能破产了
+[00:00:38.460 --> 00:00:41.080]  这样搞的话
+[00:00:41.080 --> 00:00:43.040]  那还有哪几家药企
+[00:00:43.040 --> 00:00:44.620]  愿意前期投入这么多
+[00:00:44.620 --> 00:00:46.800]  去进行新药的研发呢
+[00:00:46.800 --> 00:00:48.820]  如果这样打击了
+[00:00:48.820 --> 00:00:51.460]  所有药企进行新药研发的积极性
+[00:00:51.460 --> 00:00:53.400]  那么我们的人类的医学
+[00:00:53.400 --> 00:00:55.160]  就根本不可能去取得进步了
+[00:00:55.160 --> 00:00:55.440]  对吧
+[00:00:55.440 --> 00:00:56.440]  因为大家在这些事上
+[00:00:56.440 --> 00:00:57.440]  都无利可图
+[00:00:57.440 --> 00:01:00.260]  那谁还愿意研发新药呢
+[00:01:00.260 --> 00:01:02.560]  结果事实也是如此
+[00:01:02.560 --> 00:01:04.120]  这点在中国也是如此
+[00:01:04.120 --> 00:01:05.380]  在中国啊
+[00:01:05.380 --> 00:01:09.700]  其实正儿八经搞药品研发的药企
+[00:01:09.700 --> 00:01:10.820]  其实屈指可数
+[00:01:10.820 --> 00:01:12.240]  本身就并不是很多
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 449.747 -t 75.707 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.220 --> 00:00:02.220]  我希望这种倾向不能再继续下去
+[00:00:02.220 --> 00:00:06.240]  这样把至少踏实在研发的药企也给搅黄了
+[00:00:06.240 --> 00:00:15.900]  所以如果我们明白了医学诊断和药上面所凝结的大量的医生和药企的劳动
+[00:00:15.900 --> 00:00:18.960]  我们就能更大程度的理解医生的工作
+[00:00:18.960 --> 00:00:22.920]  也能够理解医生在整个破案过程中多么的不易
+[00:00:22.920 --> 00:00:26.360]  我们国家的医闹也许就因此会少很多
+[00:00:26.880 --> 00:00:30.560]  当然绝大多数的医闹可能并不是因为他们有多悲痛
+[00:00:30.560 --> 00:00:33.460]  而是仅仅想讹医院一笔
+[00:00:33.460 --> 00:00:35.120]  其中一个神逻辑就是
+[00:00:35.120 --> 00:00:37.860]  我爸好好的活着进了医院
+[00:00:37.860 --> 00:00:38.780]  怎么就死了呢
+[00:00:38.780 --> 00:00:41.020]  这个逻辑基本上你都无法辩驳
+[00:00:41.020 --> 00:00:42.700]  好像他的言下之意是
+[00:00:42.700 --> 00:00:44.600]  你爸是医院暗杀的
+[00:00:44.600 --> 00:00:46.600]  好活着进了医院死着出来了
+[00:00:46.600 --> 00:00:47.260]  所以呢
+[00:00:47.260 --> 00:00:48.880]  这某种程度上啊
+[00:00:48.880 --> 00:00:51.020]  对我们的现代医学呢
+[00:00:51.020 --> 00:00:53.860]  也不要觊觎过高的期望
+[00:00:54.100 --> 00:00:58.340]  医院的治愈率与警察的破案率一样
+[00:00:58.340 --> 00:01:01.100]  在现有许多条件的影响下
+[00:01:01.100 --> 00:01:03.340]  总有案子是破不了的
+[00:01:03.340 --> 00:01:06.780]  也总有疾病是治愈不了的
+[00:01:06.780 --> 00:01:09.140]  当然这时候有人会反驳我说
+[00:01:09.140 --> 00:01:09.460]  不对
+[00:01:09.460 --> 00:01:12.220]  在中国是什么命案必破
+[00:01:12.220 --> 00:01:13.820]  一个批示一定要破
+[00:01:13.820 --> 00:01:15.700]  医生难道做不到吗
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 524.954 -t 93.541 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.700]  但其实我们大家知道
+[00:00:01.700 --> 00:00:03.600]  就是中国的这个破案率
+[00:00:03.600 --> 00:00:05.200]  不能完全当真
+[00:00:05.200 --> 00:00:07.460]  经常我们大家知道一个笑话
+[00:00:07.460 --> 00:00:08.440]  可以跟大家讲一下
+[00:00:08.440 --> 00:00:11.060]  就是美国香港和大陆的警察
+[00:00:11.060 --> 00:00:13.500]  为了分出一个高下举办一个比赛
+[00:00:13.500 --> 00:00:15.080]  把兔子放进森林里
+[00:00:15.080 --> 00:00:17.300]  看谁能在一天之内找到他
+[00:00:17.300 --> 00:00:20.280]  美国警察制定了详细的方案
+[00:00:20.280 --> 00:00:21.520]  动用各种直升机
+[00:00:21.520 --> 00:00:24.060]  迅速展开地毯式搜索
+[00:00:24.060 --> 00:00:25.280]  结果一无所获
+[00:00:25.280 --> 00:00:27.440]  香港警察在外面一字排开
+[00:00:27.440 --> 00:00:29.180]  拿着喇叭对里面喊
+[00:00:29.180 --> 00:00:30.260]  里面的兔子听好了
+[00:00:30.260 --> 00:00:31.720]  你已经被我包围了
+[00:00:31.720 --> 00:00:33.420]  赶快自己投降吧
+[00:00:33.420 --> 00:00:34.780]  当然什么没有出现
+[00:00:34.780 --> 00:00:36.180]  兔子根本就不听他了
+[00:00:36.180 --> 00:00:37.660]  而大陆的警察
+[00:00:37.660 --> 00:00:39.140]  似乎特别有把握
+[00:00:39.140 --> 00:00:41.240]  一整天在那打了一天麻将
+[00:00:41.240 --> 00:00:43.220]  直到黄昏的时候
+[00:00:43.220 --> 00:00:45.500]  才拿起家伙懒洋洋走进森林
+[00:00:45.500 --> 00:00:46.980]  一阵惨叫之后
+[00:00:46.980 --> 00:00:48.500]  他们拎着一头
+[00:00:48.500 --> 00:00:50.660]  鼻青脸肿的狗熊走了出来
+[00:00:50.660 --> 00:00:52.240]  直接那个熊奄奄一息
+[00:00:52.240 --> 00:00:52.880]  不停的说
+[00:00:52.880 --> 00:00:54.120]  别打了别打了
+[00:00:54.120 --> 00:00:55.200]  我就是兔子
+[00:00:55.200 --> 00:00:57.500]  类似还有一个
+[00:00:57.500 --> 00:00:58.940]  前苏联的政治笑话
+[00:00:58.940 --> 00:01:01.560]  也可以给大家作为一个参考
+[00:01:01.560 --> 00:01:05.120]  贝利亚前苏联秘密警察头子
+[00:01:05.120 --> 00:01:08.460]  斯大林同志的烟斗不见了
+[00:01:08.460 --> 00:01:10.140]  贝利亚花了一天时间就破案
+[00:01:10.140 --> 00:01:12.240]  一共抓到了10个人承认
+[00:01:12.240 --> 00:01:14.280]  偷了斯大林同志的烟斗
+[00:01:14.280 --> 00:01:15.680]  结果斯大林同志
+[00:01:15.680 --> 00:01:17.920]  在床底下发现了自己的烟斗
+[00:01:17.920 --> 00:01:19.720]  其实就是这个道理
+[00:01:19.720 --> 00:01:22.300]  而医生当然没有这种好事了
+[00:01:22.300 --> 00:01:24.600]  医生不可能对病毒进行严刑拷打
+[00:01:24.600 --> 00:01:26.840]  也不可能对疾病进行严刑拷打
+[00:01:26.840 --> 00:01:27.820]  而迫使疾病说
+[00:01:27.820 --> 00:01:28.500]  好好好
+[00:01:28.500 --> 00:01:29.320]  我痊愈了
+[00:01:29.320 --> 00:01:29.900]  所以做不到
+[00:01:29.900 --> 00:01:32.680]  因此大家可以很清晰的看到
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 617.995 -t 61.095 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/108 - 108 - 109 孙宇晨：【医疗】医与药.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.220 --> 00:00:03.000]  整个医学最大的突破应该就是抗生素
+[00:00:03.000 --> 00:00:05.220]  抗生素发明之后
+[00:00:05.220 --> 00:00:08.760]  能够对细菌感染的绝大多数疾病进行干预
+[00:00:08.760 --> 00:00:14.360]  但是我们对病毒感染的很多疾病还是束手无策
+[00:00:14.360 --> 00:00:18.840]  当然对于我们自己人类所产生的类似于像癌变这样的
+[00:00:18.840 --> 00:00:21.220]  其实我们本身要走的路还很长
+[00:00:21.220 --> 00:00:23.120]  所以从这个角度来说呢
+[00:00:23.120 --> 00:00:27.080]  医学其实对你身体进行干预很多情况下
+[00:00:27.080 --> 00:00:31.420]  还是依靠你本身的自我抵抗能力来治愈的
+[00:00:31.420 --> 00:00:33.640]  所以打败疾病啊
+[00:00:33.640 --> 00:00:35.080]  主要是两股力量
+[00:00:35.080 --> 00:00:36.680]  一股是你自己的免疫力
+[00:00:36.680 --> 00:00:38.660]  身体的自身修复能力
+[00:00:38.660 --> 00:00:41.540]  第二是医生的干涉能力
+[00:00:41.540 --> 00:00:44.560]  而干涉能力在很多情况下
+[00:00:44.560 --> 00:00:46.000]  其20%的作用
+[00:00:46.000 --> 00:00:48.100]  剩下的80%是靠你自己
+[00:00:48.100 --> 00:00:50.640]  甚至很多干涉本身
+[00:00:50.640 --> 00:00:52.860]  其实就是在增强你的恢复能力而已
+[00:00:52.860 --> 00:00:53.920]  所以呢
+[00:00:53.920 --> 00:00:55.760]  我们不要把医学啊
+[00:00:55.760 --> 00:00:56.860]  看得太万能
+[00:00:56.860 --> 00:01:01.060]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__108__99e184d5/chunk-008/out -sns -nf -np

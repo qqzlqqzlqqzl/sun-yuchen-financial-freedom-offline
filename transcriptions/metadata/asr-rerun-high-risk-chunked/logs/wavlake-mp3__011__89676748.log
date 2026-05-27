@@ -1,0 +1,531 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 72.291 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:31.120]  创业小有所成
+[00:00:31.120 --> 00:00:32.540]  我一直坚信
+[00:00:32.540 --> 00:00:34.140]  一个有梦想的人
+[00:00:34.140 --> 00:00:35.880]  带着刺也能成功
+[00:00:35.880 --> 00:00:37.700]  甚至一个带着刺的人
+[00:00:37.700 --> 00:00:39.500]  更容易走向成功
+[00:00:39.500 --> 00:00:41.620]  我想邀你一起与我
+[00:00:41.620 --> 00:00:43.260]  踏上财富自由革命之路
+[00:00:43.260 --> 00:00:46.120]  我希望在财富自由的另一边
+[00:00:46.120 --> 00:00:47.180]  等着你
+[00:01:00.520 --> 00:01:03.200]  大家好,我是你们的老朋友孙宇辰
+[00:01:03.200 --> 00:01:07.640]  如果你听到这里证明你已经交了199块钱了
+[00:01:07.640 --> 00:01:11.420]  非常欢迎你,最后终于加入到了我们这个专栏中
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 71.791 -t 75.400 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.240 --> 00:00:03.760]  从这里开始我们将会陪伴你一年的成长
+[00:00:03.760 --> 00:00:05.820]  至少在喜马拉雅这个舞台是这样
+[00:00:05.820 --> 00:00:10.300]  其实我还希望能够更长时间的陪伴着大家一起成长
+[00:00:10.300 --> 00:00:14.720]  今天其实也是我们的实际意义上的第一课
+[00:00:14.720 --> 00:00:17.020]  我们要讲财富自由是什么
+[00:00:17.020 --> 00:00:20.780]  之前在预告里面我已经讲了
+[00:00:20.780 --> 00:00:24.520]  财富自由是中国年轻人唯一应该关心的话题
+[00:00:24.520 --> 00:00:26.260]  和唯一应该关心的东西
+[00:00:26.580 --> 00:00:30.160]  那么在这里我们就会分两节理论
+[00:00:30.160 --> 00:00:32.580]  重点谈一谈财富自由是什么
+[00:00:32.580 --> 00:00:35.920]  以及我们为什么关心财富自由是这么的必要
+[00:00:35.920 --> 00:00:38.480]  其实关于财富自由这个词
+[00:00:38.480 --> 00:00:41.580]  很多人也并没有搞清楚是什么
+[00:00:41.580 --> 00:00:44.700]  绝大多数人对财富自由的定义
+[00:00:44.700 --> 00:00:46.480]  基本停留在一夜暴富
+[00:00:46.480 --> 00:00:47.740]  花天酒祭
+[00:00:47.740 --> 00:00:50.800]  天天打麻将玩游戏吃喝嫖赌产
+[00:00:50.800 --> 00:00:52.700]  稍微靠谱一点的人
+[00:00:52.700 --> 00:00:55.920]  可能认为财富自由是所有的被动收入
+[00:00:56.040 --> 00:00:59.400]  利于投资利润板税等大于生活开支
+[00:00:59.400 --> 00:01:02.440]  因此就可以每天躺床上不用干活了
+[00:01:02.440 --> 00:01:03.620]  我认为呢
+[00:01:03.620 --> 00:01:05.940]  这都是对财富自由完全错误的理解
+[00:01:05.940 --> 00:01:07.560]  但是绝大多数人呢
+[00:01:07.560 --> 00:01:09.260]  他们对财富自由的理解
+[00:01:09.260 --> 00:01:10.300]  恰恰就是这样
+[00:01:10.300 --> 00:01:13.600]  其实我们与其说对财富自由的理解
+[00:01:13.600 --> 00:01:15.400]  是对财富的追求
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 146.690 -t 75.890 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.260 --> 00:00:03.420]  不如说是我们每个人都得了懒癌
+[00:00:03.420 --> 00:00:05.200]  这是一种对懒惰的追求
+[00:00:05.200 --> 00:00:07.880]  每个人都希望能懒惰不干活
+[00:00:07.880 --> 00:00:11.740]  但是实际上我们其实每个人内心深处也都清楚
+[00:00:11.740 --> 00:00:13.880]  懒惰不干活
+[00:00:13.880 --> 00:00:18.420]  本身其实之所以他可能休息起来享受比较舒服
+[00:00:18.420 --> 00:00:21.860]  就是因为他是在工作中间歇的一种体验
+[00:00:21.860 --> 00:00:24.900]  哪怕让一个人每天睡觉连续睡十天
+[00:00:24.900 --> 00:00:26.880]  他都会感觉非常难受
+[00:00:27.120 --> 00:00:31.300]  所以绝大多数其实我们自己在日常生活中都可以体验到
+[00:00:31.300 --> 00:00:35.480]  其实最大难受的事情是自己不知道该干什么
+[00:00:35.480 --> 00:00:36.800]  没有事情可干
+[00:00:36.800 --> 00:00:42.500]  或者是感觉自己对整个社会或者对周边的人没有用处的时候是最痛苦的
+[00:00:42.500 --> 00:00:45.640]  相反我们最忙碌的时候并不是我们最痛苦的
+[00:00:45.640 --> 00:00:49.340]  所以我有时候经常把这种对财富自由错误的看法
+[00:00:49.340 --> 00:00:52.820]  看作是一种我们对繁忙社会生活的一种反抗
+[00:00:53.260 --> 00:00:57.840]  以及我们对短暂工作期间希望能开个小差的这么一个打趣
+[00:00:57.840 --> 00:01:00.540]  大家并不是真正是这么看财富自由的
+[00:01:00.540 --> 00:01:03.720]  其实我们如果去细究财富自由
+[00:01:03.720 --> 00:01:09.380]  我认为我自己对于财富自由财务自由的定义是最准确的
+[00:01:09.380 --> 00:01:13.840]  下面我就愿意给大家分享一下我自己对财富自由的定义
+[00:01:13.840 --> 00:01:15.420]  当然也欢迎大家跟我一起探讨
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 222.080 -t 77.345 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.120 --> 00:00:04.580]  我个人认为财富自由并不是不需要工作
+[00:00:04.580 --> 00:00:06.720]  而是指一种状态
+[00:00:06.720 --> 00:00:09.240]  一种什么样的状态呢
+[00:00:09.240 --> 00:00:11.660]  财富自由的定义
+[00:00:11.660 --> 00:00:16.500]  就是不需要为金钱做出任何价值观的妥协
+[00:00:16.500 --> 00:00:20.660]  妥协的种类包括付出时间
+[00:00:20.660 --> 00:00:25.160]  付出注意力和付出情感尊严三种
+[00:00:25.160 --> 00:00:27.820]  我可以再复述一遍
+[00:00:28.080 --> 00:00:34.040]  财富自由的定义就是我们不需要为金钱做出任何价值观的妥协
+[00:00:34.040 --> 00:00:40.760]  妥协的种类包括付出时间付出注意力和付出情感尊严
+[00:00:40.760 --> 00:00:43.940]  下面呢我就会好好讲一讲虽然这句话很短
+[00:00:43.940 --> 00:00:52.240]  但是我们理解它可能是需要花费很多时间和有很多比较深刻的理解才能完全懂得财富自由的定义
+[00:00:53.520 --> 00:00:58.140]  首先我们要注意这里是不需要为金钱做出妥协
+[00:00:58.140 --> 00:01:04.000]  这个世界上我们需要做出价值观妥协的事情实在是太多了
+[00:01:04.000 --> 00:01:05.720]  权力可以让我们妥协
+[00:01:05.720 --> 00:01:09.140]  当然这也是当今中国的一个非常重大的问题
+[00:01:09.140 --> 00:01:12.580]  亲情和爱情可以让我们妥协
+[00:01:12.580 --> 00:01:16.640]  周边朋友的友情也许也可以让我们妥协
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 298.925 -t 75.018 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.380 --> 00:00:02.420]  即便如我的马云老师
+[00:00:02.420 --> 00:00:03.900]  他能够做到的
+[00:00:03.900 --> 00:00:07.000]  也仅仅可能是为了不因金钱而妥协
+[00:00:07.000 --> 00:00:10.540]  所以这并不是意味着一个人有了钱之后
+[00:00:10.540 --> 00:00:13.300]  他就可以随心所欲的去干所有的事情
+[00:00:13.300 --> 00:00:15.280]  这自然是不可能的
+[00:00:15.280 --> 00:00:19.280]  唯一的可能是他可以为金钱做出的妥协
+[00:00:19.280 --> 00:00:20.920]  而少做一些罢了
+[00:00:20.920 --> 00:00:23.380]  所以我们知道财富自由
+[00:00:23.380 --> 00:00:25.620]  其实也并不是一种完全充分自由
+[00:00:25.620 --> 00:00:27.760]  想干什么就干什么的状态
+[00:00:27.760 --> 00:00:31.500]  这与大家之前想的理想化的状态有非常大的差距
+[00:00:31.500 --> 00:00:36.060]  而妥协的种类也是多种多样的
+[00:00:36.060 --> 00:00:38.040]  首先我们看看妥协的种类
+[00:00:38.040 --> 00:00:40.640]  我们指财富自由妥协的种类的第一类
+[00:00:40.640 --> 00:00:42.400]  叫做付出时间
+[00:00:42.400 --> 00:00:46.780]  付出时间恐怕我相信大家平常也经常见到
+[00:00:46.780 --> 00:00:49.040]  包括为不喜欢的老板工作
+[00:00:49.040 --> 00:00:52.620]  或者做自己本来就不喜欢的工作
+[00:00:52.620 --> 00:00:55.860]  因此从这一点我觉得也可以说明
+[00:00:56.240 --> 00:00:58.420]  如果干一直自己喜欢的工作
+[00:00:58.420 --> 00:00:59.800]  跟喜欢的人在一块
+[00:00:59.800 --> 00:01:03.440]  这其实甚至就是一种财富自由的状态
+[00:01:03.440 --> 00:01:04.400]  举个例子
+[00:01:04.400 --> 00:01:06.880]  世界上已知很多有钱的人
+[00:01:06.880 --> 00:01:08.860]  绝大多数都是工作狂
+[00:01:08.860 --> 00:01:10.940]  比方说我的老师马云
+[00:01:10.940 --> 00:01:15.020]  包括曾经的世界首富比尔盖茨
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 373.443 -t 76.692 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.880 --> 00:00:02.780]  包括我自己的校友巴菲特
+[00:00:02.780 --> 00:00:05.560]  其中巴菲特是一个很有趣的例子
+[00:00:05.560 --> 00:00:08.040]  巴菲特是1930年出生的
+[00:00:08.040 --> 00:00:09.840]  到今天已经86岁了
+[00:00:09.840 --> 00:00:13.020]  但是巴菲特呢可能比我们绝大多数
+[00:00:13.020 --> 00:00:16.700]  甚至今天在听这个节目的观众工作起来还用心
+[00:00:16.700 --> 00:00:19.320]  他现在80岁了还远远没有退休
+[00:00:19.320 --> 00:00:21.100]  所以我们来看
+[00:00:21.100 --> 00:00:22.880]  其实很多有钱的人
+[00:00:22.880 --> 00:00:26.860]  他们工作比绝大多数没有钱的人工作还努力
+[00:00:26.860 --> 00:00:29.380]  当然也表扬一下我自己
+[00:00:29.380 --> 00:00:32.240]  像今天这个节目我们就是在中秋节录制的
+[00:00:32.240 --> 00:00:34.980]  相当于我们在中秋节其实也没有休息
+[00:00:34.980 --> 00:00:37.620]  那我在每一个中秋节都工作
+[00:00:37.620 --> 00:00:40.660]  但是如果这个工作是我喜欢的
+[00:00:40.660 --> 00:00:41.760]  何乐而不为呢
+[00:00:41.760 --> 00:00:45.660]  甚至我认为工作就是我是个人生命价值的一种体现
+[00:00:45.660 --> 00:00:48.880]  第二个是付出注意力
+[00:00:48.880 --> 00:00:50.060]  付出注意力呢
+[00:00:50.060 --> 00:00:51.840]  其实也很好打比方
+[00:00:51.840 --> 00:00:55.400]  比方说优酷爱奇艺的视频前置广告
+[00:00:55.400 --> 00:00:57.080]  我一向是要买会员
+[00:00:57.080 --> 00:00:58.160]  把他们屏蔽掉的
+[00:00:58.160 --> 00:01:01.540]  因为这不仅仅是15到30秒
+[00:01:01.540 --> 00:01:02.920]  甚至一分钟的时间
+[00:01:02.920 --> 00:01:06.960]  而且它打扰了我观看电影视频的注意力
+[00:01:06.960 --> 00:01:10.560]  很多人也知道注意力本身是一种资源
+[00:01:10.560 --> 00:01:13.180]  绝大多数人每天能保持
+[00:01:13.180 --> 00:01:16.020]  集中精力完成事情的注意力
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 449.635 -t 66.870 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.320 --> 00:00:01.800]  本质是极为有限
+[00:00:01.800 --> 00:00:04.720]  甚至一个名词叫做优先级
+[00:00:04.720 --> 00:00:09.420]  也就是一个人在一段时间内能做的主要事情几乎只有一件事情
+[00:00:09.420 --> 00:00:13.200]  所以在这时候财富自由能够帮助我们的
+[00:00:13.200 --> 00:00:18.660]  至少是不会因为金钱而替换掉我们做喜欢事情的优先级
+[00:00:18.660 --> 00:00:20.700]  其实就我自己而言
+[00:00:20.700 --> 00:00:22.740]  我真正喜欢做的事情
+[00:00:22.740 --> 00:00:26.260]  就是能与别人分享我自己的所得思想
+[00:00:26.260 --> 00:00:27.780]  帮助他人成功
+[00:00:28.400 --> 00:00:31.540]  分享与帮助本身就是我自己想做的
+[00:00:31.540 --> 00:00:35.540]  在这里其实我非常想分享一个我自己本科时候的事情
+[00:00:35.540 --> 00:00:38.880]  其实我自己在大学期间在北大读书的时候
+[00:00:38.880 --> 00:00:43.240]  就非常希望能够写文章来分享我自己的所想所得
+[00:00:43.240 --> 00:00:46.820]  能够一起跟别人去探讨我的世界观和价值观
+[00:00:46.820 --> 00:00:50.160]  但是当时因为没有财富自由的原因
+[00:00:50.160 --> 00:00:51.860]  当时我自己也没有赚到什么钱
+[00:00:51.860 --> 00:00:54.960]  所以呢我不得不将绝大多数时间
+[00:00:54.960 --> 00:00:58.340]  花在学习一个能找到工作的专业上
+[00:00:58.340 --> 00:01:03.840]  以及将绝大多数的时间花在未来能够养活我自己的实习
+[00:01:03.840 --> 00:01:06.100]  以及未来对一些行业的了解上
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 516.004 -t 76.117 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.010 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.500]  当然由于我自己毕业之后就创业了
+[00:00:02.500 --> 00:00:05.780]  事实证明我其实即便学了一个能找到工作的专业
+[00:00:05.780 --> 00:00:07.920]  也并没有因此而找到工作
+[00:00:07.920 --> 00:00:10.820]  其实我以后大家跟我聊久了可以知道
+[00:00:10.820 --> 00:00:13.820]  其实我当初找工作的经历也是非常坎坷的
+[00:00:13.820 --> 00:00:18.820]  其实当时学这个专业本身对我找工作并没有起到很大的作用
+[00:00:18.820 --> 00:00:21.720]  而当初我去了马云湖畔大学面试的时候
+[00:00:21.720 --> 00:00:23.940]  冯伦当初就问我
+[00:00:23.940 --> 00:00:27.820]  如果你的公司或者你赚了足够多的钱
+[00:00:27.820 --> 00:00:29.160]  你想干什么
+[00:00:29.160 --> 00:00:31.140]  其实这个问题啊
+[00:00:31.140 --> 00:00:33.300]  就是我们经常大家梦寐以求的说
+[00:00:33.300 --> 00:00:35.760]  如果你哪一天你实现了财务自由
+[00:00:35.760 --> 00:00:37.220]  你想干什么
+[00:00:37.220 --> 00:00:38.920]  其实那一天呢
+[00:00:38.920 --> 00:00:43.040]  我的回答和我在北大做的事情是水到渠成的
+[00:00:43.040 --> 00:00:45.100]  我当时就回答说
+[00:00:45.100 --> 00:00:47.740]  如果我和我的公司赚了足够多的钱
+[00:00:47.740 --> 00:00:49.380]  那么我想做的事情
+[00:00:49.380 --> 00:00:52.980]  就是与他人分享我的思想与所得
+[00:00:52.980 --> 00:00:54.820]  来帮助他人成功
+[00:00:54.820 --> 00:00:57.160]  共同推进中国的商业文明
+[00:00:57.160 --> 00:00:59.800]  所以今天其实想一想
+[00:00:59.800 --> 00:01:01.160]  也是很感恩的
+[00:01:01.160 --> 00:01:02.640]  财富自由本身
+[00:01:02.640 --> 00:01:04.780]  也在帮助我开设这个专栏
+[00:01:04.780 --> 00:01:07.720]  比方说在这个中秋节
+[00:01:07.720 --> 00:01:09.680]  我就不用去见任何
+[00:01:09.680 --> 00:01:10.880]  我不想见的人
+[00:01:10.880 --> 00:01:12.840]  不用去参加任何
+[00:01:12.840 --> 00:01:13.960]  我不想去的应酬
+[00:01:13.960 --> 00:01:16.120]  也不用为了
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 591.621 -t 76.515 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.400 --> 00:00:01.540]  生机而奔波
+[00:00:01.540 --> 00:00:05.580]  可以踏踏实实把我自己最想做的这个专栏完成了
+[00:00:05.580 --> 00:00:09.520]  所以其实跟大家现在在录这个专栏的时候
+[00:00:09.520 --> 00:00:11.360]  我还是很感恩而且很开心的
+[00:00:11.360 --> 00:00:16.180]  因为这个是我自己真真正正踏踏实实就想做的事情
+[00:00:16.180 --> 00:00:18.300]  而且是我自己一直想做的
+[00:00:18.300 --> 00:00:20.380]  最后一个呢是付出情感尊严
+[00:00:20.380 --> 00:00:24.520]  其实付出情感尊严本身啊很值得探讨
+[00:00:24.520 --> 00:00:27.720]  不知道大家平常生活中有没有感觉
+[00:00:28.140 --> 00:00:31.240]  尊严这个东西是非常好玩的
+[00:00:31.240 --> 00:00:33.120]  尊严值多少钱
+[00:00:33.120 --> 00:00:36.980]  完全取决于你自己值多少钱
+[00:00:36.980 --> 00:00:39.600]  一个没有价值人的尊严
+[00:00:39.600 --> 00:00:43.900]  本身尊严本身也不具有任何价值
+[00:00:43.900 --> 00:00:46.900]  情感与此也是类似的
+[00:00:46.900 --> 00:00:48.880]  情感与尊严的价值呢
+[00:00:48.880 --> 00:00:50.880]  只对在乎他的人起作用
+[00:00:50.880 --> 00:00:55.000]  因此出价也是由完全在乎他的人决定的
+[00:00:55.000 --> 00:00:56.200]  当然了
+[00:00:56.200 --> 00:00:58.400]  我们也知道对于每一个人来说
+[00:00:58.400 --> 00:01:01.000]  情感尊严也是非常重要的
+[00:01:01.000 --> 00:01:03.260]  因为每个人都有自己非常在乎
+[00:01:03.260 --> 00:01:04.200]  而在别人看来
+[00:01:04.200 --> 00:01:06.100]  可能是燃命卵的东西
+[00:01:06.100 --> 00:01:07.520]  举个大家很简单的例子
+[00:01:07.520 --> 00:01:08.660]  就是爱情
+[00:01:08.660 --> 00:01:10.100]  所以我们经常发现
+[00:01:10.100 --> 00:01:11.980]  所有人如果抛出自己的爱情
+[00:01:11.980 --> 00:01:13.960]  给别人当参谋的话
+[00:01:13.960 --> 00:01:15.500]  99%的人都是劝分
+[00:01:15.500 --> 00:01:16.520]  对吧
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 667.636 -t 81.306 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.180 --> 00:00:03.900]  这也是因为你喜欢的那个人对方并不喜欢
+[00:00:03.900 --> 00:00:05.280]  所以对他来说
+[00:00:05.280 --> 00:00:10.460]  其实情感尊严和情感本身并不是一个非常值得去眷恋的东西
+[00:00:10.460 --> 00:00:13.280]  所以大家如果基于功利的分析
+[00:00:13.280 --> 00:00:14.740]  基本上都是全分
+[00:00:14.740 --> 00:00:16.120]  所以呢
+[00:00:16.120 --> 00:00:19.680]  从这个点上我们来看财富自由可以实现
+[00:00:19.680 --> 00:00:23.480]  我们不为金钱做出付出情感尊严的妥协
+[00:00:23.480 --> 00:00:27.000]  其实是本身就是一个非常奢侈的东西
+[00:00:27.000 --> 00:00:28.880]  其实尊严本身也是一种奢侈品
+[00:00:28.880 --> 00:00:29.940]  所以呢
+[00:00:29.940 --> 00:00:31.880]  但是其实我要补充一句
+[00:00:31.880 --> 00:00:32.720]  但是我们会发现
+[00:00:32.720 --> 00:00:34.320]  平常生活中很好玩的
+[00:00:34.320 --> 00:00:36.580]  是其实有钱人往往不把
+[00:00:36.580 --> 00:00:38.080]  所谓的尊严看得那么重
+[00:00:38.080 --> 00:00:39.600]  而穷人恰恰把这个东西
+[00:00:39.600 --> 00:00:40.640]  看得是最重的
+[00:00:40.640 --> 00:00:42.660]  但是穷人往往却没有办法
+[00:00:42.660 --> 00:00:43.700]  捍卫自己的尊严
+[00:00:43.700 --> 00:00:45.200]  所以当然他们也有可能
+[00:00:45.200 --> 00:00:46.780]  某种程度上是最痛苦的
+[00:00:46.780 --> 00:00:49.200]  财富自由当然也可以有效帮助我们
+[00:00:49.200 --> 00:00:51.540]  至少不用和自己不喜欢的人结婚
+[00:00:51.540 --> 00:00:54.420]  而且也不需要再考虑
+[00:00:54.420 --> 00:00:55.780]  情感问题的时候
+[00:00:55.780 --> 00:00:58.000]  掺杂更多的金钱因素
+[00:00:58.000 --> 00:01:01.780]  这样才能让我们的尊严与情感更纯粹
+[00:01:01.780 --> 00:01:05.180]  这是其实我自己也经常说的一个道理
+[00:01:05.180 --> 00:01:07.960]  叫做情感问题不要用金钱解决
+[00:01:07.960 --> 00:01:10.960]  因为我们只有在金钱足够独立的时候
+[00:01:10.960 --> 00:01:13.200]  在我们去处理情感问题的时候
+[00:01:13.200 --> 00:01:14.540]  也许这个时候
+[00:01:14.540 --> 00:01:17.000]  其实我们才能获得的更多的自主性
+[00:01:17.000 --> 00:01:19.500]  也能更赋予情感尊严
+[00:01:19.500 --> 00:01:20.680]  以尊严本身
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 748.441 -t 34.977 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.240]  达到刚才我们所说的这些事情
+[00:00:03.240 --> 00:00:04.400]  所有的要求
+[00:00:04.400 --> 00:00:08.200]  就是我们要实现一定程度的财务自由
+[00:00:08.200 --> 00:00:10.300]  所以节目录到这里
+[00:00:10.300 --> 00:00:13.540]  我们某种程度上已经理解了财富自由是什么
+[00:00:13.540 --> 00:00:17.400]  同时也某种程度上了解了财富自由
+[00:00:17.400 --> 00:00:20.040]  能够带来给我们的巨大好处
+[00:00:20.040 --> 00:00:23.900]  以及实现精神状态某种程度的自由
+[00:00:30.000 --> 00:00:34.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__011__89676748/chunk-010/out -sns -nf -np

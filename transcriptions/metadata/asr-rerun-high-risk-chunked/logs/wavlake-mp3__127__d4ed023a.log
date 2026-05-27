@@ -1,0 +1,501 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 66.208 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:30.900]  一个信托人
+[00:00:30.900 --> 00:00:43.480]  我的朋友去世了
+[00:00:43.480 --> 00:00:45.080]  他通过信托这种制度
+[00:00:45.080 --> 00:00:46.960]  把他的钱托付给我
+[00:00:46.960 --> 00:00:48.420]  由我照顾他的儿女
+[00:00:48.420 --> 00:00:50.120]  中国要是遇到这种情况
+[00:00:50.120 --> 00:00:51.240]  表面会说
+[00:00:51.240 --> 00:00:51.600]  好
+[00:00:51.600 --> 00:00:53.440]  你把钱给我
+[00:00:53.440 --> 00:00:54.420]  一定照顾好儿女
+[00:00:54.420 --> 00:00:56.060]  兄弟你放心的去吧
+[00:00:56.060 --> 00:00:57.520]  结果呢
+[00:00:57.520 --> 00:00:59.540]  说不定你前脚刚去世
+[00:00:59.540 --> 00:01:02.480]  后脚他就把你的财产妻女都霸占了
+[00:01:02.480 --> 00:01:04.840]  西方信托制度下会这样吗
+[00:01:04.840 --> 00:01:05.640]  当然不会
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 65.708 -t 75.241 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.320 --> 00:00:03.100]  受托人是在上帝面前发过誓的
+[00:00:03.100 --> 00:00:04.960]  他一定会受人之托
+[00:00:04.960 --> 00:00:06.120]  忠人之誓
+[00:00:06.120 --> 00:00:07.860]  一辈子都信守诺言
+[00:00:07.860 --> 00:00:09.980]  所以我们可以看到西方啊
+[00:00:09.980 --> 00:00:11.640]  有非常多非常成熟的
+[00:00:11.640 --> 00:00:13.880]  存续几百年
+[00:00:13.880 --> 00:00:15.940]  甚至上千年的信托机构
+[00:00:15.940 --> 00:00:18.000]  和信托组织
+[00:00:18.000 --> 00:00:19.940]  有读者可能会说
+[00:00:19.940 --> 00:00:22.160]  我们中国不是现在也有信托吗
+[00:00:22.160 --> 00:00:25.140]  但是中国也是一片神奇的土地
+[00:00:25.140 --> 00:00:27.540]  西方的信托到我们中国来
+[00:00:27.540 --> 00:00:29.120]  变成了一种理财产品
+[00:00:29.120 --> 00:00:31.720]  大家现在经常说买信托
+[00:00:31.720 --> 00:00:35.280]  往往的意思是一种年年化回报
+[00:00:35.280 --> 00:00:38.720]  8%刚性兑付的一种固定的理财产品
+[00:00:38.720 --> 00:00:42.900]  根本就不是西方这种财富传承意义上的信托
+[00:00:42.900 --> 00:00:46.100]  中国人对真正的信托是完全没有概念的
+[00:00:46.100 --> 00:00:47.500]  而且觉得信托并不可信
+[00:00:47.500 --> 00:00:48.740]  所以从这个角度来说
+[00:00:48.740 --> 00:00:51.400]  中国本质上目前还没有信托
+[00:00:51.400 --> 00:00:55.280]  在西方金钱财产是与上帝一样的神圣存在
+[00:00:55.280 --> 00:00:58.320]  信仰和信托是紧密结合在一起的
+[00:00:58.320 --> 00:01:00.220]  一个人能赚到钱
+[00:01:00.220 --> 00:01:02.540]  这是对他灵魂的最高奖赏
+[00:01:02.540 --> 00:01:06.900]  就像马克思韦伯在《新教伦理》和《资本主义精神》中写到的
+[00:01:06.900 --> 00:01:08.540]  这就是资本主义的内核
+[00:01:08.540 --> 00:01:09.700]  如果赚到钱
+[00:01:09.700 --> 00:01:11.960]  一个人就离上帝更近了
+[00:01:11.960 --> 00:01:15.240]  他的道德也就更加高尚了
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 140.449 -t 65.921 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.280 --> 00:00:01.800]  而中国人并不这么想
+[00:00:01.800 --> 00:00:03.700]  我们经常有一句流行话
+[00:00:03.700 --> 00:00:04.980]  经常说骂人
+[00:00:04.980 --> 00:00:05.380]  是吧
+[00:00:05.380 --> 00:00:07.580]  说你不就是有两个臭钱吗
+[00:00:07.580 --> 00:00:08.480]  对吧
+[00:00:08.480 --> 00:00:09.540]  肯定为富不仁
+[00:00:09.540 --> 00:00:10.500]  对吧
+[00:00:10.500 --> 00:00:12.060]  把你打劫了不就行了吗
+[00:00:12.060 --> 00:00:12.400]  对吧
+[00:00:12.400 --> 00:00:13.360]  还是let's roll
+[00:00:13.360 --> 00:00:14.820]  我们中国人的精神
+[00:00:14.820 --> 00:00:16.740]  有钱人最大恶极
+[00:00:16.740 --> 00:00:18.060]  财富越多越反动
+[00:00:18.060 --> 00:00:19.580]  大家都没钱
+[00:00:19.580 --> 00:00:20.780]  你怎么就有钱了呢
+[00:00:20.780 --> 00:00:21.320]  对吧
+[00:00:21.320 --> 00:00:23.200]  肯定是你为富不仁
+[00:00:23.200 --> 00:00:24.880]  手段非常肮脏
+[00:00:24.880 --> 00:00:29.020]  自然我们就拥有打劫你的权利了
+[00:00:29.020 --> 00:00:29.400]  对吧
+[00:00:29.400 --> 00:00:32.460]  这就是中国人打劫的一个最常用的逻辑吧
+[00:00:32.460 --> 00:00:34.620]  中国人从这个角度来说
+[00:00:34.620 --> 00:00:37.180]  中国人认为有钱是一个人的原罪
+[00:00:37.180 --> 00:00:39.980]  你需要为你有钱做出解释
+[00:00:39.980 --> 00:00:41.640]  你怎么有钱了呢
+[00:00:41.640 --> 00:00:42.880]  质问你
+[00:00:42.880 --> 00:00:43.820]  你要解释
+[00:00:43.820 --> 00:00:46.580]  欧美恰恰相反
+[00:00:46.580 --> 00:00:49.300]  没钱是你的原罪
+[00:00:49.300 --> 00:00:51.280]  没钱你要在上帝面前忏悔
+[00:00:51.280 --> 00:00:53.200]  哎呀我这辈子太懒了
+[00:00:53.200 --> 00:00:54.020]  不用工
+[00:00:54.020 --> 00:00:56.460]  反正各种原因导致我没有钱了
+[00:00:56.460 --> 00:00:56.980]  我要忏悔
+[00:00:56.980 --> 00:00:58.620]  中国人刚好倒过来
+[00:00:58.620 --> 00:01:00.300]  有钱了你要忏悔
+[00:01:00.300 --> 00:01:02.360]  当然并不是向上帝忏悔
+[00:01:02.360 --> 00:01:04.740]  中国就你就向打劫你的人忏悔吧
+[00:01:04.740 --> 00:01:05.260]  对吧
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 205.870 -t 72.409 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.060]  所以中国的传统道德价值观
+[00:00:02.060 --> 00:00:03.560]  都是压抑财产权的
+[00:00:03.560 --> 00:00:05.140]  所以中国每历史上
+[00:00:05.140 --> 00:00:06.080]  每过一个世纪
+[00:00:06.080 --> 00:00:07.080]  甚至半个世纪
+[00:00:07.080 --> 00:00:10.340]  都会有一次大型的财产洗牌
+[00:00:10.340 --> 00:00:13.760]  很多有钱人不仅是财产不保
+[00:00:13.760 --> 00:00:16.160]  而且是性命不保
+[00:00:16.160 --> 00:00:16.920]  所以啊
+[00:00:16.920 --> 00:00:18.340]  这甚至已经不是个
+[00:00:18.340 --> 00:00:19.560]  富不过三代的问题了
+[00:00:19.560 --> 00:00:21.240]  是个活不过三代的问题
+[00:00:21.240 --> 00:00:23.480]  这个听起来是很恐怖的
+[00:00:23.480 --> 00:00:25.240]  因为在中国这片土地相当于
+[00:00:25.240 --> 00:00:27.660]  你如果有钱
+[00:00:27.660 --> 00:00:29.500]  那么你最后的下场
+[00:00:29.500 --> 00:00:30.840]  很有可能是不得好死
+[00:00:30.840 --> 00:00:33.160]  如果你很幸运
+[00:00:33.160 --> 00:00:34.400]  得了好死
+[00:00:34.400 --> 00:00:37.240]  那你儿子一定不得好死
+[00:00:37.240 --> 00:00:39.760]  而你儿子如果也比较幸运
+[00:00:39.760 --> 00:00:41.800]  最后得了好死
+[00:00:41.800 --> 00:00:44.860]  你孙子一定不得好死
+[00:00:44.860 --> 00:00:47.380]  而到你孙子那一辈
+[00:00:47.380 --> 00:00:48.860]  不得好死的概率
+[00:00:48.860 --> 00:00:50.860]  在中国已经是百分之百了
+[00:00:50.860 --> 00:00:53.680]  无人能够幸运
+[00:00:53.680 --> 00:00:55.540]  不相信的人
+[00:00:55.540 --> 00:00:56.940]  咱们可以看看历史书
+[00:00:56.940 --> 00:00:58.100]  往前追溯一下
+[00:00:58.100 --> 00:01:00.800]  看看历史上都发生过哪些大型的财产洗牌
+[00:01:00.800 --> 00:01:05.040]  咱们以2020近200年为例
+[00:01:05.040 --> 00:01:06.180]  简单列举一下
+[00:01:06.180 --> 00:01:08.300]  今年是2017年
+[00:01:08.300 --> 00:01:11.900]  那200年前就是1817年
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 277.780 -t 77.197 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.500 --> 00:00:02.480]  其实从1817年开始
+[00:00:02.480 --> 00:00:05.680]  大约30年后就爆发了太平天国起义
+[00:00:05.680 --> 00:00:09.340]  洪秀全就带领我们刚才讲的是吧
+[00:00:09.340 --> 00:00:12.980]  以打劫为乐趣的这帮劳动人民们
+[00:00:12.980 --> 00:00:18.220]  把广东江浙整个长江以南地区的有钱人
+[00:00:18.220 --> 00:00:19.700]  基本就杀了个精光吧
+[00:00:19.700 --> 00:00:21.500]  还不包括李秀成
+[00:00:21.500 --> 00:00:24.020]  当时差点都打到北京了
+[00:00:24.020 --> 00:00:26.440]  打到河北的地方停止了
+[00:00:26.440 --> 00:00:28.220]  有人可能会心呆乐乎的说
+[00:00:28.880 --> 00:00:30.600]  幸好我没有出生在南方
+[00:00:30.600 --> 00:00:31.900]  我家在北方
+[00:00:31.900 --> 00:00:33.340]  是不是我家山东了
+[00:00:33.340 --> 00:00:35.540]  太平天国洗不了我的牌
+[00:00:35.540 --> 00:00:36.540]  那对不起
+[00:00:36.540 --> 00:00:38.160]  躲得了初一躲不过十五
+[00:00:38.160 --> 00:00:40.120]  躲得了和尚躲不了庙
+[00:00:40.120 --> 00:00:41.680]  撵军起义
+[00:00:41.680 --> 00:00:43.020]  回民起义
+[00:00:43.020 --> 00:00:44.220]  白莲教
+[00:00:44.220 --> 00:00:45.200]  红灯照
+[00:00:45.200 --> 00:00:47.040]  都在等着你
+[00:00:47.040 --> 00:00:51.120]  撵军是1851年到1868年
+[00:00:51.120 --> 00:00:54.480]  爆发于黄淮河领域的农民起义
+[00:00:54.480 --> 00:00:56.260]  陕甘回民起义是爆发
+[00:00:56.260 --> 00:00:58.660]  191862到1873
+[00:00:58.660 --> 00:01:01.260]  爆发在这个宁夏
+[00:01:01.260 --> 00:01:03.660]  回族自治区陕西甘肃的
+[00:01:03.660 --> 00:01:05.080]  回民暴乱和叛乱
+[00:01:05.080 --> 00:01:08.100]  上面说到了就18
+[00:01:08.100 --> 00:01:09.300]  我们现在都讲的是18
+[00:01:09.300 --> 00:01:11.200]  1850 60年代呢
+[00:01:11.200 --> 00:01:11.700]  是打仗
+[00:01:11.700 --> 00:01:14.680]  等到1870 8090
+[00:01:14.680 --> 00:01:17.200]  稍微稳定一段时间
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 354.476 -t 62.028 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.220 --> 00:00:02.220]  紧接着我们知道
+[00:00:02.220 --> 00:00:04.320]  就先是八国联军
+[00:00:04.320 --> 00:00:09.020]  然后紧接着辛亥革命爆发之后
+[00:00:09.020 --> 00:00:11.900]  又是连年的军阀困战
+[00:00:11.900 --> 00:00:13.840]  在此期间
+[00:00:13.840 --> 00:00:17.100]  别说是普通人保不住自己的财富
+[00:00:17.100 --> 00:00:23.480]  最后连宣统皇帝的财富都保护不了
+[00:00:23.480 --> 00:00:25.480]  而且大家要知道
+[00:00:25.480 --> 00:00:26.880]  宣统皇帝的财产
+[00:00:26.880 --> 00:00:29.980]  跟一般有钱人的财产还不一样
+[00:00:29.980 --> 00:00:31.980]  一般有钱的财产
+[00:00:31.980 --> 00:00:33.240]  法律虽然说明了
+[00:00:33.240 --> 00:00:34.280]  要保护私有财产
+[00:00:34.280 --> 00:00:36.260]  但并没有指明道姓
+[00:00:36.260 --> 00:00:37.660]  说要保护哪个私有
+[00:00:37.660 --> 00:00:39.820]  哪个人的私有财产
+[00:00:39.820 --> 00:00:45.560]  而宣统皇帝财产的合法性
+[00:00:45.560 --> 00:00:47.980]  是明确被写进了
+[00:00:47.980 --> 00:00:49.560]  清世优待条例里的
+[00:00:49.560 --> 00:00:51.440]  当时这个条例写的是
+[00:00:51.440 --> 00:00:54.180]  清帝私产由国民政府
+[00:00:54.180 --> 00:00:55.560]  特别保护
+[00:00:55.560 --> 00:00:57.140]  结果呢
+[00:00:57.140 --> 00:01:00.840]  这个特别根本没有特几年
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 416.005 -t 74.356 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.440 --> 00:00:02.360]  圈头皇帝退位不过13年
+[00:00:02.360 --> 00:00:07.640]  1924年冯玉祥就把溥仪给赶出了紫禁城
+[00:00:07.640 --> 00:00:11.520]  而且限时三小时立功
+[00:00:11.520 --> 00:00:13.120]  要不就立刻开炮
+[00:00:13.120 --> 00:00:18.720]  而且条例里原来规定的清帝税用四百万两白银
+[00:00:18.720 --> 00:00:20.740]  由国民政府拨发
+[00:00:20.740 --> 00:00:25.320]  也变成了国民每年补助清市家用五十万元
+[00:00:25.320 --> 00:00:26.820]  随便改的
+[00:00:27.360 --> 00:00:29.000]  而且当时条例里呢
+[00:00:29.000 --> 00:00:29.920]  也写好了
+[00:00:29.920 --> 00:00:32.020]  清帝宗庙临起永远奉祀
+[00:00:32.020 --> 00:00:34.400]  国民政府着设立卫兵保护
+[00:00:34.400 --> 00:00:37.080]  结果也没有人当个回事
+[00:00:37.080 --> 00:00:39.220]  随便来个军长孙殿英
+[00:00:39.220 --> 00:00:41.040]  就把乾隆皇帝的御灵
+[00:00:41.040 --> 00:00:42.760]  慈禧太后的定灵给挖了
+[00:00:42.760 --> 00:00:44.560]  里面的金银财宝
+[00:00:44.560 --> 00:00:46.880]  全部掠夺一空
+[00:00:46.880 --> 00:00:49.020]  后来孙殿英不仅啥事没有
+[00:00:49.020 --> 00:00:50.780]  还一路加官进爵
+[00:00:50.780 --> 00:00:52.780]  被冯玉祥
+[00:00:52.780 --> 00:00:54.640]  延期山委任为第四方面军
+[00:00:54.640 --> 00:00:55.720]  第五路总指挥
+[00:00:55.720 --> 00:00:56.620]  建安徽省主席
+[00:00:56.620 --> 00:00:59.000]  而且这里我还知道一个小的历史故事
+[00:00:59.000 --> 00:01:01.180]  就孙殿英当时觉得这两个幕啊
+[00:01:01.180 --> 00:01:02.860]  就把里面的金银财宝全部拿出来
+[00:01:02.860 --> 00:01:04.120]  大肆送礼
+[00:01:04.120 --> 00:01:06.960]  跟今天的这个我们刚才讲的
+[00:01:06.960 --> 00:01:07.880]  这个抢这个
+[00:01:07.880 --> 00:01:11.080]  翻了这个苹果车的这个农民是一样的
+[00:01:11.080 --> 00:01:12.820]  因为呢他也知道
+[00:01:12.820 --> 00:01:14.360]  自己是抢劫嘛
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 489.861 -t 60.510 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:04.200]  所以他就把这些抢劫的这些东西就发给大家
+[00:00:04.200 --> 00:00:06.800]  大家都拿了不都成抢劫犯了
+[00:00:06.800 --> 00:00:07.900]  法不责众
+[00:00:07.900 --> 00:00:10.060]  还更方便他加官进爵
+[00:00:10.060 --> 00:00:13.020]  令人惊讶的是当时的社会名流
+[00:00:13.020 --> 00:00:15.160]  都是欣然笑纳
+[00:00:15.160 --> 00:00:18.040]  没有一个人是说你这怎么是抢劫的
+[00:00:18.040 --> 00:00:18.580]  不对吧
+[00:00:18.580 --> 00:00:18.840]  是吧
+[00:00:18.840 --> 00:00:19.900]  脏物啊
+[00:00:19.900 --> 00:00:21.360]  大家欣然笑纳
+[00:00:21.360 --> 00:00:23.940]  可以看到在整个上层社会
+[00:00:23.940 --> 00:00:25.020]  包括国民政府
+[00:00:25.020 --> 00:00:27.620]  其实也都任何没有诚信
+[00:00:27.620 --> 00:00:28.980]  也不把这一段回事
+[00:00:28.980 --> 00:00:31.800]  这变成忽悠人玩的了嘛
+[00:00:31.800 --> 00:00:32.140]  对吧
+[00:00:32.140 --> 00:00:33.540]  跟青史签的这个条例
+[00:00:33.540 --> 00:00:34.380]  是忽悠着玩的
+[00:00:34.380 --> 00:00:36.040]  你说这个事情
+[00:00:36.040 --> 00:00:37.600]  是不是很逗啊
+[00:00:37.600 --> 00:00:38.420]  就整个上游社会
+[00:00:38.420 --> 00:00:39.320]  没人当回事
+[00:00:39.320 --> 00:00:41.100]  更逗的是
+[00:00:41.100 --> 00:00:42.960]  宣统皇帝自己
+[00:00:42.960 --> 00:00:44.180]  最后都没有当回事
+[00:00:44.180 --> 00:00:46.160]  被打劫也都释然了
+[00:00:46.160 --> 00:00:46.740]  对吧
+[00:00:46.740 --> 00:00:48.460]  就跟我们刚才讲的
+[00:00:48.460 --> 00:00:48.920]  是不是啊
+[00:00:48.920 --> 00:00:49.960]  自己借的钱
+[00:00:49.960 --> 00:00:51.240]  凭什么要还
+[00:00:51.240 --> 00:00:51.640]  对吧
+[00:00:51.640 --> 00:00:53.980]  我凭自己本事抢的劫
+[00:00:53.980 --> 00:00:54.640]  是不是啊
+[00:00:54.640 --> 00:00:55.460]  为什么要坐牢
+[00:00:55.460 --> 00:00:56.320]  对不对啊
+[00:00:56.320 --> 00:00:58.460]  不就是打个劫吗
+[00:00:58.460 --> 00:00:58.840]  对吧
+[00:00:58.840 --> 00:01:00.500]  无所谓
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 549.871 -t 84.266 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/127 - 127 - 128 孙宇晨：【财富天问】财富洗牌，谈中西方财产观差异.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.560 --> 00:00:05.160]  有一张历史照片记录了一个有趣的画面
+[00:00:05.160 --> 00:00:09.780]  就是1961年纪念辛亥革命50周年的时候
+[00:00:09.780 --> 00:00:15.960]  有三个人亲热的搂在了一起嘻嘻哈哈的照相在全国争协时
+[00:00:15.960 --> 00:00:21.540]  这三个人从左到右分别是陆忠林、溥仪和熊炳坤
+[00:00:21.540 --> 00:00:25.460]  溥仪当然大家知道是清代的末代皇帝
+[00:00:25.680 --> 00:00:26.940]  而熊炳坤呢
+[00:00:26.940 --> 00:00:29.120]  是打响武昌起义第一枪的
+[00:00:29.120 --> 00:00:31.780]  辛亥革命推翻了清政府
+[00:00:31.780 --> 00:00:32.820]  清帝退位
+[00:00:32.820 --> 00:00:34.760]  他们俩人合照呢
+[00:00:34.760 --> 00:00:37.120]  我觉得只是一种政治对手的合照
+[00:00:37.120 --> 00:00:39.060]  我觉得还可以被理解
+[00:00:39.060 --> 00:00:40.300]  但陆忠林呢
+[00:00:40.300 --> 00:00:42.500]  1924年任京都警备司令
+[00:00:42.500 --> 00:00:46.680]  奉冯玉祥之命将溥仪驱逐出紫禁城
+[00:00:46.680 --> 00:00:48.560]  这就是抢劫犯
+[00:00:48.560 --> 00:00:51.600]  明确违法的抢劫犯
+[00:00:51.600 --> 00:00:53.400]  但是溥仪呢
+[00:00:53.400 --> 00:00:55.560]  可以跟抢劫犯两个人搂在一起
+[00:00:55.560 --> 00:00:57.460]  哈哈大笑
+[00:00:57.460 --> 00:01:00.480]  感觉抢劫像过家家一样
+[00:01:00.480 --> 00:01:01.960]  简单轻松
+[00:01:01.960 --> 00:01:03.960]  气氛祥和
+[00:01:03.960 --> 00:01:06.560]  这就是中国的现实
+[00:01:06.560 --> 00:01:07.660]  那可以看
+[00:01:07.660 --> 00:01:10.780]  就是连被打劫的人都不能把打劫当回事
+[00:01:10.780 --> 00:01:15.180]  连清帝都无法保护自己的私有财产
+[00:01:15.180 --> 00:01:18.560]  那在这个动乱的民国年代
+[00:01:18.560 --> 00:01:22.080]  那还有任何人能够保留自己的财富吗
+[00:01:22.080 --> 00:01:23.600]  显然是很难的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__127__d4ed023a/chunk-008/out -sns -nf -np

@@ -1,0 +1,612 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 75.250 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:37.460]  现在基本上已经是整个中关村乃至中国甚至是亚洲的创业地标了
+[00:00:37.460 --> 00:00:41.700]  尤其在2014年和到2015年那个阶段
+[00:00:41.700 --> 00:00:47.220]  几乎成了我们所有创业者需要朝圣的一个圣地
+[00:00:47.220 --> 00:00:54.640]  当然也包括我们国家的李克强总理也三番五次的到当地视察
+[00:00:54.640 --> 00:00:59.360]  包括还到3W咖啡喝了他们的总理咖啡
+[00:00:59.360 --> 00:01:03.960]  我自己也去3WC喝过这个总理的同款咖啡
+[00:01:03.960 --> 00:01:07.360]  他呢在喜马拉雅开了一档节目
+[00:01:07.360 --> 00:01:09.300]  叫薪资进阶手册
+[00:01:09.300 --> 00:01:13.960]  谷歌腾讯阿里等顶级互联网公司的工作坊
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 74.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.540 --> 00:00:03.460]  其实真讲吧的我自己都想去听一下
+[00:00:03.460 --> 00:00:04.920]  因为大家也知道我呢
+[00:00:04.920 --> 00:00:06.720]  一直是草台班子创业
+[00:00:06.720 --> 00:00:08.440]  从22岁创业到现在
+[00:00:08.440 --> 00:00:11.560]  其实我还蛮想知道谷歌腾讯阿里
+[00:00:11.560 --> 00:00:14.280]  到底有什么顶级的互联网工作法的
+[00:00:14.280 --> 00:00:16.300]  因此非常推荐
+[00:00:16.300 --> 00:00:18.180]  大家也去订阅他的节目
+[00:00:18.180 --> 00:00:21.000]  听一听互联网时代不一样的声音
+[00:00:21.000 --> 00:00:24.760]  巴尔勒用了五年时间和他的创始人一起
+[00:00:24.760 --> 00:00:28.620]  打造了一家估值50亿人民币的公司
+[00:00:29.000 --> 00:00:33.280]  并且从0到1把3W打造成中国互联网的地标
+[00:00:33.280 --> 00:00:38.580]  同时也将拉钩网打造成了中国最大的互联网招聘平台
+[00:00:38.580 --> 00:00:40.600]  这一点我要补充一下
+[00:00:40.600 --> 00:00:44.580]  我们公司很多同事都是在拉钩网上招的
+[00:00:44.580 --> 00:00:46.620]  确实是非常不错
+[00:00:46.620 --> 00:00:51.040]  然后这一期我跟巴尔勒一起会回答10个问题
+[00:00:51.040 --> 00:00:52.500]  我会回答
+[00:00:52.500 --> 00:00:55.460]  大家也可以听一听巴尔勒是怎么回答这些问题的
+[00:00:58.460 --> 00:01:00.040]  错过了08年的房子
+[00:01:00.040 --> 00:01:00.980]  11年的互联网
+[00:01:00.980 --> 00:01:02.080]  现在还有哪些
+[00:01:02.080 --> 00:01:04.960]  快速获取财富的手段
+[00:01:04.960 --> 00:01:07.520]  我个人认为毫无疑问
+[00:01:07.520 --> 00:01:10.860]  是我起家的这个领域
+[00:01:10.860 --> 00:01:12.380]  比特币和区块链
+[00:01:12.380 --> 00:01:15.500]  其实我在比特币领域
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 149.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.540]  比特币领域也算个老人了
+[00:00:01.540 --> 00:00:03.340]  2012年开始关注比特币
+[00:00:03.340 --> 00:00:05.160]  并且买入比特币
+[00:00:05.160 --> 00:00:08.780]  2014年实现了自己的第一桶金
+[00:00:08.780 --> 00:00:12.060]  现在已经2017年了
+[00:00:12.060 --> 00:00:14.180]  离我买入已经有五年时间了
+[00:00:14.180 --> 00:00:16.540]  比特币也从当初一个根本不起眼的
+[00:00:16.540 --> 00:00:19.360]  可能十块钱人民币都不到的一个小地理
+[00:00:19.360 --> 00:00:22.840]  成长成为了将近两万人民币的一个巨无霸
+[00:00:22.840 --> 00:00:24.100]  同时呢
+[00:00:24.100 --> 00:00:25.740]  甚至比特币这几年
+[00:00:25.740 --> 00:00:30.080]  它在整个区块链虚拟货币领域的
+[00:00:30.080 --> 00:00:32.160]  王者地位也正在被削弱
+[00:00:32.160 --> 00:00:33.600]  类似于像以太坊
+[00:00:33.600 --> 00:00:34.800]  Ripple
+[00:00:34.800 --> 00:00:39.760]  莱特币等新起的互联网协议
+[00:00:39.760 --> 00:00:42.380]  区块链协议正在对它造成冲击
+[00:00:42.380 --> 00:00:44.300]  我个人认为
+[00:00:44.300 --> 00:00:46.040]  这个是我自己
+[00:00:46.040 --> 00:00:47.280]  包括我自己本人
+[00:00:47.280 --> 00:00:49.080]  愿意去献身一生的事业
+[00:00:49.080 --> 00:00:50.120]  当然我也觉得
+[00:00:50.120 --> 00:00:53.380]  这当然是中国可以快速获取财富的手段
+[00:00:53.380 --> 00:00:54.800]  毕竟我自己
+[00:00:54.800 --> 00:00:57.060]  就是在这个领域起家的
+[00:00:57.060 --> 00:00:58.160]  所以我对这个未来
+[00:00:58.160 --> 00:00:59.880]  也是充满信心
+[00:00:59.880 --> 00:01:01.620]  相信听众朋友们
+[00:01:01.620 --> 00:01:02.620]  听到我这个话
+[00:01:02.620 --> 00:01:04.900]  进入这个领域
+[00:01:04.900 --> 00:01:05.960]  踏踏实实
+[00:01:05.960 --> 00:01:07.940]  努力工作十年
+[00:01:07.940 --> 00:01:09.780]  必有超额回报
+[00:01:09.780 --> 00:01:11.800]  互联网创业需要注意哪些问题
+[00:01:11.800 --> 00:01:12.840]  我个人觉得
+[00:01:12.840 --> 00:01:14.320]  互联网创业
+[00:01:14.320 --> 00:01:15.380]  大家千万不要抱着
+[00:01:15.380 --> 00:01:15.500]  好
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 224.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.360]  抱着好像一夜暴富的这种态度进
+[00:00:02.360 --> 00:00:06.300]  因为进来之后你就发现问题远比回报多
+[00:00:06.300 --> 00:00:08.200]  所以我觉得既然来了
+[00:00:08.200 --> 00:00:09.400]  包括我包爱乐
+[00:00:09.400 --> 00:00:11.980]  这都互联网创业已经很多年的人了
+[00:00:11.980 --> 00:00:14.400]  至少已经五六年了吧
+[00:00:14.400 --> 00:00:17.160]  我们人生才二十多年
+[00:00:17.160 --> 00:00:17.860]  对吧
+[00:00:17.860 --> 00:00:19.900]  所以基本占了我们人生四分之一五分之一
+[00:00:19.900 --> 00:00:21.660]  而且可见的未来会做得更长
+[00:00:21.660 --> 00:00:24.640]  我孙远城自己的想法是创业一百年
+[00:00:24.640 --> 00:00:24.940]  对吧
+[00:00:24.940 --> 00:00:26.560]  从二十二岁到一百二十二岁
+[00:00:26.560 --> 00:00:28.160]  所以我后面这一百年都干这事
+[00:00:28.160 --> 00:00:29.720]  所以我心态就比较平和
+[00:00:29.720 --> 00:00:31.500]  互联网有什么机会
+[00:00:31.500 --> 00:00:32.420]  就抓住什么机会
+[00:00:32.420 --> 00:00:33.400]  反正来
+[00:00:33.400 --> 00:00:34.900]  每年都来
+[00:00:34.900 --> 00:00:37.440]  总能给我逮着一次机会
+[00:00:37.440 --> 00:00:38.200]  所以不急
+[00:00:38.200 --> 00:00:39.380]  心态别急
+[00:00:39.380 --> 00:00:41.100]  打好场
+[00:00:41.100 --> 00:00:42.940]  做长久持久战准备
+[00:00:42.940 --> 00:00:44.660]  当然我觉得最重要一点
+[00:00:44.660 --> 00:00:46.240]  就是我倾向于互联网创业
+[00:00:46.240 --> 00:00:48.000]  早期还是做一些
+[00:00:48.000 --> 00:00:49.860]  现金流小好的项目
+[00:00:49.860 --> 00:00:50.580]  先做一些
+[00:00:50.580 --> 00:00:52.600]  就如果你的机会
+[00:00:52.600 --> 00:00:53.440]  没那么好的时候
+[00:00:53.440 --> 00:00:54.260]  我建议做一些
+[00:00:54.260 --> 00:00:55.100]  现金流好的项目
+[00:00:55.100 --> 00:00:56.860]  因为这个能够让你
+[00:00:56.860 --> 00:01:00.480]  获得一个长时间内的生存力
+[00:01:00.480 --> 00:01:01.760]  我刚才都讲了
+[00:01:01.760 --> 00:01:03.680]  咱们既然一干干一百年
+[00:01:03.680 --> 00:01:06.000]  长时间活着也比较重要
+[00:01:06.000 --> 00:01:08.840]  所以我觉得这个问题也很重要
+[00:01:08.840 --> 00:01:11.720]  穷人跟富人的思维差异在哪里
+[00:01:11.720 --> 00:01:12.980]  我觉得讲一点
+[00:01:12.980 --> 00:01:15.500]  我觉得
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 299.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.800]  富人看问题一般比较客观
+[00:00:02.800 --> 00:00:07.100]  穷人看问题非常容易被自己的情绪左右
+[00:00:07.100 --> 00:00:11.040]  这个富人看问题客观是什么呢
+[00:00:11.040 --> 00:00:12.020]  就是富人啊
+[00:00:12.020 --> 00:00:13.440]  他首先不会受到情绪左右
+[00:00:13.440 --> 00:00:15.260]  比如说我觉得我是典型的富人
+[00:00:15.260 --> 00:00:16.520]  未必我有钱啊
+[00:00:16.520 --> 00:00:18.620]  但我这个思维上我是富人
+[00:00:18.620 --> 00:00:22.380]  就是包括我们公司员工也好
+[00:00:22.380 --> 00:00:23.900]  社会出现的现象也好
+[00:00:23.900 --> 00:00:27.000]  我会思考着究竟是不是一个事实
+[00:00:27.000 --> 00:00:29.260]  究竟是不是一个事实
+[00:00:29.260 --> 00:00:33.920]  而会抛开爱恨情仇
+[00:00:33.920 --> 00:00:35.020]  抛开我的情绪
+[00:00:35.020 --> 00:00:36.520]  不知道我是不是喜欢这个人
+[00:00:36.520 --> 00:00:38.100]  他这个事情
+[00:00:38.100 --> 00:00:39.540]  做的是不是符合
+[00:00:39.540 --> 00:00:41.260]  我的所谓的道德价值观
+[00:00:41.260 --> 00:00:43.300]  是不是符合这方方面面
+[00:00:43.300 --> 00:00:44.040]  我都不care
+[00:00:44.040 --> 00:00:45.420]  我看事实
+[00:00:45.420 --> 00:00:48.740]  事实好我就肯定的
+[00:00:48.740 --> 00:00:50.040]  事实不好就不肯定的
+[00:00:50.040 --> 00:00:51.420]  而相反穷人就未必了
+[00:00:51.420 --> 00:00:52.620]  穷人大量的
+[00:00:52.620 --> 00:00:54.700]  被大量的现象
+[00:00:54.700 --> 00:00:55.880]  大量的说辞
+[00:00:55.880 --> 00:00:57.920]  大量的很多伪装遮蔽了
+[00:00:57.920 --> 00:01:00.100]  他发现不了事物的客观规律
+[00:01:00.100 --> 00:01:02.840]  这两天我去我的投资人唐明森那聊天
+[00:01:02.840 --> 00:01:03.400]  他就给我讲
+[00:01:03.400 --> 00:01:04.880]  这个叫第一性原理
+[00:01:04.880 --> 00:01:06.960]  你要在生活中发现
+[00:01:06.960 --> 00:01:08.560]  到底什么东西是规律
+[00:01:08.560 --> 00:01:10.020]  到底什么东西是起作用
+[00:01:10.020 --> 00:01:12.000]  而不要道听途说
+[00:01:12.000 --> 00:01:13.620]  观察很多经验主义
+[00:01:13.620 --> 00:01:15.500]  看太阳从东边
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 374.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.200]  东边升起西边落下
+[00:00:02.200 --> 00:00:04.740]  好我就说太阳从东边升起西边落下
+[00:00:04.740 --> 00:00:05.680]  这不是的
+[00:00:05.680 --> 00:00:08.440]  你要看太阳从东边升起西边落下的核心原因
+[00:00:08.440 --> 00:00:11.160]  是地球的自转导致
+[00:00:11.160 --> 00:00:13.820]  那你就可以知道这个背后的核心规律
+[00:00:13.820 --> 00:00:15.660]  我觉得这一点是最重要的
+[00:00:15.660 --> 00:00:19.380]  穷人非常容易被现象经验主义麻痹
+[00:00:19.380 --> 00:00:22.660]  而富人往往能观察到所有事情的第一性原理
+[00:00:22.660 --> 00:00:25.300]  什么样的工作才好工作
+[00:00:25.300 --> 00:00:27.560]  我个人觉得真正好的工作
+[00:00:27.560 --> 00:00:29.500]  就是你喜欢干
+[00:00:30.000 --> 00:00:33.060]  如果你今天早晨起床的时候
+[00:00:33.060 --> 00:00:33.920]  都想妈的
+[00:00:33.920 --> 00:00:35.280]  我怎么又上班
+[00:00:35.280 --> 00:00:37.460]  我操恨不得抹脖子自杀了
+[00:00:37.460 --> 00:00:41.560]  这时候我就给他再多钱都不能干
+[00:00:41.560 --> 00:00:43.160]  再多钱都不能干
+[00:00:43.160 --> 00:00:44.040]  算了哥们
+[00:00:44.040 --> 00:00:45.760]  换个好歹的工作
+[00:00:45.760 --> 00:00:46.560]  因为你想想
+[00:00:46.560 --> 00:00:49.360]  人这辈子也不就活着几年吗
+[00:00:49.360 --> 00:00:50.300]  对不对
+[00:00:50.300 --> 00:00:53.340]  何必老跟自己作对呢
+[00:00:53.340 --> 00:00:53.740]  对不对
+[00:00:53.740 --> 00:00:54.640]  就比如说你想
+[00:00:54.640 --> 00:00:56.700]  我比如说当时一份高薪工作
+[00:00:56.700 --> 00:00:57.400]  如果我不喜欢
+[00:00:57.400 --> 00:00:57.920]  你就要想
+[00:00:57.920 --> 00:00:59.360]  你高薪工作
+[00:00:59.360 --> 00:01:00.220]  这个钱是为了啥
+[00:01:00.220 --> 00:01:01.320]  其实那天我们聊过
+[00:01:01.320 --> 00:01:02.120]  其实在北京
+[00:01:02.120 --> 00:01:03.120]  哪怕在北京
+[00:01:03.120 --> 00:01:04.580]  月薪一万
+[00:01:04.580 --> 00:01:05.340]  基本上
+[00:01:05.340 --> 00:01:06.720]  不至于饿死了
+[00:01:06.720 --> 00:01:07.800]  我觉得就
+[00:01:07.800 --> 00:01:09.300]  我也从那住地下室
+[00:01:09.300 --> 00:01:10.080]  活过来的
+[00:01:10.080 --> 00:01:11.800]  我觉得挺好
+[00:01:11.800 --> 00:01:12.660]  其实我现在回想起
+[00:01:12.660 --> 00:01:13.640]  那个时候也没有那么惨
+[00:01:13.640 --> 00:01:14.740]  没有想象的那么惨
+[00:01:14.740 --> 00:01:15.500]  我那时候也
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 449.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.120]  那时候也挺高兴的
+[00:00:01.120 --> 00:00:05.060]  我觉得工作所带来的快乐
+[00:00:05.060 --> 00:00:07.820]  要远大于就是外界花些钱
+[00:00:07.820 --> 00:00:10.760]  一些奢侈的生活什么带我的快乐
+[00:00:10.760 --> 00:00:11.780]  我个人认为
+[00:00:11.780 --> 00:00:14.740]  所以这时候所以我觉得你要想
+[00:00:14.740 --> 00:00:16.400]  工作喜不喜欢
+[00:00:16.400 --> 00:00:19.180]  如果不喜欢算了
+[00:00:19.180 --> 00:00:20.780]  哥们我再多薪水都不能干
+[00:00:20.780 --> 00:00:23.840]  零基础怎么转换行业
+[00:00:23.840 --> 00:00:26.960]  我觉得这一点首先先当用户
+[00:00:26.960 --> 00:00:27.940]  这我讲过很多
+[00:00:27.940 --> 00:00:28.820]  就比如说有人说
+[00:00:28.820 --> 00:00:30.180]  宇辰我传统行业
+[00:00:30.180 --> 00:00:31.000]  怎么来互联网
+[00:00:31.000 --> 00:00:33.560]  那你先用一圈互联网产品
+[00:00:33.560 --> 00:00:34.480]  看喜欢哪个
+[00:00:34.480 --> 00:00:35.040]  对不对
+[00:00:35.040 --> 00:00:37.080]  用一圈用的最流用
+[00:00:37.080 --> 00:00:37.820]  用的最熟
+[00:00:37.820 --> 00:00:38.840]  举几个例子
+[00:00:38.840 --> 00:00:40.240]  最近不抖音很火吗
+[00:00:40.240 --> 00:00:41.540]  其实我们这些
+[00:00:41.540 --> 00:00:43.240]  就是外人知道抖音熟
+[00:00:43.240 --> 00:00:45.020]  我们抖音刚刚做出来的时候
+[00:00:45.020 --> 00:00:46.800]  好多就互联网小圈子出来
+[00:00:46.800 --> 00:00:48.400]  它日光还没破十万的时候
+[00:00:48.400 --> 00:00:48.960]  我们就知道
+[00:00:48.960 --> 00:00:50.420]  你能不能做到这点
+[00:00:50.420 --> 00:00:51.440]  就像做一个用户
+[00:00:51.440 --> 00:00:52.380]  你能不能做到这点
+[00:00:52.380 --> 00:00:52.700]  对吧
+[00:00:52.700 --> 00:00:53.960]  就你的嗅觉
+[00:00:53.960 --> 00:00:55.460]  能够敏锐到
+[00:00:55.460 --> 00:00:56.860]  绝大多数人
+[00:00:56.860 --> 00:00:58.120]  还不知道一个互联网新产品
+[00:00:58.820 --> 00:01:00.040]  对吧
+[00:01:00.040 --> 00:01:01.560]  所以未必要在互联网领域工作
+[00:01:01.560 --> 00:01:05.220]  就这两天我看中国有嘻哈那个节目
+[00:01:05.220 --> 00:01:05.440]  是吧
+[00:01:05.440 --> 00:01:06.500]  hiphop也是呀
+[00:01:06.500 --> 00:01:09.560]  你你你自己进入hiphop的领域
+[00:01:09.560 --> 00:01:11.280]  起码是要喜欢听hiphop
+[00:01:11.280 --> 00:01:12.600]  爱hiphop
+[00:01:12.600 --> 00:01:13.100]  对吧
+[00:01:13.100 --> 00:01:15.500]  你才能成为一个好的hiphop
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 524.750 -t 85.309 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.560]  是不是这道理
+[00:00:01.560 --> 00:00:03.460]  所以我觉得
+[00:00:03.460 --> 00:00:05.780]  核心还是喜爱
+[00:00:05.780 --> 00:00:09.000]  成为他一个好的用户
+[00:00:09.000 --> 00:00:11.360]  自然而然就能够
+[00:00:11.360 --> 00:00:14.980]  成为其中比较好的人
+[00:00:14.980 --> 00:00:16.900]  我这里还要讲一个
+[00:00:16.900 --> 00:00:18.180]  很不一样的观点
+[00:00:18.180 --> 00:00:20.300]  经常我们像大学生找工作
+[00:00:20.300 --> 00:00:22.060]  经常那些父母就要给我们说
+[00:00:22.060 --> 00:00:23.800]  说你不认识谁谁吗
+[00:00:23.800 --> 00:00:24.620]  把他安排一下
+[00:00:24.620 --> 00:00:26.760]  然后父母呢
+[00:00:26.760 --> 00:00:28.220]  因为他替你找工作
+[00:00:28.220 --> 00:00:29.840]  就跟父母替你选老婆一样
+[00:00:29.840 --> 00:00:31.500]  这工作不是他去干
+[00:00:31.500 --> 00:00:33.060]  那个老婆也不是你去干
+[00:00:33.060 --> 00:00:35.300]  也不是他去干老婆
+[00:00:35.300 --> 00:00:37.940]  所以为什么父母给你挑老婆都那么丑的
+[00:00:37.940 --> 00:00:39.480]  那么他又不干这个老婆
+[00:00:39.480 --> 00:00:39.880]  对不对
+[00:00:39.880 --> 00:00:42.560]  他又不用跟这女的每天朝夕相处
+[00:00:42.560 --> 00:00:42.800]  对吧
+[00:00:42.800 --> 00:00:43.740]  男的也是一样的
+[00:00:43.740 --> 00:00:44.540]  他搬去找老公
+[00:00:44.540 --> 00:00:46.060]  他又不用每天跟他朝夕相处
+[00:00:46.060 --> 00:00:47.920]  所以他就搞些外在条件
+[00:00:47.920 --> 00:00:48.840]  什么是不是
+[00:00:48.840 --> 00:00:50.860]  这个人钱是不是多
+[00:00:50.860 --> 00:00:51.620]  门当户对
+[00:00:51.620 --> 00:00:52.700]  他说一下是不是有面
+[00:00:52.700 --> 00:00:53.520]  结束
+[00:00:53.520 --> 00:00:56.140]  根本不会思考你的观点
+[00:00:56.140 --> 00:00:58.960]  很多家长帮你安排工作也是这样
+[00:00:58.960 --> 00:00:59.760]  就邻居转行
+[00:00:59.760 --> 00:01:00.920]  我建议大家一定要
+[00:01:00.920 --> 00:01:02.000]  比如你喜欢互联网
+[00:01:02.000 --> 00:01:02.420]  多用
+[00:01:02.420 --> 00:01:03.420]  你喜欢什么产品
+[00:01:03.420 --> 00:01:04.300]  加入什么公司
+[00:01:04.300 --> 00:01:06.580]  而不要说父母给你安排进一个
+[00:01:06.580 --> 00:01:07.320]  什么财政局
+[00:01:07.320 --> 00:01:08.200]  什么鬼机吧局
+[00:01:08.200 --> 00:01:08.700]  你知道吧
+[00:01:08.700 --> 00:01:09.060]  他也是
+[00:01:09.060 --> 00:01:10.420]  那他给你安排这个工作
+[00:01:10.420 --> 00:01:11.300]  又不是他去干
+[00:01:11.300 --> 00:01:12.460]  每天比如说做档案馆
+[00:01:12.460 --> 00:01:13.140]  又不是他去做
+[00:01:13.140 --> 00:01:13.440]  对吧
+[00:01:13.440 --> 00:01:14.060]  他就给你
+[00:01:14.060 --> 00:01:14.640]  看见
+[00:01:14.640 --> 00:01:16.820]  给你刚刚这个塞进去了
+[00:01:16.820 --> 00:01:19.380]  我的回答就到这里了
+[00:01:19.380 --> 00:01:20.560]  下面让我们期待
+[00:01:20.560 --> 00:01:21.560]  包爱乐的回答
+[00:01:21.560 --> 00:01:22.080]  谢谢
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 609.559 -t 78.266 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.660 --> 00:00:01.720]  大家好,我是Ella
+[00:00:01.720 --> 00:00:03.620]  非常挑战的问题啊
+[00:00:03.620 --> 00:00:05.540]  说错过了08年的房子
+[00:00:05.540 --> 00:00:07.120]  11年的互联网创业
+[00:00:07.120 --> 00:00:10.800]  现在还有哪些快速获取财富的手段
+[00:00:10.800 --> 00:00:13.300]  我跟同事开玩笑说
+[00:00:13.300 --> 00:00:14.680]  我说快速获取财富
+[00:00:14.680 --> 00:00:16.060]  难道是要去抢银行吗
+[00:00:16.060 --> 00:00:17.300]  那显然不是
+[00:00:17.300 --> 00:00:19.300]  我觉得在任何的时代
+[00:00:19.300 --> 00:00:20.880]  万变不离其宗
+[00:00:20.880 --> 00:00:23.220]  只有一点就是要快速的提升自己
+[00:00:23.220 --> 00:00:26.380]  提升自己的意识和保持自己的学习能力
+[00:00:26.380 --> 00:00:29.000]  这个是最好的一个投资手段
+[00:00:29.580 --> 00:00:32.960]  互联网创业需要注意哪些问题
+[00:00:32.960 --> 00:00:34.920]  我觉得三个问题最重要
+[00:00:34.920 --> 00:00:39.980]  第一就是关于你的商业模式是否真的靠谱
+[00:00:39.980 --> 00:00:42.040]  这是关于战略方向的选择
+[00:00:42.040 --> 00:00:44.700]  如果商业模式选的不对的话
+[00:00:44.700 --> 00:00:46.260]  怎么做都是错
+[00:00:46.260 --> 00:00:47.260]  这是第一
+[00:00:47.260 --> 00:00:53.100]  第二你一定要有一支经得起这个战斗挑战的团队
+[00:00:53.100 --> 00:00:55.500]  就是你的人必须要非常凝聚
+[00:00:55.500 --> 00:00:56.840]  非常能够扛压
+[00:00:56.840 --> 00:00:59.140]  然后能够陪你一起走过来
+[00:00:59.140 --> 00:01:03.020]  第三就是团队需要有快速执行
+[00:01:03.020 --> 00:01:05.040]  快速出成果的能力
+[00:01:05.040 --> 00:01:08.740]  其实创业公司早期快逼什么都重要
+[00:01:08.740 --> 00:01:10.660]  如果你能够快速发展
+[00:01:10.660 --> 00:01:13.540]  很多问题就会被快掩盖
+[00:01:13.540 --> 00:01:15.220]  如果你不能快速发展
+[00:01:15.220 --> 00:01:17.500]  很多问题就会拖坏你
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 687.324 -t 102.154 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/130 - 130 - 131 孙宇晨：【神秘嘉宾】财富十问，分享创业经验与财富观.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:04.440]  穷人和富人的思维差异在哪里
+[00:00:04.440 --> 00:00:07.180]  我觉得有很多差异啊
+[00:00:07.180 --> 00:00:09.760]  穷人和富人最大的思维差异是
+[00:00:09.760 --> 00:00:12.880]  一个以中为始的思维方式
+[00:00:12.880 --> 00:00:15.680]  穷人做事情往往是想说
+[00:00:15.680 --> 00:00:17.480]  我手上有什么我能做多少
+[00:00:17.480 --> 00:00:19.700]  富人的思维往往是想说
+[00:00:19.700 --> 00:00:20.680]  我想要什么
+[00:00:20.680 --> 00:00:22.120]  我想去到哪里
+[00:00:22.120 --> 00:00:23.240]  反过来再看
+[00:00:23.240 --> 00:00:25.160]  我有什么资源能够支持自己
+[00:00:25.160 --> 00:00:26.840]  这是最大的差异
+[00:00:26.840 --> 00:00:30.140]  什么样的工作才能是好工作
+[00:00:30.140 --> 00:00:33.740]  我觉得其实好工作并不是一刀切的
+[00:00:33.740 --> 00:00:35.800]  并不是大公司就是好公司
+[00:00:35.800 --> 00:00:38.640]  也不一定这个创业公司都是好公司
+[00:00:38.640 --> 00:00:44.380]  但是这两种公司都有可能成为一个人人生当中最重要的一个跳板
+[00:00:44.380 --> 00:00:47.940]  所以说我们谈好工作的前提是
+[00:00:47.940 --> 00:00:51.820]  你需要有一个自己非常清晰的人生规划
+[00:00:51.820 --> 00:00:56.120]  你知道在自己人生的当前这个阶段当中你要什么
+[00:00:56.120 --> 00:01:00.580]  那么这份工作能够给到你在你的人生规划当中
+[00:01:00.580 --> 00:01:02.380]  这个阶段要的东西
+[00:01:02.380 --> 00:01:05.340]  那这份工作就是一个好工作
+[00:01:05.340 --> 00:01:07.560]  第十个问题
+[00:01:07.560 --> 00:01:09.940]  零基础应该怎么样转行
+[00:01:09.940 --> 00:01:12.220]  那很简单
+[00:01:12.220 --> 00:01:15.780]  第一个你需要去学习新的行业的一些专业知识
+[00:01:15.780 --> 00:01:20.120]  第二个尽量的去结交这个新的行业的人脉
+[00:01:20.120 --> 00:01:23.460]  这个人脉很有可能在无形当中给到你很多的帮助
+[00:01:23.460 --> 00:01:25.520]  第三个在转行之前
+[00:01:25.520 --> 00:01:28.040]  如果能够通过兼职的方式
+[00:01:28.040 --> 00:01:29.480]  去体验到
+[00:01:29.480 --> 00:01:31.600]  这个未来这个行业的工作的话
+[00:01:31.600 --> 00:01:34.520]  那你可以尽量的通过兼职的方式
+[00:01:34.520 --> 00:01:36.020]  多多去参与
+[00:01:36.020 --> 00:01:39.920]  这个对你的转行会非常的有帮助
+[00:01:39.920 --> 00:01:41.920]  那我的问题就到这里了
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__130__b79097a0/chunk-009/out -sns -nf -np

@@ -1,0 +1,627 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 75.250 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.010 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.400]  大家好,我是陪我APP创始人孙宇辰
+[00:00:02.400 --> 00:00:05.960]  我想邀你一起与我踏上财富自由革命之路
+[00:00:05.960 --> 00:00:08.860]  我在财富自由的另一边等着你
+[00:00:08.860 --> 00:00:12.640]  我非常喜欢艾兰德的一句话
+[00:00:12.640 --> 00:00:17.720]  我觉得是对我们刚才讲的所有事情的一个终极解答
+[00:00:17.720 --> 00:00:20.660]  而且也是前两天一个记者在采访我的时候
+[00:00:20.660 --> 00:00:21.660]  他经常问我说
+[00:00:21.660 --> 00:00:25.120]  孙宇辰,你觉得什么样才叫成人
+[00:00:25.120 --> 00:00:28.280]  就我们大家绝大多数时候
+[00:00:28.280 --> 00:00:30.660]  把成人都定义为性成熟
+[00:00:30.660 --> 00:00:32.000]  比如一个男性
+[00:00:32.000 --> 00:00:33.080]  所谓的成人理是
+[00:00:33.080 --> 00:00:34.460]  他能让一个女的怀孕了
+[00:00:34.460 --> 00:00:35.400]  他就成人了
+[00:00:35.400 --> 00:00:37.500]  这种性成熟的理念
+[00:00:37.500 --> 00:00:38.940]  往往存在于动物中
+[00:00:38.940 --> 00:00:39.300]  对吧
+[00:00:39.300 --> 00:00:40.640]  我们认为一个老虎
+[00:00:40.640 --> 00:00:42.600]  和一个熊猫
+[00:00:42.600 --> 00:00:44.320]  或者一只老鼠
+[00:00:44.320 --> 00:00:46.740]  我们认为他成熟了
+[00:00:46.740 --> 00:00:48.100]  一般生物学家讲的
+[00:00:48.100 --> 00:00:50.320]  生物学上的成熟概念
+[00:00:50.320 --> 00:00:51.700]  就所谓的性成熟了
+[00:00:51.700 --> 00:00:54.380]  就能他能让一个异性怀孕
+[00:00:54.380 --> 00:00:56.340]  女的能怀孕
+[00:00:56.340 --> 00:00:57.660]  男的能让女的怀孕
+[00:00:57.660 --> 00:00:58.860]  就被称为是成熟
+[00:00:58.860 --> 00:01:00.880]  或者是成年
+[00:01:00.880 --> 00:01:02.640]  但是实际上
+[00:01:02.640 --> 00:01:03.800]  我觉得安兰德
+[00:01:03.800 --> 00:01:05.700]  以及自由意识主义
+[00:01:05.700 --> 00:01:10.480]  为这套成熟或者成年的观点
+[00:01:10.480 --> 00:01:11.740]  提供了一个新的选择
+[00:01:11.740 --> 00:01:13.740]  也是我当时回答
+[00:01:13.740 --> 00:01:15.040]  这个记者时候说的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 74.750 -t 88.638 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:04.360]  我认为人类已经不仅仅是动物了
+[00:00:04.360 --> 00:00:07.000]  人类应该是一种理性的生物
+[00:00:07.000 --> 00:00:11.020]  而这种理性的生物的成年或者成人的标准
+[00:00:11.020 --> 00:00:14.920]  就是他真正认识到了自己是一个理性的生物
+[00:00:14.920 --> 00:00:19.240]  而怎么样才叫真正认识到一个他自己是理性的生物呢
+[00:00:19.240 --> 00:00:22.880]  甚至我觉得也是日后我们判断人工智能
+[00:00:22.880 --> 00:00:27.100]  是否真正具有了人的理性的时候的一个重要判断标准
+[00:00:27.100 --> 00:00:31.640]  就是他是否能自由的做出选择
+[00:00:31.640 --> 00:00:35.380]  并为这个自由的选择而承担代价
+[00:00:35.380 --> 00:00:39.040]  就是他能做出自由的选择
+[00:00:39.040 --> 00:00:42.460]  并且他深深知道这个自由选择之后
+[00:00:42.460 --> 00:00:44.480]  带来的好处和坏处是什么
+[00:00:44.480 --> 00:00:47.940]  同时他愿意承担这个代价
+[00:00:47.940 --> 00:00:50.660]  我觉得这是一个人
+[00:00:50.660 --> 00:00:51.800]  一个群体
+[00:00:51.800 --> 00:00:54.920]  甚至是一个国家成年的唯一标准
+[00:00:54.920 --> 00:00:57.060]  如果有一个小孩
+[00:00:57.060 --> 00:00:57.820]  比如说五岁时候
+[00:00:57.820 --> 00:00:58.620]  他就想通这个
+[00:00:58.620 --> 00:01:01.260]  那么他就五岁就算成年了
+[00:01:01.260 --> 00:01:03.320]  如果有一个人七十五岁
+[00:01:03.320 --> 00:01:04.760]  还没想通这个观点
+[00:01:04.760 --> 00:01:07.000]  哪怕他儿子孙子都好多人了
+[00:01:07.000 --> 00:01:08.080]  那他也是
+[00:01:08.080 --> 00:01:11.800]  没有完全成年的一个婴儿而已
+[00:01:11.800 --> 00:01:15.640]  这个是我个人对于成年成人的判断
+[00:01:15.640 --> 00:01:18.860]  我觉得这一点是非常重要的
+[00:01:18.860 --> 00:01:20.800]  就是每个人真正了解这一点
+[00:01:20.800 --> 00:01:23.660]  他就算真正成年了
+[00:01:23.660 --> 00:01:25.840]  就记者当时问我说
+[00:01:25.840 --> 00:01:28.640]  那时候孙晨你是什么时候成年的啊
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 162.888 -t 69.750 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.300]  我当时的回答说是
+[00:00:03.300 --> 00:00:10.660]  我的成年是大概我1998年的时候
+[00:00:10.660 --> 00:00:13.100]  我的父母啊
+[00:00:13.100 --> 00:00:15.760]  送我到武汉去学习围棋
+[00:00:15.760 --> 00:00:18.380]  是我成年的标志
+[00:00:18.380 --> 00:00:19.140]  为什么呢
+[00:00:19.140 --> 00:00:20.360]  当时呢
+[00:00:20.360 --> 00:00:23.320]  我自己在看家庭杂志啊
+[00:00:23.320 --> 00:00:26.780]  大家说你看过这个湖湖北省互联主办这个杂志
+[00:00:26.780 --> 00:00:29.320]  当时我看这个家庭杂志的时候啊
+[00:00:29.920 --> 00:00:32.500]  当时他就讲了一个神童长号
+[00:00:32.500 --> 00:00:35.580]  就是会下围棋的一个神童长号
+[00:00:35.580 --> 00:00:37.440]  说明大家有的人喜欢围棋
+[00:00:37.440 --> 00:00:38.140]  听过这个人
+[00:00:38.140 --> 00:00:39.960]  就我当时看了之后
+[00:00:39.960 --> 00:00:41.080]  我就觉得非常羡慕
+[00:00:41.080 --> 00:00:43.420]  我觉得这个神童长号真是不错
+[00:00:43.420 --> 00:00:45.700]  然后我就跟我的妈妈说
+[00:00:45.700 --> 00:00:50.020]  我就说我希望去武汉学习围棋
+[00:00:50.020 --> 00:00:52.600]  为什么当时去武汉学习围棋呢
+[00:00:52.600 --> 00:00:53.940]  是因为长号
+[00:00:53.940 --> 00:00:57.140]  他是一个叫聂伟平的棋手教出来的
+[00:00:57.140 --> 00:00:59.860]  聂伟平当时我们家最优秀的一个棋手
+[00:00:59.860 --> 00:01:01.980]  然后聂伟平当时在一家
+[00:01:01.980 --> 00:01:03.740]  叫武汉秦志维基学校的地方
+[00:01:03.740 --> 00:01:04.820]  担任名誉校长
+[00:01:04.820 --> 00:01:06.240]  所以我说妈妈
+[00:01:06.240 --> 00:01:08.760]  我也想跟长浩一样
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 232.137 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.940]  去念伟平堂学习围棋
+[00:00:01.940 --> 00:00:04.660]  但当时我妈妈就跟我说
+[00:00:04.660 --> 00:00:05.960]  说雨泉你要想好
+[00:00:05.960 --> 00:00:07.860]  如果你去的话
+[00:00:07.860 --> 00:00:10.300]  就相当于你在八九岁的时候
+[00:00:10.300 --> 00:00:13.860]  你就要完全脱离你的父母
+[00:00:13.860 --> 00:00:14.840]  因为在武汉
+[00:00:14.840 --> 00:00:16.020]  我就到武汉这个地方
+[00:00:16.020 --> 00:00:17.020]  就完全脱离我父母
+[00:00:17.020 --> 00:00:17.880]  见不到他们
+[00:00:17.880 --> 00:00:19.860]  你愿意吗
+[00:00:19.860 --> 00:00:22.420]  你受得了这个代价吗
+[00:00:22.420 --> 00:00:25.680]  当时我通过仔细的考虑之后
+[00:00:25.680 --> 00:00:27.700]  我向我的父母说
+[00:00:27.700 --> 00:00:29.140]  我愿意
+[00:00:29.140 --> 00:00:30.960]  然后我的父母就送我
+[00:00:30.960 --> 00:00:31.780]  真的送我
+[00:00:31.780 --> 00:00:33.640]  不是开任何玩笑的
+[00:00:33.640 --> 00:00:37.840]  真的送我到了武汉去学习围棋
+[00:00:37.840 --> 00:00:40.800]  当然我在武汉
+[00:00:40.800 --> 00:00:43.500]  就我父母只送我到机场的
+[00:00:43.500 --> 00:00:44.920]  不会送我到武汉的
+[00:00:44.920 --> 00:00:46.500]  送我到机场之后
+[00:00:46.500 --> 00:00:48.900]  我坐着这种无人陪伴儿童
+[00:00:48.900 --> 00:00:51.640]  一个空姐带着我就到了这个武汉
+[00:00:51.640 --> 00:00:54.400]  然后当时当地有个老师接了
+[00:00:54.400 --> 00:00:55.580]  我就把我接到学校去了
+[00:00:55.580 --> 00:00:57.260]  然后我就开始了自己
+[00:00:57.260 --> 00:00:59.820]  漫长的长达三年的学习围棋的路程
+[00:00:59.820 --> 00:01:04.440]  我当时第一天到学校的时候
+[00:01:04.440 --> 00:01:05.420]  我就哭成狗了
+[00:01:05.420 --> 00:01:07.440]  因为从来没有去离开过父母
+[00:01:07.440 --> 00:01:09.320]  晚上的时候就哭
+[00:01:09.320 --> 00:01:10.180]  真是哭成狗
+[00:01:10.180 --> 00:01:12.300]  完全意义上哭成狗
+[00:01:12.300 --> 00:01:15.500]  而且不敢让周边同学知道我在哭
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 307.137 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.660]  因为大家是个集体宿舍
+[00:00:01.660 --> 00:00:03.640]  我就裹在被子里面哭
+[00:00:03.640 --> 00:00:05.880]  足足哭了一夜
+[00:00:05.880 --> 00:00:07.040]  第二天早晨
+[00:00:07.040 --> 00:00:09.100]  哭累了睡着了
+[00:00:09.100 --> 00:00:11.260]  第二天早晨我醒来
+[00:00:11.260 --> 00:00:12.020]  我想一想
+[00:00:12.020 --> 00:00:13.860]  这个是不是我自己选的呢
+[00:00:13.860 --> 00:00:16.680]  确实是我自己选的
+[00:00:16.680 --> 00:00:19.580]  那我就要勇敢的去接受它
+[00:00:19.580 --> 00:00:22.700]  所以第二天我就非常愿意
+[00:00:22.700 --> 00:00:24.780]  我就继续开始我的求学之路了
+[00:00:24.780 --> 00:00:28.380]  我觉得这个就是我成年的一个标志
+[00:00:28.380 --> 00:00:30.200]  所以我甚至认为我成年的时候
+[00:00:30.200 --> 00:00:32.600]  大概就是刚才讲大概九岁的时候
+[00:00:32.600 --> 00:00:34.560]  我就成年了
+[00:00:34.560 --> 00:00:36.060]  为什么成年呢
+[00:00:36.060 --> 00:00:38.420]  就是我愿意选择
+[00:00:38.420 --> 00:00:41.820]  同时愿意知道选择的代价
+[00:00:41.820 --> 00:00:42.700]  三点
+[00:00:42.700 --> 00:00:45.200]  会自由选择
+[00:00:45.200 --> 00:00:47.120]  知道自由选择的代价
+[00:00:47.120 --> 00:00:49.400]  同时愿意为自由选择的代价
+[00:00:49.400 --> 00:00:50.820]  承担自己的责任
+[00:00:50.820 --> 00:00:55.000]  这就是我孙宇权的自由选择的故事
+[00:00:57.200 --> 00:01:03.000]  我非常希望我们今天的读者能够把你自由选择的故事也分享给我
+[00:01:03.000 --> 00:01:06.320]  可以说给大家布置两个问题
+[00:01:06.320 --> 00:01:09.220]  第一个问题是你觉得你成年了吗
+[00:01:09.220 --> 00:01:10.140]  为什么
+[00:01:10.140 --> 00:01:12.760]  如果你成年了
+[00:01:12.760 --> 00:01:14.220]  请你分享你
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 382.137 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.600]  一个你自由选择的故事
+[00:00:02.600 --> 00:00:05.120]  无论这个自由选择的故事
+[00:00:05.120 --> 00:00:06.160]  是像我一样
+[00:00:06.160 --> 00:00:07.160]  是九岁发生
+[00:00:07.160 --> 00:00:08.260]  乃至甚至更早
+[00:00:08.260 --> 00:00:09.100]  五岁发生
+[00:00:09.100 --> 00:00:10.540]  还是很后面
+[00:00:10.540 --> 00:00:12.100]  十八十九二十岁
+[00:00:12.100 --> 00:00:13.340]  乃至二十五岁
+[00:00:13.340 --> 00:00:15.240]  我们都非常欢迎
+[00:00:15.240 --> 00:00:16.500]  大家分享自己的故事
+[00:00:16.500 --> 00:00:18.020]  而且我觉得叫做
+[00:00:18.020 --> 00:00:19.700]  文道没有先后
+[00:00:19.700 --> 00:00:20.140]  是吧
+[00:00:20.140 --> 00:00:21.480]  我并没有觉得
+[00:00:21.480 --> 00:00:22.580]  如果一个人九岁
+[00:00:22.580 --> 00:00:23.700]  自由选择
+[00:00:23.700 --> 00:00:25.240]  明白就很高尚
+[00:00:25.240 --> 00:00:26.560]  比如说五十岁
+[00:00:26.560 --> 00:00:27.220]  可能很明白
+[00:00:27.220 --> 00:00:27.740]  有点晚
+[00:00:27.740 --> 00:00:28.920]  我觉得这都没有
+[00:00:28.920 --> 00:00:30.100]  文道不分先后
+[00:00:30.100 --> 00:00:34.200]  所以非常希望大家给我们分享你的故事
+[00:00:34.200 --> 00:00:38.240]  而且紧接着我们经过可能这一周吧
+[00:00:38.240 --> 00:00:38.760]  给大家
+[00:00:38.760 --> 00:00:40.260]  今天是周一
+[00:00:40.260 --> 00:00:42.900]  我们会给大家一周的时间
+[00:00:42.900 --> 00:00:44.740]  我们去收集这些小的故事
+[00:00:44.740 --> 00:00:46.600]  然后我们会接下来呢
+[00:00:46.600 --> 00:00:47.340]  作为番外
+[00:00:47.340 --> 00:00:49.580]  在我每一期的故事中分享
+[00:00:49.580 --> 00:00:52.860]  因为我觉得这种自由选择的时刻
+[00:00:52.860 --> 00:00:54.020]  对于每个人来说
+[00:00:54.020 --> 00:00:55.900]  都是值得一辈子珍藏的时刻
+[00:00:55.900 --> 00:00:59.000]  因为这是你被赋予第二次生命的时刻
+[00:00:59.000 --> 00:01:01.880]  前面可能你只是一个普通的动物
+[00:01:01.880 --> 00:01:04.060]  普通循规蹈矩的一个动物
+[00:01:04.060 --> 00:01:07.080]  而你拥有了理性选择和自由选择之后
+[00:01:07.080 --> 00:01:08.580]  你的一切东西都不一样
+[00:01:08.580 --> 00:01:13.300]  这就是所谓我们经常在圣经里面看到的亚当和夏娃
+[00:01:13.300 --> 00:01:15.500]  他们偷吃了
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 457.137 -t 82.791 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.260]  吃了智慧果之后
+[00:00:01.260 --> 00:00:03.060]  眼睛变得明亮的状态
+[00:00:03.060 --> 00:00:04.760]  之前可能他们也是人
+[00:00:04.760 --> 00:00:08.020]  但是是上帝圈养的宠物而已
+[00:00:08.020 --> 00:00:09.560]  而当他们有一天
+[00:00:09.560 --> 00:00:10.660]  懂得了自由选择
+[00:00:10.660 --> 00:00:12.960]  比如吃了这个智慧果
+[00:00:12.960 --> 00:00:15.360]  并且当然承担了
+[00:00:15.360 --> 00:00:17.280]  吃智慧果的代价
+[00:00:17.280 --> 00:00:18.680]  就是被逐出伊甸园
+[00:00:18.680 --> 00:00:19.400]  这个相当于是
+[00:00:19.400 --> 00:00:20.460]  人类苦难的开始
+[00:00:20.460 --> 00:00:22.520]  但是他们愿意奋斗
+[00:00:22.520 --> 00:00:24.600]  一直奋斗到现在
+[00:00:24.600 --> 00:00:25.740]  这本身就是
+[00:00:25.740 --> 00:00:27.220]  人类高贵性的体现
+[00:00:27.220 --> 00:00:31.280]  所以我个人是非常看重这一点的
+[00:00:31.280 --> 00:00:35.260]  也希望大家与我一起分享你的故事
+[00:00:35.260 --> 00:00:37.780]  我向大家分享一下
+[00:00:37.780 --> 00:00:38.700]  阿兰德的这句话
+[00:00:38.700 --> 00:00:42.740]  也是与我们刚才讲的命题密切相关的
+[00:00:42.740 --> 00:00:46.620]  人类被称之为是理性的生物
+[00:00:46.620 --> 00:00:51.200]  但合理性是取决于他的选择
+[00:00:51.200 --> 00:00:56.600]  人应该要成为人
+[00:00:56.600 --> 00:01:00.760]  他必须重视他的生命的价值
+[00:01:00.760 --> 00:01:03.520]  他必须学着承受它
+[00:01:03.520 --> 00:01:07.900]  他必须探索生命的价值的观念
+[00:01:07.900 --> 00:01:09.340]  并实践它的长处
+[00:01:09.340 --> 00:01:13.260]  而这一切都是基于他自己的选择
+[00:01:13.260 --> 00:01:17.140]  我把这句话好好再翻译翻译
+[00:01:17.140 --> 00:01:20.040]  人之所以成为人
+[00:01:20.040 --> 00:01:21.540]  就是因为他的选择
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 539.428 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.100]  人必须要重视自己生命的价值
+[00:00:03.100 --> 00:00:04.820]  也是因为他的选择
+[00:00:04.820 --> 00:00:07.940]  人必须学会承受自己
+[00:00:07.940 --> 00:00:09.720]  也是因为他的选择
+[00:00:09.720 --> 00:00:12.660]  人必须学会探索生命的价值
+[00:00:12.660 --> 00:00:15.060]  观念并实践他的长处
+[00:00:15.060 --> 00:00:16.240]  也是因为他的选择
+[00:00:16.240 --> 00:00:18.400]  所以在这一点上
+[00:00:18.400 --> 00:00:20.060]  我个人认为就是
+[00:00:20.060 --> 00:00:22.300]  刚才讲的三点吧
+[00:00:22.300 --> 00:00:24.900]  基本上决定了一个人成绩为人
+[00:00:24.900 --> 00:00:27.720]  而且我们觉得这个其实也是在
+[00:00:27.720 --> 00:00:30.460]  中国最稀缺的一种品质
+[00:00:30.460 --> 00:00:32.600]  我见过太多同学
+[00:00:32.600 --> 00:00:33.580]  我的同班同学
+[00:00:33.580 --> 00:00:35.160]  我的非常好的朋友
+[00:00:35.160 --> 00:00:39.040]  他从小初中是他父母帮他选的
+[00:00:39.040 --> 00:00:41.700]  高中是他父母帮他选的
+[00:00:41.700 --> 00:00:43.980]  大学和大学所做的专业
+[00:00:43.980 --> 00:00:45.600]  是他父母帮他选的
+[00:00:45.600 --> 00:00:47.700]  他做的第一份工作
+[00:00:47.700 --> 00:00:49.200]  是他父母帮他安排的
+[00:00:49.200 --> 00:00:51.300]  娶了老婆和嫁了老公
+[00:00:51.300 --> 00:00:52.980]  也是他父母给安排的
+[00:00:52.980 --> 00:00:54.140]  像这样的人
+[00:00:54.140 --> 00:00:56.380]  那难道不是一种重大的悲剧吗
+[00:00:56.380 --> 00:00:57.580]  就他的这一辈子
+[00:00:57.580 --> 00:01:00.840]  可能所有人生的重大时刻和重大选择
+[00:01:00.840 --> 00:01:03.480]  他没有做出任何一次
+[00:01:03.480 --> 00:01:05.980]  他的自主选择
+[00:01:05.980 --> 00:01:09.180]  并且为这种自主选择付出自己的代价
+[00:01:09.180 --> 00:01:13.860]  这就相当于被上帝圈养在伊甸园里的亚当夏娃
+[00:01:13.860 --> 00:01:15.500]  可能生活的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 614.428 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.640]  生活的也还是不错吧
+[00:00:01.640 --> 00:00:05.600]  但是他们却缺乏人成其为人的那个条件
+[00:00:05.600 --> 00:00:10.140]  很有可能这就是我们中国非常稀缺的一个东西
+[00:00:10.140 --> 00:00:13.980]  好最后我们讲完了阿兰德的客观主义
+[00:00:13.980 --> 00:00:16.740]  我们最后谈一谈奥地利经济学派
+[00:00:16.740 --> 00:00:19.220]  奥地利经济学派呢
+[00:00:19.220 --> 00:00:20.420]  说不定大家也听过
+[00:00:20.420 --> 00:00:22.720]  他就源自于19世纪末的奥地利
+[00:00:22.720 --> 00:00:24.260]  然后呢
+[00:00:24.260 --> 00:00:26.600]  当然现在已经不仅仅是奥地利了
+[00:00:26.600 --> 00:00:28.660]  他相反是在美国被发扬光大的
+[00:00:28.820 --> 00:00:31.260]  20世纪以后是在美国被发扬广大的
+[00:00:31.260 --> 00:00:34.380]  有一些非常有名的人了
+[00:00:34.380 --> 00:00:35.700]  相信大家都听过
+[00:00:35.700 --> 00:00:36.840]  像哈耶克
+[00:00:36.840 --> 00:00:39.380]  罗斯巴德之类的人
+[00:00:39.380 --> 00:00:41.060]  这都是米塞斯
+[00:00:41.060 --> 00:00:44.840]  这些都是奥地利学派里面非常有名的经济学家
+[00:00:44.840 --> 00:00:47.060]  总体说来呢
+[00:00:47.060 --> 00:00:48.580]  奥地利经济学派呢
+[00:00:48.580 --> 00:00:50.860]  还是讲求自人放
+[00:00:50.860 --> 00:00:53.320]  自由放任的经济学
+[00:00:53.320 --> 00:00:55.860]  所以奥地利学派呢
+[00:00:55.860 --> 00:00:57.780]  基本上我们基本上认为
+[00:00:57.780 --> 00:01:00.860]  它是延续了15世纪以来的经济思想
+[00:01:00.860 --> 00:01:05.420]  主要就是亚当斯密的自由理论
+[00:01:05.420 --> 00:01:10.960]  基本上是由奥地利经济学派来诞生
+[00:01:10.960 --> 00:01:12.220]  来强调的
+[00:01:12.220 --> 00:01:15.500]  所以奥地利经济学派主张的一些政策
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 689.428 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:04.460]  政策基本上都是要求政府减少管制
+[00:00:04.460 --> 00:00:06.100]  保护私人财产
+[00:00:06.100 --> 00:00:07.680]  捍卫个人自由
+[00:00:07.680 --> 00:00:11.560]  所以奥地利经济学派
+[00:00:11.560 --> 00:00:15.720]  在我们这些主张自由方认的自由主义
+[00:00:15.720 --> 00:00:19.080]  自由意志主义和客观主义的团体
+[00:00:19.080 --> 00:00:23.120]  我们经常会引用一些奥地利学派思想家的作品
+[00:00:23.120 --> 00:00:27.240]  以及他们的观点来表达我们在经济领域的态度
+[00:00:28.140 --> 00:00:31.400]  虽然其实这些学派和学派之间
+[00:00:31.400 --> 00:00:32.340]  人和人之间
+[00:00:32.340 --> 00:00:33.520]  对一些具体问题
+[00:00:33.520 --> 00:00:35.080]  可能还是有些不同的看法
+[00:00:35.080 --> 00:00:38.160]  但是他们对于保护私有财产
+[00:00:38.160 --> 00:00:41.500]  捍卫个人自由和减少政府管制的想法
+[00:00:41.500 --> 00:00:43.140]  是没有任何差别的
+[00:00:43.140 --> 00:00:46.720]  像我以前在北大的
+[00:00:46.720 --> 00:00:49.760]  光合管理学院的院长
+[00:00:49.760 --> 00:00:51.140]  老师张文英老师
+[00:00:51.140 --> 00:00:51.980]  其实他还专门
+[00:00:51.980 --> 00:00:53.980]  有一次讲座还表扬过我
+[00:00:53.980 --> 00:00:55.880]  他其实就是一个
+[00:00:55.880 --> 00:00:58.000]  著名的自由主义者
+[00:00:58.000 --> 00:01:01.140]  也是一个奥迪经济学派的注意者
+[00:01:01.140 --> 00:01:02.520]  他前一段时间
+[00:01:02.520 --> 00:01:03.640]  跟我们国家
+[00:01:03.640 --> 00:01:06.200]  其实算是凯恩斯这一派的
+[00:01:06.200 --> 00:01:08.800]  林毅夫教授的其中一次辩论
+[00:01:08.800 --> 00:01:10.160]  其实很有意思
+[00:01:10.160 --> 00:01:12.000]  希望大家可以关注一下
+[00:01:12.000 --> 00:01:14.560]  就前一段时间刚刚发生的
+[00:01:14.560 --> 00:01:15.500]  当然我们
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 764.428 -t 90.548 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:04.000]  当然我在这些方面还是非常支持张文赢教授的
+[00:00:04.000 --> 00:00:05.460]  所以呢
+[00:00:05.460 --> 00:00:10.820]  其实我们并不要求大家对奥利经济学派有一个很系统的学习
+[00:00:10.820 --> 00:00:12.820]  我觉得并不必要
+[00:00:12.820 --> 00:00:16.440]  而是只要其实你了解一些罗斯巴德
+[00:00:16.440 --> 00:00:17.500]  米塞斯
+[00:00:17.500 --> 00:00:19.160]  哈耶克之前的基本观点
+[00:00:19.160 --> 00:00:21.440]  就已经足够指导自己的生活了
+[00:00:21.440 --> 00:00:23.940]  今天的课程就跟大家分享到这里
+[00:00:23.940 --> 00:00:25.680]  同时再次强调
+[00:00:25.680 --> 00:00:30.080]  非常希望大家参加我们今天课程的这个问题的活动
+[00:00:30.080 --> 00:00:31.400]  回答一下
+[00:00:31.400 --> 00:00:33.360]  认为你成年了吗
+[00:00:33.360 --> 00:00:34.720]  如果成年了
+[00:00:34.720 --> 00:00:39.200]  请分享一个你自己做出个人的自由选择
+[00:00:39.200 --> 00:00:42.160]  并明白自由选择的代价
+[00:00:42.160 --> 00:00:45.980]  并承担这个代价的故事和例子
+[00:00:45.980 --> 00:00:50.300]  可以到我的同名的孙云泉的新浪微博给我留言
+[00:00:50.300 --> 00:00:52.240]  我们届时也会有一个帖子
+[00:00:52.240 --> 00:00:53.640]  也可以在这个帖子下面留言
+[00:00:53.640 --> 00:00:55.480]  也可以去我的
+[00:00:55.480 --> 00:00:57.820]  微信公众号的浪潮车间
+[00:00:57.820 --> 00:00:58.840]  给我们大家私信
+[00:00:58.840 --> 00:01:00.200]  都是可以的
+[00:01:00.200 --> 00:01:01.100]  然后呢
+[00:01:01.100 --> 00:01:03.740]  我们会在微博上做转发抽奖
+[00:01:03.740 --> 00:01:07.280]  以及任何被我们最后选中案例的同学
+[00:01:07.280 --> 00:01:10.120]  我们都会给大家准备一份神秘的奖品
+[00:01:10.120 --> 00:01:11.360]  而这个奖品
+[00:01:11.360 --> 00:01:12.820]  我相信大家一定会满意
+[00:01:12.820 --> 00:01:14.660]  是非常精美的一个奖品
+[00:01:14.660 --> 00:01:15.240]  好
+[00:01:15.240 --> 00:01:16.080]  谢谢大家
+[00:01:23.640 --> 00:01:25.640]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__039__ced3f110/chunk-010/out -sns -nf -np

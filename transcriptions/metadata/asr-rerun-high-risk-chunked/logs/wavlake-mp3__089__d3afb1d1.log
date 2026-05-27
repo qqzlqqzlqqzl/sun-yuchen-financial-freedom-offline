@@ -1,0 +1,627 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 74.682 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:32.760]  他们也会被更优秀的同行干掉
+[00:00:32.760 --> 00:00:35.560]  而他们有时候还得感恩
+[00:00:35.560 --> 00:00:36.840]  有可能因为互联网
+[00:00:36.840 --> 00:00:38.440]  他活下来了
+[00:00:38.440 --> 00:00:40.880]  比如说还是以刚才早点铺子为例
+[00:00:40.880 --> 00:00:43.380]  就比如说一共五家早点铺子
+[00:00:43.380 --> 00:00:46.600]  其实如果大家再这样竞争下去
+[00:00:46.600 --> 00:00:47.900]  没有人过来做增量
+[00:00:47.900 --> 00:00:49.780]  那五家早点铺子里面
+[00:00:49.780 --> 00:00:52.560]  有一家本来就快开不下去了
+[00:00:52.560 --> 00:00:54.600]  因为比如他做的早点特别差
+[00:00:54.600 --> 00:00:55.520]  偷工减料
+[00:00:55.520 --> 00:00:56.740]  然后客户这么多
+[00:00:56.740 --> 00:00:58.040]  大家当然不会买那一家的
+[00:00:58.040 --> 00:00:59.080]  那他就会破产
+[00:00:59.080 --> 00:01:00.600]  但这时候好
+[00:01:00.600 --> 00:01:02.060]  有个互联网来做了APP
+[00:01:02.060 --> 00:01:04.420]  一下服务半径扩大了
+[00:01:04.420 --> 00:01:07.600]  五家早点铺子供不应求
+[00:01:07.600 --> 00:01:09.560]  他虽然做的有点差
+[00:01:09.560 --> 00:01:11.640]  但是总比吃不上要强
+[00:01:11.640 --> 00:01:12.460]  对吧
+[00:01:12.460 --> 00:01:14.140]  这时候如果
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 74.182 -t 75.463 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.220 --> 00:00:03.740]  这个社会这个社会说不定很多人过来开了变成十家早点铺子
+[00:00:03.740 --> 00:00:07.540]  那这时候那个五家在原先可能
+[00:00:07.540 --> 00:00:09.580]  他应该倒闭的
+[00:00:09.580 --> 00:00:11.980]  他因此居然没有倒闭
+[00:00:11.980 --> 00:00:13.520]  互联网救了他
+[00:00:13.520 --> 00:00:14.620]  我觉得甚至是
+[00:00:14.620 --> 00:00:17.780]  所以某种程度上是互联网释放产能的
+[00:00:17.780 --> 00:00:19.040]  我这完全不是吹牛
+[00:00:19.040 --> 00:00:20.760]  我给大家讲讲数据
+[00:00:20.760 --> 00:00:22.860]  以淘宝为例
+[00:00:22.860 --> 00:00:24.460]  根据国家统计局之前
+[00:00:24.460 --> 00:00:25.520]  没有淘宝之前
+[00:00:25.520 --> 00:00:28.720]  整个我们中国社会消费品零售总额
+[00:00:28.720 --> 00:00:30.400]  大概是5万亿人民币
+[00:00:30.400 --> 00:00:31.720]  到了2015年
+[00:00:31.720 --> 00:00:33.920]  这个数字已经变成了
+[00:00:33.920 --> 00:00:36.760]  30万亿人民币了
+[00:00:36.760 --> 00:00:38.200]  变成了原来的6倍
+[00:00:38.200 --> 00:00:40.420]  所以你说淘宝
+[00:00:40.420 --> 00:00:41.840]  是在挤压实体经济
+[00:00:41.840 --> 00:00:42.540]  这公平吗
+[00:00:42.540 --> 00:00:43.840]  这根本不公平
+[00:00:43.840 --> 00:00:45.280]  淘宝相反
+[00:00:45.280 --> 00:00:46.900]  做大的实体经济
+[00:00:46.900 --> 00:00:48.920]  就如果把虚拟经济
+[00:00:48.920 --> 00:00:50.240]  跟实体经济都算一块的话
+[00:00:50.240 --> 00:00:51.320]  做大了整个盘子
+[00:00:51.320 --> 00:00:53.180]  我们整体的零售业
+[00:00:53.180 --> 00:00:53.760]  从业人员
+[00:00:53.760 --> 00:00:57.340]  也从原来的228万
+[00:00:57.340 --> 00:00:59.740]  变为了682万
+[00:00:59.740 --> 00:01:02.380]  也是原来的三倍有余
+[00:01:02.380 --> 00:01:04.360]  所以我们可以看出
+[00:01:04.360 --> 00:01:05.980]  淘宝跟支付宝
+[00:01:05.980 --> 00:01:08.980]  实际上通过这种非常便捷的
+[00:01:08.980 --> 00:01:09.780]  当然也包括京东
+[00:01:09.780 --> 00:01:11.740]  和京东金融
+[00:01:11.740 --> 00:01:12.700]  包括当然现在
+[00:01:12.700 --> 00:01:13.880]  甚至也包括现在美团
+[00:01:13.880 --> 00:01:14.820]  美团外卖
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 149.145 -t 73.899 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.660 --> 00:00:02.320]  饿了吗?是吧?百度外卖
+[00:00:02.320 --> 00:00:07.200]  其实它本质上是在不断释放整个社会的交易需求的
+[00:00:07.200 --> 00:00:09.040]  它一点没有降低
+[00:00:09.040 --> 00:00:10.400]  我太不同意了
+[00:00:10.400 --> 00:00:11.220]  就别人经常说
+[00:00:11.220 --> 00:00:13.720]  虚拟经济你做好了实体经济完蛋了
+[00:00:13.720 --> 00:00:14.500]  不仅没有降低
+[00:00:14.500 --> 00:00:16.140]  反而在不断释放
+[00:00:16.140 --> 00:00:18.440]  大家回头想一想
+[00:00:18.440 --> 00:00:19.720]  我再举个很简单的例子
+[00:00:19.720 --> 00:00:21.420]  以前我们去逛国营商店
+[00:00:21.420 --> 00:00:23.260]  我这小时候还有点这种记忆
+[00:00:23.260 --> 00:00:26.140]  有的听众如果是95后估计都没有了
+[00:00:26.140 --> 00:00:29.100]  因为我记得我那个时候小时候有这种记忆的时候
+[00:00:29.100 --> 00:00:30.360]  大概就是我90年的嘛
+[00:00:30.360 --> 00:00:31.980]  就是96年呢
+[00:00:31.980 --> 00:00:32.780]  95年呢
+[00:00:32.780 --> 00:00:33.220]  那时候小时候
+[00:00:33.220 --> 00:00:34.280]  我跟父母去逛的时候
+[00:00:34.280 --> 00:00:35.460]  还有很多国营商店
+[00:00:35.460 --> 00:00:37.420]  国营商店的售货员
+[00:00:37.420 --> 00:00:38.520]  都趾高气扬的
+[00:00:38.520 --> 00:00:39.800]  感觉你去他家
+[00:00:39.800 --> 00:00:40.500]  是给他上供
+[00:00:40.500 --> 00:00:41.480]  就比如说
+[00:00:41.480 --> 00:00:42.540]  你想挑个什么东西
+[00:00:42.540 --> 00:00:43.360]  哪怕一个毛巾
+[00:00:43.360 --> 00:00:44.240]  想多看两下
+[00:00:44.240 --> 00:00:44.640]  他都
+[00:00:44.640 --> 00:00:47.880]  这个横眉冷对千夫指
+[00:00:47.880 --> 00:00:48.220]  是吧
+[00:00:48.220 --> 00:00:49.740]  你就不得不
+[00:00:49.740 --> 00:00:51.720]  俯首甘为如子牛了呀
+[00:00:51.720 --> 00:00:52.120]  对吧
+[00:00:52.120 --> 00:00:53.780]  你想想在这样的
+[00:00:53.780 --> 00:00:55.040]  矿的这种情况下
+[00:00:55.040 --> 00:00:56.660]  你买毛巾的积极性
+[00:00:56.660 --> 00:00:57.840]  是被大大打压了
+[00:00:57.840 --> 00:00:59.740]  除非你是根本没东西擦了
+[00:00:59.740 --> 00:01:00.620]  你还才去买
+[00:01:00.620 --> 00:01:01.860]  你会因为毛巾做的好看
+[00:01:01.860 --> 00:01:02.420]  你就买吗
+[00:01:02.420 --> 00:01:04.400]  这种诉求都被打压了
+[00:01:04.400 --> 00:01:07.360]  但是你哪怕就以买毛巾为例
+[00:01:07.360 --> 00:01:08.580]  你现在在淘宝上
+[00:01:08.580 --> 00:01:11.460]  可以见到全世界最多的毛巾
+[00:01:11.460 --> 00:01:13.900]  哪个毛巾都能买到
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 222.545 -t 66.977 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.060]  这时候你想
+[00:00:01.060 --> 00:00:01.900]  我今天买
+[00:00:01.900 --> 00:00:03.280]  我还可以帮我爸妈买
+[00:00:03.280 --> 00:00:04.860]  我很开心的
+[00:00:04.860 --> 00:00:06.640]  我就下单就买成了
+[00:00:06.640 --> 00:00:08.060]  然后很快人家就给我送过来
+[00:00:08.060 --> 00:00:09.320]  所以实际上
+[00:00:09.320 --> 00:00:11.080]  零售的便捷性
+[00:00:11.080 --> 00:00:13.420]  是释放了零售需求
+[00:00:13.420 --> 00:00:15.600]  绝对没有说是打压零售需求的
+[00:00:15.600 --> 00:00:17.780]  所以说这个虚拟经济
+[00:00:17.780 --> 00:00:18.640]  打压实体经济
+[00:00:18.640 --> 00:00:19.880]  不知道是哪来的歪理
+[00:00:19.880 --> 00:00:21.680]  我觉得是不可理喻
+[00:00:21.680 --> 00:00:23.820]  同时你说
+[00:00:23.820 --> 00:00:25.120]  现在我们这个毛巾
+[00:00:25.120 --> 00:00:26.300]  当日也能收到了
+[00:00:26.300 --> 00:00:27.360]  那是谁干的呢
+[00:00:27.360 --> 00:00:28.980]  不就刚才我们说的
+[00:00:28.980 --> 00:00:30.600]  外卖小哥快递员
+[00:00:30.600 --> 00:00:31.380]  对吧
+[00:00:31.380 --> 00:00:34.160]  最近顺丰上市了
+[00:00:34.160 --> 00:00:36.020]  就我知道的情况
+[00:00:36.020 --> 00:00:37.920]  马云受到了非常大的震动
+[00:00:37.920 --> 00:00:40.060]  因为王位的身家
+[00:00:40.060 --> 00:00:41.880]  一度比马云还高
+[00:00:41.880 --> 00:00:43.380]  马云都有点
+[00:00:43.380 --> 00:00:45.860]  怀疑自己这么多年奋斗
+[00:00:45.860 --> 00:00:47.160]  都奋斗到哪去了
+[00:00:47.160 --> 00:00:50.560]  王位居然身家比马云还高
+[00:00:50.560 --> 00:00:52.300]  大家要想一想
+[00:00:52.300 --> 00:00:56.140]  其实如果没有零售业本身
+[00:00:56.140 --> 00:00:57.040]  整体的邮政
+[00:00:57.040 --> 00:00:58.080]  当然是在下滑的
+[00:00:58.080 --> 00:00:58.700]  对吧
+[00:00:58.700 --> 00:01:00.700]  大家想想我们上次寄信
+[00:01:00.700 --> 00:01:03.240]  和上次我们给朋友寄东西
+[00:01:03.240 --> 00:01:04.540]  已经是什么时候了
+[00:01:04.540 --> 00:01:06.360]  就可以想清楚
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 289.022 -t 75.998 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.480 --> 00:00:03.560]  邮政的需求其实本质是在下降
+[00:00:03.560 --> 00:00:04.000]  对吧
+[00:00:04.000 --> 00:00:06.820]  大家所谓的原来寄钱寄文件
+[00:00:06.820 --> 00:00:09.300]  这个邮政的需求越来越少了
+[00:00:09.300 --> 00:00:09.680]  对吧
+[00:00:09.680 --> 00:00:10.300]  寄什么文件
+[00:00:10.300 --> 00:00:12.220]  现在该传真传真
+[00:00:12.220 --> 00:00:12.480]  是不是
+[00:00:12.480 --> 00:00:14.620]  该互联网扫描件发扫描件
+[00:00:14.620 --> 00:00:15.420]  自己打印了
+[00:00:15.420 --> 00:00:16.260]  还寄什么东西
+[00:00:16.260 --> 00:00:16.800]  对吧
+[00:00:16.800 --> 00:00:17.840]  包括写信
+[00:00:17.840 --> 00:00:18.580]  谁还写信
+[00:00:18.580 --> 00:00:20.720]  我记得时候我小时候还要交笔友
+[00:00:20.720 --> 00:00:21.140]  是吧
+[00:00:21.140 --> 00:00:22.380]  还一麻袋一麻袋的信
+[00:00:22.380 --> 00:00:24.720]  现在谁还往那个邮箱桶里面投了
+[00:00:24.720 --> 00:00:29.000]  但是因为零售业释放出了快递的需求
+[00:00:29.560 --> 00:00:33.680]  我们可以看在原来这个邮政业务
+[00:00:33.680 --> 00:00:36.180]  其实整体是在下滑的
+[00:00:36.180 --> 00:00:38.460]  2003年中国这个邮政业务
+[00:00:38.460 --> 00:00:41.440]  整体下滑趋势就只有500亿元了
+[00:00:41.440 --> 00:00:44.260]  到2015年已经变成5000亿了
+[00:00:44.260 --> 00:00:49.400]  我现在怀疑这个数字还会持续增长
+[00:00:49.400 --> 00:00:52.600]  我们现在已经比原来翻了10倍
+[00:00:52.600 --> 00:00:56.000]  我觉得未来中国持续再释放下去
+[00:00:56.000 --> 00:00:58.360]  再翻个10倍也不是不可能
+[00:00:58.360 --> 00:01:00.400]  所以也就是说
+[00:01:00.400 --> 00:01:03.680]  其实顺丰满足的
+[00:01:03.680 --> 00:01:05.620]  本质就是阿里创造出来的需求
+[00:01:05.620 --> 00:01:06.640]  不光顺丰
+[00:01:06.640 --> 00:01:07.800]  我们知道中通原通
+[00:01:07.800 --> 00:01:09.580]  什么一通三达
+[00:01:09.580 --> 00:01:10.500]  什么之类的
+[00:01:10.500 --> 00:01:10.720]  是吧
+[00:01:10.720 --> 00:01:12.060]  这么多快递企业
+[00:01:12.060 --> 00:01:16.000]  那全都是淘宝支付宝
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 364.519 -t 74.511 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.520 --> 00:00:02.240]  京东是吧
+[00:00:02.240 --> 00:00:04.780]  美团饿了妈释放出来的需求
+[00:00:04.780 --> 00:00:06.580]  这个需求少吗
+[00:00:06.580 --> 00:00:08.200]  创造了一个这么大的行业
+[00:00:08.200 --> 00:00:09.180]  如果没有
+[00:00:09.180 --> 00:00:10.940]  你说这邮政肯定是一路狂跌
+[00:00:10.940 --> 00:00:12.280]  所以你也可以看到
+[00:00:12.280 --> 00:00:14.680]  就是顺丰这样的企业
+[00:00:14.680 --> 00:00:15.240]  这么伟大的
+[00:00:15.240 --> 00:00:16.140]  为什么上市了
+[00:00:16.140 --> 00:00:17.900]  而中国邮政那么默默无闻
+[00:00:17.900 --> 00:00:18.520]  对吧
+[00:00:18.520 --> 00:00:20.580]  其实也是在给我们讲清楚
+[00:00:20.580 --> 00:00:22.500]  一个新鲜需求产生的时候
+[00:00:22.500 --> 00:00:25.380]  谁能去满足它
+[00:00:25.380 --> 00:00:27.220]  谁就会占据市场
+[00:00:27.220 --> 00:00:29.240]  我那时候记得印象太深了
+[00:00:29.820 --> 00:00:33.340]  我当时在淘宝可能买一个很小的部件
+[00:00:33.340 --> 00:00:34.680]  人家告诉我
+[00:00:34.680 --> 00:00:36.540]  宇晨EMS和顺丰
+[00:00:36.540 --> 00:00:37.620]  你选哪一个
+[00:00:37.620 --> 00:00:40.820]  我说能讲讲他们的服务质量
+[00:00:40.820 --> 00:00:44.300]  EMS50块钱
+[00:00:44.300 --> 00:00:45.600]  7天到
+[00:00:45.600 --> 00:00:47.960]  顺丰15块钱
+[00:00:47.960 --> 00:00:49.040]  明天到
+[00:00:49.040 --> 00:00:51.960]  我说哥们你是讲错了吗
+[00:00:51.960 --> 00:00:55.340]  怎么一个更便宜还快呢
+[00:00:55.340 --> 00:00:56.940]  另外一个贵还慢呢
+[00:00:56.940 --> 00:00:58.320]  而且就是他们说
+[00:00:58.320 --> 00:01:01.680]  一比如说EMS是不包什么保险什么的啊
+[00:01:01.680 --> 00:01:02.480]  顺丰全包
+[00:01:02.480 --> 00:01:06.320]  我当时大家这个首先这数据不要去纠结啊
+[00:01:06.320 --> 00:01:08.780]  我只是胡胡胡编的一个数据
+[00:01:08.780 --> 00:01:10.600]  但是这个体验是真的
+[00:01:10.600 --> 00:01:11.860]  我当时就纳闷了
+[00:01:11.860 --> 00:01:13.120]  我说哎
+[00:01:13.120 --> 00:01:13.780]  就是
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 438.530 -t 76.942 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.320 --> 00:00:01.520]  我是听错了吗
+[00:00:01.520 --> 00:00:01.760]  对吧
+[00:00:01.760 --> 00:00:04.200]  这完全就是颠覆了我的这个脑袋啊
+[00:00:04.200 --> 00:00:07.520]  然后我后来觉得EMS的价值吧
+[00:00:07.520 --> 00:00:10.080]  可能就是像大家告诉
+[00:00:10.080 --> 00:00:12.240]  其实用顺丰挺划算的
+[00:00:12.240 --> 00:00:13.460]  就跟我们经常
+[00:00:13.460 --> 00:00:15.500]  其实大家知道零售业还有个陷阱
+[00:00:15.500 --> 00:00:20.000]  就经常就是放一个就是又贵又不好的东西
+[00:00:20.000 --> 00:00:22.020]  那个东西放了
+[00:00:22.020 --> 00:00:23.680]  其实商家就不是为了卖的
+[00:00:23.680 --> 00:00:26.120]  就是为了让你快速做出决定
+[00:00:26.120 --> 00:00:27.900]  觉得我买的这个还挺值的
+[00:00:27.900 --> 00:00:28.620]  你懂我意思吧
+[00:00:28.620 --> 00:00:29.340]  如果没有对比
+[00:00:29.340 --> 00:00:30.820]  你还以为你买亏了呢
+[00:00:30.820 --> 00:00:31.940]  你看那个那么贵
+[00:00:31.940 --> 00:00:32.520]  好好好
+[00:00:32.520 --> 00:00:33.380]  这个原来是值的
+[00:00:33.380 --> 00:00:34.060]  赶紧买它
+[00:00:34.060 --> 00:00:37.440]  我觉得EMS都在市场上
+[00:00:37.440 --> 00:00:38.580]  它扮演的一个地位
+[00:00:38.580 --> 00:00:40.180]  就是刚才讲的这种
+[00:00:40.180 --> 00:00:41.720]  我刚才讲的是一个无用的
+[00:00:41.720 --> 00:00:42.540]  很贵的东西
+[00:00:42.540 --> 00:00:44.920]  它主要是来衬托顺丰的划算的
+[00:00:44.920 --> 00:00:47.300]  要不然我一听顺丰这个价格
+[00:00:47.300 --> 00:00:48.860]  我还会想顺丰是不是有点贵
+[00:00:48.860 --> 00:00:50.260]  但是看EMS
+[00:00:50.260 --> 00:00:51.980]  不会不会赶紧选顺丰
+[00:00:51.980 --> 00:00:53.880]  其实有这个道理
+[00:00:53.880 --> 00:00:56.460]  当然我们也知道EMS是中国邮政
+[00:00:56.460 --> 00:00:57.340]  是国有的
+[00:00:57.340 --> 00:00:57.920]  对吧
+[00:00:57.920 --> 00:00:59.800]  给看出私营和国有的差距
+[00:00:59.800 --> 00:01:03.120]  阿里和顺丰就像互联网的爹
+[00:01:03.120 --> 00:01:06.660]  他能生出互联网的儿子
+[00:01:06.660 --> 00:01:08.540]  他能不断给你带来惊喜
+[00:01:08.540 --> 00:01:10.320]  他日后像顺丰
+[00:01:10.320 --> 00:01:13.660]  还会再生出互联网的孙子
+[00:01:13.660 --> 00:01:16.400]  他这个需求的放大是不断传导的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 514.972 -t 76.501 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.900]  而且甚至不断放大的
+[00:00:01.900 --> 00:00:04.020]  你不要以为顺丰需求比阿里小
+[00:00:04.020 --> 00:00:04.480]  不是
+[00:00:04.480 --> 00:00:05.320]  是吧
+[00:00:05.320 --> 00:00:07.640]  王位最后做出来身价比马云还大
+[00:00:07.640 --> 00:00:13.260]  所以可见互联网释放出来的能量和需求是多么强
+[00:00:13.260 --> 00:00:13.960]  强劲
+[00:00:13.960 --> 00:00:17.860]  给整个行业带来的增量是如此巨大
+[00:00:17.860 --> 00:00:20.920]  在这个提升增量
+[00:00:20.920 --> 00:00:23.720]  做大蛋糕的过程当中
+[00:00:23.720 --> 00:00:25.300]  当然有实体企业会倒闭
+[00:00:25.300 --> 00:00:28.200]  但是我认为他们的倒闭是理所当然
+[00:00:28.200 --> 00:00:30.760]  就像刚才的EMS
+[00:00:30.760 --> 00:00:33.480]  这个对中国邮政没有任何不敬
+[00:00:33.480 --> 00:00:35.440]  毕竟是国有企业
+[00:00:35.440 --> 00:00:38.260]  还包括之前那国营的商场
+[00:00:38.260 --> 00:00:40.760]  我觉得不倒闭还有天理吗
+[00:00:40.760 --> 00:00:41.140]  对吧
+[00:00:41.140 --> 00:00:42.840]  以他们这种服务质量
+[00:00:42.840 --> 00:00:44.460]  服务态度跟服务效率
+[00:00:44.460 --> 00:00:46.580]  倒了才是应该的
+[00:00:46.580 --> 00:00:48.780]  所以我个人就认为
+[00:00:48.780 --> 00:00:51.600]  互联网创造增量和释放需求
+[00:00:51.600 --> 00:00:53.080]  确实是人类
+[00:00:53.080 --> 00:00:56.120]  不仅是21世纪发展最快的行业
+[00:00:56.120 --> 00:01:00.420]  同时他自身也创造了惊人的增量
+[00:01:00.420 --> 00:01:05.800]  同时这种增量不断传导到新的行业
+[00:01:05.800 --> 00:01:07.600]  传导到传统行业
+[00:01:07.600 --> 00:01:10.000]  迸发出更强劲的需求
+[00:01:10.000 --> 00:01:14.700]  所以我个人完全不同意Peter Thiel的一个观点
+[00:01:14.700 --> 00:01:15.740]  Peter Thiel就是
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 590.973 -t 77.192 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.380 --> 00:00:01.580]  Facebook的一个投资人
+[00:00:01.580 --> 00:00:02.240]  也是美国
+[00:00:02.240 --> 00:00:03.620]  我非常崇拜的一个企业家
+[00:00:03.620 --> 00:00:05.060]  但他说的有一个不同意
+[00:00:05.060 --> 00:00:07.880]  他说这个互联网这么多年的创新
+[00:00:07.880 --> 00:00:12.000]  我们总是最后人整个神经
+[00:00:12.000 --> 00:00:15.280]  就是都焦距于了一块小小的手机
+[00:00:15.280 --> 00:00:17.460]  而忘记了仰望星空
+[00:00:17.460 --> 00:00:19.320]  他的言下之意就是中国光
+[00:00:19.320 --> 00:00:21.040]  就中国美国也好
+[00:00:21.040 --> 00:00:22.720]  就光发展了所谓的互联网行业
+[00:00:22.720 --> 00:00:24.000]  没有发展航空航天
+[00:00:24.000 --> 00:00:26.440]  但这我不同意
+[00:00:26.440 --> 00:00:29.480]  航空航天确实也能释放一些需求
+[00:00:30.000 --> 00:00:31.980]  但是又能释放多少呢
+[00:00:31.980 --> 00:00:32.720]  其实大家知道
+[00:00:32.720 --> 00:00:35.160]  航空航天本质是一个政府采购的行业
+[00:00:35.160 --> 00:00:35.580]  对吧
+[00:00:35.580 --> 00:00:38.740]  因为只有政府才发射宇宙飞船
+[00:00:38.740 --> 00:00:43.040]  咱老百姓谁会没事发射宇宙飞船呢
+[00:00:43.040 --> 00:00:43.560]  对吧
+[00:00:43.560 --> 00:00:48.000]  它本质是个政府主导的购买行业
+[00:00:48.000 --> 00:00:48.940]  在任何国家都是
+[00:00:48.940 --> 00:00:50.500]  美国也是NASA给订单
+[00:00:50.500 --> 00:00:53.240]  基本上NASA也是从国会拿的钱
+[00:00:53.240 --> 00:00:55.980]  所以你说它能释放多少需求
+[00:00:55.980 --> 00:00:58.380]  可能我还是它这个客户
+[00:00:58.380 --> 00:01:00.040]  因为我经常脑子抽了
+[00:01:00.040 --> 00:01:01.520]  我有时候还去淘宝上
+[00:01:01.520 --> 00:01:04.320]  买点这种宇航员吃的食品
+[00:01:04.320 --> 00:01:05.880]  尝一尝他们都吃啥呢
+[00:01:05.880 --> 00:01:06.980]  不知道大家记得
+[00:01:06.980 --> 00:01:08.020]  以前有种挤那种
+[00:01:08.020 --> 00:01:09.160]  就是果冻啊
+[00:01:09.160 --> 00:01:10.740]  就挤着像吃果冻一样的
+[00:01:10.740 --> 00:01:13.060]  我有时候还买点这种太空套餐
+[00:01:13.060 --> 00:01:14.660]  3000块一份
+[00:01:14.660 --> 00:01:17.200]  就吃了我们平常那种
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 667.665 -t 84.173 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/089 - 089 - 089 孙宇晨：【互联网】虚拟打压实体？.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.760]  跟泡面一样的东西
+[00:00:01.760 --> 00:00:02.880]  但是特别贵的
+[00:00:02.880 --> 00:00:04.360]  就除我这种奇葩人
+[00:00:04.360 --> 00:00:05.980]  会去买点这种航空食品之外
+[00:00:05.980 --> 00:00:08.300]  航空怎么能刺激C端消费呢
+[00:00:08.300 --> 00:00:11.000]  无非刺激一些制造业材料吧
+[00:00:11.000 --> 00:00:12.800]  但我觉得这市场太小了
+[00:00:12.800 --> 00:00:17.400]  比起阿里腾讯带来的巨大增量市场相比
+[00:00:17.400 --> 00:00:20.220]  我觉得是微不足道
+[00:00:20.220 --> 00:00:21.700]  对整个经济的推动
+[00:00:21.700 --> 00:00:24.380]  所以我觉得基本上
+[00:00:24.380 --> 00:00:25.300]  有阿里有腾讯
+[00:00:25.300 --> 00:00:25.920]  有这些互联
+[00:00:25.920 --> 00:00:26.900]  伟大的互联网企业
+[00:00:26.900 --> 00:00:28.580]  很大程度上
+[00:00:28.580 --> 00:00:30.020]  为中国的脱贫致富
+[00:00:30.020 --> 00:00:32.240]  带来了非常大的帮助
+[00:00:32.240 --> 00:00:33.240]  因为大家想想
+[00:00:33.240 --> 00:00:35.800]  你看阿里诞生虚拟经济的过程
+[00:00:35.800 --> 00:00:37.000]  整个零售翻了六倍
+[00:00:37.000 --> 00:00:39.400]  催生了这么多的大的企业
+[00:00:39.400 --> 00:00:40.340]  而且我觉得日后
+[00:00:40.340 --> 00:00:41.460]  现在阿里
+[00:00:41.460 --> 00:00:42.000]  大家也知道
+[00:00:42.000 --> 00:00:43.320]  所有这种企业都在下沉
+[00:00:43.320 --> 00:00:43.680]  对吧
+[00:00:43.680 --> 00:00:44.820]  往三四千成下沉
+[00:00:44.820 --> 00:00:46.300]  把这个下沉做好
+[00:00:46.300 --> 00:00:48.520]  我觉得再翻个五六倍
+[00:00:48.520 --> 00:00:49.680]  又有什么不可能呢
+[00:00:49.680 --> 00:00:51.600]  中国如此的地缘辽阔
+[00:00:51.600 --> 00:00:52.940]  人口如此多
+[00:00:52.940 --> 00:00:54.720]  它的内需全部释放出来
+[00:00:54.720 --> 00:00:55.540]  因为你想
+[00:00:55.540 --> 00:00:56.700]  其实像我爸
+[00:00:56.700 --> 00:00:58.880]  像包括我妈那代人
+[00:00:58.880 --> 00:01:00.420]  其实用淘宝还是比较少的
+[00:01:00.420 --> 00:01:03.180]  等他们这代人被淘汰了
+[00:01:03.180 --> 00:01:04.360]  我儿子出来了
+[00:01:04.360 --> 00:01:05.380]  你想想
+[00:01:05.380 --> 00:01:07.280]  那整个社会的虚拟经济的增量
+[00:01:07.280 --> 00:01:08.360]  还在被不断释放
+[00:01:08.360 --> 00:01:09.460]  一代一代人释放
+[00:01:09.460 --> 00:01:12.200]  一代人可能就是一两个亿的人口
+[00:01:12.200 --> 00:01:13.340]  不断释放
+[00:01:13.340 --> 00:01:16.280]  所以我对于中国的虚拟经济的未来
+[00:01:16.280 --> 00:01:18.580]  和实体加互联网的未来
+[00:01:18.580 --> 00:01:19.980]  真是充满信心
+[00:01:19.980 --> 00:01:21.160]  大有可为
+[00:01:21.160 --> 00:01:22.500]  好的
+[00:01:22.500 --> 00:01:23.280]  谢谢大家
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__089__d3afb1d1/chunk-009/out -sns -nf -np

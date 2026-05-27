@@ -1,0 +1,595 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 75.250 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:10.340]  这个each from beat其实是前段时间刚刚发现天使粒子的拿诺奖
+[00:00:10.340 --> 00:00:16.460]  已经在诺奖后备委员会上排第一序列的张成仇教授
+[00:00:16.460 --> 00:00:20.560]  当时在给我上课的时候讲的一个粒子
+[00:00:20.560 --> 00:00:24.220]  然后当时我觉得他就英雄所见略同吧
+[00:00:24.220 --> 00:00:25.800]  算不太谦虚
+[00:00:25.800 --> 00:00:27.920]  跟我自己当时的一个想法
+[00:00:27.920 --> 00:00:30.220]  叫从探机到归机
+[00:00:30.220 --> 00:00:33.020]  是非常吻合的
+[00:00:33.020 --> 00:00:36.680]  但我觉得张教授总结的比我更加精辟
+[00:00:36.680 --> 00:00:38.920]  叫from it to it
+[00:00:38.920 --> 00:00:40.360]  是什么意思呢
+[00:00:40.360 --> 00:00:42.020]  就是其实我们人类
+[00:00:42.020 --> 00:00:45.400]  现在整体承载我们人类文明
+[00:00:45.400 --> 00:00:50.040]  漫长几千年文明史的主体的基础
+[00:00:50.040 --> 00:00:51.140]  是探机基础
+[00:00:51.140 --> 00:00:53.540]  无论是我们的身体
+[00:00:53.540 --> 00:00:56.980]  还是我们比如说平常用的一些实体的物品
+[00:00:56.980 --> 00:01:00.820]  它的主要组成元素都是碳
+[00:01:00.820 --> 00:01:02.820]  甚至包括我们今天用的钞票
+[00:01:02.820 --> 00:01:06.220]  大家用的钞票也都是碳
+[00:01:06.220 --> 00:01:11.500]  而这一系列在一个漫长的一到两千年的进化史中
+[00:01:11.500 --> 00:01:15.260]  将整体变成以危机为主的一个现象
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 74.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.220]  这个线上形态
+[00:00:01.220 --> 00:00:04.100]  其实这就是我自己提出的
+[00:00:04.100 --> 00:00:06.780]  什么叫从探机到归机
+[00:00:06.780 --> 00:00:09.240]  张教授当然总结的非常好
+[00:00:09.240 --> 00:00:09.620]  Eat
+[00:00:09.620 --> 00:00:10.940]  大家知道在英文中
+[00:00:10.940 --> 00:00:12.420]  这是一个实体的意思
+[00:00:12.420 --> 00:00:16.000]  Beat是整个互联网的一个
+[00:00:16.000 --> 00:00:18.180]  组成的基本形态
+[00:00:18.180 --> 00:00:19.360]  所以大家可以看到
+[00:00:19.360 --> 00:00:21.600]  如果Beat是一个组成的基本形态
+[00:00:21.600 --> 00:00:22.740]  那Bitcoin
+[00:00:22.740 --> 00:00:23.360]  是吧
+[00:00:23.360 --> 00:00:24.680]  就是一个简直是
+[00:00:24.680 --> 00:00:26.260]  这名字起的也太好了
+[00:00:26.260 --> 00:00:28.780]  跟张教授这个话也是不模糊的
+[00:00:28.780 --> 00:00:33.700]  它就成为了人类在归基世界里的第一种基础货币
+[00:00:33.700 --> 00:00:40.320]  所以我们经常讲到人类要从肉体为基础的这个碳基生命
+[00:00:40.320 --> 00:00:46.440]  转化成为以数据为基础的一个归基生命
+[00:00:46.440 --> 00:00:49.420]  所以如果我们有了这样的一个基础
+[00:00:49.420 --> 00:00:52.480]  对人类未来发展趋势的一个基础判断
+[00:00:52.480 --> 00:00:55.320]  那我们看待整个产业的发展
+[00:00:55.320 --> 00:00:58.960]  就有了一个非常好的参照模型
+[00:00:58.960 --> 00:01:00.400]  和参照模式
+[00:01:00.400 --> 00:01:04.320]  归基生命和碳基生命
+[00:01:04.320 --> 00:01:06.400]  有什么样的差别
+[00:01:06.400 --> 00:01:07.180]  以及
+[00:01:07.180 --> 00:01:09.760]  比如说大家可能会问一个很简单的问题
+[00:01:09.760 --> 00:01:11.160]  那碳基生命好
+[00:01:11.160 --> 00:01:12.620]  还是归基生命好的
+[00:01:12.620 --> 00:01:15.500]  我个人思索了很久
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 149.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.320]  我觉得肯定是归基生命
+[00:00:02.320 --> 00:00:04.920]  我总结了以下几点优势
+[00:00:04.920 --> 00:00:09.420]  第一点就是碳基生命
+[00:00:09.420 --> 00:00:10.780]  这个还没法来看
+[00:00:10.780 --> 00:00:11.500]  回头看
+[00:00:11.500 --> 00:00:13.740]  碳基生命它效率低
+[00:00:13.740 --> 00:00:14.600]  特别脆弱
+[00:00:14.600 --> 00:00:15.480]  容易死亡
+[00:00:15.480 --> 00:00:17.100]  而且寿命是有限的
+[00:00:17.100 --> 00:00:20.360]  这点我相信大家也深有体会
+[00:00:20.360 --> 00:00:21.600]  因为我们都是碳基生命
+[00:00:21.600 --> 00:00:23.580]  碳基生命有几几几两
+[00:00:23.580 --> 00:00:24.840]  就我们自己大家最清楚
+[00:00:24.840 --> 00:00:27.140]  首先碳基生命很脆弱
+[00:00:27.140 --> 00:00:29.120]  比如说它如果被车撞了
+[00:00:29.280 --> 00:00:30.880]  或者出各种各样的问题
+[00:00:30.880 --> 00:00:32.200]  很快就死亡了
+[00:00:32.200 --> 00:00:33.700]  然后同时呢
+[00:00:33.700 --> 00:00:34.600]  它的整个
+[00:00:34.600 --> 00:00:36.200]  因为我们的身体
+[00:00:36.200 --> 00:00:38.160]  它的运转的寿命
+[00:00:38.160 --> 00:00:39.260]  它是有限的
+[00:00:39.260 --> 00:00:40.780]  所以也很容易死亡
+[00:00:40.780 --> 00:00:43.440]  当然它的能源利用效率非常低
+[00:00:43.440 --> 00:00:44.620]  我们大家可以想想
+[00:00:44.620 --> 00:00:46.260]  我们把太阳能
+[00:00:46.260 --> 00:00:47.840]  就是我们其实地球上
+[00:00:47.840 --> 00:00:49.120]  你看植物
+[00:00:49.120 --> 00:00:51.480]  是依靠吸收太阳能转化的
+[00:00:51.480 --> 00:00:51.720]  它
+[00:00:51.720 --> 00:00:54.020]  就太阳能转化为植物的
+[00:00:54.020 --> 00:00:55.420]  能源效率就很低
+[00:00:55.420 --> 00:00:57.140]  植物再转化为动物
+[00:00:57.140 --> 00:00:58.640]  我们人再把动物吃了
+[00:00:58.640 --> 00:01:01.920]  基本上太阳能能不能有5%转化到我们身体里
+[00:01:01.920 --> 00:01:02.920]  都已经很不容易了
+[00:01:02.920 --> 00:01:04.480]  包括我们整个消化啊
+[00:01:04.480 --> 00:01:05.620]  再把它转化过来
+[00:01:05.620 --> 00:01:08.440]  而归基生命它都可以直接吸取太阳能
+[00:01:08.440 --> 00:01:09.420]  直接转化的
+[00:01:09.420 --> 00:01:10.380]  效率非常高
+[00:01:10.380 --> 00:01:11.740]  而且归基生命
+[00:01:11.740 --> 00:01:12.480]  大家也知道
+[00:01:12.480 --> 00:01:15.500]  等一下我会讲归基生命的一个基本存在
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 224.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.180]  基本存在形式它是分布式存在的
+[00:00:02.180 --> 00:00:04.160]  所以基本不可能死亡
+[00:00:04.160 --> 00:00:05.200]  同时呢
+[00:00:05.200 --> 00:00:07.100]  当然它就实现的是永生
+[00:00:07.100 --> 00:00:10.700]  然后进化速度也是
+[00:00:10.700 --> 00:00:12.860]  大家可以看到我们人啊
+[00:00:12.860 --> 00:00:14.340]  作为一个探机生命
+[00:00:14.340 --> 00:00:16.240]  我们从猿猴
+[00:00:16.240 --> 00:00:17.880]  可能从非洲大陆
+[00:00:17.880 --> 00:00:19.860]  一直去现代人家
+[00:00:19.860 --> 00:00:21.280]  人类起源都是从非洲
+[00:00:21.280 --> 00:00:23.240]  等等这几只猿猴来的
+[00:00:23.240 --> 00:00:24.820]  进化到现在
+[00:00:24.820 --> 00:00:27.360]  可能经过了三十万年
+[00:00:27.360 --> 00:00:28.980]  才缓慢进化到
+[00:00:28.980 --> 00:00:30.520]  一个人类的基本形态
+[00:00:30.520 --> 00:00:32.920]  所以我们的进化迭代速度是非常慢的
+[00:00:32.920 --> 00:00:33.960]  而归基生命啊
+[00:00:33.960 --> 00:00:36.080]  它的迭代速度当然是非常快的
+[00:00:36.080 --> 00:00:37.180]  几分是增长的
+[00:00:37.180 --> 00:00:38.800]  大家如果看过一部科幻电影
+[00:00:38.800 --> 00:00:40.880]  我倒是觉得现在是越来越现实了
+[00:00:40.880 --> 00:00:41.900]  就是黑客帝国
+[00:00:41.900 --> 00:00:44.440]  你可以看到它其中有一个镜头
+[00:00:44.440 --> 00:00:48.560]  就是它其中有一个黑客帝国的一个坏人吧
+[00:00:48.560 --> 00:00:50.340]  被好人用各种方法
+[00:00:50.340 --> 00:00:51.560]  反正一枪把他打死了
+[00:00:51.560 --> 00:00:53.180]  当打死之后呢
+[00:00:53.180 --> 00:00:54.160]  这个坏人呢
+[00:00:54.160 --> 00:00:55.760]  他的分布式存在形态
+[00:00:55.760 --> 00:00:56.940]  马上就学习了
+[00:00:56.940 --> 00:00:59.000]  原来这个人用这种方法能把我打死
+[00:00:59.000 --> 00:01:00.220]  所以他马上
+[00:01:00.220 --> 00:01:01.600]  下一个版本进化的时候
+[00:01:01.600 --> 00:01:02.920]  就把这个相对于贴了一个bug
+[00:01:02.920 --> 00:01:03.520]  对吧
+[00:01:03.520 --> 00:01:04.840]  这个就解决了
+[00:01:04.840 --> 00:01:06.320]  就像前一段时间
+[00:01:06.320 --> 00:01:07.980]  像以太坊如果经常被偷
+[00:01:07.980 --> 00:01:09.280]  其实他如果这个网络
+[00:01:09.280 --> 00:01:10.920]  自进化能力强的话
+[00:01:10.920 --> 00:01:12.220]  他可以很快
+[00:01:12.220 --> 00:01:13.780]  至少可以把这个logo弄熟
+[00:01:13.780 --> 00:01:15.500]  所以这个我们就称为自进化
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 299.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.420]  成为自进化能力很强
+[00:00:01.420 --> 00:00:03.840]  所以它的自适应能力也非常强
+[00:00:03.840 --> 00:00:06.220]  所以这个归基生命的进化速度
+[00:00:06.220 --> 00:00:07.980]  也要比碳基生命快很多
+[00:00:07.980 --> 00:00:10.440]  生命形态
+[00:00:10.440 --> 00:00:12.900]  归基生命呢
+[00:00:12.900 --> 00:00:14.700]  它是受限于肉体的
+[00:00:14.700 --> 00:00:16.260]  所以协作起来特别缓慢
+[00:00:16.260 --> 00:00:17.340]  就比如说
+[00:00:17.340 --> 00:00:19.460]  当然比如说你看像今天加群
+[00:00:19.460 --> 00:00:21.480]  加微信群各种形式
+[00:00:21.480 --> 00:00:24.400]  都是非常缓慢的
+[00:00:24.400 --> 00:00:26.380]  包括你看我现在想给大家传递一下
+[00:00:26.380 --> 00:00:26.960]  我的思想
+[00:00:26.960 --> 00:00:29.080]  如果通过这种演讲的模式
+[00:00:29.080 --> 00:00:30.720]  比如说有的人都睡着了
+[00:00:30.720 --> 00:00:32.960]  比如说碳基生命还会睡觉
+[00:00:32.960 --> 00:00:33.260]  对吧
+[00:00:33.260 --> 00:00:35.160]  归基生命是不睡觉的
+[00:00:35.160 --> 00:00:37.520]  这个真的是非常典型的
+[00:00:37.520 --> 00:00:38.040]  大家可以看到
+[00:00:38.040 --> 00:00:39.800]  碳基生命所组成的交易所
+[00:00:39.800 --> 00:00:40.920]  都是下班的
+[00:00:40.920 --> 00:00:41.280]  对吧
+[00:00:41.280 --> 00:00:42.140]  就所有的这种
+[00:00:42.140 --> 00:00:43.740]  我们知道的上交所
+[00:00:43.740 --> 00:00:44.360]  深交所
+[00:00:44.360 --> 00:00:45.800]  归基生命组成的
+[00:00:45.800 --> 00:00:46.520]  比特币交易所
+[00:00:46.520 --> 00:00:47.220]  都下不上
+[00:00:47.220 --> 00:00:48.620]  没有下班的
+[00:00:48.620 --> 00:00:50.000]  都7成24小时交易
+[00:00:50.000 --> 00:00:50.860]  所以你会发现
+[00:00:50.860 --> 00:00:52.140]  碳基和归基生命
+[00:00:52.140 --> 00:00:54.320]  它所源头不一样
+[00:00:54.320 --> 00:00:55.040]  它们的特征
+[00:00:55.040 --> 00:00:56.340]  都有很大差别
+[00:00:56.340 --> 00:00:56.880]  像交易
+[00:00:56.880 --> 00:00:58.120]  哪怕从交易所科技
+[00:00:58.120 --> 00:00:58.680]  都能看出
+[00:00:58.680 --> 00:00:59.520]  所以呢
+[00:00:59.520 --> 00:01:00.840]  探机生命要睡觉
+[00:01:00.840 --> 00:01:01.900]  你看各种各样的问题
+[00:01:01.900 --> 00:01:02.300]  所以呢
+[00:01:02.300 --> 00:01:04.020]  它协作起来也很困难
+[00:01:04.020 --> 00:01:04.700]  就比如说
+[00:01:04.700 --> 00:01:06.820]  比如说我们公司现在协作
+[00:01:06.820 --> 00:01:08.400]  我们用丁丁经常协作
+[00:01:08.400 --> 00:01:10.480]  我给我的员工有时候打电话
+[00:01:10.480 --> 00:01:11.260]  他们都睡着了
+[00:01:11.260 --> 00:01:12.580]  或者在忙别的
+[00:01:12.580 --> 00:01:12.860]  对吧
+[00:01:12.860 --> 00:01:15.500]  它甚至很难跟你及时协作
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 374.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.000]  即时性 Instant 协作
+[00:00:02.000 --> 00:00:04.500]  但是归基生命呢延展性是非常强的
+[00:00:04.500 --> 00:00:06.500]  像都是分布式的
+[00:00:06.500 --> 00:00:10.500]  所以它能同时响应非常多的命令行
+[00:00:10.500 --> 00:00:13.500]  所以呢它是资源高效匹配的
+[00:00:13.500 --> 00:00:16.500]  举一个大家可能也看过一部电影
+[00:00:16.500 --> 00:00:19.500]  所以我觉得看电影其实很有理解人类趋势
+[00:00:19.500 --> 00:00:22.000]  这部电影叫 Her 就是叫她
+[00:00:22.000 --> 00:00:23.500]  这部电影讲什么的呢
+[00:00:23.500 --> 00:00:25.000]  就当初有一个宅男
+[00:00:25.000 --> 00:00:29.000]  他每天就跟一个就是人工智能的女朋友聊天
+[00:00:29.000 --> 00:00:32.780]  然后那个女的当然就是24小时成期回复他
+[00:00:32.780 --> 00:00:34.480]  他不开心那个女的就开导他
+[00:00:34.480 --> 00:00:37.760]  然后那个男的慢慢就爱上这个女机器人了
+[00:00:37.760 --> 00:00:40.200]  然后就向这个女机器人求婚了
+[00:00:40.200 --> 00:00:42.920]  然后这时候他就问了一个不该问的问题
+[00:00:42.920 --> 00:00:44.380]  就是问这个女机器人呢
+[00:00:44.380 --> 00:00:47.940]  就是说那你跟我一起聊天的时候还会不会跟别人聊天
+[00:00:47.940 --> 00:00:51.640]  他说是我同时跟5678个男的在聊天的
+[00:00:51.640 --> 00:00:54.680]  然后他们其中有一千多个都向我求婚了
+[00:00:54.680 --> 00:00:58.580]  所以这就证明你看归基生命的这个延展性
+[00:00:58.580 --> 00:01:00.380]  这分布式能力有多强
+[00:01:00.380 --> 00:01:02.000]  所以它比
+[00:01:02.000 --> 00:01:04.560]  碳级生命这一点要强很多
+[00:01:04.560 --> 00:01:06.000]  当然
+[00:01:06.000 --> 00:01:08.580]  我个人觉得最后一点反而还是最重要
+[00:01:08.580 --> 00:01:10.580]  就是碳级生命
+[00:01:10.580 --> 00:01:12.340]  是因为它受到
+[00:01:12.340 --> 00:01:14.600]  我们身体的很多限制
+[00:01:14.600 --> 00:01:15.020]  所限
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 449.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.860]  所以它是必须让渡很多我们的权利出去
+[00:00:03.860 --> 00:00:06.360]  就比如说最简单的一个让渡
+[00:00:06.360 --> 00:00:07.940]  就是比如说我们人类社会
+[00:00:07.940 --> 00:00:10.040]  碳级生命组成的社会都有政府
+[00:00:10.040 --> 00:00:13.540]  因为比如说政府会提供很多公共需求
+[00:00:13.540 --> 00:00:15.980]  比如说对安全对稳定
+[00:00:15.980 --> 00:00:19.260]  比如说抗震救灾各种各样的稳定需求
+[00:00:19.260 --> 00:00:22.580]  因为它可以比较方便的从中心化来调动资源
+[00:00:22.580 --> 00:00:26.080]  但是碳级生命是完全意义上自由的
+[00:00:26.080 --> 00:00:28.760]  是不需要掌控的
+[00:00:28.940 --> 00:00:32.640]  其实这一点其实从比特币大家非常好理解
+[00:00:32.640 --> 00:00:34.960]  原来啊就是碳基生命啊
+[00:00:34.960 --> 00:00:36.200]  在比特币诞生之前
+[00:00:36.200 --> 00:00:39.940]  所有人都必须借助中心化的清算网络
+[00:00:39.940 --> 00:00:42.200]  才能够完全意义上掌握自己的财富
+[00:00:42.200 --> 00:00:42.480]  对吧
+[00:00:42.480 --> 00:00:46.060]  大家比如说两种钱就两种方式
+[00:00:46.060 --> 00:00:47.880]  第一种像文强开屋了一样
+[00:00:47.880 --> 00:00:48.480]  对吧
+[00:00:48.480 --> 00:00:51.960]  把钱一麻袋一麻袋的埋在这个鱼塘里啊
+[00:00:51.960 --> 00:00:53.340]  或者存在地下保险柜里
+[00:00:53.340 --> 00:00:55.640]  那这样的直接结果就是你可能被人打劫
+[00:00:55.640 --> 00:00:57.840]  或者中级委一进来把你钱全带走了
+[00:00:57.840 --> 00:00:58.240]  对吧
+[00:00:58.240 --> 00:01:00.280]  第二种方式当然就存在银行
+[00:01:00.280 --> 00:01:02.000]  依靠一个中心化的清算体系
+[00:01:02.000 --> 00:01:03.380]  但这种体系呢
+[00:01:03.380 --> 00:01:05.000]  因为你要让步自己的自由嘛
+[00:01:05.000 --> 00:01:06.820]  所以别人想夹封你啊
+[00:01:06.820 --> 00:01:07.980]  或者想把你hack掉
+[00:01:07.980 --> 00:01:09.280]  也是非常容易的
+[00:01:09.280 --> 00:01:11.180]  而在比特币的世界里面啊
+[00:01:11.180 --> 00:01:12.380]  你可以完全意义上
+[00:01:12.380 --> 00:01:15.140]  只要通过自己的私钥
+[00:01:15.140 --> 00:01:15.500]  啊
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 524.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.840]  控制了自己的私钥
+[00:00:01.840 --> 00:00:03.820]  就完全控制了自己的金钱
+[00:00:03.820 --> 00:00:05.600]  当然这里面也有一个问题
+[00:00:05.600 --> 00:00:07.480]  也是像我很多朋友
+[00:00:07.480 --> 00:00:09.480]  像B信的老板丢掉8000个币
+[00:00:09.480 --> 00:00:10.240]  什么原因呢
+[00:00:10.240 --> 00:00:12.280]  还是碳阶和硅基的一个冲突
+[00:00:12.280 --> 00:00:14.940]  就是碳阶还会遗忘
+[00:00:14.940 --> 00:00:16.680]  所以他背了这个密钥
+[00:00:16.680 --> 00:00:17.480]  因为老不用
+[00:00:17.480 --> 00:00:18.640]  结果扣来忘了
+[00:00:18.640 --> 00:00:20.560]  8000个币就这样没了
+[00:00:20.560 --> 00:00:22.800]  但是如果是完全硅基生意
+[00:00:22.800 --> 00:00:23.800]  你这样不要挖掉密钥
+[00:00:23.800 --> 00:00:25.720]  你的肯定钱你是不会丢失的
+[00:00:25.720 --> 00:00:27.500]  当然移动速度
+[00:00:27.500 --> 00:00:29.100]  这一点我是指
+[00:00:29.100 --> 00:00:31.020]  我以前大家也知道
+[00:00:31.020 --> 00:00:32.020]  各位有没有了解我
+[00:00:32.020 --> 00:00:33.780]  我以前通过投资特斯拉
+[00:00:33.780 --> 00:00:34.620]  赚了很多钱
+[00:00:34.620 --> 00:00:35.740]  但是呢
+[00:00:35.740 --> 00:00:36.720]  我不是太赞成
+[00:00:36.720 --> 00:00:37.600]  伊隆马斯克的
+[00:00:37.600 --> 00:00:39.480]  那个殖民火星的这个看法
+[00:00:39.480 --> 00:00:40.020]  为什么呢
+[00:00:40.020 --> 00:00:42.000]  因为他那个殖民火星的看法
+[00:00:42.000 --> 00:00:43.180]  太落后
+[00:00:43.180 --> 00:00:44.140]  太守旧了
+[00:00:44.140 --> 00:00:45.580]  这个讲的有点装逼啊
+[00:00:45.580 --> 00:00:46.700]  因为特斯拉已经是硅谷
+[00:00:46.700 --> 00:00:48.560]  就是太努力的投资人了
+[00:00:48.560 --> 00:00:49.620]  和创业人
+[00:00:49.620 --> 00:00:50.540]  但是我觉得他有点
+[00:00:50.540 --> 00:00:51.620]  确实是比较守旧
+[00:00:51.620 --> 00:00:54.400]  就是他眼中的火星殖民
+[00:00:54.400 --> 00:00:56.460]  还是将一个碳级生命
+[00:00:56.460 --> 00:00:57.400]  送到火星去
+[00:00:57.400 --> 00:00:58.740]  比如叫一个人
+[00:00:58.740 --> 00:01:00.440]  像宇航员送到火星去
+[00:01:00.440 --> 00:01:03.280]  而我眼中的未来的星际殖民
+[00:01:03.280 --> 00:01:04.760]  他的主要形态
+[00:01:04.760 --> 00:01:06.040]  其实是送危机生命
+[00:01:06.040 --> 00:01:08.480]  危机生命其实本质是送蛋
+[00:01:08.480 --> 00:01:10.920]  本质是送光
+[00:01:10.920 --> 00:01:14.020]  所以人一定是可以实现光速移动
+[00:01:14.020 --> 00:01:15.500]  所以
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 599.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.540]  所以从这个角度来说
+[00:00:01.540 --> 00:00:03.660]  去火星可能就五分钟就到了
+[00:00:03.660 --> 00:00:05.600]  所以根本不用说弄麻烦
+[00:00:05.600 --> 00:00:06.740]  搞一堆发射
+[00:00:06.740 --> 00:00:09.040]  然后还要把那个碳基生命
+[00:00:09.040 --> 00:00:10.620]  因为碳基生命非常脆弱
+[00:00:10.620 --> 00:00:11.900]  它要吃喝拉撒
+[00:00:11.900 --> 00:00:12.520]  还要睡觉
+[00:00:12.520 --> 00:00:14.900]  所以你的整个这个宇航舱
+[00:00:14.900 --> 00:00:15.760]  要搞得非常的
+[00:00:15.760 --> 00:00:18.060]  就是非常小心吧
+[00:00:18.060 --> 00:00:19.540]  才能让这个碳基生命不死了
+[00:00:19.540 --> 00:00:20.740]  而未来是归基生命的话
+[00:00:20.740 --> 00:00:22.240]  基本上是光速旅行
+[00:00:22.240 --> 00:00:22.840]  光速出入
+[00:00:22.840 --> 00:00:24.680]  如果我们有了
+[00:00:24.680 --> 00:00:26.200]  这个理解问题的模型
+[00:00:26.200 --> 00:00:27.780]  从碳基到归基
+[00:00:27.780 --> 00:00:29.480]  那么我们重新审视
+[00:00:29.480 --> 00:00:33.600]  商业的视角就发生了翻天覆地的变化
+[00:00:33.600 --> 00:00:35.380]  从这个角度来说呢
+[00:00:35.380 --> 00:00:37.800]  如果我们再看2000年的互联网革命
+[00:00:37.800 --> 00:00:39.400]  就包括雅虎Google
+[00:00:39.400 --> 00:00:40.840]  搜狐新浪
+[00:00:40.840 --> 00:00:43.400]  你们这里面可能两家都快倒闭了
+[00:00:43.400 --> 00:00:46.800]  其中一家改行做微博了
+[00:00:46.800 --> 00:00:48.620]  另外一家还活得很好
+[00:00:48.620 --> 00:00:51.080]  他们其实共同在做的事情呢
+[00:00:51.080 --> 00:00:53.720]  其实就是把信息拿到网上去
+[00:00:53.720 --> 00:00:55.800]  以前首先信息啊
+[00:00:55.800 --> 00:00:57.260]  就是一种探机信息
+[00:00:57.260 --> 00:00:58.480]  就大家我们看的报纸
+[00:00:58.480 --> 00:00:59.600]  它都是探机信息
+[00:00:59.600 --> 00:01:01.620]  它首先把信息变成了
+[00:01:01.620 --> 00:01:02.540]  归基信息
+[00:01:02.540 --> 00:01:02.980]  所以呢
+[00:01:02.980 --> 00:01:04.180]  我们大家现在
+[00:01:04.180 --> 00:01:05.160]  绝大多数
+[00:01:05.160 --> 00:01:06.900]  接触信息的手段
+[00:01:06.900 --> 00:01:07.840]  已经变成了
+[00:01:07.840 --> 00:01:09.520]  完全的归基化
+[00:01:09.520 --> 00:01:11.800]  所以现在我们绝对不存在说
+[00:01:11.800 --> 00:01:13.280]  我们想知道一个信息
+[00:01:13.280 --> 00:01:14.100]  结果因为这个信息
+[00:01:14.100 --> 00:01:15.500]  要印在报纸
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 674.750 -t 40.007 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/139 - 139 - 140 孙宇晨：【From It to Bit】碳基与硅基生命对比.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:25.880]  现在报纸上,我拿不到这个报纸,所以看不到这个信息,大家现在听起来是不是很荒谬,对吧,很荒谬,但是以前我们的前人其实就是因为这个原因,原来以前更荒谬的时期,比如说皇上比如说前线已经陷落了,他可能两天之后才知道,为啥呢,因为要驿站马通过这个形式给他送过去,现在这个效率是多么的低下,但这就是探机生命的信息的组织形态,
+[00:00:26.080 --> 00:00:31.960]  所以我们相当于把碳基生命完全意义上变成了硅基
+[00:00:31.960 --> 00:00:34.520]  把信息的承载物体从碳基变成硅基
+[00:00:34.520 --> 00:00:39.200]  所以就实现了7×24小时全天候光速传播的信息载体
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__139__60c2d49e/chunk-009/out -sns -nf -np

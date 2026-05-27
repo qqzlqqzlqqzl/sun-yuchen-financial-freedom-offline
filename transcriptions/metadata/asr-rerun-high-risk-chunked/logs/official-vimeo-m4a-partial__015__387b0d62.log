@@ -1,0 +1,306 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 66.316 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:31.120]  创业小有所成
+[00:00:31.120 --> 00:00:32.540]  我一直坚信
+[00:00:32.540 --> 00:00:34.140]  一个有梦想的人
+[00:00:34.140 --> 00:00:35.860]  带着刺也能成功
+[00:00:35.860 --> 00:00:37.700]  甚至一个带着刺的人
+[00:00:37.700 --> 00:00:39.500]  更容易走向成功
+[00:00:39.500 --> 00:00:41.040]  我想邀你一起
+[00:00:41.040 --> 00:00:43.260]  与我踏上财富自由革命之路
+[00:00:43.260 --> 00:00:46.100]  我希望在财富自由的另一边
+[00:00:46.100 --> 00:00:47.180]  等着你
+[00:01:00.000 --> 00:01:06.320]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 65.816 -t 77.409 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.080]  很高兴陪伴大家到现在
+[00:00:02.080 --> 00:00:04.140]  这一节其实是做总结了
+[00:00:04.140 --> 00:00:07.020]  刚才经过前面几节的其实课程
+[00:00:07.020 --> 00:00:09.600]  我们大家其实对财富自由已经有了
+[00:00:09.600 --> 00:00:11.260]  我觉得一个非常深刻的认识了
+[00:00:11.260 --> 00:00:12.680]  包括我们讲解的案例
+[00:00:12.680 --> 00:00:17.460]  而且也为我们未来的课程铺垫了非常好的节奏
+[00:00:17.460 --> 00:00:20.280]  让我们一起再回顾一下财富自由是什么
+[00:00:20.280 --> 00:00:22.220]  以及这一整套的东西
+[00:00:22.220 --> 00:00:23.760]  也给大家做一个回顾
+[00:00:23.760 --> 00:00:27.000]  以及我在谈更深入的一些想法
+[00:00:27.000 --> 00:00:28.900]  财富自由其实本质呢
+[00:00:28.900 --> 00:00:29.980]  我们前面讲了
+[00:00:29.980 --> 00:00:32.060]  它就是我们能够不因为金钱
+[00:00:32.060 --> 00:00:33.920]  而产生任何价值观的妥协
+[00:00:33.920 --> 00:00:35.740]  这些妥协包括
+[00:00:35.740 --> 00:00:37.240]  时间上的妥协
+[00:00:37.240 --> 00:00:38.520]  注意力上的妥协
+[00:00:38.520 --> 00:00:40.200]  与情感尊严上的妥协
+[00:00:40.200 --> 00:00:43.040]  所以从这个角度来说呢
+[00:00:43.040 --> 00:00:45.000]  我们今天也分析了
+[00:00:45.000 --> 00:00:46.680]  包括财富自由这种状态
+[00:00:46.680 --> 00:00:48.940]  是不是我财富自由之后
+[00:00:48.940 --> 00:00:50.700]  就天天干什么干什么干什么呀
+[00:00:50.700 --> 00:00:51.660]  也不是
+[00:00:51.660 --> 00:00:53.560]  从这一点来说呢
+[00:00:53.560 --> 00:00:54.520]  我们总结一下
+[00:00:54.520 --> 00:00:58.420]  就是我们因精神自由而财富自由
+[00:00:58.420 --> 00:01:02.760]  也因财富自由而精神自由
+[00:01:02.760 --> 00:01:04.840]  这个怎么理解呢
+[00:01:04.840 --> 00:01:09.020]  其实经过我们刚才讨论的几个案例吧
+[00:01:09.020 --> 00:01:10.820]  大家也可以很明显的发现
+[00:01:10.820 --> 00:01:13.240]  每个人深陷财务泥潭
+[00:01:13.240 --> 00:01:16.680]  甚至深陷自己人生泥潭的核心原因
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 142.725 -t 74.586 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.540]  在于意识形态
+[00:00:01.540 --> 00:00:03.740]  在于我们对外界的看法
+[00:00:03.740 --> 00:00:07.140]  在于我们与父母与亲人与家人的关系
+[00:00:07.140 --> 00:00:09.880]  核心其实本质还是在于三观
+[00:00:09.880 --> 00:00:11.200]  的确没错
+[00:00:11.200 --> 00:00:15.540]  财富自由本身就是一个精神状态
+[00:00:15.540 --> 00:00:20.360]  是一种发自内心的世界观价值观的认同
+[00:00:20.360 --> 00:00:23.720]  如果不认同这一套财富自由的价值观
+[00:00:23.720 --> 00:00:26.480]  那你就一定不会实现财富自由
+[00:00:26.480 --> 00:00:30.400]  我们刚才看一个为了自己妹妹工作
+[00:00:30.400 --> 00:00:31.660]  姥姥治病
+[00:00:31.660 --> 00:00:33.700]  天天奔波把自己卖掉的女性
+[00:00:33.700 --> 00:00:35.320]  可以实现财富自由吗
+[00:00:35.320 --> 00:00:36.900]  财富自由离她太远了
+[00:00:36.900 --> 00:00:38.700]  而只有真正迈出工作
+[00:00:38.700 --> 00:00:40.640]  和在这个社会立足的第一步
+[00:00:40.640 --> 00:00:43.600]  她才慢慢在向财富自由靠近
+[00:00:43.600 --> 00:00:46.320]  一个平常平凡换车
+[00:00:46.320 --> 00:00:48.740]  对车房其实没有正确理解的年轻人
+[00:00:48.740 --> 00:00:49.960]  能实现财富自由吗
+[00:00:49.960 --> 00:00:50.980]  是不可能的
+[00:00:50.980 --> 00:00:52.400]  只有抛弃了车
+[00:00:52.400 --> 00:00:55.680]  选择好的财富增值模式和心态
+[00:00:55.680 --> 00:00:57.440]  他才离财富自由更近了
+[00:00:57.440 --> 00:00:58.900]  我自己进行总结
+[00:00:58.900 --> 00:01:00.640]  财富自由之路
+[00:01:00.640 --> 00:01:03.340]  本质其实就是一场价值观的战争
+[00:01:03.340 --> 00:01:06.680]  如果我们的价值观效率是最高的
+[00:01:06.680 --> 00:01:08.380]  就一定能够脱颖而出
+[00:01:08.380 --> 00:01:11.280]  就像电脑比拼CPU
+[00:01:11.280 --> 00:01:13.820]  软件比拼操作系统一样
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 216.812 -t 79.044 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.760]  我们每天做的事情
+[00:00:01.760 --> 00:00:03.520]  其实就是在把我们自己的
+[00:00:03.520 --> 00:00:05.460]  iOS系统进行升级
+[00:00:05.460 --> 00:00:07.060]  把我们的世界观进行升级
+[00:00:07.060 --> 00:00:09.060]  不断去迭代版本
+[00:00:09.060 --> 00:00:11.220]  真正决定财富自由
+[00:00:11.220 --> 00:00:13.660]  决定谁在残酷竞争中胜利了
+[00:00:13.660 --> 00:00:15.200]  是我们的价值观
+[00:00:15.200 --> 00:00:17.080]  是一场价值观的战争
+[00:00:17.080 --> 00:00:19.420]  所以我自己认为
+[00:00:19.420 --> 00:00:21.240]  财富自由的互联网价值观
+[00:00:21.240 --> 00:00:22.760]  是一种生活方式
+[00:00:22.760 --> 00:00:23.880]  精神信仰
+[00:00:23.880 --> 00:00:27.160]  是一种值得捍卫的
+[00:00:27.160 --> 00:00:28.660]  世界观与价值观
+[00:00:28.660 --> 00:00:32.100]  获取财富是对我们信仰的奖赏
+[00:00:32.100 --> 00:00:36.640]  而失去财富则是对他人或者我们不信仰的惩罚
+[00:00:36.640 --> 00:00:42.160]  财富自由体现于一整套观察信仰与改造世界
+[00:00:42.160 --> 00:00:46.160]  与家人相处与陌生人与熟人与亲情
+[00:00:46.160 --> 00:00:48.780]  友情爱情相处的方式
+[00:00:48.780 --> 00:00:52.020]  而这一套方式是人人平等
+[00:00:52.020 --> 00:00:53.560]  人人都可以学会
+[00:00:53.560 --> 00:00:56.960]  就像一起89年法国的人权宣言
+[00:00:56.960 --> 00:00:59.000]  所规定的人权是人人
+[00:00:59.000 --> 00:01:01.560]  皆可享有的普世权利一样
+[00:01:01.560 --> 00:01:03.060]  财富自由
+[00:01:03.060 --> 00:01:05.500]  从不歧视任何人
+[00:01:05.500 --> 00:01:07.200]  只要你认同这一套
+[00:01:07.200 --> 00:01:08.740]  财富自由的价值观
+[00:01:08.740 --> 00:01:11.360]  那么人人皆可享有财富自由
+[00:01:11.360 --> 00:01:12.400]  是不分
+[00:01:12.400 --> 00:01:13.540]  种族
+[00:01:13.540 --> 00:01:14.200]  肤色
+[00:01:14.200 --> 00:01:15.320]  性别语言
+[00:01:15.320 --> 00:01:16.160]  国籍
+[00:01:16.160 --> 00:01:17.400]  社会出身的
+[00:01:17.400 --> 00:01:18.380]  所以
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 295.356 -t 68.421 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.860]  这也是为什么我们能看到
+[00:00:01.860 --> 00:00:04.100]  那么多白手起家的商业神话
+[00:00:04.100 --> 00:00:08.620]  也能看到有非常多门第很高的富家子弟
+[00:00:08.620 --> 00:00:10.580]  或者很有权力的人
+[00:00:10.580 --> 00:00:13.300]  重新跌入穷人的深渊
+[00:00:13.300 --> 00:00:16.520]  本质核心决定这一切
+[00:00:16.520 --> 00:00:19.660]  都是对这一套世界观和价值观的信仰
+[00:00:19.660 --> 00:00:22.180]  所以从这个角度来说
+[00:00:22.180 --> 00:00:25.200]  我们因信仰自由而享受自由
+[00:00:25.200 --> 00:00:29.400]  财富只是价值自由价值的一种体现
+[00:00:29.400 --> 00:00:32.980]  精神自由而得财富自由
+[00:00:32.980 --> 00:00:36.120]  财富自由让我们更加精神自由
+[00:00:36.120 --> 00:00:38.140]  所以从这个角度来说
+[00:00:38.140 --> 00:00:42.680]  精神自由是我们需要去修炼的第一关
+[00:00:42.680 --> 00:00:44.880]  其实也是这个我们这个课程
+[00:00:44.880 --> 00:00:46.340]  希望为大家做到的
+[00:00:46.340 --> 00:00:48.640]  我希望通过这一年的学习
+[00:00:48.640 --> 00:00:50.880]  去陪伴大家走过
+[00:00:50.880 --> 00:00:55.720]  以及体验这一段精神自由的路程和旅程
+[00:00:55.720 --> 00:00:57.780]  通过这个专栏
+[00:00:57.780 --> 00:00:59.500]  我们大家一起去修炼
+[00:00:59.500 --> 00:01:01.820]  来实现精神的自由
+[00:01:01.820 --> 00:01:04.680]  然后通过践行我们的三观
+[00:01:04.680 --> 00:01:06.520]  践行我们的精神
+[00:01:06.520 --> 00:01:07.780]  我们一定
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 363.277 -t 64.307 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.540]  非常有把握去实现财务自由
+[00:00:02.540 --> 00:00:07.660]  而我们最终也必将因我们的财富自由
+[00:00:07.660 --> 00:00:11.420]  而获得更大的与世俗社会
+[00:00:11.420 --> 00:00:14.280]  包括与传统社会进行博弈谈判的权利
+[00:00:14.280 --> 00:00:17.900]  更大程度上去膨胀我们的精神自由
+[00:00:17.900 --> 00:00:20.360]  所以二者是相辅相成的
+[00:00:20.360 --> 00:00:24.680]  所以我相信已经到第一章的尾声了
+[00:00:24.680 --> 00:00:28.400]  其实哪怕听完财富自由是什么课程
+[00:00:28.400 --> 00:00:29.940]  哪怕我们其实怎么做
+[00:00:29.940 --> 00:00:31.320]  很多都还没有展开
+[00:00:31.320 --> 00:00:33.300]  相信绝大多数读者
+[00:00:33.300 --> 00:00:34.940]  已经对我们的信仰
+[00:00:34.940 --> 00:00:36.400]  有了足够多的信心
+[00:00:36.400 --> 00:00:37.720]  我们相信
+[00:00:37.720 --> 00:00:38.980]  只要我们能奉行
+[00:00:38.980 --> 00:00:40.920]  我们的这一整套
+[00:00:40.920 --> 00:00:42.040]  时间观和价值观
+[00:00:42.040 --> 00:00:43.700]  我们一定能在
+[00:00:43.700 --> 00:00:44.720]  未来的道路上
+[00:00:44.720 --> 00:00:45.680]  所向披靡
+[00:00:45.680 --> 00:00:48.240]  向世人去证明
+[00:00:48.240 --> 00:00:49.820]  我们三观的正确
+[00:00:58.400 --> 00:01:04.200]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__015__387b0d62/chunk-005/out -sns -nf -np
