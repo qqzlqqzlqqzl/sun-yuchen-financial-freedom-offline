@@ -1,0 +1,39 @@
+{
+  "item": {
+    "index": 7,
+    "audio_id": "official-vimeo-m4a-partial__010__52931080",
+    "episode": "010",
+    "title": "预告-财富自由是什么 [1179690712]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/010 - 010预告-财富自由是什么 [1179690712].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/010__official-vimeo-m4a-partial__010__52931080__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 0.0,
+    "end_seconds": 121.98,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复"
+    ],
+    "line_refs": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 69
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "946fe848-821b-4025-bfc6-953aedd704c1",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    "queries": []
+  }
+}

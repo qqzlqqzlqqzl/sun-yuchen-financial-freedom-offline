@@ -1,0 +1,471 @@
+{
+  "item": {
+    "index": 17,
+    "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+    "episode": "016",
+    "title": "财富自由从未如此容易过 [1179692693]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/016__official-vimeo-m4a-partial__016__71e7d985__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 596.32,
+    "end_seconds": 603.18,
+    "chunk_index": 1,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      274
+    ],
+    "samples": [
+      "而某某某种程度上"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 59
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "d04d67a2-7b9c-40cf-8bd7-534038ee5bb1",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150238B9E03CECEFBAF710A6D1",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271503148B6B54031909FB706C84",
+        "response": {
+          "audio_info": {
+            "duration": 6860
+          },
+          "result": {
+            "additions": {
+              "duration": "6860"
+            },
+            "text": "啊，所以价格进入的价格非常重要。而某某某种程度上啊，投资啊的公司的财",
+            "utterances": [
+              {
+                "end_time": 2040,
+                "start_time": 40,
+                "text": "啊，所以价格进入的价格非常重要。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 200,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 320,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 440,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 600,
+                    "text": "格"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 760,
+                    "text": "进"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 920,
+                    "text": "入"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1040,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1320,
+                    "start_time": 1200,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1320,
+                    "text": "格"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1440,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1600,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1720,
+                    "text": "重"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1880,
+                    "text": "要"
+                  }
+                ]
+              },
+              {
+                "end_time": 6720,
+                "start_time": 2800,
+                "text": "而某某某种程度上啊，投资啊的公司的财",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 2800,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3520,
+                    "text": "某"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3880,
+                    "text": "某"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4120,
+                    "text": "某"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4480,
+                    "start_time": 4320,
+                    "text": "种"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4480,
+                    "text": "程"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4600,
+                    "text": "度"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4840,
+                    "start_time": 4680,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4840,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 5000,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5200,
+                    "text": "资"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5800,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6120,
+                    "start_time": 6080,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6200,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6440,
+                    "start_time": 6360,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6600,
+                    "start_time": 6440,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6720,
+                    "start_time": 6600,
+                    "text": "财"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 6860
+      },
+      "result": {
+        "additions": {
+          "duration": "6860"
+        },
+        "text": "啊，所以价格进入的价格非常重要。而某某某种程度上啊，投资啊的公司的财",
+        "utterances": [
+          {
+            "end_time": 2040,
+            "start_time": 40,
+            "text": "啊，所以价格进入的价格非常重要。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 200,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 320,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 760,
+                "text": "进"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 920,
+                "text": "入"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1200,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1320,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1440,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1600,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1720,
+                "text": "重"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "要"
+              }
+            ]
+          },
+          {
+            "end_time": 6720,
+            "start_time": 2800,
+            "text": "而某某某种程度上啊，投资啊的公司的财",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 2800,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3520,
+                "text": "某"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "某"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4120,
+                "text": "某"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4320,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4480,
+                "text": "程"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4600,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4680,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4840,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5000,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5200,
+                "text": "资"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5800,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 6080,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6200,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6360,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6440,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6600,
+                "text": "财"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

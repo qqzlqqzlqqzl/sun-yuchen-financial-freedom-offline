@@ -1,0 +1,36 @@
+{
+  "item": {
+    "index": 19,
+    "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+    "episode": "025",
+    "title": "未来社会的演变 [1179695011]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/025__official-vimeo-m4a-partial__025__5b4cc5d1__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 224.38,
+    "end_seconds": 235.04,
+    "chunk_index": 0,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      59
+    ],
+    "samples": [
+      "所带来的产业结构那当然不用说了那基本上不是人下岗的问题是一个一个一个产业成批量的"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 32
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "43c29e72-6615-411f-9239-b5871fd1fa95",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

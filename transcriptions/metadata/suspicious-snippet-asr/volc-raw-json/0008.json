@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 8,
+    "audio_id": "wavlake-mp3__011__89676748",
+    "episode": "011",
+    "title": "011 孙宇晨：财富自由就退休",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/011__wavlake-mp3__011__89676748__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 781.98,
+    "chunk_index": 0,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 214
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "2fcd0cef-3792-4759-b17b-9090c0d47cfc",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

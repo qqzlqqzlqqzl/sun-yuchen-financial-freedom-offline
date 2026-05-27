@@ -1,0 +1,840 @@
+{
+  "summary": {
+    "total_raw": 61,
+    "ok": 31,
+    "fail": 30,
+    "labels": {
+      "需人工判断": 31
+    }
+  },
+  "items": [
+    {
+      "index": 1,
+      "audio_id": "official-vimeo-m4a-partial__000__7c18aa7d",
+      "episode": "000",
+      "status": "ok",
+      "start_seconds": 142.64,
+      "end_seconds": 148.94,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        37,
+        38
+      ],
+      "label": "需人工判断",
+      "local_text": "37: 答。现阶层的既得利益者是谁?\n38: 答。现阶层的既得利益者是谁?",
+      "cloud_text": "谁是社会的既得利益者？答，现阶段社会中",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0001.json"
+    },
+    {
+      "index": 2,
+      "audio_id": "official-vimeo-m4a-partial__000__7c18aa7d",
+      "episode": "000",
+      "status": "ok",
+      "start_seconds": 259.18,
+      "end_seconds": 267.22,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        78,
+        79,
+        80
+      ],
+      "label": "需人工判断",
+      "local_text": "78: 国家经济增长的能力就会逐渐枯竭,\n79: 国家经济增长的能力就会逐渐枯竭,\n80: 国家经济增长的能力就会逐渐枯竭,",
+      "cloud_text": "一个创造力的巨大黑洞，国家经济增长的能力就会逐渐枯竭，创造力就会被渐渐扼杀。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0002.json"
+    },
+    {
+      "index": 3,
+      "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+      "episode": "006",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 4,
+      "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+      "episode": "006",
+      "status": "ok",
+      "start_seconds": 1323.78,
+      "end_seconds": 1331.72,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        277
+      ],
+      "label": "需人工判断",
+      "local_text": "277: 把姥姥姥爷爷奶奶两方的一共12个人",
+      "cloud_text": "父母把他父母，把姥姥姥爷，爷爷奶奶两方的一共12个人，加上他们14个人绑在一套房子里。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0004.json"
+    },
+    {
+      "index": 5,
+      "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+      "episode": "006",
+      "status": "fail",
+      "reason": "Remote end closed connection without response"
+    },
+    {
+      "index": 6,
+      "audio_id": "official-vimeo-m4a-partial__010__52931080",
+      "episode": "010",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 7,
+      "audio_id": "official-vimeo-m4a-partial__010__52931080",
+      "episode": "010",
+      "status": "fail",
+      "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    {
+      "index": 8,
+      "audio_id": "wavlake-mp3__011__89676748",
+      "episode": "011",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 9,
+      "audio_id": "wavlake-mp3__011__89676748",
+      "episode": "011",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 10,
+      "audio_id": "official-vimeo-m4a-partial__012__842975e3",
+      "episode": "012",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 11,
+      "audio_id": "official-vimeo-m4a-partial__012__842975e3",
+      "episode": "012",
+      "status": "ok",
+      "start_seconds": 517.38,
+      "end_seconds": 523.34,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        202
+      ],
+      "label": "需人工判断",
+      "local_text": "202: 我就要立刻干什么干什么干什么了",
+      "cloud_text": "完成财富自由之后，我就要立刻干什么干什么干什么了。如果你真的想要",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0011.json"
+    },
+    {
+      "index": 12,
+      "audio_id": "official-vimeo-m4a-partial__014__a9dd324d",
+      "episode": "014",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 13,
+      "audio_id": "official-vimeo-m4a-partial__014__a9dd324d",
+      "episode": "014",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 14,
+      "audio_id": "official-vimeo-m4a-partial__015__387b0d62",
+      "episode": "015",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 15,
+      "audio_id": "official-vimeo-m4a-partial__015__387b0d62",
+      "episode": "015",
+      "status": "fail",
+      "reason": "<urlopen error The write operation timed out>"
+    },
+    {
+      "index": 16,
+      "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+      "episode": "016",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 17,
+      "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+      "episode": "016",
+      "status": "ok",
+      "start_seconds": 596.32,
+      "end_seconds": 603.18,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        274
+      ],
+      "label": "需人工判断",
+      "local_text": "274: 而某某某种程度上",
+      "cloud_text": "啊，所以价格进入的价格非常重要。而某某某种程度上啊，投资啊的公司的财",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0017.json"
+    },
+    {
+      "index": 18,
+      "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+      "episode": "016",
+      "status": "ok",
+      "start_seconds": 646.68,
+      "end_seconds": 653.32,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        303
+      ],
+      "label": "需人工判断",
+      "local_text": "303: 三三三百多亿的美金",
+      "cloud_text": "亿左右的话，基本上是将近三三三百多亿的美金，有点太多了，所以我就",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0018.json"
+    },
+    {
+      "index": 19,
+      "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+      "episode": "025",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 20,
+      "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+      "episode": "025",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 21,
+      "audio_id": "official-vimeo-m4a-partial__028__ed75399c",
+      "episode": "028",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 22,
+      "audio_id": "official-vimeo-m4a-partial__028__ed75399c",
+      "episode": "028",
+      "status": "ok",
+      "start_seconds": 227.58,
+      "end_seconds": 623.44,
+      "issue_types": [
+        "近似重复"
+      ],
+      "line_refs": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "label": "需人工判断",
+      "local_text": "41: 才能让剩下不做贡献的人作为前提。\n42: 才能让剩下不做贡献的人作为前提。\n43: 才能让剩下不做贡献的人作为前提。\n44: 才能让剩下不做贡献的人作为前提。\n45: 才能让剩下不做贡献的人作为前提。\n46: 才能让剩下不做贡献的人作为前提。\n47: 才能让剩下不做贡献的人作为前提。\n48: 才能让剩下不做贡献的人作为前提。\n49: 才能让剩下不做贡献的人作为前提。\n50: 才能让剩下不做贡献的人作为前提。\n51: 才能让剩下不做贡献的人作为前提。\n52: 才能让剩下不做贡献的人作为前提。",
+      "cloud_text": "大的剥削作为前提，才能让剩下不做贡献的人享受到好的福利。国家不种地，国家不工作。国家只是收税，所以国家本身除了损耗，国家和政府除了损耗收上来的税收之外，它本身不对税收做任何贡献。所以国家要给 A 发钱，就一定要从 B 身上拿走一部分钱。所以这是很多人可能一直都没有懂得的一个道理。所以这个事情上，我们我们经常讲叫做没有免费的午餐，就是这个道理。如果有人获得。在分配角度就一定有人失去。除非有人去努力把这个蛋糕做大，而我们也知道这个世界上最难的就是把蛋糕做大以及赚钱了。所以从这个角度来说，我觉得三观本质其实没有冷血和不冷血之分，它只是讲出一种真相。同时呢，我个人认为，如果就算谈冷血的话，性与权力的分配可能是更加冷血的。所以我个人认为金钱与自由也是更加好的一种三观形式。当然对于我们这种三观的态度啊，以前就英文有一个词非常好，叫 shoot the messenger。这个意思是什么呢？就叫做打死信使，就是绝大多数人呢，经常觉得他不注重事实。只注重表述事实的人，把事实说出来了。打死信使啊，把信使给打死。在罗马共和国时期啊，就有一个王国叫做亚美尼亚。在亚美尼亚有个王国，他的这个国王呢，叫做提格兰二世。然后这个提格兰二世呢，做了一件什么事情呢？就是罗马人要来打他。要来侵略这个亚美尼亚王国。侵略亚美尼亚王国的这个人呢，叫做卢库鲁斯。然后这个卢库鲁斯将军呢，在率领他的部队向亚美尼亚进发的时候呢。亚美尼亚的信使就过来告诉国王，说正在有人侵略我们的国家。然后这个提格拉特二世呢，非常生气，说你怎么能说有人侵略我们的国家呢？怎么给我带来一个这么坏的消息？打乱了我，比如吃饭。他就把这个信使的脑袋给砍了。但是我们也知道，告诉你就是罗马大军即将侵略我们国家的信使砍了。并没有办法改变罗马马上打进我们国家的事实。所以呢，后来就没有人敢再敢告诉这位国王，他们国家正在被罗马侵略了。直到呢这个国王被鲁库鲁斯将军抓住，把他的脑袋给砍了。所以这个啊莎士比亚的戏剧中也经常提到这样的桥段啊。其实我觉得也跟刚才这个观众说我们冷血的概念是一样的。其实我们并不创造冷血的现实，我们只是某种程度上，将冷血的现实表达出来。而且其实我倒是对人性觉得很温暖啊。绝大多数其实我觉得现在这个社会是在越变越好，金钱与自由的分配规则也比信誉权利的分配规则更好。所以个人感觉一点都不冷血，其实本质上。在讲完这个事情的时候呢，我们细心再讲一讲这个案例。那你说应不应该给哥哥或者弟弟借钱呢？这个女生啊。其实首先我们大家要明确啊，这首先绝对不是女生对哥哥或者弟弟的一种帮助。而是一种权利分配，这是一种强制义务。就是这个女生如果不断绝跟她父母以及弟弟的亲情关系。在中国传统的农业结构社会中，他是必须帮助他弟弟的。这是一种强制义务，就像你是一个货物。你必须被卖掉，给主人筹钱呐！否则怎么彰显我对你的所有权呢？如果这个女生在绝大多数情况下拒绝对她弟弟提供帮助，就不给钱的话。首先我相信他会面临他们家族非常大的压力和舆论上的谴责吧。所以这种帮助根本就不是一个帮助，这是一种在性欲权利的规范下的一种强制分配义务。就是这个女生本质上是她弟弟以及她父母的从属，所以就像你，我们作为公民需要给国家交税一样。这个当然你可以说，哎，我给国家做了贡献，但你试试你不做贡献试试。啊，这是不允许的。所以呢，从这个角度上来说，我个人认为是一定要拒绝的。因为这本身是一种权利分配，而不是。一种啊，你真的是好心跟你弟弟关系好，帮助你弟弟吗？并不是的，而是一种强制分配义务。同时呢，其实本质我们是从来没有听过弟弟哥哥在外打工。寄钱给妹妹，让她把书读了的。这种在农村是很少发生的。也就是哥哥和弟弟本质混好了，是没有强制义务去帮助他的姐姐或者妹妹的。这是绝对没有的。所以呢，我们经常看到的情况，更大的情况是弟弟和哥哥在外混，想混得好就混得好，父母会把他的姐姐或者妹妹早点在农村里嫁了。看能不能有嫁妆再寄给他的哥哥和弟弟买房呢？在大城市买房呢？所以我觉得，我一，我们觉得一定要拒绝啊，在这个分配程度上，我们一定要拒绝。而且同时，其实地理位置上分开已经是一个天大的好事了。所以其实你不寄钱，你父母也不能拿你怎么样啊。而且你跟他们的这个关系呢，本质是不对等的，因为是你出钱，他们收钱，所以你拒绝断绝这个经济来源，对，只是对他们是坏事，对你并不是坏事。诶，这时候我们又有朋友问我们一个问题啊，有这个观众问我们一个问题。说，那这样断绝关系之后是不是不太好啊？那我们平常跟父母的关系应该如何处理呢？比如说甚至啊，讲白了说是。什么时候应该甚至断绝跟父母的关系，其实是对的。什么时候其实不应该断绝跟父母的关系，甚至跟父母的关系应该怎么处理？其实这个问题我们后面也会详细讲，我会讲一讲我自己的观点。这个其实对大家的参照意义，我觉得是很大的。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0022.json"
+    },
+    {
+      "index": 23,
+      "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+      "episode": "029",
+      "status": "ok",
+      "start_seconds": 135.0,
+      "end_seconds": 142.12,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "label": "需人工判断",
+      "local_text": "27: 我相信我未来十年很有可能也会有小孩子,\n28: 我相信我未来十年很有可能也会有小孩子,\n29: 我相信我未来十年很有可能也会有小孩子,\n30: 我相信我未来十年很有可能也会有小孩。",
+      "cloud_text": "因为其实我今年26岁啊，我相信我未来十年很有可能也会有小孩。就是我对我的女儿",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0023.json"
+    },
+    {
+      "index": 24,
+      "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+      "episode": "029",
+      "status": "ok",
+      "start_seconds": 537.46,
+      "end_seconds": 543.46,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        200
+      ],
+      "label": "需人工判断",
+      "local_text": "200: 你看我上次对你这样这样这样,",
+      "cloud_text": "我帮了我爸，我哪天又要求他，你看我上次对你这样这样这样，你要对我怎么样怎么样。你千万不要有",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0024.json"
+    },
+    {
+      "index": 25,
+      "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+      "episode": "029",
+      "status": "ok",
+      "start_seconds": 609.22,
+      "end_seconds": 619.1,
+      "issue_types": [
+        "行内循环",
+        "连续重复"
+      ],
+      "line_refs": [
+        230,
+        231,
+        232,
+        233
+      ],
+      "label": "需人工判断",
+      "local_text": "230: 那个那个谁谁谁不孝,\n231: 那个谁谁谁怎么能这样呢,\n232: 怎么能这样呢,\n233: 怎么能这样呢,",
+      "cloud_text": "脊梁骨讨论别人家的事是吧？哎，那个那个谁谁谁不孝，那个谁谁谁哎，怎么能这样呢？哎，怎么能这样呢？哎，怎么能这样呢？就挥动他道德",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0025.json"
+    },
+    {
+      "index": 26,
+      "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+      "episode": "032",
+      "status": "ok",
+      "start_seconds": 325.82,
+      "end_seconds": 331.88,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        64,
+        65,
+        66
+      ],
+      "label": "需人工判断",
+      "local_text": "64: 所以这一张,即便有一些枯萎的图片。\n65: 所以这一张,即便有一些枯萎的图片。\n66: 所以这一张,即便有一些枯萎的图片。",
+      "cloud_text": "基本金融体系是什么样的？所以这一章即便有些枯燥，但我觉得对于每个人来说",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0026.json"
+    },
+    {
+      "index": 27,
+      "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+      "episode": "032",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 28,
+      "audio_id": "official-vimeo-m4a-partial__037__6c4df868",
+      "episode": "037",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 29,
+      "audio_id": "official-vimeo-m4a-partial__037__6c4df868",
+      "episode": "037",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 30,
+      "audio_id": "official-vimeo-m4a-partial__039__ced3f110",
+      "episode": "039",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 31,
+      "audio_id": "official-vimeo-m4a-partial__039__ced3f110",
+      "episode": "039",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 32,
+      "audio_id": "official-vimeo-m4a-partial__043__4c33cf4b",
+      "episode": "043",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    {
+      "index": 33,
+      "audio_id": "official-vimeo-m4a-partial__043__4c33cf4b",
+      "episode": "043",
+      "status": "fail",
+      "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    {
+      "index": 34,
+      "audio_id": "official-vimeo-m4a-partial__047__809f0c28",
+      "episode": "047",
+      "status": "ok",
+      "start_seconds": 385.96,
+      "end_seconds": 399.78,
+      "issue_types": [
+        "行内循环",
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        52,
+        53,
+        54,
+        55,
+        57
+      ],
+      "label": "需人工判断",
+      "local_text": "52: 我看到他写的是11万还是12万一平方米。\n53: 我看到他写的是11万还是12万一平方米。\n54: 我看到他写的是11万还是12万一平方米。\n55: 我看到他写的是11万还是12万一平方米。\n57: 其实买一个90平方米的,都将近要1000万了。",
+      "cloud_text": "他写的是11万还是12万一平方米。那么这样我就算买一个100平方米的房子吧，那叫1100万。啊，其实买一个90平方米的啊，都像嗯这么贵的房子。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0034.json"
+    },
+    {
+      "index": 35,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "fail",
+      "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    {
+      "index": 36,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "fail",
+      "reason": "[Errno 54] Connection reset by peer"
+    },
+    {
+      "index": 37,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "fail",
+      "reason": "[Errno 54] Connection reset by peer"
+    },
+    {
+      "index": 38,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "ok",
+      "start_seconds": 725.22,
+      "end_seconds": 732.54,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        165
+      ],
+      "label": "需人工判断",
+      "local_text": "165: 然后涨到6000的时候卖的",
+      "cloud_text": "一百多人民币买的，然后涨到6000的时候卖的，然后后来比特币大概跌",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0038.json"
+    },
+    {
+      "index": 39,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "fail",
+      "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    {
+      "index": 40,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "ok",
+      "start_seconds": 885.0,
+      "end_seconds": 895.14,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        217
+      ],
+      "label": "需人工判断",
+      "local_text": "217: 因为我觉得6500呢我不知道我今天没看价格反正最近不是6000到8000波动吧",
+      "cloud_text": "倒不是太建议买。嗯。因为我觉得6500呢，我不知道，我今天没看价格，反正最近不是6000~8000波动吧。我觉得这个价格呢，其实",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0040.json"
+    },
+    {
+      "index": 41,
+      "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+      "episode": "049",
+      "status": "ok",
+      "start_seconds": 933.9,
+      "end_seconds": 941.74,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        228
+      ],
+      "label": "需人工判断",
+      "local_text": "228: 其实当初在4000的时候我觉得是比特币一个",
+      "cloud_text": "我我个人感觉这个价格稍微有点高。其实当初在4000的时候，我觉得是比特币一个比较 fair 的价格，而且不会",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0041.json"
+    },
+    {
+      "index": 44,
+      "audio_id": "wavlake-mp3__065__de79041b",
+      "episode": "065",
+      "status": "fail",
+      "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    {
+      "index": 46,
+      "audio_id": "wavlake-mp3__068__8931adfc",
+      "episode": "068",
+      "status": "ok",
+      "start_seconds": 28.0,
+      "end_seconds": 91.98,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        2,
+        3
+      ],
+      "label": "需人工判断",
+      "local_text": "2: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目\n3: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "cloud_text": "再住一晚上，所以我感觉啊给我最大的压力就是像秦朔老师这样比我牛很多的人，还比我勤奋很多。啊，我今天给大家啊讲的这个啊演讲主题，我这个 PPT 也做了好多遍啊。啊，主要就是讲，我认为九零后呢是一个啊价值观的革命。啊，我们怎么来理解这个九零后是价值观的革命呢？啊，我觉得啊先从前一段时间啊一直关于一些九零后的讨论。开始讲起吧。啊，可能大家也意识到前一段时间对于九零后的争论是很多的。啊，尤其啊我这里列了两个可能啊稍微有些争议的人。啊，比如说于嘉文主要的争议是啊，他之前说要把啊一个亿的利润分给员工，虽然公司可能没有一个亿的利润，然后啊媒体天天天揪着他不放是吧？然后余佳文啊，号称要开余佳文认怂会。然后啊但这个事后来不了了之啊，也被批得很厉害啊。然后胡振宇呢，很多人纠结他的这个啊火箭，那个探空火箭啊，不是像这个伊隆马斯克现在做的那个火箭一样啊。我觉得呢，现在媒体对于这个九零后的",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0046.json"
+    },
+    {
+      "index": 47,
+      "audio_id": "wavlake-mp3__068__8931adfc",
+      "episode": "068",
+      "status": "fail",
+      "reason": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    {
+      "index": 52,
+      "audio_id": "wavlake-mp3__074__f1f77efa",
+      "episode": "074",
+      "status": "fail",
+      "reason": "<urlopen error [Errno 54] Connection reset by peer>"
+    },
+    {
+      "index": 54,
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "episode": "075",
+      "status": "ok",
+      "start_seconds": 201.2,
+      "end_seconds": 205.2,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        32,
+        33
+      ],
+      "label": "需人工判断",
+      "local_text": "32: 而量子力学呢,他是跟爱因斯坦存在很大争论的。\n33: 而量子力学呢,他是跟爱因斯坦存在很大争论的。",
+      "cloud_text": "争论呢。而量子力学呢，其中啊我们",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0054.json"
+    },
+    {
+      "index": 55,
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "episode": "075",
+      "status": "ok",
+      "start_seconds": 291.0,
+      "end_seconds": 295.16,
+      "issue_types": [
+        "连续重复"
+      ],
+      "line_refs": [
+        47,
+        48,
+        49
+      ],
+      "label": "需人工判断",
+      "local_text": "47: 是与我们今天的生活中的。\n48: 是与我们今天的生活中的。\n49: 是与我们今天的生活中的。",
+      "cloud_text": "点啊，甚至于我们今天的生活中的非常",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0055.json"
+    },
+    {
+      "index": 56,
+      "audio_id": "wavlake-mp3__077__1eaabcfd",
+      "episode": "077",
+      "status": "ok",
+      "start_seconds": 82.7,
+      "end_seconds": 89.22,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        16,
+        17,
+        18
+      ],
+      "label": "需人工判断",
+      "local_text": "16: 但是我觉得我们这一期节目发现了很多很重要的东西。\n17: 但是我觉得我们这一期节目发现了很多很重要的东西。\n18: 但是我觉得我们这一期节目发现了很多很重要的东西。",
+      "cloud_text": "战胜了韩国，成了个热点。但是我觉得我们这一期节目番外篇讲里皮的国足",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0056.json"
+    },
+    {
+      "index": 57,
+      "audio_id": "wavlake-mp3__077__1eaabcfd",
+      "episode": "077",
+      "status": "ok",
+      "start_seconds": 586.68,
+      "end_seconds": 595.32,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        151,
+        152,
+        153
+      ],
+      "label": "需人工判断",
+      "local_text": "151: 所以从这个角度来说就催生了中国一个最大的问题\n152: 所以从这个角度来说就催生了中国一个最大的问题\n153: 所以从这个角度来说就催生了中国一个最大的问题",
+      "cloud_text": "速度特别快的产业。所以从这个角度来说，就催生了中国一个最大的问题，中国缺乏足够多",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0057.json"
+    },
+    {
+      "index": 58,
+      "audio_id": "wavlake-mp3__078__32514846",
+      "episode": "078",
+      "status": "ok",
+      "start_seconds": 1644.04,
+      "end_seconds": 1651.04,
+      "issue_types": [
+        "连续重复"
+      ],
+      "line_refs": [
+        471,
+        472
+      ],
+      "label": "需人工判断",
+      "local_text": "471: 就没投,\n472: 就没投,",
+      "cloud_text": "结果后来人家还是毁约了，就没投，就没投啊，不是说投了没投啊。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0058.json"
+    },
+    {
+      "index": 59,
+      "audio_id": "wavlake-mp3__078__32514846",
+      "episode": "078",
+      "status": "ok",
+      "start_seconds": 1857.04,
+      "end_seconds": 1863.04,
+      "issue_types": [
+        "连续重复"
+      ],
+      "line_refs": [
+        634,
+        635
+      ],
+      "label": "需人工判断",
+      "local_text": "634: 你不相信什么呀?\n635: 你不相信什么呀?",
+      "cloud_text": "哦对。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0059.json"
+    },
+    {
+      "index": 60,
+      "audio_id": "wavlake-mp3__078__32514846",
+      "episode": "078",
+      "status": "fail",
+      "reason": "OK"
+    },
+    {
+      "index": 61,
+      "audio_id": "wavlake-mp3__085__59379fe0",
+      "episode": "085",
+      "status": "ok",
+      "start_seconds": 85.58,
+      "end_seconds": 90.74,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "label": "需人工判断",
+      "local_text": "14: 而这种协作关系往往是不稳定的。\n15: 而这种协作关系往往是不稳定的。\n16: 而这种协作关系往往是不稳定的。\n17: 而这种协作关系往往是不稳定的。",
+      "cloud_text": "身，谈的价码啊，与这些外界因素充分相",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0061.json"
+    },
+    {
+      "index": 62,
+      "audio_id": "wavlake-mp3__085__59379fe0",
+      "episode": "085",
+      "status": "ok",
+      "start_seconds": 204.44,
+      "end_seconds": 238.44,
+      "issue_types": [
+        "近似重复"
+      ],
+      "line_refs": [
+        31,
+        32
+      ],
+      "label": "需人工判断",
+      "local_text": "31: 所以,在未来这种轻量化的组织形式将成为主流的社会中,我们不能再进入这种包办式的组织协作关系了。\n32: 在未来这种轻量化的组织形式将成为主流的社会中,我们不能再进入这种包办式的组织协作关系了。",
+      "cloud_text": "年到20年这种长时间维维度来看，这种稳定往往不存在。上世纪九十年代末期的国企大裁员，其实就是这个典型的例子。裁员只会发生一次吗？显然不可能。目前从我们的估计来看，从去年国家所提出的新常态，马云所提倡的新经济，都在讲一个大趋势。就是一个去产能的趋势。而在这个去产能的趋势中，国企是重灾区。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0062.json"
+    },
+    {
+      "index": 63,
+      "audio_id": "wavlake-mp3__086__bf2c2a6d",
+      "episode": "086",
+      "status": "ok",
+      "start_seconds": 0.0,
+      "end_seconds": 61.98,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        1,
+        2
+      ],
+      "label": "需人工判断",
+      "local_text": "1: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目\n2: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "cloud_text": "大家好，我是陪我 APP 创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路，我在财富自由的另一边等着你。大家好，我是雨辰。上一期呢，我们讲了我们要坚信提升个人的交换价值，在提升个人的交换价值时，实现自我成长。然后依靠交换价值和实现自我成长这两个砝码与社会进行大规模的陌生人协作，才是保持稳定性的最好方式。因为我们身处在一个不确定性的社会，指望单位、国家为我们提高稳定性、实现稳定性的时代。已经一去不复返了。而从啊上一期我们举了一个国企工人的",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0063.json"
+    },
+    {
+      "index": 70,
+      "audio_id": "wavlake-mp3__095__3bea9fa5",
+      "episode": "095",
+      "status": "ok",
+      "start_seconds": 120.14,
+      "end_seconds": 130.12,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        17
+      ],
+      "label": "需人工判断",
+      "local_text": "17: 在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不了几句就被删了。",
+      "cloud_text": "相亲的话也是有各种相亲软件。在海量的信息里面呢，找啊找啊找啊找，可能刚加好友啊，聊不了几句就被删了。能见面的其实都已经挺少",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0070.json"
+    },
+    {
+      "index": 71,
+      "audio_id": "wavlake-mp3__095__3bea9fa5",
+      "episode": "095",
+      "status": "ok",
+      "start_seconds": 171.82,
+      "end_seconds": 180.62,
+      "issue_types": [
+        "近似重复",
+        "连续重复"
+      ],
+      "line_refs": [
+        27,
+        28,
+        29
+      ],
+      "label": "需人工判断",
+      "local_text": "27: 这样算起来的话,短信其实才是更伟大的发明才对啊。\n28: 这样算起来的话,短信其实才是更伟大的发明才对啊。\n29: 这样算起来的话,短信其实才是更伟大的发明才对啊。",
+      "cloud_text": "啊，大多数也都是换汤不换药。啊，这样算起来的话，短信其实才是更伟大的发明才对啊，因为它至少实现了跨运营商的沟通。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0071.json"
+    },
+    {
+      "index": 74,
+      "audio_id": "wavlake-mp3__097__e53f6314",
+      "episode": "097",
+      "status": "ok",
+      "start_seconds": 58.0,
+      "end_seconds": 91.98,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        3,
+        4
+      ],
+      "label": "需人工判断",
+      "local_text": "3: 因为前几年公司状况也比较惨,大家别以为阿里巴巴1999年建的时候也就50万刚建起来,天天开会都是在居民楼里开的,我们公司毕竟还没有经历过这么惨的阶段,但马云阿里巴巴都在居民楼里开,然后马云天天给他们说我们要做中国十大网站,他们觉得马云都是骗子,因为当时就居民楼就50万,做什么十大网站呢?\n4: 那时候大家也知道就是1999年期中国互联网已经很火了,那时候网易搜狐新浪,很多都已经在纳斯达克,",
+      "cloud_text": "都跑了。为什么呢？因为前几年公司的状况也比较惨。大家别以为阿里巴巴1999年建的时候也就50万刚建起来，天天。开会都是在居民楼里开的，我们公司毕竟还没有经历过这么惨的阶段。但马云阿里巴巴都在居民楼里开，然后马云天天给他们说，我们要做中国十大网站。他们觉得马云都是骗子，因为当时就是居民楼就50万，做什么十大网站呢？那时候大家也知道，就是1999年起，中国互联网已经很火了，那时候网易、搜狐、新浪很多都已经在纳斯达克上市了呀，那比阿里巴巴",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0074.json"
+    },
+    {
+      "index": 75,
+      "audio_id": "wavlake-mp3__097__e53f6314",
+      "episode": "097",
+      "status": "ok",
+      "start_seconds": 357.82,
+      "end_seconds": 421.78,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        15,
+        16
+      ],
+      "label": "需人工判断",
+      "local_text": "15: 但如果你是这样的心态,我们也不建议你听我们这个节目,好不好,因为你这样的人也不可能实现财富自由,因为财富自由之路里面绝对没有一条路是一路靠当南郭,坑蒙拐骗成财富自由,太难了,这还是要真刀真枪拼一下实力,我还是以阿里巴巴为例啊,如果你1999年进入阿里巴巴,跟着马云干三年,到2002年,2003年淘宝诞生前夕,你人生基本上就已经结束了,\n16: 进入黄金时刻了,这绝对不是我忽悠大家,我举一个很简单的例子,阿里巴巴的资深副总裁啊,合伙人之一童文宏就是这么起家的,大家可以搜一下他的故事,童文宏是2000年进入阿里的,当时已经30岁,而且没有专业,没有背景,应聘的岗位也是我们大家今天觉得匪夷所思的叫行政助理,其就是前台,而且第一次面试并没有被录用,第二次在面试,",
+      "cloud_text": "进个大公司混一混当南郭。但如果你是这样的心态，我们也不建议你听我们这个节目，好不好？因为你这样的人也不可能实现财富自由，因为财富自由之路里面，绝对没有一条路是靠当，一直一路靠当南郭，坑蒙拐骗成财富自由，太难了。咱还是要真刀真枪拼一下实力。我还是以阿里巴巴为例啊。如果你1999年进入阿里巴巴，跟着马云干三年，到2002年、2003年淘宝诞生前夕，你人生基本上就已经进入黄金时刻了。这绝对不是我忽悠大家，我举一个很简单的例子。阿里巴巴的资深副总裁啊，合伙人之一童文红就是这么起家的啊，大家可以搜一下她的故事。童文红是2千年进入阿里的，当时已经30岁，而且没有专业，没有背景，应聘的岗位也是我们大家今天觉得匪夷所思的，叫行政助理，其就是前台。而且第一次面试并没有被录用，第二次再面试通过了，被录取当",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0075.json"
+    },
+    {
+      "index": 76,
+      "audio_id": "wavlake-mp3__097__e53f6314",
+      "episode": "097",
+      "status": "ok",
+      "start_seconds": 417.78,
+      "end_seconds": 481.74,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        17,
+        18
+      ],
+      "label": "需人工判断",
+      "local_text": "17: 通过被录取当了前台,大家这时候肯定也说,你被阿里巴巴录取当了前台有什么用呢?不也是前台吗?对吧?你永无出头之日,大家注意,这时候的阿里巴巴是创业公司,2000年在阿里巴巴当前台是有前途的,2017年的阿里巴巴当前台已经是没有前途了,为什么呢?2017年你在阿里巴巴,首先阿里巴巴这公司大的三四万人的,你说你在哪当前台都不会引起马云干三年,\n18: 马云的注意了吧?因为马云现在每天都在阿根廷飞往墨西哥的飞机上的,就全世界到处跑的,怎么可能注意到你呢?但是2000年你想想,当时阿里巴巴可能就三四十个人,公司非常小,公司就那么一个前台,你当前台,如果你工作做得好,非常容易引起CEO的注意,引起你顶头上司领导们的注意,所以大家千万别觉得在创业公司当前台是不好的,我跟你讲,在创业公司当前台,",
+      "cloud_text": "面试并没有被录用，第二次再面试通过了，被录取当了前台。大家这时候肯定也说，你被阿里巴巴录取当了前台有什么用呢？不也是前台吗？对吧？你永无出头之日。哎。大家注意，这时候的阿里巴巴是创业公司。2000年在阿里巴巴当前台是有前途的，2017年在阿里巴巴当前台已经是没有前途的了。为什么呢？2017年你在阿里巴巴。首先阿里巴巴这公司大的三四万人呢，你你说你在哪当前台都不会引起马云的注意了吧？因为马云现在每天都在阿根廷飞往墨西哥的飞机上呢啊，就全世界到处跑的。怎么可能注意到你呢？但是2000年你想想，当时阿里巴巴可能就三四十个人，公司非常小，公司就那么一个前台，你当前台，如果你工作做得好。非常容易引起 ceo 的注意，引起你顶头上司领导们的注意。所以大家千万别觉得在创业公司当前台是不好的，我跟你讲。在创业公司当前台，把前台只当成前台的。",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0076.json"
+    },
+    {
+      "index": 77,
+      "audio_id": "wavlake-mp3__097__e53f6314",
+      "episode": "097",
+      "status": "ok",
+      "start_seconds": 537.7,
+      "end_seconds": 571.68,
+      "issue_types": [
+        "行内循环"
+      ],
+      "line_refs": [
+        21
+      ],
+      "label": "需人工判断",
+      "local_text": "21: 距离副行长,距离你们那个分行的那个行长,距离你们那个营业部的这个行长,是吧?分行分行分行分行的行长,支行的行长,都隔着可能四五级的,你就再逆天再努力干破天,人家不可能知道,这个关键原因一定要注意,人家不可能知道,也不可能教你去独当一面,所以呢,从这个角度来说,在创业公司干活也是很占便宜的,因为你成功了,",
+      "cloud_text": "交通银行行长，咱别说行长了，距离副行长，说距离你们那个分行的那个行长，距离你们那个营业部的这个行长是吧？分行分行分行分行的行长，支行的行长。都隔着可能四五级呢。你就再逆天，再努力干破天，人家不可能知道。这个关键原因一定要注意，人家不可能知道，也不可能教你去独当一面。所以呢，从这个角度来说，在创业公司干活也是很占便宜的，因为你成功地引起了老板的注意，如果你",
+      "raw_json_path": "transcriptions/metadata/suspicious-snippet-asr/volc-raw-json/0077.json"
+    }
+  ]
+}

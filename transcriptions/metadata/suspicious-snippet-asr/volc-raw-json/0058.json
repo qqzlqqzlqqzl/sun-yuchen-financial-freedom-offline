@@ -1,0 +1,398 @@
+{
+  "item": {
+    "index": 58,
+    "audio_id": "wavlake-mp3__078__32514846",
+    "episode": "078",
+    "title": "078 孙宇晨：【番外】相信折腾的力量",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/078 - 078 - 078 孙宇晨：【番外】相信折腾的力量.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/078__wavlake-mp3__078__32514846__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 1644.04,
+    "end_seconds": 1651.04,
+    "chunk_index": 0,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      471,
+      472
+    ],
+    "samples": [
+      "就没投,"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 32
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "f6771e01-ec88-45da-8e8d-47431177a684",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150805818AE8AAFD10376348DD",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052715080768D647A72B9F88BAFFE9",
+        "response": {
+          "audio_info": {
+            "duration": 7000
+          },
+          "result": {
+            "additions": {
+              "duration": "7000"
+            },
+            "text": "结果后来人家还是毁约了，就没投，就没投啊，不是说投了没投啊。",
+            "utterances": [
+              {
+                "end_time": 6860,
+                "start_time": 140,
+                "text": "结果后来人家还是毁约了，就没投，就没投啊，不是说投了没投啊。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 300,
+                    "start_time": 140,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 500,
+                    "start_time": 300,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 780,
+                    "start_time": 580,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 860,
+                    "start_time": 780,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1020,
+                    "start_time": 860,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1100,
+                    "start_time": 1020,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1220,
+                    "start_time": 1100,
+                    "text": "还"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1380,
+                    "start_time": 1220,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1540,
+                    "start_time": 1420,
+                    "text": "毁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1820,
+                    "start_time": 1620,
+                    "text": "约"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2020,
+                    "start_time": 1820,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2420,
+                    "start_time": 2180,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2660,
+                    "start_time": 2420,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3020,
+                    "start_time": 2820,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4380,
+                    "start_time": 4220,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4580,
+                    "start_time": 4420,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4780,
+                    "start_time": 4700,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5340,
+                    "start_time": 5220,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5540,
+                    "start_time": 5380,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5620,
+                    "start_time": 5540,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5740,
+                    "start_time": 5620,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5900,
+                    "start_time": 5820,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6140,
+                    "start_time": 5940,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6380,
+                    "start_time": 6140,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6620,
+                    "start_time": 6540,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6860,
+                    "start_time": 6700,
+                    "text": "啊"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7000
+      },
+      "result": {
+        "additions": {
+          "duration": "7000"
+        },
+        "text": "结果后来人家还是毁约了，就没投，就没投啊，不是说投了没投啊。",
+        "utterances": [
+          {
+            "end_time": 6860,
+            "start_time": 140,
+            "text": "结果后来人家还是毁约了，就没投，就没投啊，不是说投了没投啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 300,
+                "start_time": 140,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 500,
+                "start_time": 300,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 780,
+                "start_time": 580,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 860,
+                "start_time": 780,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1020,
+                "start_time": 860,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1100,
+                "start_time": 1020,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1220,
+                "start_time": 1100,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1380,
+                "start_time": 1220,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1540,
+                "start_time": 1420,
+                "text": "毁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1820,
+                "start_time": 1620,
+                "text": "约"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2020,
+                "start_time": 1820,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2420,
+                "start_time": 2180,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2660,
+                "start_time": 2420,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3020,
+                "start_time": 2820,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4380,
+                "start_time": 4220,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4580,
+                "start_time": 4420,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4780,
+                "start_time": 4700,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5340,
+                "start_time": 5220,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5540,
+                "start_time": 5380,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5620,
+                "start_time": 5540,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5740,
+                "start_time": 5620,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5900,
+                "start_time": 5820,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6140,
+                "start_time": 5940,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6380,
+                "start_time": 6140,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6620,
+                "start_time": 6540,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6860,
+                "start_time": 6700,
+                "text": "啊"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

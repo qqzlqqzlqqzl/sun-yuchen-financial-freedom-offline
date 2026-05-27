@@ -1,0 +1,680 @@
+{
+  "item": {
+    "index": 40,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "episode": "049",
+    "title": "【番外】投资分享会中与粉丝交流的部分 [1179727406]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/049__official-vimeo-m4a-partial__049__a4da2ce3__05.wav",
+    "snippet_index": 5,
+    "start_seconds": 885.0,
+    "end_seconds": 895.14,
+    "chunk_index": 5,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      217
+    ],
+    "samples": [
+      "因为我觉得6500呢我不知道我今天没看价格反正最近不是6000到8000波动吧",
+      "因为我觉得6500呢我不知道我今天没看价格反正最近不是6000到8000波动吧"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 36
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "75d97bc8-4381-44d4-8f34-d85ed108f4af",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271508101299567D4CA685659C0B",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271508155E53598A16FA71BD88C2",
+        "response": {
+          "audio_info": {
+            "duration": 10140
+          },
+          "result": {
+            "additions": {
+              "duration": "10140"
+            },
+            "text": "倒不是太建议买。嗯。因为我觉得6500呢，我不知道，我今天没看价格，反正最近不是6000~8000波动吧。我觉得这个价格呢，其实",
+            "utterances": [
+              {
+                "end_time": 1520,
+                "start_time": 120,
+                "text": "倒不是太建议买。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 120,
+                    "text": "倒"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 280,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 440,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 560,
+                    "text": "太"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 800,
+                    "text": "建"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1000,
+                    "text": "议"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1200,
+                    "text": "买"
+                  }
+                ]
+              },
+              {
+                "end_time": 1920,
+                "start_time": 1720,
+                "text": "嗯。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1720,
+                    "text": "嗯"
+                  }
+                ]
+              },
+              {
+                "end_time": 8240,
+                "start_time": 2520,
+                "text": "因为我觉得6500呢，我不知道，我今天没看价格，反正最近不是6000~8000波动吧。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2720,
+                    "start_time": 2520,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2720,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2840,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 3000,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3120,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3280,
+                    "text": "6500"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4200,
+                    "start_time": 3960,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4440,
+                    "start_time": 4280,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4560,
+                    "start_time": 4440,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4560,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4760,
+                    "start_time": 4680,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5000,
+                    "start_time": 4840,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 5000,
+                    "text": "今"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 5120,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5200,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5360,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5720,
+                    "start_time": 5560,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5720,
+                    "text": "格"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6120,
+                    "start_time": 5960,
+                    "text": "反"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6240,
+                    "start_time": 6120,
+                    "text": "正"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6320,
+                    "start_time": 6240,
+                    "text": "最"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6440,
+                    "start_time": 6320,
+                    "text": "近"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6600,
+                    "start_time": 6440,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6600,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7640,
+                    "start_time": 6800,
+                    "text": "6000~8000"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7800,
+                    "start_time": 7680,
+                    "text": "波"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8000,
+                    "start_time": 7800,
+                    "text": "动"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8240,
+                    "start_time": 8000,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 10000,
+                "start_time": 8480,
+                "text": "我觉得这个价格呢，其实",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8480,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8840,
+                    "start_time": 8760,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8880,
+                    "start_time": 8840,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9040,
+                    "start_time": 8920,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9200,
+                    "start_time": 9040,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9320,
+                    "start_time": 9200,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9480,
+                    "start_time": 9320,
+                    "text": "格"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9720,
+                    "start_time": 9480,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9920,
+                    "start_time": 9760,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10000,
+                    "start_time": 9920,
+                    "text": "实"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 10140
+      },
+      "result": {
+        "additions": {
+          "duration": "10140"
+        },
+        "text": "倒不是太建议买。嗯。因为我觉得6500呢，我不知道，我今天没看价格，反正最近不是6000~8000波动吧。我觉得这个价格呢，其实",
+        "utterances": [
+          {
+            "end_time": 1520,
+            "start_time": 120,
+            "text": "倒不是太建议买。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 120,
+                "text": "倒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 560,
+                "text": "太"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 800,
+                "text": "建"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1000,
+                "text": "议"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1200,
+                "text": "买"
+              }
+            ]
+          },
+          {
+            "end_time": 1920,
+            "start_time": 1720,
+            "text": "嗯。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1720,
+                "text": "嗯"
+              }
+            ]
+          },
+          {
+            "end_time": 8240,
+            "start_time": 2520,
+            "text": "因为我觉得6500呢，我不知道，我今天没看价格，反正最近不是6000~8000波动吧。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2520,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2720,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2840,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 3000,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3120,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3280,
+                "text": "6500"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 3960,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4280,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4440,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4560,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4760,
+                "start_time": 4680,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4840,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 5000,
+                "text": "今"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5120,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5200,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5360,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5560,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5720,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 5960,
+                "text": "反"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6240,
+                "start_time": 6120,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6240,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6320,
+                "text": "近"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6440,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6600,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 6800,
+                "text": "6000~8000"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7800,
+                "start_time": 7680,
+                "text": "波"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7800,
+                "text": "动"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8240,
+                "start_time": 8000,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 10000,
+            "start_time": 8480,
+            "text": "我觉得这个价格呢，其实",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8480,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8840,
+                "start_time": 8760,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8840,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8920,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9040,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9200,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9480,
+                "start_time": 9320,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9720,
+                "start_time": 9480,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9760,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10000,
+                "start_time": 9920,
+                "text": "实"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

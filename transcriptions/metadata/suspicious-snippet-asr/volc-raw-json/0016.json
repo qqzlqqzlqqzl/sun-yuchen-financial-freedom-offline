@@ -1,0 +1,39 @@
+{
+  "item": {
+    "index": 16,
+    "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+    "episode": "016",
+    "title": "财富自由从未如此容易过 [1179692693]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/016__official-vimeo-m4a-partial__016__71e7d985__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 61.98,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      1,
+      2
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 59
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "c4c97a06-098c-4d71-a816-643172efc7dd",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

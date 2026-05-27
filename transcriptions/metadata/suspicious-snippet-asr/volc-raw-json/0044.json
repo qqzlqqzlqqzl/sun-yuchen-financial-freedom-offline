@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 44,
+    "audio_id": "wavlake-mp3__065__de79041b",
+    "episode": "065",
+    "title": "065 孙宇晨：【原始积累】1X50与5X10的差距",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/065 - 065 - 065 孙宇晨：【原始积累】1X50与5X10的差距.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/065__wavlake-mp3__065__de79041b__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 28.0,
+    "end_seconds": 667.92,
+    "chunk_index": 0,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 214
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "ebe84226-e9d2-4c8d-9f3b-ef3cd888b445",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    "queries": []
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "item": {
+    "index": 55,
+    "audio_id": "wavlake-mp3__075__253dded9",
+    "episode": "075",
+    "title": "075 孙宇晨：【不确定性】拥抱不确定性",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/075__wavlake-mp3__075__253dded9__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 291.0,
+    "end_seconds": 295.16,
+    "chunk_index": 1,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      47,
+      48,
+      49
+    ],
+    "samples": [
+      "是与我们今天的生活中的。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 31
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "3765e070-b9b8-4a17-bad7-372f51892b4e",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150805FB0C4A10F856F6E02F5A",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150806BD6A34C3B858F4B8E178",
+        "response": {
+          "audio_info": {
+            "duration": 4160
+          },
+          "result": {
+            "additions": {
+              "duration": "4160"
+            },
+            "text": "点啊，甚至于我们今天的生活中的非常",
+            "utterances": [
+              {
+                "end_time": 4040,
+                "start_time": 40,
+                "text": "点啊，甚至于我们今天的生活中的非常",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "点"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 200,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 560,
+                    "text": "甚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 800,
+                    "text": "至"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1160,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1440,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1600,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1720,
+                    "text": "今"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1920,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2040,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2200,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2480,
+                    "text": "活"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2680,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 2960,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3600,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3880,
+                    "text": "常"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4160
+      },
+      "result": {
+        "additions": {
+          "duration": "4160"
+        },
+        "text": "点啊，甚至于我们今天的生活中的非常",
+        "utterances": [
+          {
+            "end_time": 4040,
+            "start_time": 40,
+            "text": "点啊，甚至于我们今天的生活中的非常",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 200,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 560,
+                "text": "甚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 800,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1160,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1440,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1600,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1720,
+                "text": "今"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1920,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2200,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2480,
+                "text": "活"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2680,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 2960,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3600,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "常"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

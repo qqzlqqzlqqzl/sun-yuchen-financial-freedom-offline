@@ -1,0 +1,74 @@
+{
+  "item": {
+    "index": 60,
+    "audio_id": "wavlake-mp3__078__32514846",
+    "episode": "078",
+    "title": "078 孙宇晨：【番外】相信折腾的力量",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/078 - 078 - 078 孙宇晨：【番外】相信折腾的力量.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/078__wavlake-mp3__078__32514846__02.wav",
+    "snippet_index": 2,
+    "start_seconds": 1895.04,
+    "end_seconds": 1907.04,
+    "chunk_index": 2,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662
+    ],
+    "samples": [
+      "是不靠谱的,"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 32
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "d40ba1b5-4c22-4bf7-8071-9580f4107469",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052715080578CF36D9BB804BB7FDFA",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000003",
+        "api_message": "[Normal silence audio] Handle response: no valid speech in audio",
+        "tt_logid": "20260527150808A61B92AB836A93610155",
+        "response": {
+          "audio_info": {
+            "duration": 10018
+          },
+          "result": {
+            "additions": {
+              "duration": "10018"
+            },
+            "text": ""
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 10018
+      },
+      "result": {
+        "additions": {
+          "duration": "10018"
+        },
+        "text": ""
+      }
+    }
+  }
+}

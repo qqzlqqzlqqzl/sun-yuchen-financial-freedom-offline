@@ -129,6 +129,49 @@ def recognize(item, api_key, poll_interval, max_wait):
         time.sleep(poll_interval)
 
 
+def make_record(item, result):
+    response = result.get("response", {})
+    text = response.get("result", {}).get("text", "")
+    return {
+        **item,
+        "volc_ok": result.get("ok", False),
+        "volc_status": (
+            result.get("queries", [{}])[-1].get("api_status")
+            if result.get("queries")
+            else result.get("submit", {}).get("api_status")
+        ),
+        "volc_message": (
+            result.get("queries", [{}])[-1].get("api_message")
+            if result.get("queries")
+            else result.get("submit", {}).get("api_message")
+        ),
+        "volc_logid": (
+            result.get("queries", [{}])[-1].get("tt_logid")
+            if result.get("queries")
+            else result.get("submit", {}).get("tt_logid")
+        ),
+        "volc_text": text,
+        "request_id": result.get("request_id"),
+        "raw_json_path": str((RAW_DIR / f"{item['index']:04d}.json").relative_to(AUDIT_ROOT)),
+    }
+
+
+def load_existing(item):
+    raw_path = RAW_DIR / f"{item['index']:04d}.json"
+    if not raw_path.exists():
+        return None
+    try:
+        payload = json.loads(raw_path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    result = payload.get("volc_result")
+    if not result:
+        return None
+    record = make_record(item, result)
+    record["reused_existing_raw"] = True
+    return record
+
+
 def main():
     api_key = os.environ.get("VOLC_API_KEY")
     if not api_key:
@@ -142,45 +185,32 @@ def main():
     RAW_DIR.mkdir(parents=True, exist_ok=True)
 
     results = []
+    pending = []
     started = time.time()
+    for item in items:
+        existing = load_existing(item)
+        if existing:
+            results.append(existing)
+        else:
+            pending.append(item)
+    if results:
+        print(f"reuse {len(results)}/{len(items)} existing raw results")
+
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
         future_map = {
             executor.submit(recognize, item, api_key, poll_interval, max_wait): item
-            for item in items
+            for item in pending
         }
         for done, future in enumerate(concurrent.futures.as_completed(future_map), 1):
             item = future_map[future]
             result = future.result()
-            response = result.get("response", {})
-            text = response.get("result", {}).get("text", "")
-            record = {
-                **item,
-                "volc_ok": result.get("ok", False),
-                "volc_status": (
-                    result.get("queries", [{}])[-1].get("api_status")
-                    if result.get("queries")
-                    else result.get("submit", {}).get("api_status")
-                ),
-                "volc_message": (
-                    result.get("queries", [{}])[-1].get("api_message")
-                    if result.get("queries")
-                    else result.get("submit", {}).get("api_message")
-                ),
-                "volc_logid": (
-                    result.get("queries", [{}])[-1].get("tt_logid")
-                    if result.get("queries")
-                    else result.get("submit", {}).get("tt_logid")
-                ),
-                "volc_text": text,
-                "request_id": result.get("request_id"),
-                "raw_json_path": str((RAW_DIR / f"{item['index']:04d}.json").relative_to(AUDIT_ROOT)),
-            }
+            record = make_record(item, result)
             (RAW_DIR / f"{item['index']:04d}.json").write_text(
                 json.dumps({"item": item, "volc_result": result}, ensure_ascii=False, indent=2) + "\n",
                 encoding="utf-8",
             )
             results.append(record)
-            print(f"{done}/{len(items)} #{item['index']:04d} ok={record['volc_ok']} text={text[:80]}")
+            print(f"{done}/{len(pending)} #{item['index']:04d} ok={record['volc_ok']} text={record['volc_text'][:80]}")
 
     results.sort(key=lambda x: x["index"])
     summary = {

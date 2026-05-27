@@ -35,12 +35,49 @@ def extract_episode_id(filename: str) -> str:
     return m.group(1) if m else filename[:3]
 
 
+def load_review_scores(repo_root: Path) -> dict[str, dict]:
+    review_path = repo_root / "transcriptions" / "metadata" / "full-transcript-review" / "full-transcript-review.json"
+    if not review_path.exists():
+        return {}
+    data = json.loads(review_path.read_text(encoding="utf-8"))
+    return {item["audio_id"]: item for item in data.get("items", [])}
+
+
+def preferred_item(current: dict, candidate: dict, review_scores: dict[str, dict]) -> dict:
+    """Choose a transcript source for the final reader page.
+
+    Official audio remains the default. Review scores only override it when the
+    current official transcript is clearly damaged and the duplicate source is
+    materially cleaner.
+    """
+    current_score = int(review_scores.get(current["id"], {}).get("severity", 0))
+    candidate_score = int(review_scores.get(candidate["id"], {}).get("severity", 0))
+    if candidate["source"] == "official-vimeo-m4a-partial":
+        candidate_bad = candidate_score >= 80
+        current_cleaner = current_score <= max(25, candidate_score // 3)
+        if candidate_bad and current_cleaner:
+            return current
+        if current["source"] != "official-vimeo-m4a-partial":
+            return candidate
+
+    if current["source"] == "official-vimeo-m4a-partial":
+        current_bad = current_score >= 80
+        candidate_cleaner = candidate_score <= max(25, current_score // 3)
+        if current_bad and candidate_cleaner:
+            return candidate
+
+    if candidate_score and current_score and candidate_score + 60 < current_score:
+        return candidate
+
+    return current
+
+
 def make_dataset(repo_root: Path):
     manifest = repo_root / "transcriptions" / "metadata" / "audio-manifest.json"
     data = json.loads(manifest.read_text(encoding="utf-8"))
     items = data["items"]
+    review_scores = load_review_scores(repo_root)
 
-    # Prefer official source when duplicate episodes exist.
     by_episode = {}
     for item in items:
         ep = extract_episode_id(item["filename"])
@@ -48,8 +85,7 @@ def make_dataset(repo_root: Path):
         if existing is None:
             by_episode[ep] = item
             continue
-        if existing["source"] != "official-vimeo-m4a-partial" and item["source"] == "official-vimeo-m4a-partial":
-            by_episode[ep] = item
+        by_episode[ep] = preferred_item(existing, item, review_scores)
 
     text_root = repo_root / "transcriptions" / "text"
     episodes = []

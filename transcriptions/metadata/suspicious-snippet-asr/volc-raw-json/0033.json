@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 33,
+    "audio_id": "official-vimeo-m4a-partial__043__4c33cf4b",
+    "episode": "043",
+    "title": "【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/043 - 043【问题】女人是不是20岁以后不结婚就会贬值？ [1179726207].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/043__official-vimeo-m4a-partial__043__4c33cf4b__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 28.0,
+    "end_seconds": 851.86,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复"
+    ],
+    "line_refs": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 214
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "75fd307e-3ad1-4375-a715-aa4e5c6cfff8",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    "queries": []
+  }
+}

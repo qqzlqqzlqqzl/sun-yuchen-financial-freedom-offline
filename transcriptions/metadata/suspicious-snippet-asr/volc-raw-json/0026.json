@@ -1,0 +1,499 @@
+{
+  "item": {
+    "index": 26,
+    "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+    "episode": "032",
+    "title": "布林顿森林体系的建立与崩塌 [1179724265]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/032__official-vimeo-m4a-partial__032__2714f2f9__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 325.82,
+    "end_seconds": 331.88,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      64,
+      65,
+      66
+    ],
+    "samples": [
+      "所以这一张,即便有一些枯萎的图片。",
+      "所以这一张,即便有一些枯萎的图片。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 71
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "8bcb3f8a-e602-44a8-8e4c-146ebde7b4f0",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150322BE3F3DAF28ECFDE15387",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150331CA7149D3B6A3046965C5",
+        "response": {
+          "audio_info": {
+            "duration": 6060
+          },
+          "result": {
+            "additions": {
+              "duration": "6060"
+            },
+            "text": "基本金融体系是什么样的？所以这一章即便有些枯燥，但我觉得对于每个人来说",
+            "utterances": [
+              {
+                "end_time": 2000,
+                "start_time": 240,
+                "text": "基本金融体系是什么样的？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 400,
+                    "start_time": 240,
+                    "text": "基"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 400,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 600,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 800,
+                    "text": "融"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1000,
+                    "text": "体"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1240,
+                    "text": "系"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1480,
+                    "start_time": 1360,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1480,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1600,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1680,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1840,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 5920,
+                "start_time": 2520,
+                "text": "所以这一章即便有些枯燥，但我觉得对于每个人来说",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2520,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2680,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2920,
+                    "start_time": 2800,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3080,
+                    "start_time": 2920,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3280,
+                    "start_time": 3080,
+                    "text": "章"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3480,
+                    "start_time": 3320,
+                    "text": "即"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3480,
+                    "text": "便"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3800,
+                    "start_time": 3640,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3800,
+                    "text": "些"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3960,
+                    "text": "枯"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4160,
+                    "text": "燥"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4680,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5040,
+                    "start_time": 4880,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 5040,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5160,
+                    "start_time": 5120,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5280,
+                    "start_time": 5160,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5280,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5360,
+                    "text": "每"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5480,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5680,
+                    "start_time": 5560,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5800,
+                    "start_time": 5680,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5920,
+                    "start_time": 5800,
+                    "text": "说"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 6060
+      },
+      "result": {
+        "additions": {
+          "duration": "6060"
+        },
+        "text": "基本金融体系是什么样的？所以这一章即便有些枯燥，但我觉得对于每个人来说",
+        "utterances": [
+          {
+            "end_time": 2000,
+            "start_time": 240,
+            "text": "基本金融体系是什么样的？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 240,
+                "text": "基"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 400,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 600,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 800,
+                "text": "融"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1000,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1240,
+                "text": "系"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1360,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1480,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1600,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1680,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1840,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 5920,
+            "start_time": 2520,
+            "text": "所以这一章即便有些枯燥，但我觉得对于每个人来说",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2520,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2680,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2800,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2920,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3080,
+                "text": "章"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3320,
+                "text": "即"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3480,
+                "text": "便"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3640,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3800,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3960,
+                "text": "枯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "燥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4680,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4880,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 5040,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5160,
+                "start_time": 5120,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5160,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5280,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5360,
+                "text": "每"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5480,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5560,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5680,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5920,
+                "start_time": 5800,
+                "text": "说"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

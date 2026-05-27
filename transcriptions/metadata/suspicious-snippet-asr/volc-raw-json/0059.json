@@ -1,0 +1,110 @@
+{
+  "item": {
+    "index": 59,
+    "audio_id": "wavlake-mp3__078__32514846",
+    "episode": "078",
+    "title": "078 孙宇晨：【番外】相信折腾的力量",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/078 - 078 - 078 孙宇晨：【番外】相信折腾的力量.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/078__wavlake-mp3__078__32514846__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 1857.04,
+    "end_seconds": 1863.04,
+    "chunk_index": 1,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      634,
+      635
+    ],
+    "samples": [
+      "你不相信什么呀?"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 32
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "cdf4b887-2489-4a58-95ed-16a02ee165ad",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150805E62E1FF0C5E32DBACD6F",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271508076FCA7383B72575BBAB5F",
+        "response": {
+          "audio_info": {
+            "duration": 6000
+          },
+          "result": {
+            "additions": {
+              "duration": "6000"
+            },
+            "text": "哦对。",
+            "utterances": [
+              {
+                "end_time": 5880,
+                "start_time": 5560,
+                "text": "哦对。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5560,
+                    "text": "哦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5720,
+                    "text": "对"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 6000
+      },
+      "result": {
+        "additions": {
+          "duration": "6000"
+        },
+        "text": "哦对。",
+        "utterances": [
+          {
+            "end_time": 5880,
+            "start_time": 5560,
+            "text": "哦对。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5560,
+                "text": "哦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5720,
+                "text": "对"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "item": {
+    "index": 20,
+    "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+    "episode": "025",
+    "title": "未来社会的演变 [1179695011]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/025__official-vimeo-m4a-partial__025__5b4cc5d1__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 471.98,
+    "end_seconds": 497.74,
+    "chunk_index": 1,
+    "issue_types": [
+      "行内循环",
+      "连续重复"
+    ],
+    "line_refs": [
+      146,
+      147,
+      148,
+      151,
+      154,
+      155
+    ],
+    "samples": [
+      "社区会落后",
+      "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不为过了",
+      "不会有例外"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 32
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "9940764e-68f6-473e-9b6d-75d11e836e5a",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "item": {
+    "index": 37,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "episode": "049",
+    "title": "【番外】投资分享会中与粉丝交流的部分 [1179727406]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/049__official-vimeo-m4a-partial__049__a4da2ce3__02.wav",
+    "snippet_index": 2,
+    "start_seconds": 640.46,
+    "end_seconds": 647.78,
+    "chunk_index": 2,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      134
+    ],
+    "samples": [
+      "5000 6000 7000这个区间"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 36
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "ff695736-60c1-40d5-b0c0-b797f07364e5",
+    "submit": {
+      "ok": false,
+      "error_type": "ConnectionResetError",
+      "error": "[Errno 54] Connection reset by peer"
+    },
+    "queries": []
+  }
+}

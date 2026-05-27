@@ -1,0 +1,43 @@
+{
+  "item": {
+    "index": 5,
+    "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+    "episode": "006",
+    "title": "【创刊词】为什么大多数人勤劳却不富有？ [1179688350]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/006__official-vimeo-m4a-partial__006__a47f6122__02.wav",
+    "snippet_index": 2,
+    "start_seconds": 1352.58,
+    "end_seconds": 1365.16,
+    "chunk_index": 2,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      291,
+      293,
+      294,
+      295
+    ],
+    "samples": [
+      "就大概从45,000涨到55,000",
+      "就大概从45,000涨到55,000",
+      "都从45,000涨57",
+      "你说45,000涨55,000不就",
+      "45,000涨到55,000"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 31
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "3d4ac538-82df-4ca4-87db-15fcda2a03bd",
+    "submit": {
+      "ok": false,
+      "error_type": "RemoteDisconnected",
+      "error": "Remote end closed connection without response"
+    },
+    "queries": []
+  }
+}

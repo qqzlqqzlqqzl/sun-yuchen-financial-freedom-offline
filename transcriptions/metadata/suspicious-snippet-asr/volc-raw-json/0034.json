@@ -1,0 +1,805 @@
+{
+  "item": {
+    "index": 34,
+    "audio_id": "official-vimeo-m4a-partial__047__809f0c28",
+    "episode": "047",
+    "title": "【90后不买房】房子只是一个普通商品罢了 [1179727058]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/047 - 047【90后不买房】房子只是一个普通商品罢了 [1179727058].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/047__official-vimeo-m4a-partial__047__809f0c28__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 385.96,
+    "end_seconds": 399.78,
+    "chunk_index": 0,
+    "issue_types": [
+      "行内循环",
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      52,
+      53,
+      54,
+      55,
+      57
+    ],
+    "samples": [
+      "我看到他写的是11万还是12万一平方米。",
+      "我看到他写的是11万还是12万一平方米。",
+      "其实买一个90平方米的,都将近要1000万了。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 29
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "3e1c86a4-703a-4db0-b332-9d136ac54c81",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150557D668746699EF19616454",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150609B7F3760EEE99A30BD9F7",
+        "response": {
+          "audio_info": {
+            "duration": 13820
+          },
+          "result": {
+            "additions": {
+              "duration": "13820"
+            },
+            "text": "他写的是11万还是12万一平方米。那么这样我就算买一个100平方米的房子吧，那叫1100万。啊，其实买一个90平方米的啊，都像嗯这么贵的房子。",
+            "utterances": [
+              {
+                "end_time": 2360,
+                "start_time": 40,
+                "text": "他写的是11万还是12万一平方米。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 40,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 160,
+                    "text": "写"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 280,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 360,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 560,
+                    "text": "11"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 880,
+                    "text": "万"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1040,
+                    "text": "还"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1240,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1280,
+                    "text": "12"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1520,
+                    "text": "万"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1680,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1880,
+                    "text": "平"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 2000,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2160,
+                    "text": "米"
+                  }
+                ]
+              },
+              {
+                "end_time": 7760,
+                "start_time": 2880,
+                "text": "那么这样我就算买一个100平方米的房子吧，那叫1100万。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3080,
+                    "start_time": 2880,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3080,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3320,
+                    "start_time": 3200,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3440,
+                    "start_time": 3320,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3600,
+                    "start_time": 3440,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3600,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3720,
+                    "text": "算"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3880,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4080,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4400,
+                    "start_time": 4240,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4520,
+                    "text": "100"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 4960,
+                    "text": "平"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5240,
+                    "start_time": 5120,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5240,
+                    "text": "米"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5360,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5720,
+                    "start_time": 5560,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5720,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6120,
+                    "start_time": 5840,
+                    "text": "吧"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6560,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6840,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7000,
+                    "text": "1100"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7560,
+                    "text": "万"
+                  }
+                ]
+              },
+              {
+                "end_time": 13720,
+                "start_time": 8200,
+                "text": "啊，其实买一个90平方米的啊，都像嗯这么贵的房子。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8320,
+                    "start_time": 8200,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8640,
+                    "start_time": 8440,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8640,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8920,
+                    "start_time": 8760,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9000,
+                    "start_time": 8920,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9120,
+                    "start_time": 9000,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9400,
+                    "start_time": 9120,
+                    "text": "90"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9560,
+                    "start_time": 9440,
+                    "text": "平"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9640,
+                    "start_time": 9560,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9680,
+                    "text": "米"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10040,
+                    "start_time": 9840,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10280,
+                    "start_time": 10200,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10320,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12520,
+                    "start_time": 12280,
+                    "text": "像"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12760,
+                    "start_time": 12720,
+                    "text": "嗯"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13160,
+                    "start_time": 13000,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13280,
+                    "start_time": 13160,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13400,
+                    "start_time": 13280,
+                    "text": "贵"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13520,
+                    "start_time": 13400,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13640,
+                    "start_time": 13520,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13720,
+                    "start_time": 13640,
+                    "text": "子"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 13820
+      },
+      "result": {
+        "additions": {
+          "duration": "13820"
+        },
+        "text": "他写的是11万还是12万一平方米。那么这样我就算买一个100平方米的房子吧，那叫1100万。啊，其实买一个90平方米的啊，都像嗯这么贵的房子。",
+        "utterances": [
+          {
+            "end_time": 2360,
+            "start_time": 40,
+            "text": "他写的是11万还是12万一平方米。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 40,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "写"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 280,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 360,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 560,
+                "text": "11"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 880,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1240,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1280,
+                "text": "12"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1520,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1680,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1880,
+                "text": "平"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 2000,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2160,
+                "text": "米"
+              }
+            ]
+          },
+          {
+            "end_time": 7760,
+            "start_time": 2880,
+            "text": "那么这样我就算买一个100平方米的房子吧，那叫1100万。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2880,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3080,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3200,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3320,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3440,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3600,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3720,
+                "text": "算"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3880,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4080,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4240,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4520,
+                "text": "100"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 4960,
+                "text": "平"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5120,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5240,
+                "text": "米"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5360,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5560,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5720,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 5840,
+                "text": "吧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6560,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6840,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7000,
+                "text": "1100"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7560,
+                "text": "万"
+              }
+            ]
+          },
+          {
+            "end_time": 13720,
+            "start_time": 8200,
+            "text": "啊，其实买一个90平方米的啊，都像嗯这么贵的房子。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8320,
+                "start_time": 8200,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8640,
+                "start_time": 8440,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8640,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8920,
+                "start_time": 8760,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8920,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 9000,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9120,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9440,
+                "text": "平"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9560,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9680,
+                "text": "米"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10280,
+                "start_time": 10200,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10320,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12520,
+                "start_time": 12280,
+                "text": "像"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12760,
+                "start_time": 12720,
+                "text": "嗯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13160,
+                "start_time": 13000,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13280,
+                "start_time": 13160,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13400,
+                "start_time": 13280,
+                "text": "贵"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13520,
+                "start_time": 13400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13640,
+                "start_time": 13520,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13720,
+                "start_time": 13640,
+                "text": "子"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

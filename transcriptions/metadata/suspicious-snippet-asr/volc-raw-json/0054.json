@@ -1,0 +1,270 @@
+{
+  "item": {
+    "index": 54,
+    "audio_id": "wavlake-mp3__075__253dded9",
+    "episode": "075",
+    "title": "075 孙宇晨：【不确定性】拥抱不确定性",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/075__wavlake-mp3__075__253dded9__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 201.2,
+    "end_seconds": 205.2,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      32,
+      33
+    ],
+    "samples": [
+      "而量子力学呢,他是跟爱因斯坦存在很大争论的。",
+      "而量子力学呢,他是跟爱因斯坦存在很大争论的。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 31
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "a0c79e4c-e74f-4630-a8ea-dab58533c22a",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150810E3918DFD0FD057683771",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271508143511804A287E3A0FCC69",
+        "response": {
+          "audio_info": {
+            "duration": 4000
+          },
+          "result": {
+            "additions": {
+              "duration": "4000"
+            },
+            "text": "争论呢。而量子力学呢，其中啊我们",
+            "utterances": [
+              {
+                "end_time": 520,
+                "start_time": 160,
+                "text": "争论呢。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 160,
+                    "text": "争"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 240,
+                    "text": "论"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 480,
+                    "text": "呢"
+                  }
+                ]
+              },
+              {
+                "end_time": 3960,
+                "start_time": 920,
+                "text": "而量子力学呢，其中啊我们",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 920,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1240,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1520,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1840,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2040,
+                    "text": "学"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2360,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2920,
+                    "start_time": 2640,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3160,
+                    "start_time": 2920,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3440,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3840,
+                    "start_time": 3640,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3840,
+                    "text": "们"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4000
+      },
+      "result": {
+        "additions": {
+          "duration": "4000"
+        },
+        "text": "争论呢。而量子力学呢，其中啊我们",
+        "utterances": [
+          {
+            "end_time": 520,
+            "start_time": 160,
+            "text": "争论呢。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 160,
+                "text": "争"
+              },
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 240,
+                "text": "论"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 480,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 3960,
+            "start_time": 920,
+            "text": "而量子力学呢，其中啊我们",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 920,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1240,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1520,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1840,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2040,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2360,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2640,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 2920,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3440,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3640,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3840,
+                "text": "们"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

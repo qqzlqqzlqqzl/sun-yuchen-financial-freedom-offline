@@ -1,0 +1,509 @@
+{
+  "item": {
+    "index": 2,
+    "audio_id": "official-vimeo-m4a-partial__000__7c18aa7d",
+    "episode": "000",
+    "title": "我们就是这个时代的既得利益者 [1179679629]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/000 - 000我们就是这个时代的既得利益者 [1179679629].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/000__official-vimeo-m4a-partial__000__7c18aa7d__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 259.18,
+    "end_seconds": 267.22,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      78,
+      79,
+      80
+    ],
+    "samples": [
+      "国家经济增长的能力就会逐渐枯竭,",
+      "国家经济增长的能力就会逐渐枯竭,"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 47
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "37db18ce-5953-49ac-8740-b10a787445cb",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271502386595E3666613CD60792C",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150322A2EF16DAFCE29FBD6824",
+        "response": {
+          "audio_info": {
+            "duration": 8040
+          },
+          "result": {
+            "additions": {
+              "duration": "8040"
+            },
+            "text": "一个创造力的巨大黑洞，国家经济增长的能力就会逐渐枯竭，创造力就会被渐渐扼杀。",
+            "utterances": [
+              {
+                "end_time": 7760,
+                "start_time": 0,
+                "text": "一个创造力的巨大黑洞，国家经济增长的能力就会逐渐枯竭，创造力就会被渐渐扼杀。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 0,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 120,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 400,
+                    "text": "创"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 600,
+                    "text": "造"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 720,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 880,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1080,
+                    "text": "巨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1160,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1360,
+                    "text": "黑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1520,
+                    "text": "洞"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2240,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2440,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2800,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2960,
+                    "text": "济"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3320,
+                    "start_time": 3120,
+                    "text": "增"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3440,
+                    "start_time": 3320,
+                    "text": "长"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3600,
+                    "start_time": 3440,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3600,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3760,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3960,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4160,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4520,
+                    "start_time": 4320,
+                    "text": "逐"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4640,
+                    "start_time": 4520,
+                    "text": "渐"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4760,
+                    "text": "枯"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5080,
+                    "start_time": 5040,
+                    "text": "竭"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 5960,
+                    "text": "创"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6200,
+                    "text": "造"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6480,
+                    "start_time": 6280,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6520,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6800,
+                    "start_time": 6680,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6800,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7200,
+                    "start_time": 7040,
+                    "text": "渐"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7320,
+                    "start_time": 7240,
+                    "text": "渐"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7520,
+                    "start_time": 7480,
+                    "text": "扼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7600,
+                    "text": "杀"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 8040
+      },
+      "result": {
+        "additions": {
+          "duration": "8040"
+        },
+        "text": "一个创造力的巨大黑洞，国家经济增长的能力就会逐渐枯竭，创造力就会被渐渐扼杀。",
+        "utterances": [
+          {
+            "end_time": 7760,
+            "start_time": 0,
+            "text": "一个创造力的巨大黑洞，国家经济增长的能力就会逐渐枯竭，创造力就会被渐渐扼杀。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 0,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 120,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 400,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "造"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 720,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 880,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1080,
+                "text": "巨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1160,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1360,
+                "text": "黑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1520,
+                "text": "洞"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2240,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2440,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2800,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "济"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3120,
+                "text": "增"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3320,
+                "text": "长"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3440,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3600,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3760,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3960,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4320,
+                "text": "逐"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4520,
+                "text": "渐"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4760,
+                "text": "枯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 5040,
+                "text": "竭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 5960,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6200,
+                "text": "造"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6280,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6520,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6680,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6800,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7200,
+                "start_time": 7040,
+                "text": "渐"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7320,
+                "start_time": 7240,
+                "text": "渐"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7480,
+                "text": "扼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7600,
+                "text": "杀"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "item": {
+    "index": 61,
+    "audio_id": "wavlake-mp3__085__59379fe0",
+    "episode": "085",
+    "title": "085 孙宇晨：【不确定性】稳定就是最大的不稳定",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/085 - 085 - 085 孙宇晨：【不确定性】稳定就是最大的不稳定.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/085__wavlake-mp3__085__59379fe0__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 85.58,
+    "end_seconds": 90.74,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "samples": [
+      "而这种协作关系往往是不稳定的。",
+      "而这种协作关系往往是不稳定的。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 32
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "93f693df-307e-44ca-9f70-5376bfd6d2cd",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150805E3918DFD0FD0576836A4",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271508081775D7B364307C70BDEC",
+        "response": {
+          "audio_info": {
+            "duration": 5160
+          },
+          "result": {
+            "additions": {
+              "duration": "5160"
+            },
+            "text": "身，谈的价码啊，与这些外界因素充分相",
+            "utterances": [
+              {
+                "end_time": 5040,
+                "start_time": 80,
+                "text": "身，谈的价码啊，与这些外界因素充分相",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 200,
+                    "start_time": 80,
+                    "text": "身"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1080,
+                    "text": "谈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1440,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1680,
+                    "text": "码"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2320,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2760,
+                    "start_time": 2520,
+                    "text": "与"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2760,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3160,
+                    "start_time": 2960,
+                    "text": "些"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3160,
+                    "text": "外"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3600,
+                    "start_time": 3400,
+                    "text": "界"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3640,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3880,
+                    "text": "素"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4640,
+                    "start_time": 4400,
+                    "text": "充"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4760,
+                    "start_time": 4640,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5040,
+                    "start_time": 4760,
+                    "text": "相"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 5160
+      },
+      "result": {
+        "additions": {
+          "duration": "5160"
+        },
+        "text": "身，谈的价码啊，与这些外界因素充分相",
+        "utterances": [
+          {
+            "end_time": 5040,
+            "start_time": 80,
+            "text": "身，谈的价码啊，与这些外界因素充分相",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 200,
+                "start_time": 80,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1080,
+                "text": "谈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1440,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1680,
+                "text": "码"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2320,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2520,
+                "text": "与"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2760,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 2960,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3160,
+                "text": "外"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3400,
+                "text": "界"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3640,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "素"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4400,
+                "text": "充"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4760,
+                "start_time": 4640,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4760,
+                "text": "相"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

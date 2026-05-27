@@ -1,0 +1,475 @@
+{
+  "item": {
+    "index": 56,
+    "audio_id": "wavlake-mp3__077__1eaabcfd",
+    "episode": "077",
+    "title": "077 孙宇晨：谈足球与创业",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/077 - 077 - 077 孙宇晨：谈足球与创业.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/077__wavlake-mp3__077__1eaabcfd__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 82.7,
+    "end_seconds": 89.22,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      16,
+      17,
+      18
+    ],
+    "samples": [
+      "但是我觉得我们这一期节目发现了很多很重要的东西。",
+      "但是我觉得我们这一期节目发现了很多很重要的东西。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 50
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "ef72ae34-5045-49b8-8576-ad122281b10b",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150805C540A2812CA27CBA6749",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150811D35F7377D746AF63CC24",
+        "response": {
+          "audio_info": {
+            "duration": 6520
+          },
+          "result": {
+            "additions": {
+              "duration": "6520"
+            },
+            "text": "战胜了韩国，成了个热点。但是我觉得我们这一期节目番外篇讲里皮的国足",
+            "utterances": [
+              {
+                "end_time": 1800,
+                "start_time": 40,
+                "text": "战胜了韩国，成了个热点。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 40,
+                    "text": "战"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 200,
+                    "text": "胜"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 400,
+                    "start_time": 280,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 440,
+                    "text": "韩"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 600,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 960,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1160,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1280,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1440,
+                    "text": "热"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1600,
+                    "text": "点"
+                  }
+                ]
+              },
+              {
+                "end_time": 6320,
+                "start_time": 2040,
+                "text": "但是我觉得我们这一期节目番外篇讲里皮的国足",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2040,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2200,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2320,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2720,
+                    "start_time": 2520,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2720,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3360,
+                    "start_time": 3160,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3360,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3800,
+                    "start_time": 3600,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3800,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3880,
+                    "text": "期"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4040,
+                    "text": "节"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4240,
+                    "text": "目"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4560,
+                    "text": "番"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4680,
+                    "text": "外"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 4920,
+                    "text": "篇"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5200,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5520,
+                    "start_time": 5480,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5760,
+                    "start_time": 5720,
+                    "text": "皮"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6000,
+                    "start_time": 5840,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6000,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6320,
+                    "start_time": 6200,
+                    "text": "足"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 6520
+      },
+      "result": {
+        "additions": {
+          "duration": "6520"
+        },
+        "text": "战胜了韩国，成了个热点。但是我觉得我们这一期节目番外篇讲里皮的国足",
+        "utterances": [
+          {
+            "end_time": 1800,
+            "start_time": 40,
+            "text": "战胜了韩国，成了个热点。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 40,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 200,
+                "text": "胜"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 280,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "韩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 600,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 960,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1160,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1440,
+                "text": "热"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1600,
+                "text": "点"
+              }
+            ]
+          },
+          {
+            "end_time": 6320,
+            "start_time": 2040,
+            "text": "但是我觉得我们这一期节目番外篇讲里皮的国足",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2040,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2320,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2520,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2720,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3160,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3360,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3600,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3800,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "期"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4040,
+                "text": "节"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4240,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4560,
+                "text": "番"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4680,
+                "text": "外"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 4920,
+                "text": "篇"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5200,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5520,
+                "start_time": 5480,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5760,
+                "start_time": 5720,
+                "text": "皮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6000,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6200,
+                "text": "足"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

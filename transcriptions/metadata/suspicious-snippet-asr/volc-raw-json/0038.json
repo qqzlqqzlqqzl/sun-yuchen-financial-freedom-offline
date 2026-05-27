@@ -1,0 +1,421 @@
+{
+  "item": {
+    "index": 38,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "episode": "049",
+    "title": "【番外】投资分享会中与粉丝交流的部分 [1179727406]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/049__official-vimeo-m4a-partial__049__a4da2ce3__03.wav",
+    "snippet_index": 3,
+    "start_seconds": 725.22,
+    "end_seconds": 732.54,
+    "chunk_index": 3,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      165
+    ],
+    "samples": [
+      "然后涨到6000的时候卖的"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 36
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "72df4003-e4ba-4def-be5b-7e90b2827a74",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150540A977321CA772ABE4E88D",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150552FF47AD0F7D78B998C0F0",
+        "response": {
+          "audio_info": {
+            "duration": 7320
+          },
+          "result": {
+            "additions": {
+              "duration": "7320"
+            },
+            "text": "一百多人民币买的，然后涨到6000的时候卖的，然后后来比特币大概跌",
+            "utterances": [
+              {
+                "end_time": 7280,
+                "start_time": 80,
+                "text": "一百多人民币买的，然后涨到6000的时候卖的，然后后来比特币大概跌",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 80,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 400,
+                    "start_time": 240,
+                    "text": "百"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 400,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1280,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1560,
+                    "text": "民"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1680,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1880,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2120,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2880,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3120,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3640,
+                    "text": "涨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3880,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4520,
+                    "start_time": 4080,
+                    "text": "6000"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4520,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4800,
+                    "start_time": 4680,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4800,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 4960,
+                    "text": "卖"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5880,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6080,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6320,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6440,
+                    "start_time": 6360,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6640,
+                    "start_time": 6480,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6640,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6920,
+                    "start_time": 6760,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7000,
+                    "start_time": 6920,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7120,
+                    "start_time": 7000,
+                    "text": "概"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7280,
+                    "start_time": 7160,
+                    "text": "跌"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7320
+      },
+      "result": {
+        "additions": {
+          "duration": "7320"
+        },
+        "text": "一百多人民币买的，然后涨到6000的时候卖的，然后后来比特币大概跌",
+        "utterances": [
+          {
+            "end_time": 7280,
+            "start_time": 80,
+            "text": "一百多人民币买的，然后涨到6000的时候卖的，然后后来比特币大概跌",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 80,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 240,
+                "text": "百"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 400,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1280,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "民"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1680,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1880,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2880,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3120,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3640,
+                "text": "涨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3880,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4080,
+                "text": "6000"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4520,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4680,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4800,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 4960,
+                "text": "卖"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5880,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6080,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6320,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6360,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6480,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6640,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6920,
+                "start_time": 6760,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6920,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 7000,
+                "text": "概"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7160,
+                "text": "跌"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

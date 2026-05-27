@@ -1,0 +1,39 @@
+{
+  "item": {
+    "index": 10,
+    "audio_id": "official-vimeo-m4a-partial__012__842975e3",
+    "episode": "012",
+    "title": "财富自由的本质 [1179691257]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/012 - 012财富自由的本质 [1179691257].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/012__official-vimeo-m4a-partial__012__842975e3__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 61.98,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      1,
+      2
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 37
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "b8cf2754-5ae5-45b5-b3d2-151043cf91a7",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

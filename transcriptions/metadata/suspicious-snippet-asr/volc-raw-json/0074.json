@@ -1,0 +1,2489 @@
+{
+  "item": {
+    "index": 74,
+    "audio_id": "wavlake-mp3__097__e53f6314",
+    "episode": "097",
+    "title": "097 孙宇晨：【小结】不当南郭先生",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/097 - 097 - 097 孙宇晨：【小结】不当南郭先生.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/097__wavlake-mp3__097__e53f6314__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 58.0,
+    "end_seconds": 91.98,
+    "chunk_index": 0,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      3,
+      4
+    ],
+    "samples": [
+      "因为前几年公司状况也比较惨,大家别以为阿里巴巴1999年建的时候也就50万刚建起来,天天开会都是在居民楼里开的,我们公司毕竟还没有经历过这么惨的阶段,但马云阿里巴巴都在居民楼里开,然后马云天天给他们说我们要做中国十大网站,他们觉得马云都是骗子,因为当时就居民楼就50万,做什么十大网站呢?",
+      "那时候大家也知道就是1999年期中国互联网已经很火了,那时候网易搜狐新浪,很多都已经在纳斯达克,"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 28
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "600761f4-634e-428d-aaad-09fa40ddecf2",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271508196ECA13BE2105063AB3BC",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527150823D35F7377D746AF63CDC0",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271508267A82AEEEC330AE420918",
+        "response": {
+          "audio_info": {
+            "duration": 33980
+          },
+          "result": {
+            "additions": {
+              "duration": "33980"
+            },
+            "text": "都跑了。为什么呢？因为前几年公司的状况也比较惨。大家别以为阿里巴巴1999年建的时候也就50万刚建起来，天天。开会都是在居民楼里开的，我们公司毕竟还没有经历过这么惨的阶段。但马云阿里巴巴都在居民楼里开，然后马云天天给他们说，我们要做中国十大网站。他们觉得马云都是骗子，因为当时就是居民楼就50万，做什么十大网站呢？那时候大家也知道，就是1999年起，中国互联网已经很火了，那时候网易、搜狐、新浪很多都已经在纳斯达克上市了呀，那比阿里巴巴",
+            "utterances": [
+              {
+                "end_time": 680,
+                "start_time": 80,
+                "text": "都跑了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 80,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 480,
+                    "start_time": 280,
+                    "text": "跑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 480,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 1760,
+                "start_time": 1000,
+                "text": "为什么呢？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1000,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1280,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1440,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1560,
+                    "text": "呢"
+                  }
+                ]
+              },
+              {
+                "end_time": 4880,
+                "start_time": 2280,
+                "text": "因为前几年公司的状况也比较惨。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2280,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2440,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2680,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3000,
+                    "text": "几"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3360,
+                    "start_time": 3200,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3440,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3800,
+                    "start_time": 3640,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3800,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3920,
+                    "text": "状"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4080,
+                    "text": "况"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4400,
+                    "start_time": 4240,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4520,
+                    "start_time": 4400,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4520,
+                    "text": "较"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4600,
+                    "text": "惨"
+                  }
+                ]
+              },
+              {
+                "end_time": 9640,
+                "start_time": 5120,
+                "text": "大家别以为阿里巴巴1999年建的时候也就50万刚建起来，天天。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 5320,
+                    "start_time": 5120,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5320,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5680,
+                    "text": "别"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6000,
+                    "start_time": 5880,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 6000,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6120,
+                    "text": "阿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6280,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6520,
+                    "start_time": 6400,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6600,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7400,
+                    "start_time": 6720,
+                    "text": "1999"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7400,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7600,
+                    "text": "建"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7880,
+                    "start_time": 7760,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7960,
+                    "start_time": 7880,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8040,
+                    "start_time": 7960,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8160,
+                    "start_time": 8040,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8280,
+                    "start_time": 8160,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8520,
+                    "start_time": 8280,
+                    "text": "50"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8680,
+                    "start_time": 8520,
+                    "text": "万"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8880,
+                    "start_time": 8680,
+                    "text": "刚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9040,
+                    "start_time": 8880,
+                    "text": "建"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9160,
+                    "start_time": 9040,
+                    "text": "起"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9280,
+                    "start_time": 9160,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9440,
+                    "start_time": 9280,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9640,
+                    "start_time": 9520,
+                    "text": "天"
+                  }
+                ]
+              },
+              {
+                "end_time": 15350,
+                "start_time": 10110,
+                "text": "开会都是在居民楼里开的，我们公司毕竟还没有经历过这么惨的阶段。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 10310,
+                    "start_time": 10110,
+                    "text": "开"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10510,
+                    "start_time": 10310,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10630,
+                    "start_time": 10510,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10750,
+                    "start_time": 10630,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11030,
+                    "start_time": 10750,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11750,
+                    "start_time": 11510,
+                    "text": "居"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11870,
+                    "start_time": 11750,
+                    "text": "民"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12110,
+                    "start_time": 11910,
+                    "text": "楼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12310,
+                    "start_time": 12110,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12470,
+                    "start_time": 12310,
+                    "text": "开"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12710,
+                    "start_time": 12470,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13030,
+                    "start_time": 12870,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13150,
+                    "start_time": 13030,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13310,
+                    "start_time": 13150,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13430,
+                    "start_time": 13310,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13630,
+                    "start_time": 13510,
+                    "text": "毕"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13750,
+                    "start_time": 13630,
+                    "text": "竟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13910,
+                    "start_time": 13750,
+                    "text": "还"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13990,
+                    "start_time": 13910,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14110,
+                    "start_time": 13990,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14270,
+                    "start_time": 14110,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14350,
+                    "start_time": 14270,
+                    "text": "历"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14510,
+                    "start_time": 14350,
+                    "text": "过"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14630,
+                    "start_time": 14510,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14710,
+                    "start_time": 14630,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14910,
+                    "start_time": 14710,
+                    "text": "惨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15070,
+                    "start_time": 14910,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15190,
+                    "start_time": 15070,
+                    "text": "阶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15350,
+                    "start_time": 15190,
+                    "text": "段"
+                  }
+                ]
+              },
+              {
+                "end_time": 19990,
+                "start_time": 15550,
+                "text": "但马云阿里巴巴都在居民楼里开，然后马云天天给他们说，我们要做中国十大网站。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 15750,
+                    "start_time": 15550,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15870,
+                    "start_time": 15750,
+                    "text": "马"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15990,
+                    "start_time": 15910,
+                    "text": "云"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16150,
+                    "start_time": 16070,
+                    "text": "阿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16230,
+                    "start_time": 16150,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16350,
+                    "start_time": 16270,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16430,
+                    "start_time": 16390,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16590,
+                    "start_time": 16430,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16750,
+                    "start_time": 16590,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16870,
+                    "start_time": 16750,
+                    "text": "居"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17030,
+                    "start_time": 16870,
+                    "text": "民"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17190,
+                    "start_time": 17030,
+                    "text": "楼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17310,
+                    "start_time": 17190,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17470,
+                    "start_time": 17310,
+                    "text": "开"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17590,
+                    "start_time": 17470,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17710,
+                    "start_time": 17590,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17830,
+                    "start_time": 17710,
+                    "text": "马"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17950,
+                    "start_time": 17830,
+                    "text": "云"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18070,
+                    "start_time": 17950,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18190,
+                    "start_time": 18110,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18350,
+                    "start_time": 18230,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18430,
+                    "start_time": 18350,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18510,
+                    "start_time": 18430,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18670,
+                    "start_time": 18510,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18750,
+                    "start_time": 18670,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18830,
+                    "start_time": 18750,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18950,
+                    "start_time": 18830,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19110,
+                    "start_time": 18950,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19230,
+                    "start_time": 19110,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19350,
+                    "start_time": 19230,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19470,
+                    "start_time": 19350,
+                    "text": "十"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19630,
+                    "start_time": 19470,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19830,
+                    "start_time": 19630,
+                    "text": "网"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19990,
+                    "start_time": 19830,
+                    "text": "站"
+                  }
+                ]
+              },
+              {
+                "end_time": 24500,
+                "start_time": 20380,
+                "text": "他们觉得马云都是骗子，因为当时就是居民楼就50万，做什么十大网站呢？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 20460,
+                    "start_time": 20380,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20540,
+                    "start_time": 20460,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20660,
+                    "start_time": 20540,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20700,
+                    "start_time": 20660,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20820,
+                    "start_time": 20700,
+                    "text": "马"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20900,
+                    "start_time": 20860,
+                    "text": "云"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21020,
+                    "start_time": 20940,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21140,
+                    "start_time": 21020,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21260,
+                    "start_time": 21140,
+                    "text": "骗"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21380,
+                    "start_time": 21260,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21580,
+                    "start_time": 21460,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21660,
+                    "start_time": 21580,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21780,
+                    "start_time": 21660,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21860,
+                    "start_time": 21780,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22020,
+                    "start_time": 21900,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22060,
+                    "start_time": 22020,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22260,
+                    "start_time": 22100,
+                    "text": "居"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22380,
+                    "start_time": 22260,
+                    "text": "民"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22580,
+                    "start_time": 22380,
+                    "text": "楼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22740,
+                    "start_time": 22580,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23020,
+                    "start_time": 22740,
+                    "text": "50"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23220,
+                    "start_time": 23020,
+                    "text": "万"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23540,
+                    "start_time": 23380,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23660,
+                    "start_time": 23540,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23740,
+                    "start_time": 23660,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23860,
+                    "start_time": 23740,
+                    "text": "十"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24020,
+                    "start_time": 23860,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24180,
+                    "start_time": 24020,
+                    "text": "网"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24340,
+                    "start_time": 24180,
+                    "text": "站"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24500,
+                    "start_time": 24340,
+                    "text": "呢"
+                  }
+                ]
+              },
+              {
+                "end_time": 33900,
+                "start_time": 24740,
+                "text": "那时候大家也知道，就是1999年起，中国互联网已经很火了，那时候网易、搜狐、新浪很多都已经在纳斯达克上市了呀，那比阿里巴巴",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 24940,
+                    "start_time": 24740,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25020,
+                    "start_time": 24940,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25180,
+                    "start_time": 25020,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25340,
+                    "start_time": 25180,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25460,
+                    "start_time": 25340,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25580,
+                    "start_time": 25460,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25700,
+                    "start_time": 25580,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25780,
+                    "start_time": 25700,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25860,
+                    "start_time": 25780,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26020,
+                    "start_time": 25860,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26500,
+                    "start_time": 26020,
+                    "text": "1999"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26620,
+                    "start_time": 26500,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26740,
+                    "start_time": 26700,
+                    "text": "起"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26980,
+                    "start_time": 26820,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27060,
+                    "start_time": 26980,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27340,
+                    "start_time": 27220,
+                    "text": "互"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27460,
+                    "start_time": 27340,
+                    "text": "联"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27580,
+                    "start_time": 27460,
+                    "text": "网"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27700,
+                    "start_time": 27580,
+                    "text": "已"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27780,
+                    "start_time": 27700,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27940,
+                    "start_time": 27780,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28100,
+                    "start_time": 27940,
+                    "text": "火"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28260,
+                    "start_time": 28100,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28380,
+                    "start_time": 28260,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28460,
+                    "start_time": 28380,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28540,
+                    "start_time": 28460,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28820,
+                    "start_time": 28620,
+                    "text": "网"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29020,
+                    "start_time": 28820,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29620,
+                    "start_time": 29420,
+                    "text": "搜"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29780,
+                    "start_time": 29740,
+                    "text": "狐"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30220,
+                    "start_time": 30020,
+                    "text": "新"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30460,
+                    "start_time": 30220,
+                    "text": "浪"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30980,
+                    "start_time": 30820,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31100,
+                    "start_time": 30980,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31260,
+                    "start_time": 31100,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31380,
+                    "start_time": 31260,
+                    "text": "已"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31420,
+                    "start_time": 31380,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31540,
+                    "start_time": 31420,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31660,
+                    "start_time": 31580,
+                    "text": "纳"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31820,
+                    "start_time": 31700,
+                    "text": "斯"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31980,
+                    "start_time": 31860,
+                    "text": "达"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32100,
+                    "start_time": 32020,
+                    "text": "克"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32340,
+                    "start_time": 32180,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32460,
+                    "start_time": 32340,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32620,
+                    "start_time": 32460,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32780,
+                    "start_time": 32620,
+                    "text": "呀"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 33100,
+                    "start_time": 32900,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 33420,
+                    "start_time": 33220,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 33620,
+                    "start_time": 33460,
+                    "text": "阿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 33700,
+                    "start_time": 33620,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 33780,
+                    "start_time": 33700,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 33900,
+                    "start_time": 33820,
+                    "text": "巴"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 33980
+      },
+      "result": {
+        "additions": {
+          "duration": "33980"
+        },
+        "text": "都跑了。为什么呢？因为前几年公司的状况也比较惨。大家别以为阿里巴巴1999年建的时候也就50万刚建起来，天天。开会都是在居民楼里开的，我们公司毕竟还没有经历过这么惨的阶段。但马云阿里巴巴都在居民楼里开，然后马云天天给他们说，我们要做中国十大网站。他们觉得马云都是骗子，因为当时就是居民楼就50万，做什么十大网站呢？那时候大家也知道，就是1999年起，中国互联网已经很火了，那时候网易、搜狐、新浪很多都已经在纳斯达克上市了呀，那比阿里巴巴",
+        "utterances": [
+          {
+            "end_time": 680,
+            "start_time": 80,
+            "text": "都跑了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 80,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 280,
+                "text": "跑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 1760,
+            "start_time": 1000,
+            "text": "为什么呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1000,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1280,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1440,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1560,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 4880,
+            "start_time": 2280,
+            "text": "因为前几年公司的状况也比较惨。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2280,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2440,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2680,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3000,
+                "text": "几"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3200,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3440,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3640,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3920,
+                "text": "状"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4080,
+                "text": "况"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4240,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4400,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4520,
+                "text": "较"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4600,
+                "text": "惨"
+              }
+            ]
+          },
+          {
+            "end_time": 9640,
+            "start_time": 5120,
+            "text": "大家别以为阿里巴巴1999年建的时候也就50万刚建起来，天天。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5120,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5320,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5680,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5880,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 6000,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6120,
+                "text": "阿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6280,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6520,
+                "start_time": 6400,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6600,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7400,
+                "start_time": 6720,
+                "text": "1999"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7400,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7600,
+                "text": "建"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7760,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7960,
+                "start_time": 7880,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8040,
+                "start_time": 7960,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8160,
+                "start_time": 8040,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8160,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8520,
+                "start_time": 8280,
+                "text": "50"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8680,
+                "start_time": 8520,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8680,
+                "text": "刚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8880,
+                "text": "建"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9160,
+                "start_time": 9040,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9280,
+                "start_time": 9160,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9440,
+                "start_time": 9280,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9520,
+                "text": "天"
+              }
+            ]
+          },
+          {
+            "end_time": 15350,
+            "start_time": 10110,
+            "text": "开会都是在居民楼里开的，我们公司毕竟还没有经历过这么惨的阶段。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 10310,
+                "start_time": 10110,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10510,
+                "start_time": 10310,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10630,
+                "start_time": 10510,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10750,
+                "start_time": 10630,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11030,
+                "start_time": 10750,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11750,
+                "start_time": 11510,
+                "text": "居"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11870,
+                "start_time": 11750,
+                "text": "民"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12110,
+                "start_time": 11910,
+                "text": "楼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12310,
+                "start_time": 12110,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12470,
+                "start_time": 12310,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12710,
+                "start_time": 12470,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13030,
+                "start_time": 12870,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13150,
+                "start_time": 13030,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13310,
+                "start_time": 13150,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13430,
+                "start_time": 13310,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13630,
+                "start_time": 13510,
+                "text": "毕"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13750,
+                "start_time": 13630,
+                "text": "竟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13910,
+                "start_time": 13750,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13990,
+                "start_time": 13910,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14110,
+                "start_time": 13990,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14270,
+                "start_time": 14110,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14350,
+                "start_time": 14270,
+                "text": "历"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14510,
+                "start_time": 14350,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14630,
+                "start_time": 14510,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14710,
+                "start_time": 14630,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14910,
+                "start_time": 14710,
+                "text": "惨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15070,
+                "start_time": 14910,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15190,
+                "start_time": 15070,
+                "text": "阶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15350,
+                "start_time": 15190,
+                "text": "段"
+              }
+            ]
+          },
+          {
+            "end_time": 19990,
+            "start_time": 15550,
+            "text": "但马云阿里巴巴都在居民楼里开，然后马云天天给他们说，我们要做中国十大网站。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 15750,
+                "start_time": 15550,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15870,
+                "start_time": 15750,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15990,
+                "start_time": 15910,
+                "text": "云"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16150,
+                "start_time": 16070,
+                "text": "阿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16230,
+                "start_time": 16150,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16350,
+                "start_time": 16270,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16430,
+                "start_time": 16390,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16590,
+                "start_time": 16430,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16750,
+                "start_time": 16590,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16870,
+                "start_time": 16750,
+                "text": "居"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17030,
+                "start_time": 16870,
+                "text": "民"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17190,
+                "start_time": 17030,
+                "text": "楼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17310,
+                "start_time": 17190,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17470,
+                "start_time": 17310,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17590,
+                "start_time": 17470,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17710,
+                "start_time": 17590,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17830,
+                "start_time": 17710,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17950,
+                "start_time": 17830,
+                "text": "云"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18070,
+                "start_time": 17950,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18190,
+                "start_time": 18110,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18350,
+                "start_time": 18230,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18430,
+                "start_time": 18350,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18510,
+                "start_time": 18430,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18670,
+                "start_time": 18510,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18750,
+                "start_time": 18670,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18830,
+                "start_time": 18750,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18950,
+                "start_time": 18830,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19110,
+                "start_time": 18950,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19230,
+                "start_time": 19110,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19350,
+                "start_time": 19230,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19470,
+                "start_time": 19350,
+                "text": "十"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19630,
+                "start_time": 19470,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19830,
+                "start_time": 19630,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19830,
+                "text": "站"
+              }
+            ]
+          },
+          {
+            "end_time": 24500,
+            "start_time": 20380,
+            "text": "他们觉得马云都是骗子，因为当时就是居民楼就50万，做什么十大网站呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 20460,
+                "start_time": 20380,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20540,
+                "start_time": 20460,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20660,
+                "start_time": 20540,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20700,
+                "start_time": 20660,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20820,
+                "start_time": 20700,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20900,
+                "start_time": 20860,
+                "text": "云"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21020,
+                "start_time": 20940,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21140,
+                "start_time": 21020,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21260,
+                "start_time": 21140,
+                "text": "骗"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21380,
+                "start_time": 21260,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21580,
+                "start_time": 21460,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21660,
+                "start_time": 21580,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21780,
+                "start_time": 21660,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21860,
+                "start_time": 21780,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22020,
+                "start_time": 21900,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22060,
+                "start_time": 22020,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22260,
+                "start_time": 22100,
+                "text": "居"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22380,
+                "start_time": 22260,
+                "text": "民"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22580,
+                "start_time": 22380,
+                "text": "楼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22740,
+                "start_time": 22580,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23020,
+                "start_time": 22740,
+                "text": "50"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23220,
+                "start_time": 23020,
+                "text": "万"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23540,
+                "start_time": 23380,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23660,
+                "start_time": 23540,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23740,
+                "start_time": 23660,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23860,
+                "start_time": 23740,
+                "text": "十"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24020,
+                "start_time": 23860,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24180,
+                "start_time": 24020,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24340,
+                "start_time": 24180,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24500,
+                "start_time": 24340,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 33900,
+            "start_time": 24740,
+            "text": "那时候大家也知道，就是1999年起，中国互联网已经很火了，那时候网易、搜狐、新浪很多都已经在纳斯达克上市了呀，那比阿里巴巴",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24940,
+                "start_time": 24740,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25020,
+                "start_time": 24940,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25180,
+                "start_time": 25020,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25340,
+                "start_time": 25180,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25460,
+                "start_time": 25340,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25580,
+                "start_time": 25460,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25700,
+                "start_time": 25580,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25780,
+                "start_time": 25700,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25860,
+                "start_time": 25780,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26020,
+                "start_time": 25860,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26500,
+                "start_time": 26020,
+                "text": "1999"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26620,
+                "start_time": 26500,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26740,
+                "start_time": 26700,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26980,
+                "start_time": 26820,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27060,
+                "start_time": 26980,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27340,
+                "start_time": 27220,
+                "text": "互"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27460,
+                "start_time": 27340,
+                "text": "联"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27580,
+                "start_time": 27460,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27700,
+                "start_time": 27580,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27780,
+                "start_time": 27700,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27940,
+                "start_time": 27780,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28100,
+                "start_time": 27940,
+                "text": "火"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28260,
+                "start_time": 28100,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28380,
+                "start_time": 28260,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28460,
+                "start_time": 28380,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28540,
+                "start_time": 28460,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28820,
+                "start_time": 28620,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29020,
+                "start_time": 28820,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29620,
+                "start_time": 29420,
+                "text": "搜"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29780,
+                "start_time": 29740,
+                "text": "狐"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30220,
+                "start_time": 30020,
+                "text": "新"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30460,
+                "start_time": 30220,
+                "text": "浪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30980,
+                "start_time": 30820,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31100,
+                "start_time": 30980,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31260,
+                "start_time": 31100,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31380,
+                "start_time": 31260,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31420,
+                "start_time": 31380,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31540,
+                "start_time": 31420,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31660,
+                "start_time": 31580,
+                "text": "纳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31820,
+                "start_time": 31700,
+                "text": "斯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31980,
+                "start_time": 31860,
+                "text": "达"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32100,
+                "start_time": 32020,
+                "text": "克"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32340,
+                "start_time": 32180,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32460,
+                "start_time": 32340,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32620,
+                "start_time": 32460,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32780,
+                "start_time": 32620,
+                "text": "呀"
+              },
+              {
+                "confidence": 0,
+                "end_time": 33100,
+                "start_time": 32900,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 33420,
+                "start_time": 33220,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 33620,
+                "start_time": 33460,
+                "text": "阿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 33700,
+                "start_time": 33620,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 33780,
+                "start_time": 33700,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 33900,
+                "start_time": 33820,
+                "text": "巴"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

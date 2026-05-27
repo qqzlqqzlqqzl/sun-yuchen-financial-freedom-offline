@@ -1,0 +1,36 @@
+{
+  "item": {
+    "index": 36,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "episode": "049",
+    "title": "【番外】投资分享会中与粉丝交流的部分 [1179727406]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/049__official-vimeo-m4a-partial__049__a4da2ce3__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 462.74,
+    "end_seconds": 472.12,
+    "chunk_index": 1,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      72
+    ],
+    "samples": [
+      "就任何人告诉你说我能拿到谁谁谁的期权什么原始股绝对是骗你的"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 36
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "e6d8cfb2-c582-478c-a779-f00ccb3862c5",
+    "submit": {
+      "ok": false,
+      "error_type": "ConnectionResetError",
+      "error": "[Errno 54] Connection reset by peer"
+    },
+    "queries": []
+  }
+}

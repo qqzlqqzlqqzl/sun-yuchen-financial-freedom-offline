@@ -1,0 +1,639 @@
+{
+  "item": {
+    "index": 41,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "episode": "049",
+    "title": "【番外】投资分享会中与粉丝交流的部分 [1179727406]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/049__official-vimeo-m4a-partial__049__a4da2ce3__06.wav",
+    "snippet_index": 6,
+    "start_seconds": 933.9,
+    "end_seconds": 941.74,
+    "chunk_index": 6,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      228
+    ],
+    "samples": [
+      "其实当初在4000的时候我觉得是比特币一个"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 36
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "b0bd5a27-6edd-4d1a-8e4a-0d607951b991",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150808B648B18B8889940E482F",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150812F920E10BBFAAC8B7FCC8",
+        "response": {
+          "audio_info": {
+            "duration": 7840
+          },
+          "result": {
+            "additions": {
+              "duration": "7840"
+            },
+            "text": "我我个人感觉这个价格稍微有点高。其实当初在4000的时候，我觉得是比特币一个比较 fair 的价格，而且不会",
+            "utterances": [
+              {
+                "end_time": 2040,
+                "start_time": 80,
+                "text": "我我个人感觉这个价格稍微有点高。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 80,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 400,
+                    "start_time": 200,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 440,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 520,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 640,
+                    "text": "感"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 800,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 880,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1120,
+                    "start_time": 1000,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1120,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1240,
+                    "text": "格"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1480,
+                    "start_time": 1360,
+                    "text": "稍"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1480,
+                    "text": "微"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1560,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1680,
+                    "text": "点"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1800,
+                    "text": "高"
+                  }
+                ]
+              },
+              {
+                "end_time": 7720,
+                "start_time": 2480,
+                "text": "其实当初在4000的时候，我觉得是比特币一个比较 fair 的价格，而且不会",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2480,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2720,
+                    "start_time": 2640,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2920,
+                    "start_time": 2760,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3040,
+                    "start_time": 2920,
+                    "text": "初"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3240,
+                    "start_time": 3080,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3240,
+                    "text": "4000"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3800,
+                    "start_time": 3640,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3800,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4000,
+                    "start_time": 3880,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 4000,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4160,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4400,
+                    "start_time": 4320,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4720,
+                    "start_time": 4440,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4720,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5000,
+                    "start_time": 4880,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 5040,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5400,
+                    "start_time": 5280,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5400,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6160,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6480,
+                    "start_time": 6360,
+                    "text": "较"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6720,
+                    "start_time": 6640,
+                    "text": "fair"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6840,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7120,
+                    "start_time": 7000,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7240,
+                    "start_time": 7120,
+                    "text": "格"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7440,
+                    "start_time": 7320,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7520,
+                    "start_time": 7440,
+                    "text": "且"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7640,
+                    "start_time": 7520,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7720,
+                    "start_time": 7640,
+                    "text": "会"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7840
+      },
+      "result": {
+        "additions": {
+          "duration": "7840"
+        },
+        "text": "我我个人感觉这个价格稍微有点高。其实当初在4000的时候，我觉得是比特币一个比较 fair 的价格，而且不会",
+        "utterances": [
+          {
+            "end_time": 2040,
+            "start_time": 80,
+            "text": "我我个人感觉这个价格稍微有点高。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 80,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 200,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 520,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 640,
+                "text": "感"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 800,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 880,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 1000,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1120,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1240,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1360,
+                "text": "稍"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1480,
+                "text": "微"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1680,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1800,
+                "text": "高"
+              }
+            ]
+          },
+          {
+            "end_time": 7720,
+            "start_time": 2480,
+            "text": "其实当初在4000的时候，我觉得是比特币一个比较 fair 的价格，而且不会",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2480,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2640,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2920,
+                "text": "初"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3080,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3240,
+                "text": "4000"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3640,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3800,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3880,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4000,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4320,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4440,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4720,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4880,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5040,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5280,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6160,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6360,
+                "text": "较"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6640,
+                "text": "fair"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 7000,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7240,
+                "start_time": 7120,
+                "text": "格"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7320,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7440,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 7520,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7640,
+                "text": "会"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "item": {
+    "index": 71,
+    "audio_id": "wavlake-mp3__095__3bea9fa5",
+    "episode": "095",
+    "title": "095 孙宇晨：【案例】现在开淘宝店靠谱吗？",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/095 - 095 - 095 孙宇晨：【案例】现在开淘宝店靠谱吗？.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/095__wavlake-mp3__095__3bea9fa5__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 171.82,
+    "end_seconds": 180.62,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      27,
+      28,
+      29
+    ],
+    "samples": [
+      "这样算起来的话,短信其实才是更伟大的发明才对啊。",
+      "这样算起来的话,短信其实才是更伟大的发明才对啊。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 29
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "55719482-e221-4c58-a3ab-d27e62a347ad",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052715081643C1966A6FA0D9BCAC41",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052715081908D69C15E0C2DECE60F1",
+        "response": {
+          "audio_info": {
+            "duration": 8800
+          },
+          "result": {
+            "additions": {
+              "duration": "8800"
+            },
+            "text": "啊，大多数也都是换汤不换药。啊，这样算起来的话，短信其实才是更伟大的发明才对啊，因为它至少实现了跨运营商的沟通。",
+            "utterances": [
+              {
+                "end_time": 1880,
+                "start_time": 120,
+                "text": "啊，大多数也都是换汤不换药。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 120,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 240,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 440,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 560,
+                    "text": "数"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 680,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 840,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 960,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1040,
+                    "text": "换"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1200,
+                    "text": "汤"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1360,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1560,
+                    "text": "换"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1680,
+                    "text": "药"
+                  }
+                ]
+              },
+              {
+                "end_time": 8760,
+                "start_time": 2200,
+                "text": "啊，这样算起来的话，短信其实才是更伟大的发明才对啊，因为它至少实现了跨运营商的沟通。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2200,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2320,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2440,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2760,
+                    "text": "算"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2960,
+                    "text": "起"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3240,
+                    "start_time": 3120,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3360,
+                    "start_time": 3240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3600,
+                    "start_time": 3360,
+                    "text": "话"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3920,
+                    "text": "短"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4160,
+                    "text": "信"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4440,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4600,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4840,
+                    "start_time": 4680,
+                    "text": "才"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4840,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 4960,
+                    "text": "更"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5240,
+                    "start_time": 5120,
+                    "text": "伟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5240,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5520,
+                    "start_time": 5360,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5680,
+                    "start_time": 5520,
+                    "text": "发"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5800,
+                    "start_time": 5680,
+                    "text": "明"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6000,
+                    "start_time": 5840,
+                    "text": "才"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6000,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6200,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6840,
+                    "start_time": 6720,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6840,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7040,
+                    "start_time": 6960,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7240,
+                    "start_time": 7120,
+                    "text": "至"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7360,
+                    "start_time": 7240,
+                    "text": "少"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7400,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7680,
+                    "start_time": 7560,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7800,
+                    "start_time": 7680,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8000,
+                    "start_time": 7800,
+                    "text": "跨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8160,
+                    "start_time": 8040,
+                    "text": "运"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8280,
+                    "start_time": 8160,
+                    "text": "营"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8400,
+                    "start_time": 8280,
+                    "text": "商"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8560,
+                    "start_time": 8400,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8600,
+                    "text": "沟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8760,
+                    "start_time": 8720,
+                    "text": "通"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 8800
+      },
+      "result": {
+        "additions": {
+          "duration": "8800"
+        },
+        "text": "啊，大多数也都是换汤不换药。啊，这样算起来的话，短信其实才是更伟大的发明才对啊，因为它至少实现了跨运营商的沟通。",
+        "utterances": [
+          {
+            "end_time": 1880,
+            "start_time": 120,
+            "text": "啊，大多数也都是换汤不换药。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 240,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 560,
+                "text": "数"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 680,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 840,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 960,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1040,
+                "text": "换"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1200,
+                "text": "汤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1360,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "换"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1680,
+                "text": "药"
+              }
+            ]
+          },
+          {
+            "end_time": 8760,
+            "start_time": 2200,
+            "text": "啊，这样算起来的话，短信其实才是更伟大的发明才对啊，因为它至少实现了跨运营商的沟通。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2200,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2320,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2440,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2760,
+                "text": "算"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3120,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3360,
+                "text": "话"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3920,
+                "text": "短"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "信"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4440,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4600,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4680,
+                "text": "才"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4840,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 4960,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5120,
+                "text": "伟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5240,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5520,
+                "start_time": 5360,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5520,
+                "text": "发"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5680,
+                "text": "明"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5840,
+                "text": "才"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6000,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6200,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6840,
+                "start_time": 6720,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6840,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7040,
+                "start_time": 6960,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7240,
+                "start_time": 7120,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7240,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7400,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7680,
+                "start_time": 7560,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7800,
+                "start_time": 7680,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7800,
+                "text": "跨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8160,
+                "start_time": 8040,
+                "text": "运"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8160,
+                "text": "营"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8400,
+                "start_time": 8280,
+                "text": "商"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8600,
+                "text": "沟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8760,
+                "start_time": 8720,
+                "text": "通"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

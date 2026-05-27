@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 9,
+    "audio_id": "wavlake-mp3__011__89676748",
+    "episode": "011",
+    "title": "011 孙宇晨：财富自由就退休",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/011 - 011 - 011 孙宇晨：财富自由就退休.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/011__wavlake-mp3__011__89676748__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 0.0,
+    "end_seconds": 781.98,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复"
+    ],
+    "line_refs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 214
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "52537865-c0aa-4d45-8c11-eaa948482ef5",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    "queries": []
+  }
+}

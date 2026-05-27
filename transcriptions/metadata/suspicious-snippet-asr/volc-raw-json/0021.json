@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 21,
+    "audio_id": "official-vimeo-m4a-partial__028__ed75399c",
+    "episode": "028",
+    "title": "背负家庭的女孩 [1179695788]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/028 - 028背负家庭的女孩 [1179695788].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/028__official-vimeo-m4a-partial__028__ed75399c__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 227.58,
+    "end_seconds": 623.44,
+    "chunk_index": 0,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "samples": [
+      "才能让剩下不做贡献的人作为前提。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 46
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "7460be86-b0d2-44a6-b0d6-43329a6b3f48",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    "queries": []
+  }
+}

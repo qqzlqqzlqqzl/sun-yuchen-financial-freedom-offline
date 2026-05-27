@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 52,
+    "audio_id": "wavlake-mp3__074__f1f77efa",
+    "episode": "074",
+    "title": "074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/074 - 074 - 074 孙宇晨：【个人奋斗合法性】正当谋取私利是好事.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/074__wavlake-mp3__074__f1f77efa__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 28.0,
+    "end_seconds": 536.9,
+    "chunk_index": 0,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 168
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "7afdaa2a-b106-40dc-a3df-4763ee7ebb51",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [Errno 54] Connection reset by peer>"
+    },
+    "queries": []
+  }
+}

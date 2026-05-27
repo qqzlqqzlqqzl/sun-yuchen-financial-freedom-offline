@@ -1,0 +1,292 @@
+{
+  "item": {
+    "index": 1,
+    "audio_id": "official-vimeo-m4a-partial__000__7c18aa7d",
+    "episode": "000",
+    "title": "我们就是这个时代的既得利益者 [1179679629]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/000 - 000我们就是这个时代的既得利益者 [1179679629].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/000__official-vimeo-m4a-partial__000__7c18aa7d__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 142.64,
+    "end_seconds": 148.94,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      37,
+      38
+    ],
+    "samples": [
+      "答。现阶层的既得利益者是谁?",
+      "答。现阶层的既得利益者是谁?"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 47
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "3599c855-4c0a-4e17-9582-b67fff6acee6",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150238E4AD53D5627C4E612D86",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271503227256FC7349AED7B7689D",
+        "response": {
+          "audio_info": {
+            "duration": 6300
+          },
+          "result": {
+            "additions": {
+              "duration": "6300"
+            },
+            "text": "谁是社会的既得利益者？答，现阶段社会中",
+            "utterances": [
+              {
+                "end_time": 6200,
+                "start_time": 40,
+                "text": "谁是社会的既得利益者？答，现阶段社会中",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 40,
+                    "text": "谁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 280,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 640,
+                    "text": "社"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 920,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1040,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1320,
+                    "text": "既"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1440,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1600,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1720,
+                    "text": "益"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1880,
+                    "text": "者"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3040,
+                    "text": "答"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4480,
+                    "start_time": 4120,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4480,
+                    "text": "阶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4680,
+                    "text": "段"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5520,
+                    "text": "社"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6000,
+                    "start_time": 5840,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6000,
+                    "text": "中"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 6300
+      },
+      "result": {
+        "additions": {
+          "duration": "6300"
+        },
+        "text": "谁是社会的既得利益者？答，现阶段社会中",
+        "utterances": [
+          {
+            "end_time": 6200,
+            "start_time": 40,
+            "text": "谁是社会的既得利益者？答，现阶段社会中",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 40,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 280,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 640,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 920,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1320,
+                "text": "既"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1440,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1600,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "益"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1880,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3040,
+                "text": "答"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4120,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4480,
+                "text": "阶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4680,
+                "text": "段"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5520,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5840,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6000,
+                "text": "中"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

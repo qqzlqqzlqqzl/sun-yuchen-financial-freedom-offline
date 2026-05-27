@@ -1,0 +1,37 @@
+{
+  "item": {
+    "index": 47,
+    "audio_id": "wavlake-mp3__068__8931adfc",
+    "episode": "068",
+    "title": "068 孙宇晨：【番外】90后会将互联网革命进行到底",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/068 - 068 - 068 孙宇晨：【番外】90后会将互联网革命进行到底.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/068__wavlake-mp3__068__8931adfc__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 715.16,
+    "end_seconds": 719.92,
+    "chunk_index": 1,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      348,
+      349
+    ],
+    "samples": [
+      "我也是"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 39
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "a22b1e2c-17fc-41c7-a117-355c2d5bfe5d",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

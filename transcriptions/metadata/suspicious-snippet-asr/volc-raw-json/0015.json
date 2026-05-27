@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 15,
+    "audio_id": "official-vimeo-m4a-partial__015__387b0d62",
+    "episode": "015",
+    "title": "总结-财富自由的定义 [1179692400]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/015 - 015总结-财富自由的定义 [1179692400].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/015__official-vimeo-m4a-partial__015__387b0d62__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 0.0,
+    "end_seconds": 429.48,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复"
+    ],
+    "line_refs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 184
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "8be2b44b-f31f-4969-8473-7009a6450ba3",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error The write operation timed out>"
+    },
+    "queries": []
+  }
+}

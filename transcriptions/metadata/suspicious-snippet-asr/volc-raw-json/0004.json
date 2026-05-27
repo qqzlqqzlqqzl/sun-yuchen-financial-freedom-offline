@@ -1,0 +1,529 @@
+{
+  "item": {
+    "index": 4,
+    "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+    "episode": "006",
+    "title": "【创刊词】为什么大多数人勤劳却不富有？ [1179688350]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/006__official-vimeo-m4a-partial__006__a47f6122__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 1323.78,
+    "end_seconds": 1331.72,
+    "chunk_index": 1,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      277
+    ],
+    "samples": [
+      "把姥姥姥爷爷奶奶两方的一共12个人"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 31
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "8075b5a4-3050-4246-bdc2-8afe38f706e6",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052715024162682B835A70CA994B95",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150314B3944D114E5C264A6458",
+        "response": {
+          "audio_info": {
+            "duration": 7940
+          },
+          "result": {
+            "additions": {
+              "duration": "7940"
+            },
+            "text": "父母把他父母，把姥姥姥爷，爷爷奶奶两方的一共12个人，加上他们14个人绑在一套房子里。",
+            "utterances": [
+              {
+                "end_time": 7800,
+                "start_time": 160,
+                "text": "父母把他父母，把姥姥姥爷，爷爷奶奶两方的一共12个人，加上他们14个人绑在一套房子里。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 160,
+                    "text": "父"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 320,
+                    "text": "母"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 520,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 840,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1560,
+                    "text": "父"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1800,
+                    "text": "母"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2000,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2440,
+                    "text": "姥"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2760,
+                    "start_time": 2680,
+                    "text": "姥"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2800,
+                    "text": "姥"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3000,
+                    "text": "爷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3360,
+                    "text": "爷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3680,
+                    "start_time": 3560,
+                    "text": "爷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3680,
+                    "text": "奶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3920,
+                    "text": "奶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4360,
+                    "text": "两"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4800,
+                    "start_time": 4600,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5000,
+                    "start_time": 4800,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 5000,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5280,
+                    "start_time": 5120,
+                    "text": "共"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5280,
+                    "text": "12"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5760,
+                    "start_time": 5640,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5760,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5920,
+                    "text": "加"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6080,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6200,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6400,
+                    "start_time": 6280,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6440,
+                    "text": "14"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6880,
+                    "start_time": 6760,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6880,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7160,
+                    "start_time": 7000,
+                    "text": "绑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7280,
+                    "start_time": 7160,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7400,
+                    "start_time": 7280,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7480,
+                    "start_time": 7400,
+                    "text": "套"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7600,
+                    "start_time": 7480,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7680,
+                    "start_time": 7600,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7800,
+                    "start_time": 7680,
+                    "text": "里"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7940
+      },
+      "result": {
+        "additions": {
+          "duration": "7940"
+        },
+        "text": "父母把他父母，把姥姥姥爷，爷爷奶奶两方的一共12个人，加上他们14个人绑在一套房子里。",
+        "utterances": [
+          {
+            "end_time": 7800,
+            "start_time": 160,
+            "text": "父母把他父母，把姥姥姥爷，爷爷奶奶两方的一共12个人，加上他们14个人绑在一套房子里。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 160,
+                "text": "父"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 320,
+                "text": "母"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 520,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 840,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1560,
+                "text": "父"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1800,
+                "text": "母"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2000,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2440,
+                "text": "姥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2680,
+                "text": "姥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2800,
+                "text": "姥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3000,
+                "text": "爷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3360,
+                "text": "爷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3680,
+                "start_time": 3560,
+                "text": "爷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3680,
+                "text": "奶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3920,
+                "text": "奶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4360,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4600,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 5000,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5120,
+                "text": "共"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5280,
+                "text": "12"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5760,
+                "start_time": 5640,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5760,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5920,
+                "text": "加"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6080,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6200,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6280,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6440,
+                "text": "14"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6880,
+                "start_time": 6760,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6880,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7000,
+                "text": "绑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7160,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7400,
+                "start_time": 7280,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7400,
+                "text": "套"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7480,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7680,
+                "start_time": 7600,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7800,
+                "start_time": 7680,
+                "text": "里"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

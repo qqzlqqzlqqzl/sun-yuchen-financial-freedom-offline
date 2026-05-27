@@ -1,0 +1,433 @@
+{
+  "item": {
+    "index": 18,
+    "audio_id": "official-vimeo-m4a-partial__016__71e7d985",
+    "episode": "016",
+    "title": "财富自由从未如此容易过 [1179692693]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/016__official-vimeo-m4a-partial__016__71e7d985__02.wav",
+    "snippet_index": 2,
+    "start_seconds": 646.68,
+    "end_seconds": 653.32,
+    "chunk_index": 2,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      303
+    ],
+    "samples": [
+      "三三三百多亿的美金"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 59
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "f72f658f-fde1-47c5-bea4-f1afe063daf5",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271502389EC835755883D75DA16E",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052715031010BAECB5316ABC613333",
+        "response": {
+          "audio_info": {
+            "duration": 6640
+          },
+          "result": {
+            "additions": {
+              "duration": "6640"
+            },
+            "text": "亿左右的话，基本上是将近三三三百多亿的美金，有点太多了，所以我就",
+            "utterances": [
+              {
+                "end_time": 6600,
+                "start_time": 80,
+                "text": "亿左右的话，基本上是将近三三三百多亿的美金，有点太多了，所以我就",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 80,
+                    "text": "亿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 200,
+                    "text": "左"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 280,
+                    "text": "右"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 360,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 520,
+                    "text": "话"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1080,
+                    "text": "基"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1160,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1400,
+                    "start_time": 1280,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1400,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1600,
+                    "text": "将"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1800,
+                    "text": "近"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2360,
+                    "text": "三"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2840,
+                    "text": "三"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3240,
+                    "start_time": 3080,
+                    "text": "三"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3240,
+                    "text": "百"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3400,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3560,
+                    "text": "亿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3720,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4480,
+                    "start_time": 4240,
+                    "text": "美"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4480,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5080,
+                    "start_time": 4880,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 5080,
+                    "text": "点"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5440,
+                    "start_time": 5200,
+                    "text": "太"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5440,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5640,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6160,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6280,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6480,
+                    "start_time": 6360,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6600,
+                    "start_time": 6480,
+                    "text": "就"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 6640
+      },
+      "result": {
+        "additions": {
+          "duration": "6640"
+        },
+        "text": "亿左右的话，基本上是将近三三三百多亿的美金，有点太多了，所以我就",
+        "utterances": [
+          {
+            "end_time": 6600,
+            "start_time": 80,
+            "text": "亿左右的话，基本上是将近三三三百多亿的美金，有点太多了，所以我就",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 80,
+                "text": "亿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 200,
+                "text": "左"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 280,
+                "text": "右"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 360,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 520,
+                "text": "话"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1080,
+                "text": "基"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1160,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1400,
+                "start_time": 1280,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1400,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1600,
+                "text": "将"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1800,
+                "text": "近"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2360,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2840,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3080,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3240,
+                "text": "百"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3400,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3560,
+                "text": "亿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3720,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4240,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4480,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 4880,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5080,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5200,
+                "text": "太"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5440,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5640,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6160,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6280,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6360,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6480,
+                "text": "就"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

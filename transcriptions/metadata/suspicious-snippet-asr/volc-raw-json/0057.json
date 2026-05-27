@@ -1,0 +1,547 @@
+{
+  "item": {
+    "index": 57,
+    "audio_id": "wavlake-mp3__077__1eaabcfd",
+    "episode": "077",
+    "title": "077 孙宇晨：谈足球与创业",
+    "source": "wavlake-mp3",
+    "audio_path": "wavlake-mp3/077 - 077 - 077 孙宇晨：谈足球与创业.mp3",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/077__wavlake-mp3__077__1eaabcfd__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 586.68,
+    "end_seconds": 595.32,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      151,
+      152,
+      153
+    ],
+    "samples": [
+      "所以从这个角度来说就催生了中国一个最大的问题",
+      "所以从这个角度来说就催生了中国一个最大的问题"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 50
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "124d9080-27c6-4d1a-ac6c-641d3b61e96b",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052715080558CD5EC41902CBB9C120",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150813959EA9A5D6463CC64F95",
+        "response": {
+          "audio_info": {
+            "duration": 8640
+          },
+          "result": {
+            "additions": {
+              "duration": "8640"
+            },
+            "text": "速度特别快的产业。所以从这个角度来说，就催生了中国一个最大的问题，中国缺乏足够多",
+            "utterances": [
+              {
+                "end_time": 1520,
+                "start_time": 40,
+                "text": "速度特别快的产业。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "速"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 160,
+                    "text": "度"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 280,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 440,
+                    "text": "别"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 560,
+                    "text": "快"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 840,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1080,
+                    "text": "产"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1280,
+                    "text": "业"
+                  }
+                ]
+              },
+              {
+                "end_time": 8560,
+                "start_time": 1960,
+                "text": "所以从这个角度来说，就催生了中国一个最大的问题，中国缺乏足够多",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1960,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2120,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2280,
+                    "text": "从"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2720,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2960,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3280,
+                    "start_time": 3120,
+                    "text": "角"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3280,
+                    "text": "度"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3400,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3560,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3720,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 4000,
+                    "text": "催"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4520,
+                    "start_time": 4280,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4720,
+                    "start_time": 4520,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5280,
+                    "start_time": 5000,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5440,
+                    "start_time": 5280,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5600,
+                    "start_time": 5440,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5760,
+                    "start_time": 5600,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5960,
+                    "start_time": 5760,
+                    "text": "最"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6120,
+                    "start_time": 5960,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6120,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6520,
+                    "start_time": 6280,
+                    "text": "问"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6720,
+                    "start_time": 6520,
+                    "text": "题"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7200,
+                    "start_time": 7000,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7440,
+                    "start_time": 7200,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7800,
+                    "start_time": 7480,
+                    "text": "缺"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8000,
+                    "start_time": 7800,
+                    "text": "乏"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8240,
+                    "start_time": 8040,
+                    "text": "足"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8360,
+                    "start_time": 8240,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8560,
+                    "start_time": 8360,
+                    "text": "多"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 8640
+      },
+      "result": {
+        "additions": {
+          "duration": "8640"
+        },
+        "text": "速度特别快的产业。所以从这个角度来说，就催生了中国一个最大的问题，中国缺乏足够多",
+        "utterances": [
+          {
+            "end_time": 1520,
+            "start_time": 40,
+            "text": "速度特别快的产业。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "速"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 560,
+                "text": "快"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1080,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1280,
+                "text": "业"
+              }
+            ]
+          },
+          {
+            "end_time": 8560,
+            "start_time": 1960,
+            "text": "所以从这个角度来说，就催生了中国一个最大的问题，中国缺乏足够多",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1960,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2280,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2720,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3120,
+                "text": "角"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3280,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3400,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3560,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3720,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4000,
+                "text": "催"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4280,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4520,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5000,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5280,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5440,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5760,
+                "start_time": 5600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5760,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 5960,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6520,
+                "start_time": 6280,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6520,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7200,
+                "start_time": 7000,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7200,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7800,
+                "start_time": 7480,
+                "text": "缺"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7800,
+                "text": "乏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8240,
+                "start_time": 8040,
+                "text": "足"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8360,
+                "start_time": 8240,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8360,
+                "text": "多"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

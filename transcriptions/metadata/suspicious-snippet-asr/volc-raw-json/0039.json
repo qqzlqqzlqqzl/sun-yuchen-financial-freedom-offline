@@ -1,0 +1,36 @@
+{
+  "item": {
+    "index": 39,
+    "audio_id": "official-vimeo-m4a-partial__049__a4da2ce3",
+    "episode": "049",
+    "title": "【番外】投资分享会中与粉丝交流的部分 [1179727406]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/049 - 049【番外】投资分享会中与粉丝交流的部分 [1179727406].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/049__official-vimeo-m4a-partial__049__a4da2ce3__04.wav",
+    "snippet_index": 4,
+    "start_seconds": 765.42,
+    "end_seconds": 775.82,
+    "chunk_index": 4,
+    "issue_types": [
+      "行内循环"
+    ],
+    "line_refs": [
+      174
+    ],
+    "samples": [
+      "然后呢我前段时间大概涨到5000多的时候把它卖掉但我卖掉不是因为不看好比特币呀因为有些别的"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 36
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "9749ab3f-ffe1-4a2d-a549-3c6ac33dab5e",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    "queries": []
+  }
+}

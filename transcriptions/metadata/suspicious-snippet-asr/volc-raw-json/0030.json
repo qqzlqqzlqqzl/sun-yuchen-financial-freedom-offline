@@ -1,0 +1,47 @@
+{
+  "item": {
+    "index": 30,
+    "audio_id": "official-vimeo-m4a-partial__039__ced3f110",
+    "episode": "039",
+    "title": "你什么时候才能成年 [1179725490]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/039 - 039你什么时候才能成年 [1179725490].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/039__official-vimeo-m4a-partial__039__ced3f110__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 28.0,
+    "end_seconds": 841.98,
+    "chunk_index": 0,
+    "issue_types": [
+      "连续重复"
+    ],
+    "line_refs": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "samples": [
+      "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+    ],
+    "local_review_level": "high",
+    "local_review_severity": 214
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "20c44f8e-7de9-46de-b9c1-17cc73328bb9",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    "queries": []
+  }
+}

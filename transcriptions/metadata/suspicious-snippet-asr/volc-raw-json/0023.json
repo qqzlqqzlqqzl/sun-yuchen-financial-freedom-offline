@@ -1,0 +1,510 @@
+{
+  "item": {
+    "index": 23,
+    "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+    "episode": "029",
+    "title": "子女与父母的关系 [1179696163]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/029 - 029子女与父母的关系 [1179696163].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/029__official-vimeo-m4a-partial__029__bea15de4__00.wav",
+    "snippet_index": 0,
+    "start_seconds": 135.0,
+    "end_seconds": 142.12,
+    "chunk_index": 0,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "samples": [
+      "我相信我未来十年很有可能也会有小孩子,",
+      "我相信我未来十年很有可能也会有小孩子,"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 43
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "9ab10d72-99ce-4bab-b268-2ccfba30e525",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527150318DE1E62EA35ADFC365D2B",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527150320E7E9DDAB074A19B8FAAC",
+        "response": {
+          "audio_info": {
+            "duration": 7120
+          },
+          "result": {
+            "additions": {
+              "duration": "7120"
+            },
+            "text": "因为其实我今年26岁啊，我相信我未来十年很有可能也会有小孩。就是我对我的女儿",
+            "utterances": [
+              {
+                "end_time": 6880,
+                "start_time": 80,
+                "text": "因为其实我今年26岁啊，我相信我未来十年很有可能也会有小孩。就是我对我的女儿",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 80,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 240,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 360,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 520,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 640,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1040,
+                    "text": "今"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1240,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1360,
+                    "text": "26"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1720,
+                    "text": "岁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1880,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2080,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2240,
+                    "text": "相"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2360,
+                    "text": "信"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2440,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2760,
+                    "start_time": 2640,
+                    "text": "未"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2880,
+                    "start_time": 2760,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3040,
+                    "start_time": 2880,
+                    "text": "十"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3040,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3320,
+                    "start_time": 3200,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3440,
+                    "start_time": 3320,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3440,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3520,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3560,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3840,
+                    "start_time": 3720,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4000,
+                    "start_time": 3840,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 4000,
+                    "text": "小"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4160,
+                    "text": "孩"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 5040,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5200,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5360,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5560,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5840,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6080,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6560,
+                    "text": "女"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6880,
+                    "start_time": 6760,
+                    "text": "儿"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7120
+      },
+      "result": {
+        "additions": {
+          "duration": "7120"
+        },
+        "text": "因为其实我今年26岁啊，我相信我未来十年很有可能也会有小孩。就是我对我的女儿",
+        "utterances": [
+          {
+            "end_time": 6880,
+            "start_time": 80,
+            "text": "因为其实我今年26岁啊，我相信我未来十年很有可能也会有小孩。就是我对我的女儿",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 80,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 360,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 520,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 640,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "今"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1240,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1360,
+                "text": "26"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1720,
+                "text": "岁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2080,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2240,
+                "text": "相"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2360,
+                "text": "信"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2440,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2640,
+                "text": "未"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2880,
+                "start_time": 2760,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2880,
+                "text": "十"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3040,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3200,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3320,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3440,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3520,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3560,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3720,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3840,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4000,
+                "text": "小"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4160,
+                "text": "孩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5040,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5200,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5360,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5560,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5840,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6080,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6560,
+                "text": "女"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6880,
+                "start_time": 6760,
+                "text": "儿"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

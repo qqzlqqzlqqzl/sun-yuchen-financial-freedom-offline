@@ -1,0 +1,49 @@
+{
+  "item": {
+    "index": 27,
+    "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+    "episode": "032",
+    "title": "布林顿森林体系的建立与崩塌 [1179724265]",
+    "source": "official-vimeo-m4a-partial",
+    "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+    "snippet_path": "transcriptions/metadata/suspicious-snippet-asr/snippets/032__official-vimeo-m4a-partial__032__2714f2f9__01.wav",
+    "snippet_index": 1,
+    "start_seconds": 862.42,
+    "end_seconds": 876.5,
+    "chunk_index": 1,
+    "issue_types": [
+      "近似重复",
+      "连续重复"
+    ],
+    "line_refs": [
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171
+    ],
+    "samples": [
+      "那我们就来看看这个问题吧。",
+      "那我们就来看看这个问题吧。"
+    ],
+    "local_review_level": "medium",
+    "local_review_severity": 71
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "11bb3975-ebb6-4c00-aa72-d7735ecc3e85",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}
