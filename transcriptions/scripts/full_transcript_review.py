@@ -143,7 +143,7 @@ def repeated_unit_hits(line: str) -> list[dict]:
         index = 0
         while index <= len(text) - size * 3:
             unit = text[index : index + size]
-            if not unit or (size > 1 and len(set(unit)) == 1):
+            if not unit or unit.isdigit() or (size > 1 and len(set(unit)) == 1):
                 index += 1
                 continue
             count = 1
@@ -350,7 +350,9 @@ def write_markdown(path: Path, rows: list[ReviewRow], summary: dict):
                 loc = f" L{issue['line']}"
             elif "lines" in issue:
                 loc = f" lines {issue['lines'][:8]}"
-            lines.append(f"- {issue['type']}{loc}: {str(sample)[:140]}")
+            sample_text = str(sample)[:140]
+            suffix = f": {sample_text}" if sample_text else ":"
+            lines.append(f"- {issue['type']}{loc}{suffix}")
 
     lines.append("")
     lines.append("## 每份文稿状态")
@@ -368,6 +370,7 @@ def write_csv(path: Path, rows: list[ReviewRow]):
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(
             handle,
+            lineterminator="\n",
             fieldnames=[
                 "level",
                 "severity",
