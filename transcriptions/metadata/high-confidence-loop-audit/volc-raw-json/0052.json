@@ -1,0 +1,60 @@
+{
+  "item": {
+    "index": 52,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 61,
+    "segment_start": 580.04,
+    "segment_end": 580.06,
+    "snippet_start": 578.8399999999999,
+    "snippet_end": 581.26,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0052__wavlake-mp3__082__3a025f97__line0061.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "853d8abb-78f6-4883-8493-787a720f9a96",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203206245E5922DF536312238",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000003",
+        "api_message": "[Normal silence audio] Handle response: no valid speech in audio",
+        "tt_logid": "20260527120320DE62BB4B21838DDD4550",
+        "response": {
+          "audio_info": {
+            "duration": 1542
+          },
+          "result": {
+            "additions": {
+              "duration": "1542"
+            },
+            "text": ""
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 1542
+      },
+      "result": {
+        "additions": {
+          "duration": "1542"
+        },
+        "text": ""
+      }
+    }
+  }
+}

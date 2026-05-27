@@ -1,0 +1,648 @@
+{
+  "item": {
+    "index": 17,
+    "audio_id": "wavlake-mp3__080__63763504",
+    "episode": "080",
+    "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "line_no": 54,
+    "segment_start": 637.82,
+    "segment_end": 649.5,
+    "snippet_start": 636.62,
+    "snippet_end": 650.7,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+    "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0017__wavlake-mp3__080__63763504__line0054.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "cd30fa76-beef-47df-bb11-4839aedd027e",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120243545D14FC2E7A0593B050",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271202443104F9305E32FB69014F",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271202467776D31813DE4E6B23E2",
+        "response": {
+          "audio_info": {
+            "duration": 14080
+          },
+          "result": {
+            "additions": {
+              "duration": "14080"
+            },
+            "text": "跟踪定位器。就是跟那个新闻里演的那绑架的那种。对，作案工具一样。对，当时我这个真的是惊出一身冷汗。",
+            "utterances": [
+              {
+                "end_time": 1360,
+                "start_time": 200,
+                "text": "跟踪定位器。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 200,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 440,
+                    "text": "踪"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 720,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 880,
+                    "text": "位"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1080,
+                    "text": "器"
+                  }
+                ]
+              },
+              {
+                "end_time": 6270,
+                "start_time": 3190,
+                "text": "就是跟那个新闻里演的那绑架的那种。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3350,
+                    "start_time": 3190,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3510,
+                    "start_time": 3350,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3750,
+                    "start_time": 3510,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3950,
+                    "start_time": 3790,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4190,
+                    "start_time": 3950,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4590,
+                    "start_time": 4350,
+                    "text": "新"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4710,
+                    "start_time": 4590,
+                    "text": "闻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4870,
+                    "start_time": 4790,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5110,
+                    "start_time": 4950,
+                    "text": "演"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5270,
+                    "start_time": 5110,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5390,
+                    "start_time": 5270,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5710,
+                    "start_time": 5590,
+                    "text": "绑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5790,
+                    "start_time": 5710,
+                    "text": "架"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5990,
+                    "start_time": 5910,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6070,
+                    "start_time": 6030,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6270,
+                    "start_time": 6110,
+                    "text": "种"
+                  }
+                ]
+              },
+              {
+                "end_time": 9260,
+                "start_time": 8100,
+                "text": "对，作案工具一样。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8220,
+                    "start_time": 8100,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8380,
+                    "start_time": 8340,
+                    "text": "作"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8540,
+                    "start_time": 8460,
+                    "text": "案"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8700,
+                    "start_time": 8660,
+                    "text": "工"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8860,
+                    "start_time": 8780,
+                    "text": "具"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9100,
+                    "start_time": 8940,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9260,
+                    "start_time": 9100,
+                    "text": "样"
+                  }
+                ]
+              },
+              {
+                "end_time": 13020,
+                "start_time": 9420,
+                "text": "对，当时我这个真的是惊出一身冷汗。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 9580,
+                    "start_time": 9420,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9820,
+                    "start_time": 9660,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9980,
+                    "start_time": 9820,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10260,
+                    "start_time": 9980,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10460,
+                    "start_time": 10260,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10660,
+                    "start_time": 10460,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11380,
+                    "start_time": 11180,
+                    "text": "真"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11500,
+                    "start_time": 11380,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11740,
+                    "start_time": 11500,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11980,
+                    "start_time": 11940,
+                    "text": "惊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12300,
+                    "start_time": 12100,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12460,
+                    "start_time": 12300,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12580,
+                    "start_time": 12460,
+                    "text": "身"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12820,
+                    "start_time": 12700,
+                    "text": "冷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13020,
+                    "start_time": 12820,
+                    "text": "汗"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 14080
+      },
+      "result": {
+        "additions": {
+          "duration": "14080"
+        },
+        "text": "跟踪定位器。就是跟那个新闻里演的那绑架的那种。对，作案工具一样。对，当时我这个真的是惊出一身冷汗。",
+        "utterances": [
+          {
+            "end_time": 1360,
+            "start_time": 200,
+            "text": "跟踪定位器。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 200,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 440,
+                "text": "踪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 720,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 880,
+                "text": "位"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1080,
+                "text": "器"
+              }
+            ]
+          },
+          {
+            "end_time": 6270,
+            "start_time": 3190,
+            "text": "就是跟那个新闻里演的那绑架的那种。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3350,
+                "start_time": 3190,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3510,
+                "start_time": 3350,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3750,
+                "start_time": 3510,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3950,
+                "start_time": 3790,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4190,
+                "start_time": 3950,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4590,
+                "start_time": 4350,
+                "text": "新"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4710,
+                "start_time": 4590,
+                "text": "闻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4870,
+                "start_time": 4790,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5110,
+                "start_time": 4950,
+                "text": "演"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5270,
+                "start_time": 5110,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5390,
+                "start_time": 5270,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5710,
+                "start_time": 5590,
+                "text": "绑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5790,
+                "start_time": 5710,
+                "text": "架"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5990,
+                "start_time": 5910,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6070,
+                "start_time": 6030,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6270,
+                "start_time": 6110,
+                "text": "种"
+              }
+            ]
+          },
+          {
+            "end_time": 9260,
+            "start_time": 8100,
+            "text": "对，作案工具一样。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8220,
+                "start_time": 8100,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8380,
+                "start_time": 8340,
+                "text": "作"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8540,
+                "start_time": 8460,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8700,
+                "start_time": 8660,
+                "text": "工"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8860,
+                "start_time": 8780,
+                "text": "具"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9100,
+                "start_time": 8940,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9260,
+                "start_time": 9100,
+                "text": "样"
+              }
+            ]
+          },
+          {
+            "end_time": 13020,
+            "start_time": 9420,
+            "text": "对，当时我这个真的是惊出一身冷汗。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 9580,
+                "start_time": 9420,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9820,
+                "start_time": 9660,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9980,
+                "start_time": 9820,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10260,
+                "start_time": 9980,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10460,
+                "start_time": 10260,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10660,
+                "start_time": 10460,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11380,
+                "start_time": 11180,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11500,
+                "start_time": 11380,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11740,
+                "start_time": 11500,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11980,
+                "start_time": 11940,
+                "text": "惊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12300,
+                "start_time": 12100,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12460,
+                "start_time": 12300,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12580,
+                "start_time": 12460,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12820,
+                "start_time": 12700,
+                "text": "冷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13020,
+                "start_time": 12820,
+                "text": "汗"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

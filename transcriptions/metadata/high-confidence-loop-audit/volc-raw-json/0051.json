@@ -1,0 +1,138 @@
+{
+  "item": {
+    "index": 51,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 60,
+    "segment_start": 565.96,
+    "segment_end": 580.04,
+    "snippet_start": 564.76,
+    "snippet_end": 581.24,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0051__wavlake-mp3__082__3a025f97__line0060.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "ff527213-e892-4710-b13d-fac2a1829152",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120320CDB00F76F77432B445C9",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203203396C561579A34B25464",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271203224190EF70FC1A04E93148",
+        "response": {
+          "audio_info": {
+            "duration": 15622
+          },
+          "result": {
+            "additions": {
+              "duration": "15622"
+            },
+            "text": "谢谢大家！",
+            "utterances": [
+              {
+                "end_time": 1120,
+                "start_time": 440,
+                "text": "谢谢大家！",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 440,
+                    "text": "谢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 680,
+                    "text": "谢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 760,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1120,
+                    "start_time": 960,
+                    "text": "家"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 15622
+      },
+      "result": {
+        "additions": {
+          "duration": "15622"
+        },
+        "text": "谢谢大家！",
+        "utterances": [
+          {
+            "end_time": 1120,
+            "start_time": 440,
+            "text": "谢谢大家！",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "谢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 680,
+                "text": "谢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 760,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 960,
+                "text": "家"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2068 @@
+{
+  "item": {
+    "index": 34,
+    "audio_id": "wavlake-mp3__081__b0c91068",
+    "episode": "081",
+    "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "line_no": 38,
+    "segment_start": 868.88,
+    "segment_end": 898.86,
+    "snippet_start": 867.68,
+    "snippet_end": 900.0600000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+    "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0034__wavlake-mp3__081__b0c91068__line0038.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "8f21644d-b614-4b4b-bf89-18dd85265d7a",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120251E4B78F4053EFFD5A51A6",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271203018DA56F4D8B358E04D29D",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "是吧？去麦当劳培训一周，我就可以上岗了。啊，做出麦当劳汉堡啊，材料、食材、火候、地点没有任何要求，任何人、傻瓜都能做出这样的汉堡。麦当劳就走的是这个路线啊，所以他成功就成功在能够让全世界人都迅速做出60份的汉堡，所以他就能称霸全世界。而这个就是中国和美国两个国家的优势，我们都是这样的人。啊，所有的东西，大家可能知道，在制造业不是有个中国法则嘛，就是对，有一个任何",
+            "utterances": [
+              {
+                "end_time": 560,
+                "start_time": 240,
+                "text": "是吧？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 240,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 440,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 2800,
+                "start_time": 600,
+                "text": "去麦当劳培训一周，我就可以上岗了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 600,
+                    "text": "去"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 840,
+                    "text": "麦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 1000,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1120,
+                    "text": "劳"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1320,
+                    "text": "培"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1440,
+                    "text": "训"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1560,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1720,
+                    "text": "周"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1840,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 2040,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2120,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2200,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2280,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2440,
+                    "text": "岗"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2600,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 11000,
+                "start_time": 2920,
+                "text": "啊，做出麦当劳汉堡啊，材料、食材、火候、地点没有任何要求，任何人、傻瓜都能做出这样的汉堡。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2920,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3240,
+                    "start_time": 3080,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3240,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3440,
+                    "text": "麦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3560,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3680,
+                    "text": "劳"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4000,
+                    "start_time": 3840,
+                    "text": "汉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4120,
+                    "start_time": 4000,
+                    "text": "堡"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4440,
+                    "start_time": 4280,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 4840,
+                    "text": "材"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5400,
+                    "start_time": 5120,
+                    "text": "料"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5960,
+                    "start_time": 5720,
+                    "text": "食"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6160,
+                    "start_time": 5960,
+                    "text": "材"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6560,
+                    "start_time": 6280,
+                    "text": "火"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6640,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7160,
+                    "start_time": 6920,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7400,
+                    "start_time": 7160,
+                    "text": "点"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7640,
+                    "start_time": 7480,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7640,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7880,
+                    "start_time": 7760,
+                    "text": "任"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8040,
+                    "start_time": 7880,
+                    "text": "何"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8240,
+                    "start_time": 8040,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8400,
+                    "start_time": 8240,
+                    "text": "求"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8960,
+                    "start_time": 8760,
+                    "text": "任"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9080,
+                    "start_time": 8960,
+                    "text": "何"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9320,
+                    "start_time": 9080,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9640,
+                    "start_time": 9400,
+                    "text": "傻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9640,
+                    "text": "瓜"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10080,
+                    "start_time": 9880,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10200,
+                    "start_time": 10080,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10320,
+                    "start_time": 10200,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10440,
+                    "start_time": 10320,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10440,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10600,
+                    "start_time": 10520,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10720,
+                    "start_time": 10600,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10880,
+                    "start_time": 10720,
+                    "text": "汉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11000,
+                    "start_time": 10880,
+                    "text": "堡"
+                  }
+                ]
+              },
+              {
+                "end_time": 20720,
+                "start_time": 11760,
+                "text": "麦当劳就走的是这个路线啊，所以他成功就成功在能够让全世界人都迅速做出60份的汉堡，所以他就能称霸全世界。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 11880,
+                    "start_time": 11760,
+                    "text": "麦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12000,
+                    "start_time": 11960,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12160,
+                    "start_time": 12080,
+                    "text": "劳"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12360,
+                    "start_time": 12240,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12520,
+                    "start_time": 12360,
+                    "text": "走"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12560,
+                    "start_time": 12520,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12720,
+                    "start_time": 12600,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12880,
+                    "start_time": 12720,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13000,
+                    "start_time": 12880,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13160,
+                    "start_time": 13000,
+                    "text": "路"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13320,
+                    "start_time": 13160,
+                    "text": "线"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13640,
+                    "start_time": 13480,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14200,
+                    "start_time": 14000,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14400,
+                    "start_time": 14200,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14600,
+                    "start_time": 14480,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15200,
+                    "start_time": 14960,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15320,
+                    "start_time": 15200,
+                    "text": "功"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15560,
+                    "start_time": 15320,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15720,
+                    "start_time": 15600,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15800,
+                    "start_time": 15720,
+                    "text": "功"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16120,
+                    "start_time": 15880,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16440,
+                    "start_time": 16240,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16560,
+                    "start_time": 16440,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16840,
+                    "start_time": 16560,
+                    "text": "让"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17080,
+                    "start_time": 16840,
+                    "text": "全"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17240,
+                    "start_time": 17080,
+                    "text": "世"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17320,
+                    "start_time": 17240,
+                    "text": "界"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17520,
+                    "start_time": 17320,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17720,
+                    "start_time": 17520,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17920,
+                    "start_time": 17720,
+                    "text": "迅"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18040,
+                    "start_time": 17920,
+                    "text": "速"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18240,
+                    "start_time": 18080,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18400,
+                    "start_time": 18240,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18640,
+                    "start_time": 18400,
+                    "text": "60"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18800,
+                    "start_time": 18640,
+                    "text": "份"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18960,
+                    "start_time": 18800,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19080,
+                    "start_time": 18960,
+                    "text": "汉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19200,
+                    "start_time": 19080,
+                    "text": "堡"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19400,
+                    "start_time": 19280,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19480,
+                    "start_time": 19400,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19560,
+                    "start_time": 19480,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19720,
+                    "start_time": 19600,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19880,
+                    "start_time": 19720,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20000,
+                    "start_time": 19880,
+                    "text": "称"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20200,
+                    "start_time": 20040,
+                    "text": "霸"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20400,
+                    "start_time": 20280,
+                    "text": "全"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20560,
+                    "start_time": 20400,
+                    "text": "世"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20720,
+                    "start_time": 20560,
+                    "text": "界"
+                  }
+                ]
+              },
+              {
+                "end_time": 25200,
+                "start_time": 21040,
+                "text": "而这个就是中国和美国两个国家的优势，我们都是这样的人。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 21360,
+                    "start_time": 21040,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21560,
+                    "start_time": 21360,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21720,
+                    "start_time": 21560,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21880,
+                    "start_time": 21720,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22080,
+                    "start_time": 21880,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22280,
+                    "start_time": 22080,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22440,
+                    "start_time": 22280,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22680,
+                    "start_time": 22440,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22880,
+                    "start_time": 22680,
+                    "text": "美"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23080,
+                    "start_time": 22880,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23280,
+                    "start_time": 23120,
+                    "text": "两"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23440,
+                    "start_time": 23280,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23560,
+                    "start_time": 23440,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23680,
+                    "start_time": 23560,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23840,
+                    "start_time": 23680,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24000,
+                    "start_time": 23840,
+                    "text": "优"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24080,
+                    "start_time": 24000,
+                    "text": "势"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24400,
+                    "start_time": 24200,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24520,
+                    "start_time": 24400,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24680,
+                    "start_time": 24520,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24800,
+                    "start_time": 24680,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24880,
+                    "start_time": 24800,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25000,
+                    "start_time": 24880,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25120,
+                    "start_time": 25000,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25200,
+                    "start_time": 25160,
+                    "text": "人"
+                  }
+                ]
+              },
+              {
+                "end_time": 32220,
+                "start_time": 25620,
+                "text": "啊，所有的东西，大家可能知道，在制造业不是有个中国法则嘛，就是对，有一个任何",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 25740,
+                    "start_time": 25620,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26340,
+                    "start_time": 26140,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26420,
+                    "start_time": 26340,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26540,
+                    "start_time": 26420,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26660,
+                    "start_time": 26540,
+                    "text": "东"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26780,
+                    "start_time": 26660,
+                    "text": "西"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26940,
+                    "start_time": 26780,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27020,
+                    "start_time": 26940,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27140,
+                    "start_time": 27020,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27260,
+                    "start_time": 27140,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27380,
+                    "start_time": 27260,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27460,
+                    "start_time": 27380,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27580,
+                    "start_time": 27540,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27780,
+                    "start_time": 27700,
+                    "text": "制"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27860,
+                    "start_time": 27820,
+                    "text": "造"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27980,
+                    "start_time": 27860,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28140,
+                    "start_time": 28020,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28180,
+                    "start_time": 28140,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28300,
+                    "start_time": 28180,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28380,
+                    "start_time": 28300,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28500,
+                    "start_time": 28380,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28660,
+                    "start_time": 28500,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28860,
+                    "start_time": 28660,
+                    "text": "法"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28980,
+                    "start_time": 28860,
+                    "text": "则"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29140,
+                    "start_time": 29060,
+                    "text": "嘛"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29820,
+                    "start_time": 29580,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30100,
+                    "start_time": 29820,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30900,
+                    "start_time": 30580,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31260,
+                    "start_time": 30940,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31500,
+                    "start_time": 31260,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31740,
+                    "start_time": 31500,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32100,
+                    "start_time": 31860,
+                    "text": "任"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32220,
+                    "start_time": 32100,
+                    "text": "何"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "是吧？去麦当劳培训一周，我就可以上岗了。啊，做出麦当劳汉堡啊，材料、食材、火候、地点没有任何要求，任何人、傻瓜都能做出这样的汉堡。麦当劳就走的是这个路线啊，所以他成功就成功在能够让全世界人都迅速做出60份的汉堡，所以他就能称霸全世界。而这个就是中国和美国两个国家的优势，我们都是这样的人。啊，所有的东西，大家可能知道，在制造业不是有个中国法则嘛，就是对，有一个任何",
+        "utterances": [
+          {
+            "end_time": 560,
+            "start_time": 240,
+            "text": "是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 240,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 2800,
+            "start_time": 600,
+            "text": "去麦当劳培训一周，我就可以上岗了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 600,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 840,
+                "text": "麦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 1000,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1120,
+                "text": "劳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1320,
+                "text": "培"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1440,
+                "text": "训"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1560,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "周"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1840,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2040,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2120,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2200,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2280,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2440,
+                "text": "岗"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2600,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 11000,
+            "start_time": 2920,
+            "text": "啊，做出麦当劳汉堡啊，材料、食材、火候、地点没有任何要求，任何人、傻瓜都能做出这样的汉堡。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2920,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3080,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3240,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3440,
+                "text": "麦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3560,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3680,
+                "text": "劳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3840,
+                "text": "汉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 4000,
+                "text": "堡"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4280,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 4840,
+                "text": "材"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5120,
+                "text": "料"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5720,
+                "text": "食"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6160,
+                "start_time": 5960,
+                "text": "材"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6280,
+                "text": "火"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6640,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 6920,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7400,
+                "start_time": 7160,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 7480,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7640,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7760,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8040,
+                "start_time": 7880,
+                "text": "何"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8240,
+                "start_time": 8040,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8400,
+                "start_time": 8240,
+                "text": "求"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8760,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9080,
+                "start_time": 8960,
+                "text": "何"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9080,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9400,
+                "text": "傻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9640,
+                "text": "瓜"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10080,
+                "start_time": 9880,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10200,
+                "start_time": 10080,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10320,
+                "start_time": 10200,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10440,
+                "start_time": 10320,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10440,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10600,
+                "start_time": 10520,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10720,
+                "start_time": 10600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10880,
+                "start_time": 10720,
+                "text": "汉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11000,
+                "start_time": 10880,
+                "text": "堡"
+              }
+            ]
+          },
+          {
+            "end_time": 20720,
+            "start_time": 11760,
+            "text": "麦当劳就走的是这个路线啊，所以他成功就成功在能够让全世界人都迅速做出60份的汉堡，所以他就能称霸全世界。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11880,
+                "start_time": 11760,
+                "text": "麦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12000,
+                "start_time": 11960,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12160,
+                "start_time": 12080,
+                "text": "劳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12360,
+                "start_time": 12240,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12520,
+                "start_time": 12360,
+                "text": "走"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12560,
+                "start_time": 12520,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12720,
+                "start_time": 12600,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12880,
+                "start_time": 12720,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13000,
+                "start_time": 12880,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13160,
+                "start_time": 13000,
+                "text": "路"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13320,
+                "start_time": 13160,
+                "text": "线"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13640,
+                "start_time": 13480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14200,
+                "start_time": 14000,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14400,
+                "start_time": 14200,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14600,
+                "start_time": 14480,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15200,
+                "start_time": 14960,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15320,
+                "start_time": 15200,
+                "text": "功"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15560,
+                "start_time": 15320,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15720,
+                "start_time": 15600,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15800,
+                "start_time": 15720,
+                "text": "功"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16120,
+                "start_time": 15880,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16440,
+                "start_time": 16240,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16560,
+                "start_time": 16440,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16840,
+                "start_time": 16560,
+                "text": "让"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17080,
+                "start_time": 16840,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17240,
+                "start_time": 17080,
+                "text": "世"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17320,
+                "start_time": 17240,
+                "text": "界"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17520,
+                "start_time": 17320,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17720,
+                "start_time": 17520,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17920,
+                "start_time": 17720,
+                "text": "迅"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18040,
+                "start_time": 17920,
+                "text": "速"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18240,
+                "start_time": 18080,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18400,
+                "start_time": 18240,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18640,
+                "start_time": 18400,
+                "text": "60"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18800,
+                "start_time": 18640,
+                "text": "份"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18960,
+                "start_time": 18800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19080,
+                "start_time": 18960,
+                "text": "汉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19200,
+                "start_time": 19080,
+                "text": "堡"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19400,
+                "start_time": 19280,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19480,
+                "start_time": 19400,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19560,
+                "start_time": 19480,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19720,
+                "start_time": 19600,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19880,
+                "start_time": 19720,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20000,
+                "start_time": 19880,
+                "text": "称"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20200,
+                "start_time": 20040,
+                "text": "霸"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20400,
+                "start_time": 20280,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20560,
+                "start_time": 20400,
+                "text": "世"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20720,
+                "start_time": 20560,
+                "text": "界"
+              }
+            ]
+          },
+          {
+            "end_time": 25200,
+            "start_time": 21040,
+            "text": "而这个就是中国和美国两个国家的优势，我们都是这样的人。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 21360,
+                "start_time": 21040,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21560,
+                "start_time": 21360,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21720,
+                "start_time": 21560,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21880,
+                "start_time": 21720,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22080,
+                "start_time": 21880,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22280,
+                "start_time": 22080,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22440,
+                "start_time": 22280,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22680,
+                "start_time": 22440,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22880,
+                "start_time": 22680,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23080,
+                "start_time": 22880,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23280,
+                "start_time": 23120,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23440,
+                "start_time": 23280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23560,
+                "start_time": 23440,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23680,
+                "start_time": 23560,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23840,
+                "start_time": 23680,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24000,
+                "start_time": 23840,
+                "text": "优"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24080,
+                "start_time": 24000,
+                "text": "势"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24400,
+                "start_time": 24200,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24520,
+                "start_time": 24400,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24680,
+                "start_time": 24520,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24800,
+                "start_time": 24680,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24880,
+                "start_time": 24800,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25000,
+                "start_time": 24880,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25120,
+                "start_time": 25000,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25200,
+                "start_time": 25160,
+                "text": "人"
+              }
+            ]
+          },
+          {
+            "end_time": 32220,
+            "start_time": 25620,
+            "text": "啊，所有的东西，大家可能知道，在制造业不是有个中国法则嘛，就是对，有一个任何",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 25740,
+                "start_time": 25620,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26340,
+                "start_time": 26140,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26420,
+                "start_time": 26340,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26540,
+                "start_time": 26420,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26660,
+                "start_time": 26540,
+                "text": "东"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26780,
+                "start_time": 26660,
+                "text": "西"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26940,
+                "start_time": 26780,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27020,
+                "start_time": 26940,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27140,
+                "start_time": 27020,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27260,
+                "start_time": 27140,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27380,
+                "start_time": 27260,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27460,
+                "start_time": 27380,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27580,
+                "start_time": 27540,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27780,
+                "start_time": 27700,
+                "text": "制"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27860,
+                "start_time": 27820,
+                "text": "造"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27980,
+                "start_time": 27860,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28140,
+                "start_time": 28020,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28180,
+                "start_time": 28140,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28300,
+                "start_time": 28180,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28380,
+                "start_time": 28300,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28500,
+                "start_time": 28380,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28660,
+                "start_time": 28500,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28860,
+                "start_time": 28660,
+                "text": "法"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28980,
+                "start_time": 28860,
+                "text": "则"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29140,
+                "start_time": 29060,
+                "text": "嘛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29820,
+                "start_time": 29580,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30100,
+                "start_time": 29820,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30900,
+                "start_time": 30580,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31260,
+                "start_time": 30940,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31500,
+                "start_time": 31260,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31740,
+                "start_time": 31500,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32100,
+                "start_time": 31860,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32220,
+                "start_time": 32100,
+                "text": "何"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

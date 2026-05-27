@@ -1,0 +1,936 @@
+{
+  "item": {
+    "index": 10,
+    "audio_id": "wavlake-mp3__073__e839750d",
+    "episode": "073",
+    "title": "073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+    "line_no": 50,
+    "segment_start": 315.78,
+    "segment_end": 332.94,
+    "snippet_start": 314.58,
+    "snippet_end": 334.14,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。",
+    "audio_path": "wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0010__wavlake-mp3__073__e839750d__line0050.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "e263467e-d17f-41ab-8dc3-91bbb58b8d13",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120240952F99E927453031FFA2",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120241298A67939C66216EA9FE",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120243750513B78193135AFE47",
+        "response": {
+          "audio_info": {
+            "duration": 19560
+          },
+          "result": {
+            "additions": {
+              "duration": "19560"
+            },
+            "text": "来完成赚钱的。交易就一定是交易双方都得利，无论是你这个交易看上去多么不公平。但只要是自愿的交易，交易双方都得利。整个社会都因为这个交易而变得更好。",
+            "utterances": [
+              {
+                "end_time": 1280,
+                "start_time": 80,
+                "text": "来完成赚钱的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 80,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 320,
+                    "text": "完"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 520,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 640,
+                    "text": "赚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 880,
+                    "text": "钱"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1080,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 10240,
+                "start_time": 2280,
+                "text": "交易就一定是交易双方都得利，无论是你这个交易看上去多么不公平。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2280,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2640,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3520,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4120,
+                    "start_time": 3880,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4120,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4320,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4840,
+                    "start_time": 4600,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4840,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5240,
+                    "start_time": 5000,
+                    "text": "双"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5440,
+                    "start_time": 5240,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5440,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5640,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6040,
+                    "start_time": 5880,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7360,
+                    "start_time": 7080,
+                    "text": "无"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7360,
+                    "text": "论"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7920,
+                    "start_time": 7560,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8280,
+                    "start_time": 8040,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8440,
+                    "start_time": 8280,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8560,
+                    "start_time": 8440,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8560,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8800,
+                    "start_time": 8720,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9040,
+                    "start_time": 8840,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9160,
+                    "start_time": 9040,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9320,
+                    "start_time": 9160,
+                    "text": "去"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9520,
+                    "start_time": 9320,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9640,
+                    "start_time": 9520,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9640,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10040,
+                    "start_time": 9840,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10240,
+                    "start_time": 10040,
+                    "text": "平"
+                  }
+                ]
+              },
+              {
+                "end_time": 14340,
+                "start_time": 11020,
+                "text": "但只要是自愿的交易，交易双方都得利。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 11260,
+                    "start_time": 11020,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11460,
+                    "start_time": 11260,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11580,
+                    "start_time": 11460,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11780,
+                    "start_time": 11580,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11940,
+                    "start_time": 11780,
+                    "text": "自"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12140,
+                    "start_time": 11940,
+                    "text": "愿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12260,
+                    "start_time": 12180,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12500,
+                    "start_time": 12300,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12580,
+                    "start_time": 12500,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13060,
+                    "start_time": 12820,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13220,
+                    "start_time": 13060,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13500,
+                    "start_time": 13260,
+                    "text": "双"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13700,
+                    "start_time": 13500,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13900,
+                    "start_time": 13700,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14140,
+                    "start_time": 13900,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14340,
+                    "start_time": 14140,
+                    "text": "利"
+                  }
+                ]
+              },
+              {
+                "end_time": 18420,
+                "start_time": 15740,
+                "text": "整个社会都因为这个交易而变得更好。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 15940,
+                    "start_time": 15740,
+                    "text": "整"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16100,
+                    "start_time": 15940,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16300,
+                    "start_time": 16100,
+                    "text": "社"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16500,
+                    "start_time": 16300,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16700,
+                    "start_time": 16500,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16860,
+                    "start_time": 16700,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16980,
+                    "start_time": 16860,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17100,
+                    "start_time": 16980,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17220,
+                    "start_time": 17100,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17380,
+                    "start_time": 17220,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17500,
+                    "start_time": 17380,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17740,
+                    "start_time": 17540,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17900,
+                    "start_time": 17740,
+                    "text": "变"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17980,
+                    "start_time": 17900,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18140,
+                    "start_time": 17980,
+                    "text": "更"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18420,
+                    "start_time": 18140,
+                    "text": "好"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 19560
+      },
+      "result": {
+        "additions": {
+          "duration": "19560"
+        },
+        "text": "来完成赚钱的。交易就一定是交易双方都得利，无论是你这个交易看上去多么不公平。但只要是自愿的交易，交易双方都得利。整个社会都因为这个交易而变得更好。",
+        "utterances": [
+          {
+            "end_time": 1280,
+            "start_time": 80,
+            "text": "来完成赚钱的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 80,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 320,
+                "text": "完"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 520,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 640,
+                "text": "赚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 880,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1080,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 10240,
+            "start_time": 2280,
+            "text": "交易就一定是交易双方都得利，无论是你这个交易看上去多么不公平。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2280,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2640,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3520,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 3880,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4120,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4320,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4600,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4840,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5000,
+                "text": "双"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5240,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5440,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5640,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5880,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7080,
+                "text": "无"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7360,
+                "text": "论"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7560,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8040,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8440,
+                "start_time": 8280,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8560,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8800,
+                "start_time": 8720,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8840,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9160,
+                "start_time": 9040,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9160,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9520,
+                "start_time": 9320,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9520,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9640,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9840,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 10040,
+                "text": "平"
+              }
+            ]
+          },
+          {
+            "end_time": 14340,
+            "start_time": 11020,
+            "text": "但只要是自愿的交易，交易双方都得利。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11260,
+                "start_time": 11020,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11460,
+                "start_time": 11260,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11580,
+                "start_time": 11460,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11780,
+                "start_time": 11580,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11940,
+                "start_time": 11780,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12140,
+                "start_time": 11940,
+                "text": "愿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12260,
+                "start_time": 12180,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12500,
+                "start_time": 12300,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12580,
+                "start_time": 12500,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13060,
+                "start_time": 12820,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13220,
+                "start_time": 13060,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13500,
+                "start_time": 13260,
+                "text": "双"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13700,
+                "start_time": 13500,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13900,
+                "start_time": 13700,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14140,
+                "start_time": 13900,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14340,
+                "start_time": 14140,
+                "text": "利"
+              }
+            ]
+          },
+          {
+            "end_time": 18420,
+            "start_time": 15740,
+            "text": "整个社会都因为这个交易而变得更好。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 15940,
+                "start_time": 15740,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16100,
+                "start_time": 15940,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16300,
+                "start_time": 16100,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16500,
+                "start_time": 16300,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16700,
+                "start_time": 16500,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16860,
+                "start_time": 16700,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16980,
+                "start_time": 16860,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17100,
+                "start_time": 16980,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17220,
+                "start_time": 17100,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17380,
+                "start_time": 17220,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17500,
+                "start_time": 17380,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17740,
+                "start_time": 17540,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17900,
+                "start_time": 17740,
+                "text": "变"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17980,
+                "start_time": 17900,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18140,
+                "start_time": 17980,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18420,
+                "start_time": 18140,
+                "text": "好"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1848 @@
+{
+  "created_at": "2026-05-27T00:00:00+0800",
+  "note": "High-confidence ASR loop audit: website-visible repeated runs >=3 and late intro lines only.",
+  "count": 102,
+  "runs": [
+    {
+      "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+      "start_line": 74,
+      "end_line": 76,
+      "len": 3,
+      "text": "就是比如说我想买,现在买一个桌子、凳子,不收钱,只收黄金,把你黄金给我。"
+    },
+    {
+      "audio_id": "official-vimeo-m4a-partial__052__c75cdd42",
+      "start_line": 2,
+      "end_line": 4,
+      "len": 3,
+      "text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上《财富自由革命之路》。我在《财富自由革命之路》的另一边等着你。"
+    },
+    {
+      "audio_id": "official-vimeo-m4a-partial__054__44ea37db",
+      "start_line": 2,
+      "end_line": 4,
+      "len": 3,
+      "text": "欢迎订阅我的频道,并且记得订阅我的频道,并且记得订阅我的频道。"
+    },
+    {
+      "audio_id": "wavlake-mp3__073__e839750d",
+      "start_line": 50,
+      "end_line": 52,
+      "len": 3,
+      "text": "交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。"
+    },
+    {
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "start_line": 46,
+      "end_line": 49,
+      "len": 4,
+      "text": "而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。"
+    },
+    {
+      "audio_id": "wavlake-mp3__080__63763504",
+      "start_line": 54,
+      "end_line": 58,
+      "len": 5,
+      "text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。"
+    },
+    {
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "start_line": 25,
+      "end_line": 34,
+      "len": 10,
+      "text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,"
+    },
+    {
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "start_line": 36,
+      "end_line": 45,
+      "len": 10,
+      "text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,"
+    },
+    {
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "start_line": 14,
+      "end_line": 16,
+      "len": 3,
+      "text": "湖畔大学的校董和保健人群体也扩张到了将近100名。"
+    },
+    {
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "start_line": 54,
+      "end_line": 62,
+      "len": 9,
+      "text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。"
+    },
+    {
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "start_line": 9,
+      "end_line": 28,
+      "len": 20,
+      "text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。"
+    },
+    {
+      "audio_id": "wavlake-mp3__114__1125512e",
+      "start_line": 23,
+      "end_line": 26,
+      "len": 4,
+      "text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。"
+    },
+    {
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "start_line": 66,
+      "end_line": 68,
+      "len": 3,
+      "text": "古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。"
+    },
+    {
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "start_line": 73,
+      "end_line": 75,
+      "len": 3,
+      "text": "所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。"
+    },
+    {
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "start_line": 2,
+      "end_line": 20,
+      "len": 19,
+      "text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。"
+    }
+  ],
+  "items": [
+    {
+      "index": 1,
+      "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+      "episode": "032",
+      "title": "032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+      "line_no": 74,
+      "segment_start": 359.76,
+      "segment_end": 363.64,
+      "snippet_start": 358.56,
+      "snippet_end": 364.84,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "就是比如说我想买,现在买一个桌子、凳子,不收钱,只收黄金,把你黄金给我。",
+      "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0001__official-vimeo-m4a-partial__032__2714f2f9__line0074.wav"
+    },
+    {
+      "index": 2,
+      "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+      "episode": "032",
+      "title": "032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+      "line_no": 75,
+      "segment_start": 363.64,
+      "segment_end": 365.68,
+      "snippet_start": 362.44,
+      "snippet_end": 366.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "就是比如说我想买,现在买一个桌子、凳子,不收钱,只收黄金,把你黄金给我。",
+      "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0002__official-vimeo-m4a-partial__032__2714f2f9__line0075.wav"
+    },
+    {
+      "index": 3,
+      "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+      "episode": "032",
+      "title": "032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+      "line_no": 76,
+      "segment_start": 365.68,
+      "segment_end": 367.7,
+      "snippet_start": 364.48,
+      "snippet_end": 368.9,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "就是比如说我想买,现在买一个桌子、凳子,不收钱,只收黄金,把你黄金给我。",
+      "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0003__official-vimeo-m4a-partial__032__2714f2f9__line0076.wav"
+    },
+    {
+      "index": 4,
+      "audio_id": "official-vimeo-m4a-partial__052__c75cdd42",
+      "episode": "052",
+      "title": "052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+      "line_no": 2,
+      "segment_start": 30.0,
+      "segment_end": 59.98,
+      "snippet_start": 28.8,
+      "snippet_end": 61.18,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上《财富自由革命之路》。我在《财富自由革命之路》的另一边等着你。",
+      "audio_path": "official-vimeo-m4a-partial/052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0004__official-vimeo-m4a-partial__052__c75cdd42__line0002.wav"
+    },
+    {
+      "index": 5,
+      "audio_id": "official-vimeo-m4a-partial__052__c75cdd42",
+      "episode": "052",
+      "title": "052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+      "line_no": 3,
+      "segment_start": 60.0,
+      "segment_end": 89.98,
+      "snippet_start": 58.8,
+      "snippet_end": 91.18,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上《财富自由革命之路》。我在《财富自由革命之路》的另一边等着你。",
+      "audio_path": "official-vimeo-m4a-partial/052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0005__official-vimeo-m4a-partial__052__c75cdd42__line0003.wav"
+    },
+    {
+      "index": 6,
+      "audio_id": "official-vimeo-m4a-partial__052__c75cdd42",
+      "episode": "052",
+      "title": "052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+      "line_no": 4,
+      "segment_start": 90.0,
+      "segment_end": 97.78,
+      "snippet_start": 88.8,
+      "snippet_end": 98.98,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上《财富自由革命之路》。我在《财富自由革命之路》的另一边等着你。",
+      "audio_path": "official-vimeo-m4a-partial/052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0006__official-vimeo-m4a-partial__052__c75cdd42__line0004.wav"
+    },
+    {
+      "index": 7,
+      "audio_id": "official-vimeo-m4a-partial__054__44ea37db",
+      "episode": "054",
+      "title": "054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+      "line_no": 2,
+      "segment_start": 30.0,
+      "segment_end": 59.98,
+      "snippet_start": 28.8,
+      "snippet_end": 61.18,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "欢迎订阅我的频道,并且记得订阅我的频道,并且记得订阅我的频道。",
+      "audio_path": "official-vimeo-m4a-partial/054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0007__official-vimeo-m4a-partial__054__44ea37db__line0002.wav"
+    },
+    {
+      "index": 8,
+      "audio_id": "official-vimeo-m4a-partial__054__44ea37db",
+      "episode": "054",
+      "title": "054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+      "line_no": 3,
+      "segment_start": 60.0,
+      "segment_end": 89.98,
+      "snippet_start": 58.8,
+      "snippet_end": 91.18,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "欢迎订阅我的频道,并且记得订阅我的频道,并且记得订阅我的频道。",
+      "audio_path": "official-vimeo-m4a-partial/054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0008__official-vimeo-m4a-partial__054__44ea37db__line0003.wav"
+    },
+    {
+      "index": 9,
+      "audio_id": "official-vimeo-m4a-partial__054__44ea37db",
+      "episode": "054",
+      "title": "054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+      "line_no": 4,
+      "segment_start": 90.0,
+      "segment_end": 110.48,
+      "snippet_start": 88.8,
+      "snippet_end": 111.68,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "欢迎订阅我的频道,并且记得订阅我的频道,并且记得订阅我的频道。",
+      "audio_path": "official-vimeo-m4a-partial/054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0009__official-vimeo-m4a-partial__054__44ea37db__line0004.wav"
+    },
+    {
+      "index": 10,
+      "audio_id": "wavlake-mp3__073__e839750d",
+      "episode": "073",
+      "title": "073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+      "line_no": 50,
+      "segment_start": 315.78,
+      "segment_end": 332.94,
+      "snippet_start": 314.58,
+      "snippet_end": 334.14,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。",
+      "audio_path": "wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0010__wavlake-mp3__073__e839750d__line0050.wav"
+    },
+    {
+      "index": 11,
+      "audio_id": "wavlake-mp3__073__e839750d",
+      "episode": "073",
+      "title": "073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+      "line_no": 51,
+      "segment_start": 332.94,
+      "segment_end": 332.96,
+      "snippet_start": 331.74,
+      "snippet_end": 334.15999999999997,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。",
+      "audio_path": "wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0011__wavlake-mp3__073__e839750d__line0051.wav"
+    },
+    {
+      "index": 12,
+      "audio_id": "wavlake-mp3__073__e839750d",
+      "episode": "073",
+      "title": "073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+      "line_no": 52,
+      "segment_start": 332.96,
+      "segment_end": 333.14,
+      "snippet_start": 331.76,
+      "snippet_end": 334.34,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。",
+      "audio_path": "wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0012__wavlake-mp3__073__e839750d__line0052.wav"
+    },
+    {
+      "index": 13,
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "episode": "075",
+      "title": "075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "line_no": 46,
+      "segment_start": 292.96,
+      "segment_end": 293.0,
+      "snippet_start": 291.76,
+      "snippet_end": 294.2,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。",
+      "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0013__wavlake-mp3__075__253dded9__line0046.wav"
+    },
+    {
+      "index": 14,
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "episode": "075",
+      "title": "075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "line_no": 47,
+      "segment_start": 293.0,
+      "segment_end": 293.02,
+      "snippet_start": 291.8,
+      "snippet_end": 294.21999999999997,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。",
+      "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0014__wavlake-mp3__075__253dded9__line0047.wav"
+    },
+    {
+      "index": 15,
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "episode": "075",
+      "title": "075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "line_no": 48,
+      "segment_start": 293.02,
+      "segment_end": 293.12,
+      "snippet_start": 291.82,
+      "snippet_end": 294.32,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。",
+      "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0015__wavlake-mp3__075__253dded9__line0048.wav"
+    },
+    {
+      "index": 16,
+      "audio_id": "wavlake-mp3__075__253dded9",
+      "episode": "075",
+      "title": "075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "line_no": 49,
+      "segment_start": 293.12,
+      "segment_end": 293.16,
+      "snippet_start": 291.92,
+      "snippet_end": 294.36,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。",
+      "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0016__wavlake-mp3__075__253dded9__line0049.wav"
+    },
+    {
+      "index": 17,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "episode": "080",
+      "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "line_no": 54,
+      "segment_start": 637.82,
+      "segment_end": 649.5,
+      "snippet_start": 636.62,
+      "snippet_end": 650.7,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+      "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0017__wavlake-mp3__080__63763504__line0054.wav"
+    },
+    {
+      "index": 18,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "episode": "080",
+      "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "line_no": 55,
+      "segment_start": 649.5,
+      "segment_end": 667.68,
+      "snippet_start": 648.3,
+      "snippet_end": 668.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+      "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0018__wavlake-mp3__080__63763504__line0055.wav"
+    },
+    {
+      "index": 19,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "episode": "080",
+      "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "line_no": 56,
+      "segment_start": 667.68,
+      "segment_end": 667.7,
+      "snippet_start": 666.4799999999999,
+      "snippet_end": 668.9000000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+      "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0019__wavlake-mp3__080__63763504__line0056.wav"
+    },
+    {
+      "index": 20,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "episode": "080",
+      "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "line_no": 57,
+      "segment_start": 667.7,
+      "segment_end": 679.38,
+      "snippet_start": 666.5,
+      "snippet_end": 680.58,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+      "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0020__wavlake-mp3__080__63763504__line0057.wav"
+    },
+    {
+      "index": 21,
+      "audio_id": "wavlake-mp3__080__63763504",
+      "episode": "080",
+      "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "line_no": 58,
+      "segment_start": 679.38,
+      "segment_end": 697.58,
+      "snippet_start": 678.18,
+      "snippet_end": 698.7800000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+      "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0021__wavlake-mp3__080__63763504__line0058.wav"
+    },
+    {
+      "index": 22,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 25,
+      "segment_start": 479.14,
+      "segment_end": 509.12,
+      "snippet_start": 477.94,
+      "snippet_end": 510.32,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0022__wavlake-mp3__081__b0c91068__line0025.wav"
+    },
+    {
+      "index": 23,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 26,
+      "segment_start": 509.12,
+      "segment_end": 539.1,
+      "snippet_start": 507.92,
+      "snippet_end": 540.3000000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0023__wavlake-mp3__081__b0c91068__line0026.wav"
+    },
+    {
+      "index": 24,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 27,
+      "segment_start": 539.1,
+      "segment_end": 569.08,
+      "snippet_start": 537.9,
+      "snippet_end": 570.2800000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0024__wavlake-mp3__081__b0c91068__line0027.wav"
+    },
+    {
+      "index": 25,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 28,
+      "segment_start": 569.08,
+      "segment_end": 599.06,
+      "snippet_start": 567.88,
+      "snippet_end": 600.26,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0025__wavlake-mp3__081__b0c91068__line0028.wav"
+    },
+    {
+      "index": 26,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 29,
+      "segment_start": 599.06,
+      "segment_end": 629.04,
+      "snippet_start": 597.8599999999999,
+      "snippet_end": 630.24,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0026__wavlake-mp3__081__b0c91068__line0029.wav"
+    },
+    {
+      "index": 27,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 30,
+      "segment_start": 629.04,
+      "segment_end": 659.02,
+      "snippet_start": 627.8399999999999,
+      "snippet_end": 660.22,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0027__wavlake-mp3__081__b0c91068__line0030.wav"
+    },
+    {
+      "index": 28,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 31,
+      "segment_start": 659.02,
+      "segment_end": 689.0,
+      "snippet_start": 657.8199999999999,
+      "snippet_end": 690.2,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0028__wavlake-mp3__081__b0c91068__line0031.wav"
+    },
+    {
+      "index": 29,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 32,
+      "segment_start": 689.0,
+      "segment_end": 718.98,
+      "snippet_start": 687.8,
+      "snippet_end": 720.1800000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0029__wavlake-mp3__081__b0c91068__line0032.wav"
+    },
+    {
+      "index": 30,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 33,
+      "segment_start": 718.98,
+      "segment_end": 748.96,
+      "snippet_start": 717.78,
+      "snippet_end": 750.1600000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0030__wavlake-mp3__081__b0c91068__line0033.wav"
+    },
+    {
+      "index": 31,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 34,
+      "segment_start": 748.96,
+      "segment_end": 778.94,
+      "snippet_start": 747.76,
+      "snippet_end": 780.1400000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0031__wavlake-mp3__081__b0c91068__line0034.wav"
+    },
+    {
+      "index": 32,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 36,
+      "segment_start": 808.92,
+      "segment_end": 838.9,
+      "snippet_start": 807.7199999999999,
+      "snippet_end": 840.1,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0032__wavlake-mp3__081__b0c91068__line0036.wav"
+    },
+    {
+      "index": 33,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 37,
+      "segment_start": 838.9,
+      "segment_end": 868.88,
+      "snippet_start": 837.6999999999999,
+      "snippet_end": 870.08,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0033__wavlake-mp3__081__b0c91068__line0037.wav"
+    },
+    {
+      "index": 34,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 38,
+      "segment_start": 868.88,
+      "segment_end": 898.86,
+      "snippet_start": 867.68,
+      "snippet_end": 900.0600000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0034__wavlake-mp3__081__b0c91068__line0038.wav"
+    },
+    {
+      "index": 35,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 39,
+      "segment_start": 898.86,
+      "segment_end": 928.84,
+      "snippet_start": 897.66,
+      "snippet_end": 930.0400000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0035__wavlake-mp3__081__b0c91068__line0039.wav"
+    },
+    {
+      "index": 36,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 40,
+      "segment_start": 928.84,
+      "segment_end": 958.82,
+      "snippet_start": 927.64,
+      "snippet_end": 960.0200000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0036__wavlake-mp3__081__b0c91068__line0040.wav"
+    },
+    {
+      "index": 37,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 41,
+      "segment_start": 958.82,
+      "segment_end": 968.94,
+      "snippet_start": 957.62,
+      "snippet_end": 970.1400000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0037__wavlake-mp3__081__b0c91068__line0041.wav"
+    },
+    {
+      "index": 38,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 42,
+      "segment_start": 968.94,
+      "segment_end": 969.06,
+      "snippet_start": 967.74,
+      "snippet_end": 970.26,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0038__wavlake-mp3__081__b0c91068__line0042.wav"
+    },
+    {
+      "index": 39,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 43,
+      "segment_start": 969.06,
+      "segment_end": 969.12,
+      "snippet_start": 967.8599999999999,
+      "snippet_end": 970.32,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0039__wavlake-mp3__081__b0c91068__line0043.wav"
+    },
+    {
+      "index": 40,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 44,
+      "segment_start": 969.12,
+      "segment_end": 969.18,
+      "snippet_start": 967.92,
+      "snippet_end": 970.38,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0040__wavlake-mp3__081__b0c91068__line0044.wav"
+    },
+    {
+      "index": 41,
+      "audio_id": "wavlake-mp3__081__b0c91068",
+      "episode": "081",
+      "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "line_no": 45,
+      "segment_start": 969.18,
+      "segment_end": 969.84,
+      "snippet_start": 967.9799999999999,
+      "snippet_end": 971.0400000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+      "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0041__wavlake-mp3__081__b0c91068__line0045.wav"
+    },
+    {
+      "index": 42,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 14,
+      "segment_start": 80.9,
+      "segment_end": 86.32,
+      "snippet_start": 79.7,
+      "snippet_end": 87.52,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "湖畔大学的校董和保健人群体也扩张到了将近100名。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0042__wavlake-mp3__082__3a025f97__line0014.wav"
+    },
+    {
+      "index": 43,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 15,
+      "segment_start": 86.32,
+      "segment_end": 87.26,
+      "snippet_start": 85.11999999999999,
+      "snippet_end": 88.46000000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "湖畔大学的校董和保健人群体也扩张到了将近100名。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0043__wavlake-mp3__082__3a025f97__line0015.wav"
+    },
+    {
+      "index": 44,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 16,
+      "segment_start": 87.26,
+      "segment_end": 87.26,
+      "snippet_start": 86.06,
+      "snippet_end": 88.46000000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "湖畔大学的校董和保健人群体也扩张到了将近100名。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0044__wavlake-mp3__082__3a025f97__line0016.wav"
+    },
+    {
+      "index": 45,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 54,
+      "segment_start": 386.08,
+      "segment_end": 416.06,
+      "snippet_start": 384.88,
+      "snippet_end": 417.26,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0045__wavlake-mp3__082__3a025f97__line0054.wav"
+    },
+    {
+      "index": 46,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 55,
+      "segment_start": 416.06,
+      "segment_end": 446.04,
+      "snippet_start": 414.86,
+      "snippet_end": 447.24,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0046__wavlake-mp3__082__3a025f97__line0055.wav"
+    },
+    {
+      "index": 47,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 56,
+      "segment_start": 446.04,
+      "segment_end": 476.02,
+      "snippet_start": 444.84000000000003,
+      "snippet_end": 477.21999999999997,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0047__wavlake-mp3__082__3a025f97__line0056.wav"
+    },
+    {
+      "index": 48,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 57,
+      "segment_start": 476.02,
+      "segment_end": 506.0,
+      "snippet_start": 474.82,
+      "snippet_end": 507.2,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0048__wavlake-mp3__082__3a025f97__line0057.wav"
+    },
+    {
+      "index": 49,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 58,
+      "segment_start": 506.0,
+      "segment_end": 535.98,
+      "snippet_start": 504.8,
+      "snippet_end": 537.1800000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0049__wavlake-mp3__082__3a025f97__line0058.wav"
+    },
+    {
+      "index": 50,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 59,
+      "segment_start": 535.98,
+      "segment_end": 565.96,
+      "snippet_start": 534.78,
+      "snippet_end": 567.1600000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0050__wavlake-mp3__082__3a025f97__line0059.wav"
+    },
+    {
+      "index": 51,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 60,
+      "segment_start": 565.96,
+      "segment_end": 580.04,
+      "snippet_start": 564.76,
+      "snippet_end": 581.24,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0051__wavlake-mp3__082__3a025f97__line0060.wav"
+    },
+    {
+      "index": 52,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 61,
+      "segment_start": 580.04,
+      "segment_end": 580.06,
+      "snippet_start": 578.8399999999999,
+      "snippet_end": 581.26,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0052__wavlake-mp3__082__3a025f97__line0061.wav"
+    },
+    {
+      "index": 53,
+      "audio_id": "wavlake-mp3__082__3a025f97",
+      "episode": "082",
+      "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "line_no": 62,
+      "segment_start": 580.06,
+      "segment_end": 580.36,
+      "snippet_start": 578.8599999999999,
+      "snippet_end": 581.5600000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+      "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0053__wavlake-mp3__082__3a025f97__line0062.wav"
+    },
+    {
+      "index": 54,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 9,
+      "segment_start": 98.24,
+      "segment_end": 110.84,
+      "snippet_start": 97.03999999999999,
+      "snippet_end": 112.04,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0054__wavlake-mp3__102__9360cb03__line0009.wav"
+    },
+    {
+      "index": 55,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 10,
+      "segment_start": 110.84,
+      "segment_end": 140.64,
+      "snippet_start": 109.64,
+      "snippet_end": 141.83999999999997,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0055__wavlake-mp3__102__9360cb03__line0010.wav"
+    },
+    {
+      "index": 56,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 11,
+      "segment_start": 140.64,
+      "segment_end": 140.8,
+      "snippet_start": 139.44,
+      "snippet_end": 142.0,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0056__wavlake-mp3__102__9360cb03__line0011.wav"
+    },
+    {
+      "index": 57,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 12,
+      "segment_start": 140.8,
+      "segment_end": 140.8,
+      "snippet_start": 139.60000000000002,
+      "snippet_end": 142.0,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0057__wavlake-mp3__102__9360cb03__line0012.wav"
+    },
+    {
+      "index": 58,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 13,
+      "segment_start": 140.8,
+      "segment_end": 170.76,
+      "snippet_start": 139.60000000000002,
+      "snippet_end": 171.95999999999998,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0058__wavlake-mp3__102__9360cb03__line0013.wav"
+    },
+    {
+      "index": 59,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 14,
+      "segment_start": 170.76,
+      "segment_end": 194.5,
+      "snippet_start": 169.56,
+      "snippet_end": 195.7,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0059__wavlake-mp3__102__9360cb03__line0014.wav"
+    },
+    {
+      "index": 60,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 15,
+      "segment_start": 194.5,
+      "segment_end": 194.72,
+      "snippet_start": 193.3,
+      "snippet_end": 195.92,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0060__wavlake-mp3__102__9360cb03__line0015.wav"
+    },
+    {
+      "index": 61,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 16,
+      "segment_start": 194.72,
+      "segment_end": 194.84,
+      "snippet_start": 193.52,
+      "snippet_end": 196.04,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0061__wavlake-mp3__102__9360cb03__line0016.wav"
+    },
+    {
+      "index": 62,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 17,
+      "segment_start": 194.84,
+      "segment_end": 224.8,
+      "snippet_start": 193.64000000000001,
+      "snippet_end": 226.0,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0062__wavlake-mp3__102__9360cb03__line0017.wav"
+    },
+    {
+      "index": 63,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 18,
+      "segment_start": 224.8,
+      "segment_end": 254.78,
+      "snippet_start": 223.60000000000002,
+      "snippet_end": 255.98,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0063__wavlake-mp3__102__9360cb03__line0018.wav"
+    },
+    {
+      "index": 64,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 19,
+      "segment_start": 254.78,
+      "segment_end": 284.76,
+      "snippet_start": 253.58,
+      "snippet_end": 285.96,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0064__wavlake-mp3__102__9360cb03__line0019.wav"
+    },
+    {
+      "index": 65,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 20,
+      "segment_start": 284.76,
+      "segment_end": 314.74,
+      "snippet_start": 283.56,
+      "snippet_end": 315.94,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0065__wavlake-mp3__102__9360cb03__line0020.wav"
+    },
+    {
+      "index": 66,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 21,
+      "segment_start": 314.74,
+      "segment_end": 344.72,
+      "snippet_start": 313.54,
+      "snippet_end": 345.92,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0066__wavlake-mp3__102__9360cb03__line0021.wav"
+    },
+    {
+      "index": 67,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 22,
+      "segment_start": 344.72,
+      "segment_end": 374.7,
+      "snippet_start": 343.52000000000004,
+      "snippet_end": 375.9,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0067__wavlake-mp3__102__9360cb03__line0022.wav"
+    },
+    {
+      "index": 68,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 23,
+      "segment_start": 374.7,
+      "segment_end": 404.68,
+      "snippet_start": 373.5,
+      "snippet_end": 405.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0068__wavlake-mp3__102__9360cb03__line0023.wav"
+    },
+    {
+      "index": 69,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 24,
+      "segment_start": 404.68,
+      "segment_end": 434.66,
+      "snippet_start": 403.48,
+      "snippet_end": 435.86,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0069__wavlake-mp3__102__9360cb03__line0024.wav"
+    },
+    {
+      "index": 70,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 25,
+      "segment_start": 434.66,
+      "segment_end": 464.64,
+      "snippet_start": 433.46000000000004,
+      "snippet_end": 465.84,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0070__wavlake-mp3__102__9360cb03__line0025.wav"
+    },
+    {
+      "index": 71,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 26,
+      "segment_start": 464.64,
+      "segment_end": 494.62,
+      "snippet_start": 463.44,
+      "snippet_end": 495.82,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0071__wavlake-mp3__102__9360cb03__line0026.wav"
+    },
+    {
+      "index": 72,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 27,
+      "segment_start": 494.62,
+      "segment_end": 524.6,
+      "snippet_start": 493.42,
+      "snippet_end": 525.8000000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0072__wavlake-mp3__102__9360cb03__line0027.wav"
+    },
+    {
+      "index": 73,
+      "audio_id": "wavlake-mp3__102__9360cb03",
+      "episode": "102",
+      "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "line_no": 28,
+      "segment_start": 524.6,
+      "segment_end": 554.58,
+      "snippet_start": 523.4,
+      "snippet_end": 555.7800000000001,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+      "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0073__wavlake-mp3__102__9360cb03__line0028.wav"
+    },
+    {
+      "index": 74,
+      "audio_id": "wavlake-mp3__114__1125512e",
+      "episode": "114",
+      "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "line_no": 23,
+      "segment_start": 282.1,
+      "segment_end": 289.2,
+      "snippet_start": 280.90000000000003,
+      "snippet_end": 290.4,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+      "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0074__wavlake-mp3__114__1125512e__line0023.wav"
+    },
+    {
+      "index": 75,
+      "audio_id": "wavlake-mp3__114__1125512e",
+      "episode": "114",
+      "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "line_no": 24,
+      "segment_start": 289.2,
+      "segment_end": 289.2,
+      "snippet_start": 288.0,
+      "snippet_end": 290.4,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+      "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0075__wavlake-mp3__114__1125512e__line0024.wav"
+    },
+    {
+      "index": 76,
+      "audio_id": "wavlake-mp3__114__1125512e",
+      "episode": "114",
+      "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "line_no": 25,
+      "segment_start": 289.2,
+      "segment_end": 289.2,
+      "snippet_start": 288.0,
+      "snippet_end": 290.4,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+      "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0076__wavlake-mp3__114__1125512e__line0025.wav"
+    },
+    {
+      "index": 77,
+      "audio_id": "wavlake-mp3__114__1125512e",
+      "episode": "114",
+      "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "line_no": 26,
+      "segment_start": 289.2,
+      "segment_end": 289.96,
+      "snippet_start": 288.0,
+      "snippet_end": 291.15999999999997,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+      "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0077__wavlake-mp3__114__1125512e__line0026.wav"
+    },
+    {
+      "index": 78,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "episode": "118",
+      "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "line_no": 66,
+      "segment_start": 419.68,
+      "segment_end": 421.68,
+      "snippet_start": 418.48,
+      "snippet_end": 422.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。",
+      "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0078__wavlake-mp3__118__86d1aebf__line0066.wav"
+    },
+    {
+      "index": 79,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "episode": "118",
+      "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "line_no": 67,
+      "segment_start": 421.68,
+      "segment_end": 423.68,
+      "snippet_start": 420.48,
+      "snippet_end": 424.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。",
+      "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0079__wavlake-mp3__118__86d1aebf__line0067.wav"
+    },
+    {
+      "index": 80,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "episode": "118",
+      "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "line_no": 68,
+      "segment_start": 423.68,
+      "segment_end": 425.68,
+      "snippet_start": 422.48,
+      "snippet_end": 426.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。",
+      "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0080__wavlake-mp3__118__86d1aebf__line0068.wav"
+    },
+    {
+      "index": 81,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "episode": "118",
+      "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "line_no": 73,
+      "segment_start": 433.68,
+      "segment_end": 435.68,
+      "snippet_start": 432.48,
+      "snippet_end": 436.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。",
+      "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0081__wavlake-mp3__118__86d1aebf__line0073.wav"
+    },
+    {
+      "index": 82,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "episode": "118",
+      "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "line_no": 74,
+      "segment_start": 435.68,
+      "segment_end": 437.68,
+      "snippet_start": 434.48,
+      "snippet_end": 438.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。",
+      "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0082__wavlake-mp3__118__86d1aebf__line0074.wav"
+    },
+    {
+      "index": 83,
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "episode": "118",
+      "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "line_no": 75,
+      "segment_start": 437.68,
+      "segment_end": 439.68,
+      "snippet_start": 436.48,
+      "snippet_end": 440.88,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。",
+      "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0083__wavlake-mp3__118__86d1aebf__line0075.wav"
+    },
+    {
+      "index": 84,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 2,
+      "segment_start": 30.0,
+      "segment_end": 59.98,
+      "snippet_start": 28.8,
+      "snippet_end": 61.18,
+      "flags": [
+        "run_len>=3"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0084__wavlake-mp3__134__621e51c0__line0002.wav"
+    },
+    {
+      "index": 85,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 3,
+      "segment_start": 60.0,
+      "segment_end": 89.98,
+      "snippet_start": 58.8,
+      "snippet_end": 91.18,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0085__wavlake-mp3__134__621e51c0__line0003.wav"
+    },
+    {
+      "index": 86,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 4,
+      "segment_start": 90.0,
+      "segment_end": 119.98,
+      "snippet_start": 88.8,
+      "snippet_end": 121.18,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0086__wavlake-mp3__134__621e51c0__line0004.wav"
+    },
+    {
+      "index": 87,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 5,
+      "segment_start": 120.0,
+      "segment_end": 149.98,
+      "snippet_start": 118.8,
+      "snippet_end": 151.17999999999998,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0087__wavlake-mp3__134__621e51c0__line0005.wav"
+    },
+    {
+      "index": 88,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 6,
+      "segment_start": 150.0,
+      "segment_end": 179.16,
+      "snippet_start": 148.8,
+      "snippet_end": 180.35999999999999,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0088__wavlake-mp3__134__621e51c0__line0006.wav"
+    },
+    {
+      "index": 89,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 7,
+      "segment_start": 179.16,
+      "segment_end": 179.84,
+      "snippet_start": 177.96,
+      "snippet_end": 181.04,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0089__wavlake-mp3__134__621e51c0__line0007.wav"
+    },
+    {
+      "index": 90,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 8,
+      "segment_start": 179.84,
+      "segment_end": 179.96,
+      "snippet_start": 178.64000000000001,
+      "snippet_end": 181.16,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0090__wavlake-mp3__134__621e51c0__line0008.wav"
+    },
+    {
+      "index": 91,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 9,
+      "segment_start": 179.96,
+      "segment_end": 179.98,
+      "snippet_start": 178.76000000000002,
+      "snippet_end": 181.17999999999998,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0091__wavlake-mp3__134__621e51c0__line0009.wav"
+    },
+    {
+      "index": 92,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 10,
+      "segment_start": 180.0,
+      "segment_end": 209.98,
+      "snippet_start": 178.8,
+      "snippet_end": 211.17999999999998,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0092__wavlake-mp3__134__621e51c0__line0010.wav"
+    },
+    {
+      "index": 93,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 11,
+      "segment_start": 209.98,
+      "segment_end": 239.96,
+      "snippet_start": 208.78,
+      "snippet_end": 241.16,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0093__wavlake-mp3__134__621e51c0__line0011.wav"
+    },
+    {
+      "index": 94,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 12,
+      "segment_start": 239.96,
+      "segment_end": 269.94,
+      "snippet_start": 238.76000000000002,
+      "snippet_end": 271.14,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0094__wavlake-mp3__134__621e51c0__line0012.wav"
+    },
+    {
+      "index": 95,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 13,
+      "segment_start": 269.94,
+      "segment_end": 299.92,
+      "snippet_start": 268.74,
+      "snippet_end": 301.12,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0095__wavlake-mp3__134__621e51c0__line0013.wav"
+    },
+    {
+      "index": 96,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 14,
+      "segment_start": 299.92,
+      "segment_end": 329.9,
+      "snippet_start": 298.72,
+      "snippet_end": 331.09999999999997,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0096__wavlake-mp3__134__621e51c0__line0014.wav"
+    },
+    {
+      "index": 97,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 15,
+      "segment_start": 329.9,
+      "segment_end": 359.88,
+      "snippet_start": 328.7,
+      "snippet_end": 361.08,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0097__wavlake-mp3__134__621e51c0__line0015.wav"
+    },
+    {
+      "index": 98,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 16,
+      "segment_start": 359.88,
+      "segment_end": 389.86,
+      "snippet_start": 358.68,
+      "snippet_end": 391.06,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0098__wavlake-mp3__134__621e51c0__line0016.wav"
+    },
+    {
+      "index": 99,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 17,
+      "segment_start": 389.86,
+      "segment_end": 419.84,
+      "snippet_start": 388.66,
+      "snippet_end": 421.03999999999996,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0099__wavlake-mp3__134__621e51c0__line0017.wav"
+    },
+    {
+      "index": 100,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 18,
+      "segment_start": 419.84,
+      "segment_end": 449.82,
+      "snippet_start": 418.64,
+      "snippet_end": 451.02,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0100__wavlake-mp3__134__621e51c0__line0018.wav"
+    },
+    {
+      "index": 101,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 19,
+      "segment_start": 449.82,
+      "segment_end": 479.8,
+      "snippet_start": 448.62,
+      "snippet_end": 481.0,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0101__wavlake-mp3__134__621e51c0__line0019.wav"
+    },
+    {
+      "index": 102,
+      "audio_id": "wavlake-mp3__134__621e51c0",
+      "episode": "134",
+      "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "line_no": 20,
+      "segment_start": 479.8,
+      "segment_end": 509.78,
+      "snippet_start": 478.6,
+      "snippet_end": 510.97999999999996,
+      "flags": [
+        "late_intro"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+      "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+      "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0102__wavlake-mp3__134__621e51c0__line0020.wav"
+    }
+  ]
+}

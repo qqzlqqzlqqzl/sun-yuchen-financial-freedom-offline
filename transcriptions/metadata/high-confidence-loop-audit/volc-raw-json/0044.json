@@ -1,0 +1,210 @@
+{
+  "item": {
+    "index": 44,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 16,
+    "segment_start": 87.26,
+    "segment_end": 87.26,
+    "snippet_start": 86.06,
+    "snippet_end": 88.46000000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "湖畔大学的校董和保健人群体也扩张到了将近100名。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0044__wavlake-mp3__082__3a025f97__line0016.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "a7f4d137-573e-47b2-8d56-339905a133ed",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712031768D647A72B9F88B4CE2C",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120318723C6A05B4AA18B3894C",
+        "response": {
+          "audio_info": {
+            "duration": 2400
+          },
+          "result": {
+            "additions": {
+              "duration": "2400"
+            },
+            "text": "您，我看到有些小伙伴的留",
+            "utterances": [
+              {
+                "end_time": 2360,
+                "start_time": 160,
+                "text": "您，我看到有些小伙伴的留",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 160,
+                    "text": "您"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 600,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 840,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1040,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1400,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1600,
+                    "text": "些"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1760,
+                    "text": "小"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1880,
+                    "text": "伙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 2040,
+                    "text": "伴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2120,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2280,
+                    "text": "留"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2400
+      },
+      "result": {
+        "additions": {
+          "duration": "2400"
+        },
+        "text": "您，我看到有些小伙伴的留",
+        "utterances": [
+          {
+            "end_time": 2360,
+            "start_time": 160,
+            "text": "您，我看到有些小伙伴的留",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 160,
+                "text": "您"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 600,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 840,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1400,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1600,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1760,
+                "text": "小"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "伙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2040,
+                "text": "伴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2280,
+                "text": "留"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

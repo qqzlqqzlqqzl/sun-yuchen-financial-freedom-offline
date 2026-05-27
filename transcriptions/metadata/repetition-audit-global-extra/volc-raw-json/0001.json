@@ -1,0 +1,2164 @@
+{
+  "item": {
+    "index": 1,
+    "audio_id": "wavlake-mp3__020__08dd87ba",
+    "episode": "020",
+    "title": "020 - 020 - 020 孙宇晨：财富自由、互联网、道德变化.mp3",
+    "line_no": 3,
+    "segment_start": 60.0,
+    "segment_end": 89.98,
+    "snippet_start": 58.8,
+    "snippet_end": 91.18,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+    "audio_path": "wavlake-mp3/020 - 020 - 020 孙宇晨：财富自由、互联网、道德变化.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0001__wavlake-mp3__020__08dd87ba__line0003.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "985d3971-026e-4931-8695-560a65640765",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527115331E952B2564FACCF5ACEF5",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527115332D9F8220BFFE1E705D19E",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052711533409A7425F52D19A854B50",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271153353609EFD4182B26900D90",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "这个是知数了。跟大家讲具体怎么积累。如果说是体用是给你吃饭，啊，给你把大米放在面前了。啊，不是，这，如果说那个叫做明道是给你把大米放你跟前，体用是你自己不会煮饭，孙总去拿电饭煲给你把饭煮出来了。知数的这一部分是孙总说，你告诉孙总没牙，嚼都嚼不了，没唾液没法消化，这个淀粉转化葡萄糖转不了，我再把这饭自己吃了，拿嘴给你磨磨。先用我的牙齿给你磨碎，再用我的唾液给你转化成葡萄",
+            "utterances": [
+              {
+                "end_time": 1000,
+                "start_time": 120,
+                "text": "这个是知数了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 120,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 240,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 280,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 480,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 640,
+                    "text": "数"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 880,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 2800,
+                "start_time": 1520,
+                "text": "跟大家讲具体怎么积累。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 1640,
+                    "start_time": 1520,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1680,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1760,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1880,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2080,
+                    "text": "具"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2200,
+                    "text": "体"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2400,
+                    "start_time": 2320,
+                    "text": "怎"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2400,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2600,
+                    "text": "积"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2720,
+                    "text": "累"
+                  }
+                ]
+              },
+              {
+                "end_time": 7760,
+                "start_time": 3200,
+                "text": "如果说是体用是给你吃饭，啊，给你把大米放在面前了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3200,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3400,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3520,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3720,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4320,
+                    "text": "体"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4480,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4840,
+                    "start_time": 4680,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4840,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5160,
+                    "start_time": 4960,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5360,
+                    "start_time": 5160,
+                    "text": "吃"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5600,
+                    "start_time": 5360,
+                    "text": "饭"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5960,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6160,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6400,
+                    "start_time": 6280,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6560,
+                    "start_time": 6400,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6560,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6880,
+                    "start_time": 6680,
+                    "text": "米"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7040,
+                    "start_time": 6920,
+                    "text": "放"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7160,
+                    "start_time": 7120,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7440,
+                    "start_time": 7240,
+                    "text": "面"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7440,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7560,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 16080,
+                "start_time": 8440,
+                "text": "啊，不是，这，如果说那个叫做明道是给你把大米放你跟前，体用是你自己不会煮饭，孙总去拿电饭煲给你把饭煮出来了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8520,
+                    "start_time": 8440,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8680,
+                    "start_time": 8560,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8840,
+                    "start_time": 8680,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8960,
+                    "start_time": 8920,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9200,
+                    "start_time": 9080,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9280,
+                    "start_time": 9200,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9440,
+                    "start_time": 9280,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9560,
+                    "start_time": 9440,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9760,
+                    "start_time": 9560,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9960,
+                    "start_time": 9760,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10080,
+                    "start_time": 9960,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10240,
+                    "start_time": 10200,
+                    "text": "明"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10440,
+                    "start_time": 10400,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10680,
+                    "start_time": 10520,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10760,
+                    "start_time": 10680,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10840,
+                    "start_time": 10760,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11000,
+                    "start_time": 10840,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11120,
+                    "start_time": 11000,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11240,
+                    "start_time": 11120,
+                    "text": "米"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11360,
+                    "start_time": 11240,
+                    "text": "放"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11480,
+                    "start_time": 11400,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11680,
+                    "start_time": 11520,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11800,
+                    "start_time": 11680,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12240,
+                    "start_time": 12200,
+                    "text": "体"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12520,
+                    "start_time": 12360,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12720,
+                    "start_time": 12520,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12840,
+                    "start_time": 12720,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12920,
+                    "start_time": 12840,
+                    "text": "自"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13000,
+                    "start_time": 12920,
+                    "text": "己"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13120,
+                    "start_time": 13000,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13240,
+                    "start_time": 13120,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13400,
+                    "start_time": 13240,
+                    "text": "煮"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13560,
+                    "start_time": 13400,
+                    "text": "饭"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13800,
+                    "start_time": 13640,
+                    "text": "孙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14000,
+                    "start_time": 13800,
+                    "text": "总"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14160,
+                    "start_time": 14000,
+                    "text": "去"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14320,
+                    "start_time": 14160,
+                    "text": "拿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14480,
+                    "start_time": 14320,
+                    "text": "电"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14600,
+                    "start_time": 14480,
+                    "text": "饭"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14760,
+                    "start_time": 14600,
+                    "text": "煲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15000,
+                    "start_time": 14880,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15120,
+                    "start_time": 15000,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15240,
+                    "start_time": 15120,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15440,
+                    "start_time": 15240,
+                    "text": "饭"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15640,
+                    "start_time": 15440,
+                    "text": "煮"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15760,
+                    "start_time": 15640,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15880,
+                    "start_time": 15760,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16080,
+                    "start_time": 15880,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 27650,
+                "start_time": 16490,
+                "text": "知数的这一部分是孙总说，你告诉孙总没牙，嚼都嚼不了，没唾液没法消化，这个淀粉转化葡萄糖转不了，我再把这饭自己吃了，拿嘴给你磨磨。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 16530,
+                    "start_time": 16490,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16810,
+                    "start_time": 16730,
+                    "text": "数"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17130,
+                    "start_time": 16930,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17250,
+                    "start_time": 17130,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17410,
+                    "start_time": 17250,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17530,
+                    "start_time": 17410,
+                    "text": "部"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17610,
+                    "start_time": 17530,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17890,
+                    "start_time": 17610,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18090,
+                    "start_time": 17890,
+                    "text": "孙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18330,
+                    "start_time": 18090,
+                    "text": "总"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18570,
+                    "start_time": 18330,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18850,
+                    "start_time": 18610,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19130,
+                    "start_time": 18930,
+                    "text": "告"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19210,
+                    "start_time": 19130,
+                    "text": "诉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19370,
+                    "start_time": 19250,
+                    "text": "孙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19490,
+                    "start_time": 19370,
+                    "text": "总"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19690,
+                    "start_time": 19530,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19930,
+                    "start_time": 19690,
+                    "text": "牙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20250,
+                    "start_time": 20090,
+                    "text": "嚼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20490,
+                    "start_time": 20290,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20570,
+                    "start_time": 20530,
+                    "text": "嚼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20730,
+                    "start_time": 20610,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20850,
+                    "start_time": 20730,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21250,
+                    "start_time": 21010,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21370,
+                    "start_time": 21330,
+                    "text": "唾"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21650,
+                    "start_time": 21450,
+                    "text": "液"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22050,
+                    "start_time": 21890,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22250,
+                    "start_time": 22050,
+                    "text": "法"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22410,
+                    "start_time": 22250,
+                    "text": "消"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22570,
+                    "start_time": 22410,
+                    "text": "化"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23010,
+                    "start_time": 22890,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23170,
+                    "start_time": 23010,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23330,
+                    "start_time": 23170,
+                    "text": "淀"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23450,
+                    "start_time": 23330,
+                    "text": "粉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23650,
+                    "start_time": 23490,
+                    "text": "转"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23770,
+                    "start_time": 23650,
+                    "text": "化"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23890,
+                    "start_time": 23810,
+                    "text": "葡"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24010,
+                    "start_time": 23890,
+                    "text": "萄"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24170,
+                    "start_time": 24010,
+                    "text": "糖"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24370,
+                    "start_time": 24250,
+                    "text": "转"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24450,
+                    "start_time": 24370,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24610,
+                    "start_time": 24450,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24970,
+                    "start_time": 24730,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25090,
+                    "start_time": 24970,
+                    "text": "再"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25250,
+                    "start_time": 25090,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25370,
+                    "start_time": 25250,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25570,
+                    "start_time": 25370,
+                    "text": "饭"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25690,
+                    "start_time": 25570,
+                    "text": "自"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25810,
+                    "start_time": 25690,
+                    "text": "己"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25970,
+                    "start_time": 25810,
+                    "text": "吃"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26090,
+                    "start_time": 25970,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26450,
+                    "start_time": 26250,
+                    "text": "拿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26650,
+                    "start_time": 26450,
+                    "text": "嘴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26770,
+                    "start_time": 26650,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26930,
+                    "start_time": 26770,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27130,
+                    "start_time": 26970,
+                    "text": "磨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27650,
+                    "start_time": 27610,
+                    "text": "磨"
+                  }
+                ]
+              },
+              {
+                "end_time": 32300,
+                "start_time": 28340,
+                "text": "先用我的牙齿给你磨碎，再用我的唾液给你转化成葡萄",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 28540,
+                    "start_time": 28340,
+                    "text": "先"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28700,
+                    "start_time": 28540,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28820,
+                    "start_time": 28700,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29020,
+                    "start_time": 28820,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29380,
+                    "start_time": 29140,
+                    "text": "牙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29540,
+                    "start_time": 29380,
+                    "text": "齿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29700,
+                    "start_time": 29540,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29780,
+                    "start_time": 29700,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29980,
+                    "start_time": 29820,
+                    "text": "磨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30220,
+                    "start_time": 29980,
+                    "text": "碎"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30780,
+                    "start_time": 30620,
+                    "text": "再"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30940,
+                    "start_time": 30820,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31060,
+                    "start_time": 30940,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31180,
+                    "start_time": 31060,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31300,
+                    "start_time": 31220,
+                    "text": "唾"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31500,
+                    "start_time": 31340,
+                    "text": "液"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31660,
+                    "start_time": 31540,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31740,
+                    "start_time": 31660,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31860,
+                    "start_time": 31740,
+                    "text": "转"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31980,
+                    "start_time": 31860,
+                    "text": "化"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32100,
+                    "start_time": 31980,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32220,
+                    "start_time": 32140,
+                    "text": "葡"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32300,
+                    "start_time": 32220,
+                    "text": "萄"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "这个是知数了。跟大家讲具体怎么积累。如果说是体用是给你吃饭，啊，给你把大米放在面前了。啊，不是，这，如果说那个叫做明道是给你把大米放你跟前，体用是你自己不会煮饭，孙总去拿电饭煲给你把饭煮出来了。知数的这一部分是孙总说，你告诉孙总没牙，嚼都嚼不了，没唾液没法消化，这个淀粉转化葡萄糖转不了，我再把这饭自己吃了，拿嘴给你磨磨。先用我的牙齿给你磨碎，再用我的唾液给你转化成葡萄",
+        "utterances": [
+          {
+            "end_time": 1000,
+            "start_time": 120,
+            "text": "这个是知数了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 120,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 240,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 480,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 640,
+                "text": "数"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 880,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 2800,
+            "start_time": 1520,
+            "text": "跟大家讲具体怎么积累。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1520,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1680,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1760,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2080,
+                "text": "具"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2320,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2400,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2600,
+                "text": "积"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2720,
+                "text": "累"
+              }
+            ]
+          },
+          {
+            "end_time": 7760,
+            "start_time": 3200,
+            "text": "如果说是体用是给你吃饭，啊，给你把大米放在面前了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3200,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3400,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3520,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3720,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4320,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4480,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4680,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4840,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5160,
+                "start_time": 4960,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5160,
+                "text": "吃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5360,
+                "text": "饭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5960,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6160,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6280,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6400,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6560,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6880,
+                "start_time": 6680,
+                "text": "米"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7040,
+                "start_time": 6920,
+                "text": "放"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7120,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7240,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7440,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7560,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 16080,
+            "start_time": 8440,
+            "text": "啊，不是，这，如果说那个叫做明道是给你把大米放你跟前，体用是你自己不会煮饭，孙总去拿电饭煲给你把饭煮出来了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8520,
+                "start_time": 8440,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8680,
+                "start_time": 8560,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8840,
+                "start_time": 8680,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8920,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9080,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9280,
+                "start_time": 9200,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9440,
+                "start_time": 9280,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9440,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9560,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9960,
+                "start_time": 9760,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10080,
+                "start_time": 9960,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 10200,
+                "text": "明"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10440,
+                "start_time": 10400,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10680,
+                "start_time": 10520,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10760,
+                "start_time": 10680,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10840,
+                "start_time": 10760,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11000,
+                "start_time": 10840,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11120,
+                "start_time": 11000,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11240,
+                "start_time": 11120,
+                "text": "米"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11360,
+                "start_time": 11240,
+                "text": "放"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11480,
+                "start_time": 11400,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11680,
+                "start_time": 11520,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11800,
+                "start_time": 11680,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12240,
+                "start_time": 12200,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12520,
+                "start_time": 12360,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12720,
+                "start_time": 12520,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12840,
+                "start_time": 12720,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12920,
+                "start_time": 12840,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13000,
+                "start_time": 12920,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13120,
+                "start_time": 13000,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13240,
+                "start_time": 13120,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13400,
+                "start_time": 13240,
+                "text": "煮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13560,
+                "start_time": 13400,
+                "text": "饭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13800,
+                "start_time": 13640,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14000,
+                "start_time": 13800,
+                "text": "总"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14160,
+                "start_time": 14000,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14320,
+                "start_time": 14160,
+                "text": "拿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14480,
+                "start_time": 14320,
+                "text": "电"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14600,
+                "start_time": 14480,
+                "text": "饭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14760,
+                "start_time": 14600,
+                "text": "煲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15000,
+                "start_time": 14880,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15120,
+                "start_time": 15000,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15240,
+                "start_time": 15120,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15440,
+                "start_time": 15240,
+                "text": "饭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15640,
+                "start_time": 15440,
+                "text": "煮"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15760,
+                "start_time": 15640,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15880,
+                "start_time": 15760,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16080,
+                "start_time": 15880,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 27650,
+            "start_time": 16490,
+            "text": "知数的这一部分是孙总说，你告诉孙总没牙，嚼都嚼不了，没唾液没法消化，这个淀粉转化葡萄糖转不了，我再把这饭自己吃了，拿嘴给你磨磨。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 16530,
+                "start_time": 16490,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16810,
+                "start_time": 16730,
+                "text": "数"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17130,
+                "start_time": 16930,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17250,
+                "start_time": 17130,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17410,
+                "start_time": 17250,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17530,
+                "start_time": 17410,
+                "text": "部"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17610,
+                "start_time": 17530,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17890,
+                "start_time": 17610,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18090,
+                "start_time": 17890,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18330,
+                "start_time": 18090,
+                "text": "总"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18570,
+                "start_time": 18330,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18850,
+                "start_time": 18610,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19130,
+                "start_time": 18930,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19210,
+                "start_time": 19130,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19370,
+                "start_time": 19250,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19490,
+                "start_time": 19370,
+                "text": "总"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19690,
+                "start_time": 19530,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19930,
+                "start_time": 19690,
+                "text": "牙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20250,
+                "start_time": 20090,
+                "text": "嚼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20490,
+                "start_time": 20290,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20570,
+                "start_time": 20530,
+                "text": "嚼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20730,
+                "start_time": 20610,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20850,
+                "start_time": 20730,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21250,
+                "start_time": 21010,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21370,
+                "start_time": 21330,
+                "text": "唾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21650,
+                "start_time": 21450,
+                "text": "液"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22050,
+                "start_time": 21890,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22250,
+                "start_time": 22050,
+                "text": "法"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22410,
+                "start_time": 22250,
+                "text": "消"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22570,
+                "start_time": 22410,
+                "text": "化"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23010,
+                "start_time": 22890,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23170,
+                "start_time": 23010,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23330,
+                "start_time": 23170,
+                "text": "淀"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23450,
+                "start_time": 23330,
+                "text": "粉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23650,
+                "start_time": 23490,
+                "text": "转"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23770,
+                "start_time": 23650,
+                "text": "化"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23890,
+                "start_time": 23810,
+                "text": "葡"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24010,
+                "start_time": 23890,
+                "text": "萄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24170,
+                "start_time": 24010,
+                "text": "糖"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24370,
+                "start_time": 24250,
+                "text": "转"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24450,
+                "start_time": 24370,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24610,
+                "start_time": 24450,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24970,
+                "start_time": 24730,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25090,
+                "start_time": 24970,
+                "text": "再"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25250,
+                "start_time": 25090,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25370,
+                "start_time": 25250,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25570,
+                "start_time": 25370,
+                "text": "饭"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25690,
+                "start_time": 25570,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25810,
+                "start_time": 25690,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25970,
+                "start_time": 25810,
+                "text": "吃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26090,
+                "start_time": 25970,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26450,
+                "start_time": 26250,
+                "text": "拿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26650,
+                "start_time": 26450,
+                "text": "嘴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26770,
+                "start_time": 26650,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26930,
+                "start_time": 26770,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27130,
+                "start_time": 26970,
+                "text": "磨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27650,
+                "start_time": 27610,
+                "text": "磨"
+              }
+            ]
+          },
+          {
+            "end_time": 32300,
+            "start_time": 28340,
+            "text": "先用我的牙齿给你磨碎，再用我的唾液给你转化成葡萄",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28540,
+                "start_time": 28340,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28700,
+                "start_time": 28540,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28820,
+                "start_time": 28700,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29020,
+                "start_time": 28820,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29380,
+                "start_time": 29140,
+                "text": "牙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29540,
+                "start_time": 29380,
+                "text": "齿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29700,
+                "start_time": 29540,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29780,
+                "start_time": 29700,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29980,
+                "start_time": 29820,
+                "text": "磨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30220,
+                "start_time": 29980,
+                "text": "碎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30780,
+                "start_time": 30620,
+                "text": "再"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30940,
+                "start_time": 30820,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31060,
+                "start_time": 30940,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31180,
+                "start_time": 31060,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31300,
+                "start_time": 31220,
+                "text": "唾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31500,
+                "start_time": 31340,
+                "text": "液"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31660,
+                "start_time": 31540,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31740,
+                "start_time": 31660,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31860,
+                "start_time": 31740,
+                "text": "转"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31980,
+                "start_time": 31860,
+                "text": "化"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32100,
+                "start_time": 31980,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32220,
+                "start_time": 32140,
+                "text": "葡"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32300,
+                "start_time": 32220,
+                "text": "萄"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1620 @@
+{
+  "item": {
+    "index": 69,
+    "audio_id": "wavlake-mp3__102__9360cb03",
+    "episode": "102",
+    "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "line_no": 24,
+    "segment_start": 404.68,
+    "segment_end": 434.66,
+    "snippet_start": 403.48,
+    "snippet_end": 435.86,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+    "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0069__wavlake-mp3__102__9360cb03__line0024.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "455fed3f-a40b-4208-a096-b69969d2b23c",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120326A57BA611756830B0C540",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203262520C011280FAEB3BB89",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052712032854460B3169988902D1E7",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "而记，甚至以日来记，日新月异的互联网社会啊，比特币的这个架构可以说是一个史前架构了。因此这个架构的延展性非常糟糕。也就是说，如果把比特币当做一个生态系统来看，在这套生态系统上延展其他应用，以及为其他应用提供支撑的可能性是比较差的。因此，目前我们来看，绝大多数市面上与比特",
+            "utterances": [
+              {
+                "end_time": 8200,
+                "start_time": 320,
+                "text": "而记，甚至以日来记，日新月异的互联网社会啊，比特币的这个架构可以说是一个史前架构了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 320,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 680,
+                    "text": "记"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1000,
+                    "text": "甚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1320,
+                    "start_time": 1160,
+                    "text": "至"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1320,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1560,
+                    "text": "日"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2080,
+                    "start_time": 1840,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2120,
+                    "text": "记"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2360,
+                    "text": "日"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2600,
+                    "text": "新"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2800,
+                    "text": "月"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 3080,
+                    "text": "异"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3160,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3400,
+                    "text": "互"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3560,
+                    "text": "联"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3920,
+                    "start_time": 3720,
+                    "text": "网"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3920,
+                    "text": "社"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4080,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4400,
+                    "start_time": 4280,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4760,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 4960,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5320,
+                    "start_time": 5160,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5320,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5480,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5720,
+                    "start_time": 5560,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5720,
+                    "text": "架"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6000,
+                    "start_time": 5840,
+                    "text": "构"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6080,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6320,
+                    "start_time": 6200,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6480,
+                    "start_time": 6320,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6640,
+                    "start_time": 6480,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6720,
+                    "start_time": 6640,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6920,
+                    "start_time": 6720,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7160,
+                    "start_time": 7000,
+                    "text": "史"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7480,
+                    "start_time": 7200,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7720,
+                    "start_time": 7560,
+                    "text": "架"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7920,
+                    "start_time": 7720,
+                    "text": "构"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8200,
+                    "start_time": 7960,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 11840,
+                "start_time": 8720,
+                "text": "因此这个架构的延展性非常糟糕。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 9000,
+                    "start_time": 8720,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9200,
+                    "start_time": 9000,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9400,
+                    "start_time": 9240,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9560,
+                    "start_time": 9400,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9760,
+                    "start_time": 9560,
+                    "text": "架"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9960,
+                    "start_time": 9760,
+                    "text": "构"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10240,
+                    "start_time": 9960,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10440,
+                    "start_time": 10240,
+                    "text": "延"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10720,
+                    "start_time": 10520,
+                    "text": "展"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11040,
+                    "start_time": 10760,
+                    "text": "性"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11320,
+                    "start_time": 11120,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11440,
+                    "start_time": 11320,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11680,
+                    "start_time": 11440,
+                    "text": "糟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11840,
+                    "start_time": 11680,
+                    "text": "糕"
+                  }
+                ]
+              },
+              {
+                "end_time": 27130,
+                "start_time": 12550,
+                "text": "也就是说，如果把比特币当做一个生态系统来看，在这套生态系统上延展其他应用，以及为其他应用提供支撑的可能性是比较差的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 12750,
+                    "start_time": 12550,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12910,
+                    "start_time": 12750,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13070,
+                    "start_time": 12910,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13350,
+                    "start_time": 13070,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13670,
+                    "start_time": 13470,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13790,
+                    "start_time": 13670,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14030,
+                    "start_time": 13790,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14230,
+                    "start_time": 14030,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14390,
+                    "start_time": 14230,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14590,
+                    "start_time": 14390,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14870,
+                    "start_time": 14670,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14990,
+                    "start_time": 14870,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15110,
+                    "start_time": 14990,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15270,
+                    "start_time": 15110,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15470,
+                    "start_time": 15270,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15670,
+                    "start_time": 15470,
+                    "text": "态"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15950,
+                    "start_time": 15710,
+                    "text": "系"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16070,
+                    "start_time": 15950,
+                    "text": "统"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16270,
+                    "start_time": 16070,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16590,
+                    "start_time": 16270,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17270,
+                    "start_time": 16910,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17630,
+                    "start_time": 17270,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17950,
+                    "start_time": 17630,
+                    "text": "套"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18310,
+                    "start_time": 18190,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18470,
+                    "start_time": 18310,
+                    "text": "态"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18710,
+                    "start_time": 18510,
+                    "text": "系"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18870,
+                    "start_time": 18710,
+                    "text": "统"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19150,
+                    "start_time": 18870,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19790,
+                    "start_time": 19550,
+                    "text": "延"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20070,
+                    "start_time": 19790,
+                    "text": "展"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20470,
+                    "start_time": 20190,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20630,
+                    "start_time": 20470,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20910,
+                    "start_time": 20670,
+                    "text": "应"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21110,
+                    "start_time": 20910,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21390,
+                    "start_time": 21190,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21630,
+                    "start_time": 21390,
+                    "text": "及"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22070,
+                    "start_time": 21710,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22390,
+                    "start_time": 22070,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22550,
+                    "start_time": 22390,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22790,
+                    "start_time": 22630,
+                    "text": "应"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23030,
+                    "start_time": 22790,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23690,
+                    "start_time": 23490,
+                    "text": "提"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23890,
+                    "start_time": 23690,
+                    "text": "供"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24370,
+                    "start_time": 24090,
+                    "text": "支"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24650,
+                    "start_time": 24370,
+                    "text": "撑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24970,
+                    "start_time": 24650,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25450,
+                    "start_time": 25170,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25650,
+                    "start_time": 25450,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25890,
+                    "start_time": 25650,
+                    "text": "性"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26290,
+                    "start_time": 25930,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26450,
+                    "start_time": 26290,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26610,
+                    "start_time": 26450,
+                    "text": "较"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26850,
+                    "start_time": 26610,
+                    "text": "差"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27130,
+                    "start_time": 26850,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 32250,
+                "start_time": 27730,
+                "text": "因此，目前我们来看，绝大多数市面上与比特",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 28010,
+                    "start_time": 27730,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28250,
+                    "start_time": 28010,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28610,
+                    "start_time": 28370,
+                    "text": "目"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28770,
+                    "start_time": 28610,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28930,
+                    "start_time": 28770,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29010,
+                    "start_time": 28930,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29170,
+                    "start_time": 29010,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29450,
+                    "start_time": 29170,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29890,
+                    "start_time": 29650,
+                    "text": "绝"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30170,
+                    "start_time": 29890,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30410,
+                    "start_time": 30170,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30570,
+                    "start_time": 30410,
+                    "text": "数"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31210,
+                    "start_time": 30890,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31410,
+                    "start_time": 31210,
+                    "text": "面"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31610,
+                    "start_time": 31410,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31850,
+                    "start_time": 31650,
+                    "text": "与"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32090,
+                    "start_time": 31890,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32250,
+                    "start_time": 32090,
+                    "text": "特"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "而记，甚至以日来记，日新月异的互联网社会啊，比特币的这个架构可以说是一个史前架构了。因此这个架构的延展性非常糟糕。也就是说，如果把比特币当做一个生态系统来看，在这套生态系统上延展其他应用，以及为其他应用提供支撑的可能性是比较差的。因此，目前我们来看，绝大多数市面上与比特",
+        "utterances": [
+          {
+            "end_time": 8200,
+            "start_time": 320,
+            "text": "而记，甚至以日来记，日新月异的互联网社会啊，比特币的这个架构可以说是一个史前架构了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 320,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 680,
+                "text": "记"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1000,
+                "text": "甚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1160,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1320,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1560,
+                "text": "日"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1840,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2120,
+                "text": "记"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2360,
+                "text": "日"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2600,
+                "text": "新"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2800,
+                "text": "月"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 3080,
+                "text": "异"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3160,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3400,
+                "text": "互"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3560,
+                "text": "联"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3720,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3920,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4080,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4280,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4760,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 4960,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5160,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5320,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5480,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5560,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5720,
+                "text": "架"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5840,
+                "text": "构"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6080,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6200,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6320,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6480,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6640,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6920,
+                "start_time": 6720,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7000,
+                "text": "史"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7200,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7560,
+                "text": "架"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7720,
+                "text": "构"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8200,
+                "start_time": 7960,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 11840,
+            "start_time": 8720,
+            "text": "因此这个架构的延展性非常糟糕。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8720,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9000,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9240,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9560,
+                "text": "架"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9960,
+                "start_time": 9760,
+                "text": "构"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 9960,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10440,
+                "start_time": 10240,
+                "text": "延"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10720,
+                "start_time": 10520,
+                "text": "展"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11040,
+                "start_time": 10760,
+                "text": "性"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11320,
+                "start_time": 11120,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11440,
+                "start_time": 11320,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11680,
+                "start_time": 11440,
+                "text": "糟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11840,
+                "start_time": 11680,
+                "text": "糕"
+              }
+            ]
+          },
+          {
+            "end_time": 27130,
+            "start_time": 12550,
+            "text": "也就是说，如果把比特币当做一个生态系统来看，在这套生态系统上延展其他应用，以及为其他应用提供支撑的可能性是比较差的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12750,
+                "start_time": 12550,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12910,
+                "start_time": 12750,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13070,
+                "start_time": 12910,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13350,
+                "start_time": 13070,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13670,
+                "start_time": 13470,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13790,
+                "start_time": 13670,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14030,
+                "start_time": 13790,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14230,
+                "start_time": 14030,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14390,
+                "start_time": 14230,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14590,
+                "start_time": 14390,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14870,
+                "start_time": 14670,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14990,
+                "start_time": 14870,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15110,
+                "start_time": 14990,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15270,
+                "start_time": 15110,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15470,
+                "start_time": 15270,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15670,
+                "start_time": 15470,
+                "text": "态"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15950,
+                "start_time": 15710,
+                "text": "系"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16070,
+                "start_time": 15950,
+                "text": "统"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16270,
+                "start_time": 16070,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16590,
+                "start_time": 16270,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17270,
+                "start_time": 16910,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17630,
+                "start_time": 17270,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17950,
+                "start_time": 17630,
+                "text": "套"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18310,
+                "start_time": 18190,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18470,
+                "start_time": 18310,
+                "text": "态"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18710,
+                "start_time": 18510,
+                "text": "系"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18870,
+                "start_time": 18710,
+                "text": "统"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19150,
+                "start_time": 18870,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19790,
+                "start_time": 19550,
+                "text": "延"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20070,
+                "start_time": 19790,
+                "text": "展"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20470,
+                "start_time": 20190,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20630,
+                "start_time": 20470,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20910,
+                "start_time": 20670,
+                "text": "应"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21110,
+                "start_time": 20910,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21390,
+                "start_time": 21190,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21630,
+                "start_time": 21390,
+                "text": "及"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22070,
+                "start_time": 21710,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22390,
+                "start_time": 22070,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22550,
+                "start_time": 22390,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22790,
+                "start_time": 22630,
+                "text": "应"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23030,
+                "start_time": 22790,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23690,
+                "start_time": 23490,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23890,
+                "start_time": 23690,
+                "text": "供"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24370,
+                "start_time": 24090,
+                "text": "支"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24650,
+                "start_time": 24370,
+                "text": "撑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24970,
+                "start_time": 24650,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25450,
+                "start_time": 25170,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25650,
+                "start_time": 25450,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25890,
+                "start_time": 25650,
+                "text": "性"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26290,
+                "start_time": 25930,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26450,
+                "start_time": 26290,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26610,
+                "start_time": 26450,
+                "text": "较"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26850,
+                "start_time": 26610,
+                "text": "差"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27130,
+                "start_time": 26850,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 32250,
+            "start_time": 27730,
+            "text": "因此，目前我们来看，绝大多数市面上与比特",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28010,
+                "start_time": 27730,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28250,
+                "start_time": 28010,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28610,
+                "start_time": 28370,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28770,
+                "start_time": 28610,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28930,
+                "start_time": 28770,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29010,
+                "start_time": 28930,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29170,
+                "start_time": 29010,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29450,
+                "start_time": 29170,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29890,
+                "start_time": 29650,
+                "text": "绝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30170,
+                "start_time": 29890,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30410,
+                "start_time": 30170,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30570,
+                "start_time": 30410,
+                "text": "数"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31210,
+                "start_time": 30890,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31410,
+                "start_time": 31210,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31610,
+                "start_time": 31410,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31850,
+                "start_time": 31650,
+                "text": "与"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32090,
+                "start_time": 31890,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32250,
+                "start_time": 32090,
+                "text": "特"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

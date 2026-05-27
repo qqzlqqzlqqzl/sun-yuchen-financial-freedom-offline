@@ -1,0 +1,96 @@
+{
+  "item": {
+    "index": 13,
+    "audio_id": "wavlake-mp3__080__63763504",
+    "episode": "080",
+    "title": "080 孙宇晨：【番外】毕业就创业OK吗？",
+    "line_no": 75,
+    "segment_start": 931.32,
+    "segment_end": 932.32,
+    "snippet_start": 930.12,
+    "snippet_end": 933.52,
+    "flags": [
+      "repeated_phrase_loop"
+    ],
+    "current_text": "对,对,对,对,对,对,对,对,对,对,对,对,对。",
+    "srt_text": "对,对,对,对,对,对,对,对,对,对,对,对,对。",
+    "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit/snippets/0013__wavlake-mp3__080__63763504__line0075.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605271142326CD8FC16C9E1E4094811",
+    "request_id": "21b0788c-1913-45ab-9861-272f85d028d6",
+    "response": {
+      "audio_info": {
+        "duration": 3400
+      },
+      "result": {
+        "additions": {
+          "duration": "3400"
+        },
+        "text": "弹的还是温柔居多。",
+        "utterances": [
+          {
+            "end_time": 1590,
+            "start_time": 110,
+            "text": "弹的还是温柔居多。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 190,
+                "start_time": 110,
+                "text": "弹"
+              },
+              {
+                "confidence": 0,
+                "end_time": 310,
+                "start_time": 270,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 470,
+                "start_time": 350,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 590,
+                "start_time": 470,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 750,
+                "start_time": 590,
+                "text": "温"
+              },
+              {
+                "confidence": 0,
+                "end_time": 870,
+                "start_time": 750,
+                "text": "柔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1310,
+                "start_time": 1230,
+                "text": "居"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1590,
+                "start_time": 1350,
+                "text": "多"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

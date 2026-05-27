@@ -1,0 +1,270 @@
+{
+  "item": {
+    "index": 56,
+    "audio_id": "wavlake-mp3__102__9360cb03",
+    "episode": "102",
+    "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "line_no": 11,
+    "segment_start": 140.64,
+    "segment_end": 140.8,
+    "snippet_start": 139.44,
+    "snippet_end": 142.0,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+    "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0056__wavlake-mp3__102__9360cb03__line0011.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "fa879feb-9d46-46bd-ad39-7d6187766421",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203225B53607B60D8215E5FFD",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203238C0F748AA74491953E9C",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120324897699B9C68697051F17",
+        "response": {
+          "audio_info": {
+            "duration": 2560
+          },
+          "result": {
+            "additions": {
+              "duration": "2560"
+            },
+            "text": "现需求，就是你想把它换成法定货币。",
+            "utterances": [
+              {
+                "end_time": 2280,
+                "start_time": 40,
+                "text": "现需求，就是你想把它换成法定货币。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 280,
+                    "text": "需"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 360,
+                    "text": "求"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 480,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 600,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 680,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 800,
+                    "text": "想"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 960,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1080,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1400,
+                    "start_time": 1200,
+                    "text": "换"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1400,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1600,
+                    "text": "法"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1760,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 1960,
+                    "text": "货"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2160,
+                    "text": "币"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2560
+      },
+      "result": {
+        "additions": {
+          "duration": "2560"
+        },
+        "text": "现需求，就是你想把它换成法定货币。",
+        "utterances": [
+          {
+            "end_time": 2280,
+            "start_time": 40,
+            "text": "现需求，就是你想把它换成法定货币。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 280,
+                "text": "需"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 360,
+                "text": "求"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 480,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 600,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 680,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 800,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 960,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1080,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1400,
+                "start_time": 1200,
+                "text": "换"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1400,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1600,
+                "text": "法"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1760,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 1960,
+                "text": "货"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2160,
+                "text": "币"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

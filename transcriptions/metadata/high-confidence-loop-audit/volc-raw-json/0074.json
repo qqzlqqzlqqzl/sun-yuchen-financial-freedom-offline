@@ -1,0 +1,440 @@
+{
+  "item": {
+    "index": 74,
+    "audio_id": "wavlake-mp3__114__1125512e",
+    "episode": "114",
+    "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "line_no": 23,
+    "segment_start": 282.1,
+    "segment_end": 289.2,
+    "snippet_start": 280.90000000000003,
+    "snippet_end": 290.4,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+    "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0074__wavlake-mp3__114__1125512e__line0023.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "1eff3965-462e-4825-ba58-323cfbf2c46c",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203287D7A783A467D5C0855B9",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712032836DECB0AB7077A07D239",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120330FE4880E908FB57BA3362",
+        "response": {
+          "audio_info": {
+            "duration": 9500
+          },
+          "result": {
+            "additions": {
+              "duration": "9500"
+            },
+            "text": "常健康。可能艾滋病的患者预期寿命就比普通人少5~8年而已。所以从",
+            "utterances": [
+              {
+                "end_time": 720,
+                "start_time": 120,
+                "text": "常健康。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 120,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 320,
+                    "text": "健"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 520,
+                    "text": "康"
+                  }
+                ]
+              },
+              {
+                "end_time": 9340,
+                "start_time": 1900,
+                "text": "可能艾滋病的患者预期寿命就比普通人少5~8年而已。所以从",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2060,
+                    "start_time": 1900,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2220,
+                    "start_time": 2060,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2380,
+                    "start_time": 2300,
+                    "text": "艾"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2540,
+                    "start_time": 2420,
+                    "text": "滋"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2860,
+                    "start_time": 2540,
+                    "text": "病"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3620,
+                    "start_time": 3180,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4180,
+                    "start_time": 3860,
+                    "text": "患"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4420,
+                    "start_time": 4180,
+                    "text": "者"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5060,
+                    "start_time": 4860,
+                    "text": "预"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5300,
+                    "start_time": 5060,
+                    "text": "期"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5500,
+                    "start_time": 5340,
+                    "text": "寿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5660,
+                    "start_time": 5500,
+                    "text": "命"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5860,
+                    "start_time": 5660,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6060,
+                    "start_time": 5860,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6260,
+                    "start_time": 6060,
+                    "text": "普"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6380,
+                    "start_time": 6260,
+                    "text": "通"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6660,
+                    "start_time": 6380,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7140,
+                    "start_time": 6820,
+                    "text": "少"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7980,
+                    "start_time": 7140,
+                    "text": "5~8"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8220,
+                    "start_time": 7980,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8460,
+                    "start_time": 8260,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8620,
+                    "start_time": 8460,
+                    "text": "已"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9100,
+                    "start_time": 8980,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9180,
+                    "start_time": 9100,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9340,
+                    "start_time": 9180,
+                    "text": "从"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 9500
+      },
+      "result": {
+        "additions": {
+          "duration": "9500"
+        },
+        "text": "常健康。可能艾滋病的患者预期寿命就比普通人少5~8年而已。所以从",
+        "utterances": [
+          {
+            "end_time": 720,
+            "start_time": 120,
+            "text": "常健康。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 120,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 320,
+                "text": "健"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 520,
+                "text": "康"
+              }
+            ]
+          },
+          {
+            "end_time": 9340,
+            "start_time": 1900,
+            "text": "可能艾滋病的患者预期寿命就比普通人少5~8年而已。所以从",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2060,
+                "start_time": 1900,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2220,
+                "start_time": 2060,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2380,
+                "start_time": 2300,
+                "text": "艾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2540,
+                "start_time": 2420,
+                "text": "滋"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2860,
+                "start_time": 2540,
+                "text": "病"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3620,
+                "start_time": 3180,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4180,
+                "start_time": 3860,
+                "text": "患"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4420,
+                "start_time": 4180,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5060,
+                "start_time": 4860,
+                "text": "预"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5300,
+                "start_time": 5060,
+                "text": "期"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5500,
+                "start_time": 5340,
+                "text": "寿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5660,
+                "start_time": 5500,
+                "text": "命"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5860,
+                "start_time": 5660,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6060,
+                "start_time": 5860,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6260,
+                "start_time": 6060,
+                "text": "普"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6380,
+                "start_time": 6260,
+                "text": "通"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6660,
+                "start_time": 6380,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7140,
+                "start_time": 6820,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7980,
+                "start_time": 7140,
+                "text": "5~8"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8220,
+                "start_time": 7980,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8460,
+                "start_time": 8260,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8620,
+                "start_time": 8460,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9100,
+                "start_time": 8980,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9180,
+                "start_time": 9100,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9340,
+                "start_time": 9180,
+                "text": "从"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-05-27T11:48:59+0800",
+  "note": "Volcengine standard ASR audit for suspicious repeated transcript snippets. API key is not stored.",
+  "source_manifest": "snippets-manifest.json",
+  "resource_id": "volc.bigasr.auc",
+  "api_kind": "standard_submit_query",
+  "count": 1,
+  "ok_count": 1,
+  "elapsed_seconds": 3.832,
+  "items": [
+    {
+      "index": 1,
+      "audio_id": "wavlake-mp3__120__34108871",
+      "episode": "120",
+      "title": "【家人边界】新道德破解旧问题",
+      "line_no": 2,
+      "segment_start": 30.0,
+      "segment_end": 59.98,
+      "snippet_start": 28.8,
+      "snippet_end": 61.18,
+      "flags": [
+        "repeated_phrase_loop_extra"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+      "audio_path": "wavlake-mp3/120 - 120 - 121 孙宇晨：【家人边界】新道德破解旧问题.mp3",
+      "snippet_path": "transcriptions/metadata/repetition-audit-extra/snippets/0001__wavlake-mp3__120__34108871__line0002.wav",
+      "volc_ok": true,
+      "volc_status": "20000000",
+      "volc_message": "OK",
+      "volc_logid": "202605271148596BC982986060B75920FD",
+      "volc_text": "一个人的考试成绩，人生都是自己的考试成绩和人生，而不是他人人生的附庸。高考成绩考得差还是好，影响的是你自己。首先一，跟我父母的人生没有任何关系。大家注意，这是一个本质出发的前提条件。就像我，孙宇晨已经考上北大，宾大，都是常春藤的名校。按照传统的观念，我儿子是不是至少得",
+      "request_id": "519229ee-4599-40e9-9ce2-8290797c9e1e",
+      "raw_json_path": "volc-raw-json/0001.json"
+    }
+  ]
+}

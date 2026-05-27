@@ -1,0 +1,210 @@
+{
+  "item": {
+    "index": 76,
+    "audio_id": "wavlake-mp3__114__1125512e",
+    "episode": "114",
+    "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "line_no": 25,
+    "segment_start": 289.2,
+    "segment_end": 289.2,
+    "snippet_start": 288.0,
+    "snippet_end": 290.4,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+    "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0076__wavlake-mp3__114__1125512e__line0025.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "7b8ecd79-ad9b-4b76-bfb3-cea4704f731f",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203286224873B16C4D7080CDD",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120329E58571C97E1E2705D3E5",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120330CFF8BB44C52E2C841D47",
+        "response": {
+          "audio_info": {
+            "duration": 2400
+          },
+          "result": {
+            "additions": {
+              "duration": "2400"
+            },
+            "text": "五到八年而已。所以从这",
+            "utterances": [
+              {
+                "end_time": 2370,
+                "start_time": 210,
+                "text": "五到八年而已。所以从这",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 370,
+                    "start_time": 210,
+                    "text": "五"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 570,
+                    "start_time": 370,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 890,
+                    "start_time": 650,
+                    "text": "八"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1130,
+                    "start_time": 890,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1370,
+                    "start_time": 1170,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1490,
+                    "start_time": 1370,
+                    "text": "已"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2010,
+                    "start_time": 1890,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2090,
+                    "start_time": 2010,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2250,
+                    "start_time": 2090,
+                    "text": "从"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2370,
+                    "start_time": 2250,
+                    "text": "这"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2400
+      },
+      "result": {
+        "additions": {
+          "duration": "2400"
+        },
+        "text": "五到八年而已。所以从这",
+        "utterances": [
+          {
+            "end_time": 2370,
+            "start_time": 210,
+            "text": "五到八年而已。所以从这",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 370,
+                "start_time": 210,
+                "text": "五"
+              },
+              {
+                "confidence": 0,
+                "end_time": 570,
+                "start_time": 370,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 890,
+                "start_time": 650,
+                "text": "八"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1130,
+                "start_time": 890,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1370,
+                "start_time": 1170,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1490,
+                "start_time": 1370,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2010,
+                "start_time": 1890,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2090,
+                "start_time": 2010,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2250,
+                "start_time": 2090,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2370,
+                "start_time": 2250,
+                "text": "这"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

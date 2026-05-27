@@ -1,0 +1,29 @@
+{
+  "item": {
+    "index": 11,
+    "audio_id": "wavlake-mp3__040__3c1baea7",
+    "episode": "040",
+    "title": "040 - 040 - 040 孙宇晨：结婚这件小事.mp3",
+    "line_no": 2,
+    "segment_start": 30.0,
+    "segment_end": 59.98,
+    "snippet_start": 28.8,
+    "snippet_end": 61.18,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "我是陪你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+    "audio_path": "wavlake-mp3/040 - 040 - 040 孙宇晨：结婚这件小事.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0011__wavlake-mp3__040__3c1baea7__line0002.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "6b3b7ba6-8c37-4410-9649-79370620f3e1",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+    },
+    "queries": []
+  }
+}

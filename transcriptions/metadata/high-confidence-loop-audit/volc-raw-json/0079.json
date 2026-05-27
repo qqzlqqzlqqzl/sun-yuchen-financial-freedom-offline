@@ -1,0 +1,282 @@
+{
+  "item": {
+    "index": 79,
+    "audio_id": "wavlake-mp3__118__86d1aebf",
+    "episode": "118",
+    "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "line_no": 67,
+    "segment_start": 421.68,
+    "segment_end": 423.68,
+    "snippet_start": 420.48,
+    "snippet_end": 424.88,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。",
+    "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0079__wavlake-mp3__118__86d1aebf__line0067.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "bc867ce9-5ca1-4b25-a897-4a4c39f39d0f",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120329750513B78193135B0797",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120329C44621B6FD587C5B3BB8",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052712033161129615F08447B2660F",
+        "response": {
+          "audio_info": {
+            "duration": 4400
+          },
+          "result": {
+            "additions": {
+              "duration": "4400"
+            },
+            "text": "妻娶贤，以及娶老公嫁郎也要嫁贤吧，是。",
+            "utterances": [
+              {
+                "end_time": 4240,
+                "start_time": 120,
+                "text": "妻娶贤，以及娶老公嫁郎也要嫁贤吧，是。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 120,
+                    "text": "妻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 320,
+                    "text": "娶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 520,
+                    "text": "贤"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1000,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1160,
+                    "text": "及"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1320,
+                    "text": "娶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1520,
+                    "text": "老"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1720,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2280,
+                    "text": "嫁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2720,
+                    "start_time": 2640,
+                    "text": "郎"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2880,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3080,
+                    "start_time": 2960,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3160,
+                    "text": "嫁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3440,
+                    "start_time": 3400,
+                    "text": "贤"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3800,
+                    "start_time": 3560,
+                    "text": "吧"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4000,
+                    "text": "是"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "妻娶贤，以及娶老公嫁郎也要嫁贤吧，是。",
+        "utterances": [
+          {
+            "end_time": 4240,
+            "start_time": 120,
+            "text": "妻娶贤，以及娶老公嫁郎也要嫁贤吧，是。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "妻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 320,
+                "text": "娶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 520,
+                "text": "贤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1000,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1160,
+                "text": "及"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1320,
+                "text": "娶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1520,
+                "text": "老"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1720,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2280,
+                "text": "嫁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2640,
+                "text": "郎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2880,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2960,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3160,
+                "text": "嫁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3400,
+                "text": "贤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3560,
+                "text": "吧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4000,
+                "text": "是"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

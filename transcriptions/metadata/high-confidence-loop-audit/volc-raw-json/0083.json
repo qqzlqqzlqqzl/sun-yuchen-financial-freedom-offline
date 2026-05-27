@@ -1,0 +1,306 @@
+{
+  "item": {
+    "index": 83,
+    "audio_id": "wavlake-mp3__118__86d1aebf",
+    "episode": "118",
+    "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "line_no": 75,
+    "segment_start": 437.68,
+    "segment_end": 439.68,
+    "snippet_start": 436.48,
+    "snippet_end": 440.88,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。",
+    "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0083__wavlake-mp3__118__86d1aebf__line0075.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "6d58dc1d-63fb-40c0-ad05-bdce35ed4ef2",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712032916681F20709EBF05CF2D",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120330A208E7E121A6E15A60A5",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120331A5A70C1752EE31B4C231",
+        "response": {
+          "audio_info": {
+            "duration": 4400
+          },
+          "result": {
+            "additions": {
+              "duration": "4400"
+            },
+            "text": "就是夫妻之间的边界要分清楚。夫妻之间的",
+            "utterances": [
+              {
+                "end_time": 4320,
+                "start_time": 200,
+                "text": "就是夫妻之间的边界要分清楚。夫妻之间的",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 200,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 320,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 520,
+                    "text": "夫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 760,
+                    "text": "妻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 1000,
+                    "text": "之"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1160,
+                    "text": "间"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1400,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1880,
+                    "start_time": 1680,
+                    "text": "边"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1880,
+                    "text": "界"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2120,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2280,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2760,
+                    "start_time": 2520,
+                    "text": "清"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2920,
+                    "start_time": 2760,
+                    "text": "楚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3600,
+                    "text": "夫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3920,
+                    "start_time": 3760,
+                    "text": "妻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3920,
+                    "text": "之"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 4080,
+                    "text": "间"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4280,
+                    "text": "的"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "就是夫妻之间的边界要分清楚。夫妻之间的",
+        "utterances": [
+          {
+            "end_time": 4320,
+            "start_time": 200,
+            "text": "就是夫妻之间的边界要分清楚。夫妻之间的",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 200,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 320,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 520,
+                "text": "夫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 760,
+                "text": "妻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1000,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1160,
+                "text": "间"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1680,
+                "text": "边"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1880,
+                "text": "界"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2280,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2520,
+                "text": "清"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "楚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3600,
+                "text": "夫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3760,
+                "text": "妻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3920,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4080,
+                "text": "间"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4280,
+                "text": "的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

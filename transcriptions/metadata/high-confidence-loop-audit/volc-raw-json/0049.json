@@ -1,0 +1,1756 @@
+{
+  "item": {
+    "index": 49,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 58,
+    "segment_start": 506.0,
+    "segment_end": 535.98,
+    "snippet_start": 504.8,
+    "snippet_end": 537.1800000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0049__wavlake-mp3__082__3a025f97__line0058.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "2f307945-5f4e-4be5-8b89-633fc0a49d48",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712031986C800D5E8AC44EDB38F",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712032112F2847DD841B15DEF74",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271203231384B7FEC4BF6A5B4480",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "那么这个猫就会被杀死，如果不衰变，猫就会活下来。因为这两件事呢，发生的概率相等。薛定谔认为，在盒子被打开前，盒子中的猫是既死又活的。这与我们平时认为这个猫要不是死，要不是活，是有非常大的差别的。因此这个实验的核心思想是事件发生时是不存在观测者的。所以盒子里的猫，它一定存在于它所有可能存在于的",
+            "utterances": [
+              {
+                "end_time": 5080,
+                "start_time": 80,
+                "text": "那么这个猫就会被杀死，如果不衰变，猫就会活下来。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 80,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 400,
+                    "start_time": 240,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 600,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 840,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1320,
+                    "start_time": 1000,
+                    "text": "猫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1560,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1800,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1920,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2120,
+                    "text": "杀"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2360,
+                    "text": "死"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2800,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3080,
+                    "start_time": 2960,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3320,
+                    "start_time": 3080,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3440,
+                    "text": "衰"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3640,
+                    "text": "变"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3960,
+                    "text": "猫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4160,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4520,
+                    "start_time": 4360,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4720,
+                    "start_time": 4520,
+                    "text": "活"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4720,
+                    "text": "下"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5080,
+                    "start_time": 4920,
+                    "text": "来"
+                  }
+                ]
+              },
+              {
+                "end_time": 7960,
+                "start_time": 5280,
+                "text": "因为这两件事呢，发生的概率相等。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5280,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5600,
+                    "start_time": 5480,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5600,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6040,
+                    "start_time": 5840,
+                    "text": "两"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6040,
+                    "text": "件"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6400,
+                    "start_time": 6200,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6600,
+                    "start_time": 6400,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6840,
+                    "start_time": 6680,
+                    "text": "发"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6840,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7120,
+                    "start_time": 6960,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7280,
+                    "start_time": 7120,
+                    "text": "概"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7480,
+                    "start_time": 7280,
+                    "text": "率"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7720,
+                    "start_time": 7480,
+                    "text": "相"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7960,
+                    "start_time": 7720,
+                    "text": "等"
+                  }
+                ]
+              },
+              {
+                "end_time": 15030,
+                "start_time": 8240,
+                "text": "薛定谔认为，在盒子被打开前，盒子中的猫是既死又活的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8320,
+                    "start_time": 8240,
+                    "text": "薛"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8520,
+                    "start_time": 8480,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8760,
+                    "start_time": 8720,
+                    "text": "谔"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9080,
+                    "start_time": 8880,
+                    "text": "认"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9280,
+                    "start_time": 9080,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9960,
+                    "start_time": 9640,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10360,
+                    "start_time": 10080,
+                    "text": "盒"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10360,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10760,
+                    "start_time": 10520,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10960,
+                    "start_time": 10760,
+                    "text": "打"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11160,
+                    "start_time": 10960,
+                    "text": "开"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11480,
+                    "start_time": 11160,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11920,
+                    "start_time": 11720,
+                    "text": "盒"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12040,
+                    "start_time": 11920,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12240,
+                    "start_time": 12040,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12400,
+                    "start_time": 12240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12680,
+                    "start_time": 12400,
+                    "text": "猫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13240,
+                    "start_time": 12920,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13480,
+                    "start_time": 13440,
+                    "text": "既"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13960,
+                    "start_time": 13680,
+                    "text": "死"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14470,
+                    "start_time": 14390,
+                    "text": "又"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14870,
+                    "start_time": 14630,
+                    "text": "活"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15030,
+                    "start_time": 14870,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 20950,
+                "start_time": 15230,
+                "text": "这与我们平时认为这个猫要不是死，要不是活，是有非常大的差别的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 15510,
+                    "start_time": 15230,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15750,
+                    "start_time": 15510,
+                    "text": "与"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15950,
+                    "start_time": 15750,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16110,
+                    "start_time": 15950,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16350,
+                    "start_time": 16110,
+                    "text": "平"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16510,
+                    "start_time": 16350,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16710,
+                    "start_time": 16510,
+                    "text": "认"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16830,
+                    "start_time": 16710,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16990,
+                    "start_time": 16830,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17110,
+                    "start_time": 16990,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17390,
+                    "start_time": 17110,
+                    "text": "猫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17710,
+                    "start_time": 17470,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17830,
+                    "start_time": 17710,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17990,
+                    "start_time": 17830,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18270,
+                    "start_time": 17990,
+                    "text": "死"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18470,
+                    "start_time": 18310,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18590,
+                    "start_time": 18470,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18750,
+                    "start_time": 18590,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19030,
+                    "start_time": 18750,
+                    "text": "活"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19430,
+                    "start_time": 19190,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19630,
+                    "start_time": 19430,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19830,
+                    "start_time": 19630,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19950,
+                    "start_time": 19830,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20150,
+                    "start_time": 19950,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20310,
+                    "start_time": 20150,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20510,
+                    "start_time": 20310,
+                    "text": "差"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20710,
+                    "start_time": 20510,
+                    "text": "别"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20950,
+                    "start_time": 20710,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 27190,
+                "start_time": 21070,
+                "text": "因此这个实验的核心思想是事件发生时是不存在观测者的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 21310,
+                    "start_time": 21070,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21510,
+                    "start_time": 21310,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21870,
+                    "start_time": 21710,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22070,
+                    "start_time": 21870,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22230,
+                    "start_time": 22070,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22390,
+                    "start_time": 22230,
+                    "text": "验"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22590,
+                    "start_time": 22390,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22750,
+                    "start_time": 22590,
+                    "text": "核"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22950,
+                    "start_time": 22750,
+                    "text": "心"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23190,
+                    "start_time": 22950,
+                    "text": "思"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23350,
+                    "start_time": 23190,
+                    "text": "想"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23630,
+                    "start_time": 23590,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24030,
+                    "start_time": 23790,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24230,
+                    "start_time": 24030,
+                    "text": "件"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24590,
+                    "start_time": 24310,
+                    "text": "发"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24750,
+                    "start_time": 24590,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25030,
+                    "start_time": 24750,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25270,
+                    "start_time": 25030,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25470,
+                    "start_time": 25270,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25710,
+                    "start_time": 25470,
+                    "text": "存"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25950,
+                    "start_time": 25710,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26430,
+                    "start_time": 26190,
+                    "text": "观"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26670,
+                    "start_time": 26430,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26950,
+                    "start_time": 26670,
+                    "text": "者"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27190,
+                    "start_time": 26950,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 32340,
+                "start_time": 27500,
+                "text": "所以盒子里的猫，它一定存在于它所有可能存在于的",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 27660,
+                    "start_time": 27500,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27740,
+                    "start_time": 27660,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27940,
+                    "start_time": 27900,
+                    "text": "盒"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28140,
+                    "start_time": 28060,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28300,
+                    "start_time": 28220,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28420,
+                    "start_time": 28300,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28740,
+                    "start_time": 28460,
+                    "text": "猫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29180,
+                    "start_time": 29060,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29380,
+                    "start_time": 29220,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29580,
+                    "start_time": 29380,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29820,
+                    "start_time": 29580,
+                    "text": "存"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29980,
+                    "start_time": 29820,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30180,
+                    "start_time": 29980,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30380,
+                    "start_time": 30340,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30860,
+                    "start_time": 30580,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31100,
+                    "start_time": 30860,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31500,
+                    "start_time": 31260,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31700,
+                    "start_time": 31500,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31900,
+                    "start_time": 31700,
+                    "text": "存"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32020,
+                    "start_time": 31900,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32140,
+                    "start_time": 32020,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32340,
+                    "start_time": 32140,
+                    "text": "的"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "那么这个猫就会被杀死，如果不衰变，猫就会活下来。因为这两件事呢，发生的概率相等。薛定谔认为，在盒子被打开前，盒子中的猫是既死又活的。这与我们平时认为这个猫要不是死，要不是活，是有非常大的差别的。因此这个实验的核心思想是事件发生时是不存在观测者的。所以盒子里的猫，它一定存在于它所有可能存在于的",
+        "utterances": [
+          {
+            "end_time": 5080,
+            "start_time": 80,
+            "text": "那么这个猫就会被杀死，如果不衰变，猫就会活下来。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 80,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 240,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 600,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 840,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1000,
+                "text": "猫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1560,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1800,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1920,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2120,
+                "text": "杀"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2360,
+                "text": "死"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2800,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2960,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3080,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3440,
+                "text": "衰"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3640,
+                "text": "变"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3960,
+                "text": "猫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4160,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4360,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4520,
+                "text": "活"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4720,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 4920,
+                "text": "来"
+              }
+            ]
+          },
+          {
+            "end_time": 7960,
+            "start_time": 5280,
+            "text": "因为这两件事呢，发生的概率相等。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5280,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5480,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5600,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5840,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6040,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6200,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6400,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6840,
+                "start_time": 6680,
+                "text": "发"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6840,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 6960,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7120,
+                "text": "概"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7280,
+                "text": "率"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7480,
+                "text": "相"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7960,
+                "start_time": 7720,
+                "text": "等"
+              }
+            ]
+          },
+          {
+            "end_time": 15030,
+            "start_time": 8240,
+            "text": "薛定谔认为，在盒子被打开前，盒子中的猫是既死又活的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8320,
+                "start_time": 8240,
+                "text": "薛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8520,
+                "start_time": 8480,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8760,
+                "start_time": 8720,
+                "text": "谔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9080,
+                "start_time": 8880,
+                "text": "认"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9280,
+                "start_time": 9080,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9960,
+                "start_time": 9640,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10360,
+                "start_time": 10080,
+                "text": "盒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10360,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10760,
+                "start_time": 10520,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10760,
+                "text": "打"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11160,
+                "start_time": 10960,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11480,
+                "start_time": 11160,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11920,
+                "start_time": 11720,
+                "text": "盒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12040,
+                "start_time": 11920,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12240,
+                "start_time": 12040,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12400,
+                "start_time": 12240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12680,
+                "start_time": 12400,
+                "text": "猫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13240,
+                "start_time": 12920,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13480,
+                "start_time": 13440,
+                "text": "既"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13960,
+                "start_time": 13680,
+                "text": "死"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14470,
+                "start_time": 14390,
+                "text": "又"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14870,
+                "start_time": 14630,
+                "text": "活"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15030,
+                "start_time": 14870,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 20950,
+            "start_time": 15230,
+            "text": "这与我们平时认为这个猫要不是死，要不是活，是有非常大的差别的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 15510,
+                "start_time": 15230,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15750,
+                "start_time": 15510,
+                "text": "与"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15950,
+                "start_time": 15750,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16110,
+                "start_time": 15950,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16350,
+                "start_time": 16110,
+                "text": "平"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16510,
+                "start_time": 16350,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16710,
+                "start_time": 16510,
+                "text": "认"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16830,
+                "start_time": 16710,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16990,
+                "start_time": 16830,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17110,
+                "start_time": 16990,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17390,
+                "start_time": 17110,
+                "text": "猫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17710,
+                "start_time": 17470,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17830,
+                "start_time": 17710,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17990,
+                "start_time": 17830,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18270,
+                "start_time": 17990,
+                "text": "死"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18470,
+                "start_time": 18310,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18590,
+                "start_time": 18470,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18750,
+                "start_time": 18590,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19030,
+                "start_time": 18750,
+                "text": "活"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19430,
+                "start_time": 19190,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19630,
+                "start_time": 19430,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19830,
+                "start_time": 19630,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19950,
+                "start_time": 19830,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20150,
+                "start_time": 19950,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20310,
+                "start_time": 20150,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20510,
+                "start_time": 20310,
+                "text": "差"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20710,
+                "start_time": 20510,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20950,
+                "start_time": 20710,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 27190,
+            "start_time": 21070,
+            "text": "因此这个实验的核心思想是事件发生时是不存在观测者的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 21310,
+                "start_time": 21070,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21510,
+                "start_time": 21310,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21870,
+                "start_time": 21710,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22070,
+                "start_time": 21870,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22230,
+                "start_time": 22070,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22390,
+                "start_time": 22230,
+                "text": "验"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22590,
+                "start_time": 22390,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22750,
+                "start_time": 22590,
+                "text": "核"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22950,
+                "start_time": 22750,
+                "text": "心"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23190,
+                "start_time": 22950,
+                "text": "思"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23350,
+                "start_time": 23190,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23630,
+                "start_time": 23590,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24030,
+                "start_time": 23790,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24230,
+                "start_time": 24030,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24590,
+                "start_time": 24310,
+                "text": "发"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24750,
+                "start_time": 24590,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25030,
+                "start_time": 24750,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25270,
+                "start_time": 25030,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25470,
+                "start_time": 25270,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25710,
+                "start_time": 25470,
+                "text": "存"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25950,
+                "start_time": 25710,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26430,
+                "start_time": 26190,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26670,
+                "start_time": 26430,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26950,
+                "start_time": 26670,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27190,
+                "start_time": 26950,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 32340,
+            "start_time": 27500,
+            "text": "所以盒子里的猫，它一定存在于它所有可能存在于的",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 27660,
+                "start_time": 27500,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27740,
+                "start_time": 27660,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27940,
+                "start_time": 27900,
+                "text": "盒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28140,
+                "start_time": 28060,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28300,
+                "start_time": 28220,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28420,
+                "start_time": 28300,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28740,
+                "start_time": 28460,
+                "text": "猫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29180,
+                "start_time": 29060,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29380,
+                "start_time": 29220,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29580,
+                "start_time": 29380,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29820,
+                "start_time": 29580,
+                "text": "存"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29980,
+                "start_time": 29820,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30180,
+                "start_time": 29980,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30380,
+                "start_time": 30340,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30860,
+                "start_time": 30580,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31100,
+                "start_time": 30860,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31500,
+                "start_time": 31260,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31700,
+                "start_time": 31500,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31900,
+                "start_time": 31700,
+                "text": "存"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32020,
+                "start_time": 31900,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32140,
+                "start_time": 32020,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32340,
+                "start_time": 32140,
+                "text": "的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

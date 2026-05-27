@@ -1,0 +1,29 @@
+{
+  "item": {
+    "index": 10,
+    "audio_id": "wavlake-mp3__036__8bed1231",
+    "episode": "036",
+    "title": "036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "line_no": 7,
+    "segment_start": 180.0,
+    "segment_end": 209.98,
+    "snippet_start": 178.8,
+    "snippet_end": 211.17999999999998,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。在这一边,等着你。",
+    "audio_path": "wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0010__wavlake-mp3__036__8bed1231__line0007.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "01be5af6-2f1b-46eb-a1b8-23cd21e6aa7e",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+    },
+    "queries": []
+  }
+}

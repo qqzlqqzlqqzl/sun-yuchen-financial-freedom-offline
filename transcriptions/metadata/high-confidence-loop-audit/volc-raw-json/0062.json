@@ -1,0 +1,1716 @@
+{
+  "item": {
+    "index": 62,
+    "audio_id": "wavlake-mp3__102__9360cb03",
+    "episode": "102",
+    "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "line_no": 17,
+    "segment_start": 194.84,
+    "segment_end": 224.8,
+    "snippet_start": 193.64000000000001,
+    "snippet_end": 226.0,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+    "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0062__wavlake-mp3__102__9360cb03__line0017.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "4d02a777-ab2e-4842-a7a1-6fd736e75b26",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203237E9389BEC7824EB2167D",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712032453EF0756FCB2DCB4B18D",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120326A3B1F4EDD12422ED3B0D",
+        "response": {
+          "audio_info": {
+            "duration": 32360
+          },
+          "result": {
+            "additions": {
+              "duration": "32360"
+            },
+            "text": "出了无政府资本主义之后呢，其中有两个事情一直以来是政府为公共社会提供的基础服务，而确实无法被替代的，一个是金融，其实金融本质就是造币。另外一个呢，就是暴力，就是国家机关军队。其中呢，这两个一直以来都是个死结，很难被解决。但是比特币的出现，可以说已经解决了其中一个，就是解决了货币第一次出现的。",
+            "utterances": [
+              {
+                "end_time": 16300,
+                "start_time": 40,
+                "text": "出了无政府资本主义之后呢，其中有两个事情一直以来是政府为公共社会提供的基础服务，而确实无法被替代的，一个是金融，其实金融本质就是造币。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 200,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 680,
+                    "text": "无"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1000,
+                    "text": "政"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1200,
+                    "text": "府"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1400,
+                    "text": "资"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1640,
+                    "start_time": 1520,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1640,
+                    "text": "主"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1840,
+                    "text": "义"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2080,
+                    "start_time": 1920,
+                    "text": "之"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2080,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2240,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2880,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3280,
+                    "start_time": 3120,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3280,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3560,
+                    "text": "两"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3880,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4400,
+                    "start_time": 4160,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4400,
+                    "text": "情"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5440,
+                    "start_time": 5160,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5440,
+                    "text": "直"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5640,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5840,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6640,
+                    "start_time": 6160,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7280,
+                    "start_time": 6960,
+                    "text": "政"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7480,
+                    "start_time": 7280,
+                    "text": "府"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7920,
+                    "start_time": 7600,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8240,
+                    "start_time": 8040,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8400,
+                    "start_time": 8240,
+                    "text": "共"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8600,
+                    "start_time": 8400,
+                    "text": "社"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8760,
+                    "start_time": 8600,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8880,
+                    "start_time": 8760,
+                    "text": "提"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9040,
+                    "start_time": 8880,
+                    "text": "供"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9240,
+                    "start_time": 9040,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9400,
+                    "start_time": 9240,
+                    "text": "基"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9560,
+                    "start_time": 9400,
+                    "text": "础"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9800,
+                    "start_time": 9560,
+                    "text": "服"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9920,
+                    "start_time": 9800,
+                    "text": "务"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10240,
+                    "start_time": 9960,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11220,
+                    "start_time": 10980,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11420,
+                    "start_time": 11220,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11580,
+                    "start_time": 11420,
+                    "text": "无"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11740,
+                    "start_time": 11580,
+                    "text": "法"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11940,
+                    "start_time": 11740,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12180,
+                    "start_time": 11940,
+                    "text": "替"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12300,
+                    "start_time": 12180,
+                    "text": "代"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12580,
+                    "start_time": 12300,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13100,
+                    "start_time": 12820,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13300,
+                    "start_time": 13100,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13540,
+                    "start_time": 13300,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13780,
+                    "start_time": 13540,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14020,
+                    "start_time": 13780,
+                    "text": "融"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14620,
+                    "start_time": 14420,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14740,
+                    "start_time": 14620,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14940,
+                    "start_time": 14780,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15100,
+                    "start_time": 14940,
+                    "text": "融"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15380,
+                    "start_time": 15140,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15540,
+                    "start_time": 15380,
+                    "text": "质"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15700,
+                    "start_time": 15540,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15860,
+                    "start_time": 15700,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16060,
+                    "start_time": 15860,
+                    "text": "造"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16300,
+                    "start_time": 16180,
+                    "text": "币"
+                  }
+                ]
+              },
+              {
+                "end_time": 21300,
+                "start_time": 17060,
+                "text": "另外一个呢，就是暴力，就是国家机关军队。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 17300,
+                    "start_time": 17060,
+                    "text": "另"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17420,
+                    "start_time": 17300,
+                    "text": "外"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17620,
+                    "start_time": 17420,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17740,
+                    "start_time": 17620,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18020,
+                    "start_time": 17740,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18340,
+                    "start_time": 18060,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18700,
+                    "start_time": 18340,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19300,
+                    "start_time": 18980,
+                    "text": "暴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19460,
+                    "start_time": 19300,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19820,
+                    "start_time": 19620,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19940,
+                    "start_time": 19820,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20220,
+                    "start_time": 20100,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20380,
+                    "start_time": 20220,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20580,
+                    "start_time": 20380,
+                    "text": "机"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20780,
+                    "start_time": 20580,
+                    "text": "关"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21060,
+                    "start_time": 20820,
+                    "text": "军"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21300,
+                    "start_time": 21060,
+                    "text": "队"
+                  }
+                ]
+              },
+              {
+                "end_time": 26240,
+                "start_time": 22000,
+                "text": "其中呢，这两个一直以来都是个死结，很难被解决。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 22240,
+                    "start_time": 22000,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22400,
+                    "start_time": 22240,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22600,
+                    "start_time": 22400,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22880,
+                    "start_time": 22600,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23120,
+                    "start_time": 22880,
+                    "text": "两"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23400,
+                    "start_time": 23120,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23800,
+                    "start_time": 23560,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23960,
+                    "start_time": 23800,
+                    "text": "直"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24080,
+                    "start_time": 23960,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24240,
+                    "start_time": 24080,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24400,
+                    "start_time": 24240,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24520,
+                    "start_time": 24400,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24640,
+                    "start_time": 24520,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24840,
+                    "start_time": 24640,
+                    "text": "死"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25040,
+                    "start_time": 24960,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25480,
+                    "start_time": 25280,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25680,
+                    "start_time": 25480,
+                    "text": "难"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25920,
+                    "start_time": 25680,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26120,
+                    "start_time": 25920,
+                    "text": "解"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26240,
+                    "start_time": 26120,
+                    "text": "决"
+                  }
+                ]
+              },
+              {
+                "end_time": 32240,
+                "start_time": 26680,
+                "text": "但是比特币的出现，可以说已经解决了其中一个，就是解决了货币第一次出现的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 26880,
+                    "start_time": 26680,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27080,
+                    "start_time": 26880,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27280,
+                    "start_time": 27080,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27400,
+                    "start_time": 27280,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27560,
+                    "start_time": 27440,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27760,
+                    "start_time": 27560,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27880,
+                    "start_time": 27760,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28000,
+                    "start_time": 27880,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28160,
+                    "start_time": 28040,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28280,
+                    "start_time": 28160,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28480,
+                    "start_time": 28280,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28640,
+                    "start_time": 28480,
+                    "text": "已"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28840,
+                    "start_time": 28640,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29080,
+                    "start_time": 28840,
+                    "text": "解"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29200,
+                    "start_time": 29080,
+                    "text": "决"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29440,
+                    "start_time": 29200,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29800,
+                    "start_time": 29560,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29920,
+                    "start_time": 29800,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30080,
+                    "start_time": 29920,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30200,
+                    "start_time": 30080,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30360,
+                    "start_time": 30200,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30560,
+                    "start_time": 30360,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30720,
+                    "start_time": 30560,
+                    "text": "解"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30760,
+                    "start_time": 30720,
+                    "text": "决"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30960,
+                    "start_time": 30760,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31160,
+                    "start_time": 30960,
+                    "text": "货"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31360,
+                    "start_time": 31160,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31720,
+                    "start_time": 31600,
+                    "text": "第"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31840,
+                    "start_time": 31720,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31960,
+                    "start_time": 31840,
+                    "text": "次"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32080,
+                    "start_time": 31960,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32160,
+                    "start_time": 32080,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32240,
+                    "start_time": 32200,
+                    "text": "的"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32360
+      },
+      "result": {
+        "additions": {
+          "duration": "32360"
+        },
+        "text": "出了无政府资本主义之后呢，其中有两个事情一直以来是政府为公共社会提供的基础服务，而确实无法被替代的，一个是金融，其实金融本质就是造币。另外一个呢，就是暴力，就是国家机关军队。其中呢，这两个一直以来都是个死结，很难被解决。但是比特币的出现，可以说已经解决了其中一个，就是解决了货币第一次出现的。",
+        "utterances": [
+          {
+            "end_time": 16300,
+            "start_time": 40,
+            "text": "出了无政府资本主义之后呢，其中有两个事情一直以来是政府为公共社会提供的基础服务，而确实无法被替代的，一个是金融，其实金融本质就是造币。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 200,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 680,
+                "text": "无"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1000,
+                "text": "政"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1200,
+                "text": "府"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1400,
+                "text": "资"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1520,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1640,
+                "text": "主"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1840,
+                "text": "义"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1920,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2080,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2240,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2880,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3120,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3280,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3560,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3880,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4400,
+                "start_time": 4160,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4400,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5160,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5440,
+                "text": "直"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5640,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5840,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6160,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 6960,
+                "text": "政"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7280,
+                "text": "府"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7600,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8240,
+                "start_time": 8040,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8400,
+                "start_time": 8240,
+                "text": "共"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8600,
+                "start_time": 8400,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8760,
+                "start_time": 8600,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8760,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8880,
+                "text": "供"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9240,
+                "start_time": 9040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9240,
+                "text": "基"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9400,
+                "text": "础"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9800,
+                "start_time": 9560,
+                "text": "服"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9800,
+                "text": "务"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 9960,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11220,
+                "start_time": 10980,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11420,
+                "start_time": 11220,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11580,
+                "start_time": 11420,
+                "text": "无"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11740,
+                "start_time": 11580,
+                "text": "法"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11940,
+                "start_time": 11740,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12180,
+                "start_time": 11940,
+                "text": "替"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12300,
+                "start_time": 12180,
+                "text": "代"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12580,
+                "start_time": 12300,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13100,
+                "start_time": 12820,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13300,
+                "start_time": 13100,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13540,
+                "start_time": 13300,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13780,
+                "start_time": 13540,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14020,
+                "start_time": 13780,
+                "text": "融"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14620,
+                "start_time": 14420,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14740,
+                "start_time": 14620,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14940,
+                "start_time": 14780,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15100,
+                "start_time": 14940,
+                "text": "融"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15380,
+                "start_time": 15140,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15540,
+                "start_time": 15380,
+                "text": "质"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15700,
+                "start_time": 15540,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15860,
+                "start_time": 15700,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16060,
+                "start_time": 15860,
+                "text": "造"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16300,
+                "start_time": 16180,
+                "text": "币"
+              }
+            ]
+          },
+          {
+            "end_time": 21300,
+            "start_time": 17060,
+            "text": "另外一个呢，就是暴力，就是国家机关军队。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17300,
+                "start_time": 17060,
+                "text": "另"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17420,
+                "start_time": 17300,
+                "text": "外"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17620,
+                "start_time": 17420,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17740,
+                "start_time": 17620,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18020,
+                "start_time": 17740,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18340,
+                "start_time": 18060,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18700,
+                "start_time": 18340,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19300,
+                "start_time": 18980,
+                "text": "暴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19460,
+                "start_time": 19300,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19820,
+                "start_time": 19620,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19940,
+                "start_time": 19820,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20220,
+                "start_time": 20100,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20380,
+                "start_time": 20220,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20580,
+                "start_time": 20380,
+                "text": "机"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20780,
+                "start_time": 20580,
+                "text": "关"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21060,
+                "start_time": 20820,
+                "text": "军"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21300,
+                "start_time": 21060,
+                "text": "队"
+              }
+            ]
+          },
+          {
+            "end_time": 26240,
+            "start_time": 22000,
+            "text": "其中呢，这两个一直以来都是个死结，很难被解决。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 22240,
+                "start_time": 22000,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22400,
+                "start_time": 22240,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22600,
+                "start_time": 22400,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22880,
+                "start_time": 22600,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23120,
+                "start_time": 22880,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23400,
+                "start_time": 23120,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23800,
+                "start_time": 23560,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23960,
+                "start_time": 23800,
+                "text": "直"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24080,
+                "start_time": 23960,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24240,
+                "start_time": 24080,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24400,
+                "start_time": 24240,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24520,
+                "start_time": 24400,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24640,
+                "start_time": 24520,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24840,
+                "start_time": 24640,
+                "text": "死"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25040,
+                "start_time": 24960,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25480,
+                "start_time": 25280,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25680,
+                "start_time": 25480,
+                "text": "难"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25920,
+                "start_time": 25680,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26120,
+                "start_time": 25920,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26240,
+                "start_time": 26120,
+                "text": "决"
+              }
+            ]
+          },
+          {
+            "end_time": 32240,
+            "start_time": 26680,
+            "text": "但是比特币的出现，可以说已经解决了其中一个，就是解决了货币第一次出现的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 26880,
+                "start_time": 26680,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27080,
+                "start_time": 26880,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27280,
+                "start_time": 27080,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27400,
+                "start_time": 27280,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27560,
+                "start_time": 27440,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27760,
+                "start_time": 27560,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27880,
+                "start_time": 27760,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28000,
+                "start_time": 27880,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28160,
+                "start_time": 28040,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28280,
+                "start_time": 28160,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28480,
+                "start_time": 28280,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28640,
+                "start_time": 28480,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28840,
+                "start_time": 28640,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29080,
+                "start_time": 28840,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29200,
+                "start_time": 29080,
+                "text": "决"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29440,
+                "start_time": 29200,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29800,
+                "start_time": 29560,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29920,
+                "start_time": 29800,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30080,
+                "start_time": 29920,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30200,
+                "start_time": 30080,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30360,
+                "start_time": 30200,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30560,
+                "start_time": 30360,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30720,
+                "start_time": 30560,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30760,
+                "start_time": 30720,
+                "text": "决"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30960,
+                "start_time": 30760,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31160,
+                "start_time": 30960,
+                "text": "货"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31360,
+                "start_time": 31160,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31720,
+                "start_time": 31600,
+                "text": "第"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31840,
+                "start_time": 31720,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31960,
+                "start_time": 31840,
+                "text": "次"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32080,
+                "start_time": 31960,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32160,
+                "start_time": 32080,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32240,
+                "start_time": 32200,
+                "text": "的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

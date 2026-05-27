@@ -1,0 +1,500 @@
+{
+  "item": {
+    "index": 9,
+    "audio_id": "official-vimeo-m4a-partial__054__44ea37db",
+    "episode": "054",
+    "title": "054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+    "line_no": 4,
+    "segment_start": 90.0,
+    "segment_end": 110.48,
+    "snippet_start": 88.8,
+    "snippet_end": 111.68,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "欢迎订阅我的频道,并且记得订阅我的频道,并且记得订阅我的频道。",
+    "audio_path": "official-vimeo-m4a-partial/054 - 054【90后不买房】几个关于买房子的故事 [1179740511].m4a",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0009__official-vimeo-m4a-partial__054__44ea37db__line0004.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "2ef5f1c9-99a8-43df-8b73-a85f2ec239dd",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712024085994AE5F38E95314190",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271202413609EFD4182B2690721B",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120242A3643DED2635EB691135",
+        "response": {
+          "audio_info": {
+            "duration": 7072
+          },
+          "result": {
+            "additions": {
+              "duration": "7072"
+            },
+            "text": "浪费了大量时间。坐地铁超过一个小时真的很痛苦，而且是可怕的早晚高峰，每天",
+            "utterances": [
+              {
+                "end_time": 1000,
+                "start_time": 80,
+                "text": "浪费了大量时间。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 200,
+                    "start_time": 80,
+                    "text": "浪"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 200,
+                    "text": "费"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 280,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 440,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 600,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 760,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 880,
+                    "text": "间"
+                  }
+                ]
+              },
+              {
+                "end_time": 6960,
+                "start_time": 1600,
+                "text": "坐地铁超过一个小时真的很痛苦，而且是可怕的早晚高峰，每天",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1600,
+                    "text": "坐"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1840,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 2000,
+                    "text": "铁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2200,
+                    "text": "超"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2360,
+                    "text": "过"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2480,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2600,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2680,
+                    "text": "小"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2800,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3280,
+                    "start_time": 3000,
+                    "text": "真"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3480,
+                    "start_time": 3280,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3560,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4000,
+                    "start_time": 3760,
+                    "text": "痛"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 4000,
+                    "text": "苦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4440,
+                    "start_time": 4280,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4440,
+                    "text": "且"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4640,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5200,
+                    "start_time": 4960,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5320,
+                    "start_time": 5200,
+                    "text": "怕"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5320,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5480,
+                    "text": "早"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5800,
+                    "start_time": 5640,
+                    "text": "晚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6040,
+                    "start_time": 5800,
+                    "text": "高"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6200,
+                    "start_time": 6040,
+                    "text": "峰"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6800,
+                    "start_time": 6640,
+                    "text": "每"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6800,
+                    "text": "天"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7072
+      },
+      "result": {
+        "additions": {
+          "duration": "7072"
+        },
+        "text": "浪费了大量时间。坐地铁超过一个小时真的很痛苦，而且是可怕的早晚高峰，每天",
+        "utterances": [
+          {
+            "end_time": 1000,
+            "start_time": 80,
+            "text": "浪费了大量时间。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 200,
+                "start_time": 80,
+                "text": "浪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 200,
+                "text": "费"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 760,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 880,
+                "text": "间"
+              }
+            ]
+          },
+          {
+            "end_time": 6960,
+            "start_time": 1600,
+            "text": "坐地铁超过一个小时真的很痛苦，而且是可怕的早晚高峰，每天",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1600,
+                "text": "坐"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1840,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 2000,
+                "text": "铁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2200,
+                "text": "超"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2360,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2480,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2680,
+                "text": "小"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2800,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3000,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3280,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3560,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3760,
+                "text": "痛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4000,
+                "text": "苦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4280,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4440,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4640,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 4960,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5200,
+                "text": "怕"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5320,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5480,
+                "text": "早"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5640,
+                "text": "晚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5800,
+                "text": "高"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6040,
+                "text": "峰"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6640,
+                "text": "每"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6800,
+                "text": "天"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "item": {
+    "index": 11,
+    "audio_id": "wavlake-mp3__073__e839750d",
+    "episode": "073",
+    "title": "073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+    "line_no": 51,
+    "segment_start": 332.94,
+    "segment_end": 332.96,
+    "snippet_start": 331.74,
+    "snippet_end": 334.15999999999997,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "交易就一定是交易双方都得利,无论是你这个交易看上去多么不公平,但只要是自愿的交易,交易双方都得利,整个社会都因为这个交易而变得更好。",
+    "audio_path": "wavlake-mp3/073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0011__wavlake-mp3__073__e839750d__line0051.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "be59944c-8971-497b-a1bd-ec4c5ce0086b",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120240B512B97D1614045D2753",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120241AB44324BEE9BCD0A7A9B",
+        "response": {
+          "audio_info": {
+            "duration": 2420
+          },
+          "result": {
+            "additions": {
+              "duration": "2420"
+            },
+            "text": "交易而变得更好。",
+            "utterances": [
+              {
+                "end_time": 1240,
+                "start_time": 80,
+                "text": "交易而变得更好。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 80,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 240,
+                    "text": "易"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 400,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 600,
+                    "text": "变"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 760,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 840,
+                    "text": "更"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1000,
+                    "text": "好"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2420
+      },
+      "result": {
+        "additions": {
+          "duration": "2420"
+        },
+        "text": "交易而变得更好。",
+        "utterances": [
+          {
+            "end_time": 1240,
+            "start_time": 80,
+            "text": "交易而变得更好。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 80,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 400,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 600,
+                "text": "变"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 760,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 840,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1000,
+                "text": "好"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

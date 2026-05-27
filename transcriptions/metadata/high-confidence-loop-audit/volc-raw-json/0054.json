@@ -1,0 +1,860 @@
+{
+  "item": {
+    "index": 54,
+    "audio_id": "wavlake-mp3__102__9360cb03",
+    "episode": "102",
+    "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "line_no": 9,
+    "segment_start": 98.24,
+    "segment_end": 110.84,
+    "snippet_start": 97.03999999999999,
+    "snippet_end": 112.04,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+    "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0054__wavlake-mp3__102__9360cb03__line0009.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "f4bb22dc-14f4-4792-82cb-58350e049dc0",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120322A8803A608A07DFB8E9E3",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120322D3F3B931F5B2C3C2E26E",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052712032459BB74AD06F4525F44B1",
+        "response": {
+          "audio_info": {
+            "duration": 15000
+          },
+          "result": {
+            "additions": {
+              "duration": "15000"
+            },
+            "text": "统货币的本质特点。而我们可以看到，比特币是由一个叫中本聪的极端不靠谱的人创立的，但并不影响比特币今天在社会上受到如此之大影响力的原因。",
+            "utterances": [
+              {
+                "end_time": 1280,
+                "start_time": 40,
+                "text": "统货币的本质特点。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "统"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 240,
+                    "text": "货"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 480,
+                    "start_time": 360,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 480,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 680,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 800,
+                    "text": "质"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1120,
+                    "start_time": 920,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1120,
+                    "text": "点"
+                  }
+                ]
+              },
+              {
+                "end_time": 14840,
+                "start_time": 1800,
+                "text": "而我们可以看到，比特币是由一个叫中本聪的极端不靠谱的人创立的，但并不影响比特币今天在社会上受到如此之大影响力的原因。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 1800,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2160,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2320,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2440,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2560,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2640,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2840,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3440,
+                    "start_time": 3240,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3600,
+                    "start_time": 3440,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3800,
+                    "start_time": 3640,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3840,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4280,
+                    "start_time": 4080,
+                    "text": "由"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4440,
+                    "start_time": 4280,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4640,
+                    "start_time": 4440,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4920,
+                    "start_time": 4640,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5080,
+                    "start_time": 5040,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5320,
+                    "start_time": 5200,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5480,
+                    "text": "聪"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5600,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6040,
+                    "start_time": 5840,
+                    "text": "极"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6240,
+                    "start_time": 6040,
+                    "text": "端"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6440,
+                    "start_time": 6240,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6640,
+                    "start_time": 6440,
+                    "text": "靠"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6640,
+                    "text": "谱"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7000,
+                    "start_time": 6760,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7280,
+                    "start_time": 7000,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7520,
+                    "start_time": 7280,
+                    "text": "创"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7680,
+                    "start_time": 7520,
+                    "text": "立"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7960,
+                    "start_time": 7680,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8560,
+                    "start_time": 8240,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8840,
+                    "start_time": 8600,
+                    "text": "并"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9040,
+                    "start_time": 8840,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9200,
+                    "start_time": 9040,
+                    "text": "影"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9360,
+                    "start_time": 9200,
+                    "text": "响"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9720,
+                    "start_time": 9480,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9880,
+                    "start_time": 9720,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10080,
+                    "start_time": 9920,
+                    "text": "币"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10480,
+                    "start_time": 10240,
+                    "text": "今"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10640,
+                    "start_time": 10480,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10960,
+                    "start_time": 10720,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11120,
+                    "start_time": 10960,
+                    "text": "社"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11240,
+                    "start_time": 11120,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11480,
+                    "start_time": 11240,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11680,
+                    "start_time": 11480,
+                    "text": "受"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11920,
+                    "start_time": 11680,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12520,
+                    "start_time": 12200,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12880,
+                    "start_time": 12520,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13120,
+                    "start_time": 12880,
+                    "text": "之"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13440,
+                    "start_time": 13120,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13960,
+                    "start_time": 13720,
+                    "text": "影"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14160,
+                    "start_time": 13960,
+                    "text": "响"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14360,
+                    "start_time": 14160,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14560,
+                    "start_time": 14360,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14720,
+                    "start_time": 14560,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14840,
+                    "start_time": 14720,
+                    "text": "因"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 15000
+      },
+      "result": {
+        "additions": {
+          "duration": "15000"
+        },
+        "text": "统货币的本质特点。而我们可以看到，比特币是由一个叫中本聪的极端不靠谱的人创立的，但并不影响比特币今天在社会上受到如此之大影响力的原因。",
+        "utterances": [
+          {
+            "end_time": 1280,
+            "start_time": 40,
+            "text": "统货币的本质特点。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "统"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "货"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 680,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 800,
+                "text": "质"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 920,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1120,
+                "text": "点"
+              }
+            ]
+          },
+          {
+            "end_time": 14840,
+            "start_time": 1800,
+            "text": "而我们可以看到，比特币是由一个叫中本聪的极端不靠谱的人创立的，但并不影响比特币今天在社会上受到如此之大影响力的原因。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 1800,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2160,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2320,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2440,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2560,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2640,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2840,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3240,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3440,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3640,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3840,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4080,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4280,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4640,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 5040,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5200,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5480,
+                "text": "聪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5840,
+                "text": "极"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6240,
+                "start_time": 6040,
+                "text": "端"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6240,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6440,
+                "text": "靠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6640,
+                "text": "谱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6760,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7000,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7280,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7680,
+                "start_time": 7520,
+                "text": "立"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7960,
+                "start_time": 7680,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8240,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8840,
+                "start_time": 8600,
+                "text": "并"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8840,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9040,
+                "text": "影"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9200,
+                "text": "响"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9720,
+                "start_time": 9480,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9880,
+                "start_time": 9720,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10080,
+                "start_time": 9920,
+                "text": "币"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10480,
+                "start_time": 10240,
+                "text": "今"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10640,
+                "start_time": 10480,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10720,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11120,
+                "start_time": 10960,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11240,
+                "start_time": 11120,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11480,
+                "start_time": 11240,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11680,
+                "start_time": 11480,
+                "text": "受"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11920,
+                "start_time": 11680,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12520,
+                "start_time": 12200,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12880,
+                "start_time": 12520,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13120,
+                "start_time": 12880,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13440,
+                "start_time": 13120,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13960,
+                "start_time": 13720,
+                "text": "影"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14160,
+                "start_time": 13960,
+                "text": "响"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14360,
+                "start_time": 14160,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14560,
+                "start_time": 14360,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14720,
+                "start_time": 14560,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14840,
+                "start_time": 14720,
+                "text": "因"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

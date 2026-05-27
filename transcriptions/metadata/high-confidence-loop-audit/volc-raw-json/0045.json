@@ -1,0 +1,1682 @@
+{
+  "item": {
+    "index": 45,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 54,
+    "segment_start": 386.08,
+    "segment_end": 416.06,
+    "snippet_start": 384.88,
+    "snippet_end": 417.26,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0045__wavlake-mp3__082__3a025f97__line0054.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "d826cec3-a666-48d3-a7fa-db34e60f7151",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120317143A896896033FB6C933",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203184DD9499604A83FB6B865",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052712032081511AC6A52BE73C6512",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "准确测量我们的世界。用这个原理提出者海森堡的话讲，不确定性原理啊，测不准原理，彻底打破了因果论。因为在因果论中，我们经常认为我们如果准确地知道现在，根据规律就能准确地知道未来。因此，我们一定能够知道事物的所有细节，并且预测它的所有细节。但是在测不准原理中，清晰的告诉了我们，我们根本",
+            "utterances": [
+              {
+                "end_time": 2680,
+                "start_time": 280,
+                "text": "准确测量我们的世界。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 600,
+                    "start_time": 280,
+                    "text": "准"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 600,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1000,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1600,
+                    "start_time": 1360,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2080,
+                    "start_time": 1800,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 2080,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2160,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2360,
+                    "text": "世"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2560,
+                    "text": "界"
+                  }
+                ]
+              },
+              {
+                "end_time": 10960,
+                "start_time": 3080,
+                "text": "用这个原理提出者海森堡的话讲，不确定性原理啊，测不准原理，彻底打破了因果论。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3320,
+                    "start_time": 3080,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3320,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3520,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3800,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4280,
+                    "start_time": 4040,
+                    "text": "理"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4560,
+                    "start_time": 4360,
+                    "text": "提"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4560,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4760,
+                    "text": "者"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5240,
+                    "start_time": 5040,
+                    "text": "海"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5400,
+                    "start_time": 5320,
+                    "text": "森"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5600,
+                    "text": "堡"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5720,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5880,
+                    "text": "话"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6320,
+                    "start_time": 6080,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6640,
+                    "start_time": 6400,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6800,
+                    "start_time": 6640,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6800,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7160,
+                    "start_time": 6960,
+                    "text": "性"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7360,
+                    "start_time": 7200,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7480,
+                    "start_time": 7360,
+                    "text": "理"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7680,
+                    "start_time": 7560,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8080,
+                    "start_time": 7920,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8240,
+                    "start_time": 8080,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8400,
+                    "start_time": 8240,
+                    "text": "准"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8600,
+                    "start_time": 8520,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8640,
+                    "text": "理"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9160,
+                    "start_time": 8920,
+                    "text": "彻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9400,
+                    "start_time": 9160,
+                    "text": "底"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9760,
+                    "start_time": 9440,
+                    "text": "打"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9960,
+                    "start_time": 9760,
+                    "text": "破"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10200,
+                    "start_time": 9960,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10320,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10720,
+                    "start_time": 10520,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10960,
+                    "start_time": 10760,
+                    "text": "论"
+                  }
+                ]
+              },
+              {
+                "end_time": 19960,
+                "start_time": 11160,
+                "text": "因为在因果论中，我们经常认为我们如果准确地知道现在，根据规律就能准确地知道未来。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 11280,
+                    "start_time": 11160,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11400,
+                    "start_time": 11280,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11640,
+                    "start_time": 11400,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11880,
+                    "start_time": 11680,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12120,
+                    "start_time": 11880,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12400,
+                    "start_time": 12120,
+                    "text": "论"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12640,
+                    "start_time": 12400,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12920,
+                    "start_time": 12720,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13080,
+                    "start_time": 12920,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13280,
+                    "start_time": 13080,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13480,
+                    "start_time": 13280,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13880,
+                    "start_time": 13680,
+                    "text": "认"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14080,
+                    "start_time": 13880,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14720,
+                    "start_time": 14520,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14880,
+                    "start_time": 14720,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15080,
+                    "start_time": 14880,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15240,
+                    "start_time": 15080,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15480,
+                    "start_time": 15240,
+                    "text": "准"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15640,
+                    "start_time": 15480,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15720,
+                    "start_time": 15680,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15960,
+                    "start_time": 15800,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16120,
+                    "start_time": 15960,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16360,
+                    "start_time": 16120,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16560,
+                    "start_time": 16360,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17000,
+                    "start_time": 16800,
+                    "text": "根"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17160,
+                    "start_time": 17000,
+                    "text": "据"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17400,
+                    "start_time": 17160,
+                    "text": "规"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17520,
+                    "start_time": 17400,
+                    "text": "律"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17960,
+                    "start_time": 17680,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18200,
+                    "start_time": 17960,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18680,
+                    "start_time": 18360,
+                    "text": "准"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18880,
+                    "start_time": 18680,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19000,
+                    "start_time": 18920,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19240,
+                    "start_time": 19040,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19440,
+                    "start_time": 19240,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19680,
+                    "start_time": 19440,
+                    "text": "未"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19960,
+                    "start_time": 19680,
+                    "text": "来"
+                  }
+                ]
+              },
+              {
+                "end_time": 27120,
+                "start_time": 20280,
+                "text": "因此，我们一定能够知道事物的所有细节，并且预测它的所有细节。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 20560,
+                    "start_time": 20280,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20840,
+                    "start_time": 20560,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21440,
+                    "start_time": 21160,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21640,
+                    "start_time": 21440,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22080,
+                    "start_time": 21880,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22280,
+                    "start_time": 22080,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22480,
+                    "start_time": 22280,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22680,
+                    "start_time": 22480,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23080,
+                    "start_time": 22800,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23320,
+                    "start_time": 23080,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23800,
+                    "start_time": 23480,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24000,
+                    "start_time": 23800,
+                    "text": "物"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24280,
+                    "start_time": 24000,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24560,
+                    "start_time": 24320,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24760,
+                    "start_time": 24560,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25040,
+                    "start_time": 24760,
+                    "text": "细"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25200,
+                    "start_time": 25040,
+                    "text": "节"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25520,
+                    "start_time": 25280,
+                    "text": "并"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25720,
+                    "start_time": 25520,
+                    "text": "且"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26000,
+                    "start_time": 25760,
+                    "text": "预"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26200,
+                    "start_time": 26000,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26360,
+                    "start_time": 26280,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26560,
+                    "start_time": 26400,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26680,
+                    "start_time": 26560,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26840,
+                    "start_time": 26680,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27040,
+                    "start_time": 26840,
+                    "text": "细"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27120,
+                    "start_time": 27040,
+                    "text": "节"
+                  }
+                ]
+              },
+              {
+                "end_time": 32170,
+                "start_time": 27450,
+                "text": "但是在测不准原理中，清晰的告诉了我们，我们根本",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 27610,
+                    "start_time": 27450,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27730,
+                    "start_time": 27610,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27930,
+                    "start_time": 27730,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28170,
+                    "start_time": 27970,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28450,
+                    "start_time": 28210,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28650,
+                    "start_time": 28450,
+                    "text": "准"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28850,
+                    "start_time": 28690,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29010,
+                    "start_time": 28850,
+                    "text": "理"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29250,
+                    "start_time": 29010,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29850,
+                    "start_time": 29570,
+                    "text": "清"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30010,
+                    "start_time": 29850,
+                    "text": "晰"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30170,
+                    "start_time": 30090,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30410,
+                    "start_time": 30210,
+                    "text": "告"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30490,
+                    "start_time": 30410,
+                    "text": "诉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30650,
+                    "start_time": 30490,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30810,
+                    "start_time": 30650,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30930,
+                    "start_time": 30810,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31450,
+                    "start_time": 31250,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31650,
+                    "start_time": 31450,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32010,
+                    "start_time": 31770,
+                    "text": "根"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32170,
+                    "start_time": 32010,
+                    "text": "本"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "准确测量我们的世界。用这个原理提出者海森堡的话讲，不确定性原理啊，测不准原理，彻底打破了因果论。因为在因果论中，我们经常认为我们如果准确地知道现在，根据规律就能准确地知道未来。因此，我们一定能够知道事物的所有细节，并且预测它的所有细节。但是在测不准原理中，清晰的告诉了我们，我们根本",
+        "utterances": [
+          {
+            "end_time": 2680,
+            "start_time": 280,
+            "text": "准确测量我们的世界。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 280,
+                "text": "准"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 600,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1000,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1360,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1800,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 2080,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2160,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2360,
+                "text": "世"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2560,
+                "text": "界"
+              }
+            ]
+          },
+          {
+            "end_time": 10960,
+            "start_time": 3080,
+            "text": "用这个原理提出者海森堡的话讲，不确定性原理啊，测不准原理，彻底打破了因果论。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3080,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3320,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3520,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3800,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4040,
+                "text": "理"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4360,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4560,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4760,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5040,
+                "text": "海"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5320,
+                "text": "森"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5600,
+                "text": "堡"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5720,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5880,
+                "text": "话"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6080,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6400,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6640,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6800,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 6960,
+                "text": "性"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7200,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7360,
+                "text": "理"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7680,
+                "start_time": 7560,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 7920,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8240,
+                "start_time": 8080,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8400,
+                "start_time": 8240,
+                "text": "准"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8600,
+                "start_time": 8520,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8640,
+                "text": "理"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9160,
+                "start_time": 8920,
+                "text": "彻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9160,
+                "text": "底"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9440,
+                "text": "打"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9960,
+                "start_time": 9760,
+                "text": "破"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10200,
+                "start_time": 9960,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10320,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10720,
+                "start_time": 10520,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10760,
+                "text": "论"
+              }
+            ]
+          },
+          {
+            "end_time": 19960,
+            "start_time": 11160,
+            "text": "因为在因果论中，我们经常认为我们如果准确地知道现在，根据规律就能准确地知道未来。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11280,
+                "start_time": 11160,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11400,
+                "start_time": 11280,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11640,
+                "start_time": 11400,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11880,
+                "start_time": 11680,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12120,
+                "start_time": 11880,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12400,
+                "start_time": 12120,
+                "text": "论"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12640,
+                "start_time": 12400,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12920,
+                "start_time": 12720,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13080,
+                "start_time": 12920,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13280,
+                "start_time": 13080,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13480,
+                "start_time": 13280,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13880,
+                "start_time": 13680,
+                "text": "认"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14080,
+                "start_time": 13880,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14720,
+                "start_time": 14520,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14880,
+                "start_time": 14720,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15080,
+                "start_time": 14880,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15240,
+                "start_time": 15080,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15480,
+                "start_time": 15240,
+                "text": "准"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15640,
+                "start_time": 15480,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15720,
+                "start_time": 15680,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15960,
+                "start_time": 15800,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16120,
+                "start_time": 15960,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16360,
+                "start_time": 16120,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16560,
+                "start_time": 16360,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17000,
+                "start_time": 16800,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17160,
+                "start_time": 17000,
+                "text": "据"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17400,
+                "start_time": 17160,
+                "text": "规"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17520,
+                "start_time": 17400,
+                "text": "律"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17960,
+                "start_time": 17680,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18200,
+                "start_time": 17960,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18680,
+                "start_time": 18360,
+                "text": "准"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18880,
+                "start_time": 18680,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19000,
+                "start_time": 18920,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19240,
+                "start_time": 19040,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19440,
+                "start_time": 19240,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19680,
+                "start_time": 19440,
+                "text": "未"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19960,
+                "start_time": 19680,
+                "text": "来"
+              }
+            ]
+          },
+          {
+            "end_time": 27120,
+            "start_time": 20280,
+            "text": "因此，我们一定能够知道事物的所有细节，并且预测它的所有细节。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 20560,
+                "start_time": 20280,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20840,
+                "start_time": 20560,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21440,
+                "start_time": 21160,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21640,
+                "start_time": 21440,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22080,
+                "start_time": 21880,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22280,
+                "start_time": 22080,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22480,
+                "start_time": 22280,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22680,
+                "start_time": 22480,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23080,
+                "start_time": 22800,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23320,
+                "start_time": 23080,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23800,
+                "start_time": 23480,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24000,
+                "start_time": 23800,
+                "text": "物"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24280,
+                "start_time": 24000,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24560,
+                "start_time": 24320,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24760,
+                "start_time": 24560,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25040,
+                "start_time": 24760,
+                "text": "细"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25200,
+                "start_time": 25040,
+                "text": "节"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25520,
+                "start_time": 25280,
+                "text": "并"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25720,
+                "start_time": 25520,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26000,
+                "start_time": 25760,
+                "text": "预"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26200,
+                "start_time": 26000,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26360,
+                "start_time": 26280,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26560,
+                "start_time": 26400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26680,
+                "start_time": 26560,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26840,
+                "start_time": 26680,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27040,
+                "start_time": 26840,
+                "text": "细"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27120,
+                "start_time": 27040,
+                "text": "节"
+              }
+            ]
+          },
+          {
+            "end_time": 32170,
+            "start_time": 27450,
+            "text": "但是在测不准原理中，清晰的告诉了我们，我们根本",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 27610,
+                "start_time": 27450,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27730,
+                "start_time": 27610,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27930,
+                "start_time": 27730,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28170,
+                "start_time": 27970,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28450,
+                "start_time": 28210,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28650,
+                "start_time": 28450,
+                "text": "准"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28850,
+                "start_time": 28690,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29010,
+                "start_time": 28850,
+                "text": "理"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29250,
+                "start_time": 29010,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29850,
+                "start_time": 29570,
+                "text": "清"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30010,
+                "start_time": 29850,
+                "text": "晰"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30170,
+                "start_time": 30090,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30410,
+                "start_time": 30210,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30490,
+                "start_time": 30410,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30650,
+                "start_time": 30490,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30810,
+                "start_time": 30650,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30930,
+                "start_time": 30810,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31450,
+                "start_time": 31250,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31650,
+                "start_time": 31450,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32010,
+                "start_time": 31770,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32170,
+                "start_time": 32010,
+                "text": "本"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

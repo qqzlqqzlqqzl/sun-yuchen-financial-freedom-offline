@@ -1,0 +1,1929 @@
+{
+  "item": {
+    "index": 6,
+    "audio_id": "wavlake-mp3__036__8bed1231",
+    "episode": "036",
+    "title": "036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "line_no": 4,
+    "segment_start": 90.0,
+    "segment_end": 119.98,
+    "snippet_start": 88.8,
+    "snippet_end": 121.18,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。在这一边,等着你。",
+    "audio_path": "wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0007__wavlake-mp3__036__8bed1231__line0004.wav",
+    "volc_ok": false,
+    "volc_status": null,
+    "volc_message": null,
+    "volc_logid": null,
+    "volc_text": "",
+    "request_id": "280bb08a-523e-4d2b-b9cd-371ef30d60af",
+    "raw_json_path": "volc-raw-json/0007.json"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "050d8a41-ea89-4427-a42d-e821619d3c06",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527115411897699B9C6869704AE8F",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527115412B02CCD549202E659C7CD",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527115414E3918DFD0FD057601730",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527115416E7E9DDAB074A19B2AACC",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "政府规定啊，银行一定要赚钱。所以呢，利率啊，也非市场化的，所以给你的利率是非常低的。然后通，他通过压低你的利率，然后再把钱贷出去，他就可以存存在差，就可以赚很多钱嘛。啊啊，只不过是巴菲特是在市场化的市场中获得这种竞争优势的，而这个我们国家银行可能是非市场化的竞争优势。所以巴菲特呢，他的核心原因是靠着保险公司的钱，然后到现金流。",
+            "utterances": [
+              {
+                "end_time": 2160,
+                "start_time": 80,
+                "text": "政府规定啊，银行一定要赚钱。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 200,
+                    "start_time": 80,
+                    "text": "政"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 200,
+                    "text": "府"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 360,
+                    "text": "规"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 560,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 760,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1080,
+                    "text": "银"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1280,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1440,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1640,
+                    "start_time": 1560,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1640,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1760,
+                    "text": "赚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 1960,
+                    "text": "钱"
+                  }
+                ]
+              },
+              {
+                "end_time": 7000,
+                "start_time": 2200,
+                "text": "所以呢，利率啊，也非市场化的，所以给你的利率是非常低的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2200,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2360,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2480,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2920,
+                    "start_time": 2760,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2920,
+                    "text": "率"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3480,
+                    "start_time": 3360,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3720,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3960,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4160,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4440,
+                    "start_time": 4320,
+                    "text": "场"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4440,
+                    "text": "化"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4800,
+                    "start_time": 4600,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4800,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5000,
+                    "start_time": 4880,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 5000,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5240,
+                    "start_time": 5120,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5400,
+                    "start_time": 5240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5400,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5680,
+                    "start_time": 5560,
+                    "text": "率"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6240,
+                    "start_time": 6000,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 6240,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6480,
+                    "start_time": 6360,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6720,
+                    "start_time": 6480,
+                    "text": "低"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7000,
+                    "start_time": 6720,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 12320,
+                "start_time": 7240,
+                "text": "然后通，他通过压低你的利率，然后再把钱贷出去，他就可以存存在差，就可以赚很多钱嘛。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 7320,
+                    "start_time": 7240,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7400,
+                    "start_time": 7360,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7520,
+                    "start_time": 7480,
+                    "text": "通"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7640,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7920,
+                    "start_time": 7800,
+                    "text": "通"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8000,
+                    "start_time": 7920,
+                    "text": "过"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8240,
+                    "start_time": 8040,
+                    "text": "压"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8440,
+                    "start_time": 8240,
+                    "text": "低"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8600,
+                    "start_time": 8440,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8600,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8840,
+                    "start_time": 8720,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8960,
+                    "start_time": 8840,
+                    "text": "率"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9120,
+                    "start_time": 9000,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9200,
+                    "start_time": 9120,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9360,
+                    "start_time": 9200,
+                    "text": "再"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9480,
+                    "start_time": 9360,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9640,
+                    "start_time": 9480,
+                    "text": "钱"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9720,
+                    "text": "贷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10040,
+                    "start_time": 9880,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10160,
+                    "start_time": 10040,
+                    "text": "去"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10280,
+                    "start_time": 10240,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10440,
+                    "start_time": 10320,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10440,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10600,
+                    "start_time": 10520,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10760,
+                    "start_time": 10720,
+                    "text": "存"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11000,
+                    "start_time": 10800,
+                    "text": "存"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11080,
+                    "start_time": 11000,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11240,
+                    "start_time": 11200,
+                    "text": "差"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11440,
+                    "start_time": 11320,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11520,
+                    "start_time": 11440,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11600,
+                    "start_time": 11520,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11760,
+                    "start_time": 11600,
+                    "text": "赚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11880,
+                    "start_time": 11760,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12000,
+                    "start_time": 11880,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12160,
+                    "start_time": 12000,
+                    "text": "钱"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12320,
+                    "start_time": 12200,
+                    "text": "嘛"
+                  }
+                ]
+              },
+              {
+                "end_time": 22760,
+                "start_time": 12720,
+                "text": "啊啊，只不过是巴菲特是在市场化的市场中获得这种竞争优势的，而这个我们国家银行可能是非市场化的竞争优势。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 12760,
+                    "start_time": 12720,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13600,
+                    "start_time": 13480,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13840,
+                    "start_time": 13680,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14000,
+                    "start_time": 13840,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14120,
+                    "start_time": 14000,
+                    "text": "过"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14520,
+                    "start_time": 14120,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15160,
+                    "start_time": 14960,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15320,
+                    "start_time": 15160,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15560,
+                    "start_time": 15320,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15720,
+                    "start_time": 15560,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15920,
+                    "start_time": 15720,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16120,
+                    "start_time": 15920,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16200,
+                    "start_time": 16120,
+                    "text": "场"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16400,
+                    "start_time": 16200,
+                    "text": "化"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16560,
+                    "start_time": 16400,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16680,
+                    "start_time": 16560,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16800,
+                    "start_time": 16680,
+                    "text": "场"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17000,
+                    "start_time": 16800,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17200,
+                    "start_time": 17000,
+                    "text": "获"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17280,
+                    "start_time": 17200,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17440,
+                    "start_time": 17280,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17640,
+                    "start_time": 17440,
+                    "text": "种"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17800,
+                    "start_time": 17640,
+                    "text": "竞"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17920,
+                    "start_time": 17800,
+                    "text": "争"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18160,
+                    "start_time": 17960,
+                    "text": "优"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18240,
+                    "start_time": 18160,
+                    "text": "势"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18560,
+                    "start_time": 18280,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18960,
+                    "start_time": 18680,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19560,
+                    "start_time": 19360,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19760,
+                    "start_time": 19560,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19920,
+                    "start_time": 19760,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20040,
+                    "start_time": 19920,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20200,
+                    "start_time": 20040,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20280,
+                    "start_time": 20200,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20520,
+                    "start_time": 20360,
+                    "text": "银"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20720,
+                    "start_time": 20520,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21040,
+                    "start_time": 20880,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21160,
+                    "start_time": 21040,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21320,
+                    "start_time": 21160,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21560,
+                    "start_time": 21320,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21760,
+                    "start_time": 21600,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21840,
+                    "start_time": 21760,
+                    "text": "场"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22040,
+                    "start_time": 21840,
+                    "text": "化"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22240,
+                    "start_time": 22040,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22360,
+                    "start_time": 22240,
+                    "text": "竞"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22480,
+                    "start_time": 22360,
+                    "text": "争"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22680,
+                    "start_time": 22480,
+                    "text": "优"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22760,
+                    "start_time": 22680,
+                    "text": "势"
+                  }
+                ]
+              },
+              {
+                "end_time": 32290,
+                "start_time": 23690,
+                "text": "所以巴菲特呢，他的核心原因是靠着保险公司的钱，然后到现金流。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 23890,
+                    "start_time": 23690,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23970,
+                    "start_time": 23890,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24210,
+                    "start_time": 24010,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24370,
+                    "start_time": 24210,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24570,
+                    "start_time": 24370,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24770,
+                    "start_time": 24570,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24890,
+                    "start_time": 24850,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25130,
+                    "start_time": 24890,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25330,
+                    "start_time": 25130,
+                    "text": "核"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25530,
+                    "start_time": 25330,
+                    "text": "心"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25770,
+                    "start_time": 25570,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25970,
+                    "start_time": 25770,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27050,
+                    "start_time": 26690,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27370,
+                    "start_time": 27050,
+                    "text": "靠"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27650,
+                    "start_time": 27370,
+                    "text": "着"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28210,
+                    "start_time": 27850,
+                    "text": "保"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28450,
+                    "start_time": 28210,
+                    "text": "险"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28690,
+                    "start_time": 28450,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28810,
+                    "start_time": 28690,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29050,
+                    "start_time": 28810,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29330,
+                    "start_time": 29050,
+                    "text": "钱"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30730,
+                    "start_time": 30290,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31050,
+                    "start_time": 30730,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31730,
+                    "start_time": 31370,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31970,
+                    "start_time": 31730,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32130,
+                    "start_time": 31970,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32290,
+                    "start_time": 32130,
+                    "text": "流"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "政府规定啊，银行一定要赚钱。所以呢，利率啊，也非市场化的，所以给你的利率是非常低的。然后通，他通过压低你的利率，然后再把钱贷出去，他就可以存存在差，就可以赚很多钱嘛。啊啊，只不过是巴菲特是在市场化的市场中获得这种竞争优势的，而这个我们国家银行可能是非市场化的竞争优势。所以巴菲特呢，他的核心原因是靠着保险公司的钱，然后到现金流。",
+        "utterances": [
+          {
+            "end_time": 2160,
+            "start_time": 80,
+            "text": "政府规定啊，银行一定要赚钱。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 200,
+                "start_time": 80,
+                "text": "政"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 200,
+                "text": "府"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 360,
+                "text": "规"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 560,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 760,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1080,
+                "text": "银"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1280,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1440,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1560,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1640,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1760,
+                "text": "赚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 1960,
+                "text": "钱"
+              }
+            ]
+          },
+          {
+            "end_time": 7000,
+            "start_time": 2200,
+            "text": "所以呢，利率啊，也非市场化的，所以给你的利率是非常低的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2200,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2360,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2480,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2920,
+                "text": "率"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3360,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3720,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3960,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4320,
+                "text": "场"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4440,
+                "text": "化"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4800,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4880,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 5000,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5120,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5400,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5560,
+                "text": "率"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6240,
+                "start_time": 6000,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6240,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6360,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6480,
+                "text": "低"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6720,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 12320,
+            "start_time": 7240,
+            "text": "然后通，他通过压低你的利率，然后再把钱贷出去，他就可以存存在差，就可以赚很多钱嘛。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 7320,
+                "start_time": 7240,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7400,
+                "start_time": 7360,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7480,
+                "text": "通"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7640,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7800,
+                "text": "通"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7920,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8240,
+                "start_time": 8040,
+                "text": "压"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8440,
+                "start_time": 8240,
+                "text": "低"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8600,
+                "start_time": 8440,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8840,
+                "start_time": 8720,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8840,
+                "text": "率"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 9000,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9120,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9200,
+                "text": "再"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9480,
+                "start_time": 9360,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9480,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9720,
+                "text": "贷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9880,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10160,
+                "start_time": 10040,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10280,
+                "start_time": 10240,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10440,
+                "start_time": 10320,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10440,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10600,
+                "start_time": 10520,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10760,
+                "start_time": 10720,
+                "text": "存"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11000,
+                "start_time": 10800,
+                "text": "存"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11080,
+                "start_time": 11000,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11240,
+                "start_time": 11200,
+                "text": "差"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11440,
+                "start_time": 11320,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11520,
+                "start_time": 11440,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11600,
+                "start_time": 11520,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11760,
+                "start_time": 11600,
+                "text": "赚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11880,
+                "start_time": 11760,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12000,
+                "start_time": 11880,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12160,
+                "start_time": 12000,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12320,
+                "start_time": 12200,
+                "text": "嘛"
+              }
+            ]
+          },
+          {
+            "end_time": 22760,
+            "start_time": 12720,
+            "text": "啊啊，只不过是巴菲特是在市场化的市场中获得这种竞争优势的，而这个我们国家银行可能是非市场化的竞争优势。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12760,
+                "start_time": 12720,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13600,
+                "start_time": 13480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13840,
+                "start_time": 13680,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14000,
+                "start_time": 13840,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14120,
+                "start_time": 14000,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14520,
+                "start_time": 14120,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15160,
+                "start_time": 14960,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15320,
+                "start_time": 15160,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15560,
+                "start_time": 15320,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15720,
+                "start_time": 15560,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15920,
+                "start_time": 15720,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16120,
+                "start_time": 15920,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16200,
+                "start_time": 16120,
+                "text": "场"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16400,
+                "start_time": 16200,
+                "text": "化"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16560,
+                "start_time": 16400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16680,
+                "start_time": 16560,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16800,
+                "start_time": 16680,
+                "text": "场"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17000,
+                "start_time": 16800,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17200,
+                "start_time": 17000,
+                "text": "获"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17280,
+                "start_time": 17200,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17440,
+                "start_time": 17280,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17640,
+                "start_time": 17440,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17800,
+                "start_time": 17640,
+                "text": "竞"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17920,
+                "start_time": 17800,
+                "text": "争"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18160,
+                "start_time": 17960,
+                "text": "优"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18240,
+                "start_time": 18160,
+                "text": "势"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18560,
+                "start_time": 18280,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18960,
+                "start_time": 18680,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19560,
+                "start_time": 19360,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19760,
+                "start_time": 19560,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19920,
+                "start_time": 19760,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20040,
+                "start_time": 19920,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20200,
+                "start_time": 20040,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20280,
+                "start_time": 20200,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20520,
+                "start_time": 20360,
+                "text": "银"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20720,
+                "start_time": 20520,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21040,
+                "start_time": 20880,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21160,
+                "start_time": 21040,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21320,
+                "start_time": 21160,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21560,
+                "start_time": 21320,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21760,
+                "start_time": 21600,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21840,
+                "start_time": 21760,
+                "text": "场"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22040,
+                "start_time": 21840,
+                "text": "化"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22240,
+                "start_time": 22040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22360,
+                "start_time": 22240,
+                "text": "竞"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22480,
+                "start_time": 22360,
+                "text": "争"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22680,
+                "start_time": 22480,
+                "text": "优"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22760,
+                "start_time": 22680,
+                "text": "势"
+              }
+            ]
+          },
+          {
+            "end_time": 32290,
+            "start_time": 23690,
+            "text": "所以巴菲特呢，他的核心原因是靠着保险公司的钱，然后到现金流。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 23890,
+                "start_time": 23690,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23970,
+                "start_time": 23890,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24210,
+                "start_time": 24010,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24370,
+                "start_time": 24210,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24570,
+                "start_time": 24370,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24770,
+                "start_time": 24570,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24890,
+                "start_time": 24850,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25130,
+                "start_time": 24890,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25330,
+                "start_time": 25130,
+                "text": "核"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25530,
+                "start_time": 25330,
+                "text": "心"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25770,
+                "start_time": 25570,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25970,
+                "start_time": 25770,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27050,
+                "start_time": 26690,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27370,
+                "start_time": 27050,
+                "text": "靠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27650,
+                "start_time": 27370,
+                "text": "着"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28210,
+                "start_time": 27850,
+                "text": "保"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28450,
+                "start_time": 28210,
+                "text": "险"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28690,
+                "start_time": 28450,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28810,
+                "start_time": 28690,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29050,
+                "start_time": 28810,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29330,
+                "start_time": 29050,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30730,
+                "start_time": 30290,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31050,
+                "start_time": 30730,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31730,
+                "start_time": 31370,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31970,
+                "start_time": 31730,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32130,
+                "start_time": 31970,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32290,
+                "start_time": 32130,
+                "text": "流"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

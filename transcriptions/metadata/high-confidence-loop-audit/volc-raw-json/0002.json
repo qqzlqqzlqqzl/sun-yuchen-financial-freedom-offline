@@ -1,0 +1,270 @@
+{
+  "item": {
+    "index": 2,
+    "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+    "episode": "032",
+    "title": "032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+    "line_no": 75,
+    "segment_start": 363.64,
+    "segment_end": 365.68,
+    "snippet_start": 362.44,
+    "snippet_end": 366.88,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "就是比如说我想买,现在买一个桌子、凳子,不收钱,只收黄金,把你黄金给我。",
+    "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0002__official-vimeo-m4a-partial__032__2714f2f9__line0075.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "ec2032b0-abac-45da-ac75-a24cc95a21b0",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120240D87F23E3217AC5DF888B",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120241B19199FAD076132D4430",
+        "response": {
+          "audio_info": {
+            "duration": 4440
+          },
+          "result": {
+            "additions": {
+              "duration": "4440"
+            },
+            "text": "现在买一个桌子凳子，不收钱，只收黄金。",
+            "utterances": [
+              {
+                "end_time": 3960,
+                "start_time": 40,
+                "text": "现在买一个桌子凳子，不收钱，只收黄金。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 40,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 120,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 200,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 400,
+                    "start_time": 320,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 400,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 560,
+                    "text": "桌"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 760,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1120,
+                    "start_time": 920,
+                    "text": "凳"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1120,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1520,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1760,
+                    "text": "收"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 1960,
+                    "text": "钱"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 2920,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3480,
+                    "start_time": 3200,
+                    "text": "收"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3480,
+                    "text": "黄"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3960,
+                    "start_time": 3760,
+                    "text": "金"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4440
+      },
+      "result": {
+        "additions": {
+          "duration": "4440"
+        },
+        "text": "现在买一个桌子凳子，不收钱，只收黄金。",
+        "utterances": [
+          {
+            "end_time": 3960,
+            "start_time": 40,
+            "text": "现在买一个桌子凳子，不收钱，只收黄金。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 40,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 200,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 320,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 560,
+                "text": "桌"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 760,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 920,
+                "text": "凳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1120,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1520,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1760,
+                "text": "收"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 1960,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 2920,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3200,
+                "text": "收"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3480,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3760,
+                "text": "金"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

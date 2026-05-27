@@ -1,0 +1,378 @@
+{
+  "item": {
+    "index": 81,
+    "audio_id": "wavlake-mp3__118__86d1aebf",
+    "episode": "118",
+    "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "line_no": 73,
+    "segment_start": 433.68,
+    "segment_end": 435.68,
+    "snippet_start": 432.48,
+    "snippet_end": 436.88,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "所谓划分清楚跟家人的边界,第一层意思就是夫妻之间的边界要分清楚。",
+    "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0081__wavlake-mp3__118__86d1aebf__line0073.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "5f3ad789-5d61-43e4-975c-8b92d1de5379",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120329390DE9BBCA71CE049550",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203308BAF5DB5BC96CAB88E8B",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120331F7B569F7DC0EE803DF7B",
+        "response": {
+          "audio_info": {
+            "duration": 4400
+          },
+          "result": {
+            "additions": {
+              "duration": "4400"
+            },
+            "text": "明确第一点，所谓划分清楚跟家人的边界，第一层意思就是",
+            "utterances": [
+              {
+                "end_time": 4360,
+                "start_time": 160,
+                "text": "明确第一点，所谓划分清楚跟家人的边界，第一层意思就是",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 160,
+                    "text": "明"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 320,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 480,
+                    "text": "第"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 560,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 680,
+                    "text": "点"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 880,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1040,
+                    "text": "谓"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1280,
+                    "text": "划"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1640,
+                    "start_time": 1440,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1800,
+                    "text": "清"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 2000,
+                    "text": "楚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2120,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2360,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2640,
+                    "start_time": 2520,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2640,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2800,
+                    "text": "边"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2960,
+                    "text": "界"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3480,
+                    "start_time": 3320,
+                    "text": "第"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3480,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3840,
+                    "start_time": 3640,
+                    "text": "层"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4000,
+                    "start_time": 3840,
+                    "text": "意"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 4000,
+                    "text": "思"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4080,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4240,
+                    "text": "是"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "明确第一点，所谓划分清楚跟家人的边界，第一层意思就是",
+        "utterances": [
+          {
+            "end_time": 4360,
+            "start_time": 160,
+            "text": "明确第一点，所谓划分清楚跟家人的边界，第一层意思就是",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 160,
+                "text": "明"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 320,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 480,
+                "text": "第"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 560,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 680,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 880,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1040,
+                "text": "谓"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1280,
+                "text": "划"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1440,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1800,
+                "text": "清"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2000,
+                "text": "楚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2120,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2360,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2520,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2640,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2800,
+                "text": "边"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "界"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3320,
+                "text": "第"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3480,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3640,
+                "text": "层"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3840,
+                "text": "意"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 4000,
+                "text": "思"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4080,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4240,
+                "text": "是"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

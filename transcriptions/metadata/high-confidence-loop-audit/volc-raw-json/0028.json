@@ -1,0 +1,1464 @@
+{
+  "item": {
+    "index": 28,
+    "audio_id": "wavlake-mp3__081__b0c91068",
+    "episode": "081",
+    "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "line_no": 31,
+    "segment_start": 659.02,
+    "segment_end": 689.0,
+    "snippet_start": 657.8199999999999,
+    "snippet_end": 690.2,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+    "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0028__wavlake-mp3__081__b0c91068__line0031.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "3f561779-f796-48ba-9d96-a05437a39d65",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120245D5347CE79872420F826F",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120246A4D74BCCA38C905DB8B2",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120329D05C81EC5D7834094520",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "我们每个人做的事情，我们的使命是什么？其实就是你可以把你们公司使命是讲一下。啊，就是呃对我们的呃我的，包括和多点的整个梦想是想做出来。那个在全球范围内能够影响几亿人的产品，而且能够持续地向世界输出价值和正能量，这是我短期的呃一个愿景和梦想。",
+            "utterances": [
+              {
+                "end_time": 3170,
+                "start_time": 90,
+                "text": "我们每个人做的事情，我们的使命是什么？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 130,
+                    "start_time": 90,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 250,
+                    "start_time": 210,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 370,
+                    "start_time": 250,
+                    "text": "每"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 450,
+                    "start_time": 370,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 610,
+                    "start_time": 450,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 770,
+                    "start_time": 610,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 970,
+                    "start_time": 770,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1490,
+                    "start_time": 1250,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1650,
+                    "start_time": 1490,
+                    "text": "情"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1810,
+                    "start_time": 1690,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1930,
+                    "start_time": 1810,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2090,
+                    "start_time": 1930,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2210,
+                    "start_time": 2170,
+                    "text": "使"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2410,
+                    "start_time": 2250,
+                    "text": "命"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2850,
+                    "start_time": 2610,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3010,
+                    "start_time": 2850,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3170,
+                    "start_time": 3010,
+                    "text": "么"
+                  }
+                ]
+              },
+              {
+                "end_time": 6370,
+                "start_time": 3890,
+                "text": "其实就是你可以把你们公司使命是讲一下。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 4090,
+                    "start_time": 3890,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4130,
+                    "start_time": 4090,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4250,
+                    "start_time": 4170,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4370,
+                    "start_time": 4250,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4490,
+                    "start_time": 4370,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4570,
+                    "start_time": 4490,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4650,
+                    "start_time": 4570,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4770,
+                    "start_time": 4650,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4890,
+                    "start_time": 4770,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4970,
+                    "start_time": 4890,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5090,
+                    "start_time": 4970,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5210,
+                    "start_time": 5090,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5370,
+                    "start_time": 5290,
+                    "text": "使"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5530,
+                    "start_time": 5370,
+                    "text": "命"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5770,
+                    "start_time": 5730,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6090,
+                    "start_time": 5890,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6250,
+                    "start_time": 6090,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6370,
+                    "start_time": 6250,
+                    "text": "下"
+                  }
+                ]
+              },
+              {
+                "end_time": 12850,
+                "start_time": 6610,
+                "text": "啊，就是呃对我们的呃我的，包括和多点的整个梦想是想做出来。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 6730,
+                    "start_time": 6610,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7050,
+                    "start_time": 6850,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7330,
+                    "start_time": 7050,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7530,
+                    "start_time": 7450,
+                    "text": "呃"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8570,
+                    "start_time": 8330,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8690,
+                    "start_time": 8570,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8810,
+                    "start_time": 8690,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9010,
+                    "start_time": 8810,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9370,
+                    "start_time": 9290,
+                    "text": "呃"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9770,
+                    "start_time": 9450,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10010,
+                    "start_time": 9770,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10210,
+                    "start_time": 10010,
+                    "text": "包"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10370,
+                    "start_time": 10210,
+                    "text": "括"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10610,
+                    "start_time": 10370,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10890,
+                    "start_time": 10650,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11050,
+                    "start_time": 10890,
+                    "text": "点"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11210,
+                    "start_time": 11050,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11410,
+                    "start_time": 11290,
+                    "text": "整"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11450,
+                    "start_time": 11410,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11690,
+                    "start_time": 11530,
+                    "text": "梦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11810,
+                    "start_time": 11690,
+                    "text": "想"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12050,
+                    "start_time": 11810,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12290,
+                    "start_time": 12050,
+                    "text": "想"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12490,
+                    "start_time": 12290,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12650,
+                    "start_time": 12490,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12850,
+                    "start_time": 12650,
+                    "text": "来"
+                  }
+                ]
+              },
+              {
+                "end_time": 24100,
+                "start_time": 13530,
+                "text": "那个在全球范围内能够影响几亿人的产品，而且能够持续地向世界输出价值和正能量，这是我短期的呃一个愿景和梦想。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 13610,
+                    "start_time": 13530,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13890,
+                    "start_time": 13610,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14130,
+                    "start_time": 13890,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14330,
+                    "start_time": 14130,
+                    "text": "全"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14490,
+                    "start_time": 14330,
+                    "text": "球"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14690,
+                    "start_time": 14490,
+                    "text": "范"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14770,
+                    "start_time": 14690,
+                    "text": "围"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15010,
+                    "start_time": 14810,
+                    "text": "内"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15130,
+                    "start_time": 15010,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15290,
+                    "start_time": 15130,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15450,
+                    "start_time": 15290,
+                    "text": "影"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15610,
+                    "start_time": 15450,
+                    "text": "响"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15850,
+                    "start_time": 15610,
+                    "text": "几"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16010,
+                    "start_time": 15850,
+                    "text": "亿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16170,
+                    "start_time": 16010,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16290,
+                    "start_time": 16170,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16450,
+                    "start_time": 16290,
+                    "text": "产"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16610,
+                    "start_time": 16450,
+                    "text": "品"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16970,
+                    "start_time": 16770,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17090,
+                    "start_time": 16970,
+                    "text": "且"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17250,
+                    "start_time": 17090,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17370,
+                    "start_time": 17250,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17570,
+                    "start_time": 17370,
+                    "text": "持"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17730,
+                    "start_time": 17570,
+                    "text": "续"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17850,
+                    "start_time": 17810,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18450,
+                    "start_time": 18210,
+                    "text": "向"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18610,
+                    "start_time": 18450,
+                    "text": "世"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18730,
+                    "start_time": 18610,
+                    "text": "界"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18930,
+                    "start_time": 18810,
+                    "text": "输"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19050,
+                    "start_time": 18930,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19250,
+                    "start_time": 19050,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19290,
+                    "start_time": 19250,
+                    "text": "值"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19450,
+                    "start_time": 19330,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19650,
+                    "start_time": 19530,
+                    "text": "正"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19730,
+                    "start_time": 19650,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19850,
+                    "start_time": 19730,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20050,
+                    "start_time": 19930,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20170,
+                    "start_time": 20050,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20330,
+                    "start_time": 20170,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21260,
+                    "start_time": 21060,
+                    "text": "短"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21460,
+                    "start_time": 21260,
+                    "text": "期"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21860,
+                    "start_time": 21540,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22180,
+                    "start_time": 22020,
+                    "text": "呃"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22940,
+                    "start_time": 22780,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23140,
+                    "start_time": 22940,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23420,
+                    "start_time": 23260,
+                    "text": "愿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23540,
+                    "start_time": 23500,
+                    "text": "景"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23780,
+                    "start_time": 23620,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23940,
+                    "start_time": 23820,
+                    "text": "梦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24100,
+                    "start_time": 23940,
+                    "text": "想"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "我们每个人做的事情，我们的使命是什么？其实就是你可以把你们公司使命是讲一下。啊，就是呃对我们的呃我的，包括和多点的整个梦想是想做出来。那个在全球范围内能够影响几亿人的产品，而且能够持续地向世界输出价值和正能量，这是我短期的呃一个愿景和梦想。",
+        "utterances": [
+          {
+            "end_time": 3170,
+            "start_time": 90,
+            "text": "我们每个人做的事情，我们的使命是什么？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 130,
+                "start_time": 90,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 250,
+                "start_time": 210,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 370,
+                "start_time": 250,
+                "text": "每"
+              },
+              {
+                "confidence": 0,
+                "end_time": 450,
+                "start_time": 370,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 610,
+                "start_time": 450,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 770,
+                "start_time": 610,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 970,
+                "start_time": 770,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1490,
+                "start_time": 1250,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1650,
+                "start_time": 1490,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1810,
+                "start_time": 1690,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1930,
+                "start_time": 1810,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2090,
+                "start_time": 1930,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2210,
+                "start_time": 2170,
+                "text": "使"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2410,
+                "start_time": 2250,
+                "text": "命"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2850,
+                "start_time": 2610,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3010,
+                "start_time": 2850,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3170,
+                "start_time": 3010,
+                "text": "么"
+              }
+            ]
+          },
+          {
+            "end_time": 6370,
+            "start_time": 3890,
+            "text": "其实就是你可以把你们公司使命是讲一下。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 4090,
+                "start_time": 3890,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4130,
+                "start_time": 4090,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4250,
+                "start_time": 4170,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4370,
+                "start_time": 4250,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4490,
+                "start_time": 4370,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4570,
+                "start_time": 4490,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4650,
+                "start_time": 4570,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4770,
+                "start_time": 4650,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4890,
+                "start_time": 4770,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4970,
+                "start_time": 4890,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5090,
+                "start_time": 4970,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5210,
+                "start_time": 5090,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5370,
+                "start_time": 5290,
+                "text": "使"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5530,
+                "start_time": 5370,
+                "text": "命"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5770,
+                "start_time": 5730,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6090,
+                "start_time": 5890,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6250,
+                "start_time": 6090,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6370,
+                "start_time": 6250,
+                "text": "下"
+              }
+            ]
+          },
+          {
+            "end_time": 12850,
+            "start_time": 6610,
+            "text": "啊，就是呃对我们的呃我的，包括和多点的整个梦想是想做出来。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6730,
+                "start_time": 6610,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7050,
+                "start_time": 6850,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7330,
+                "start_time": 7050,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7530,
+                "start_time": 7450,
+                "text": "呃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8570,
+                "start_time": 8330,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8690,
+                "start_time": 8570,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8810,
+                "start_time": 8690,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9010,
+                "start_time": 8810,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9370,
+                "start_time": 9290,
+                "text": "呃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9770,
+                "start_time": 9450,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10010,
+                "start_time": 9770,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10210,
+                "start_time": 10010,
+                "text": "包"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10370,
+                "start_time": 10210,
+                "text": "括"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10610,
+                "start_time": 10370,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10890,
+                "start_time": 10650,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11050,
+                "start_time": 10890,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11210,
+                "start_time": 11050,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11410,
+                "start_time": 11290,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11450,
+                "start_time": 11410,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11690,
+                "start_time": 11530,
+                "text": "梦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11810,
+                "start_time": 11690,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12050,
+                "start_time": 11810,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12290,
+                "start_time": 12050,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12490,
+                "start_time": 12290,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12650,
+                "start_time": 12490,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12850,
+                "start_time": 12650,
+                "text": "来"
+              }
+            ]
+          },
+          {
+            "end_time": 24100,
+            "start_time": 13530,
+            "text": "那个在全球范围内能够影响几亿人的产品，而且能够持续地向世界输出价值和正能量，这是我短期的呃一个愿景和梦想。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 13610,
+                "start_time": 13530,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13890,
+                "start_time": 13610,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14130,
+                "start_time": 13890,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14330,
+                "start_time": 14130,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14490,
+                "start_time": 14330,
+                "text": "球"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14690,
+                "start_time": 14490,
+                "text": "范"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14770,
+                "start_time": 14690,
+                "text": "围"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15010,
+                "start_time": 14810,
+                "text": "内"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15130,
+                "start_time": 15010,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15290,
+                "start_time": 15130,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15450,
+                "start_time": 15290,
+                "text": "影"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15610,
+                "start_time": 15450,
+                "text": "响"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15850,
+                "start_time": 15610,
+                "text": "几"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16010,
+                "start_time": 15850,
+                "text": "亿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16170,
+                "start_time": 16010,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16290,
+                "start_time": 16170,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16450,
+                "start_time": 16290,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16610,
+                "start_time": 16450,
+                "text": "品"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16970,
+                "start_time": 16770,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17090,
+                "start_time": 16970,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17250,
+                "start_time": 17090,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17370,
+                "start_time": 17250,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17570,
+                "start_time": 17370,
+                "text": "持"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17730,
+                "start_time": 17570,
+                "text": "续"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17850,
+                "start_time": 17810,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18450,
+                "start_time": 18210,
+                "text": "向"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18610,
+                "start_time": 18450,
+                "text": "世"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18730,
+                "start_time": 18610,
+                "text": "界"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18930,
+                "start_time": 18810,
+                "text": "输"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19050,
+                "start_time": 18930,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19250,
+                "start_time": 19050,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19290,
+                "start_time": 19250,
+                "text": "值"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19450,
+                "start_time": 19330,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19650,
+                "start_time": 19530,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19730,
+                "start_time": 19650,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19850,
+                "start_time": 19730,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20050,
+                "start_time": 19930,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20170,
+                "start_time": 20050,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20330,
+                "start_time": 20170,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21260,
+                "start_time": 21060,
+                "text": "短"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21460,
+                "start_time": 21260,
+                "text": "期"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21860,
+                "start_time": 21540,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22180,
+                "start_time": 22020,
+                "text": "呃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22940,
+                "start_time": 22780,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23140,
+                "start_time": 22940,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23420,
+                "start_time": 23260,
+                "text": "愿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23540,
+                "start_time": 23500,
+                "text": "景"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23780,
+                "start_time": 23620,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23940,
+                "start_time": 23820,
+                "text": "梦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24100,
+                "start_time": 23940,
+                "text": "想"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

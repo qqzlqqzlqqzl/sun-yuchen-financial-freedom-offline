@@ -1,0 +1,1800 @@
+{
+  "item": {
+    "index": 47,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 56,
+    "segment_start": 446.04,
+    "segment_end": 476.02,
+    "snippet_start": 444.84000000000003,
+    "snippet_end": 477.21999999999997,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0047__wavlake-mp3__082__3a025f97__line0056.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "ad7d9105-a6d1-441a-ac01-7cb0fa0afdf2",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203181C7744E3F553FE58E8AF",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120319FC757D44191D0A5CAA44",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712032011766464EAAFC607D0BD",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120322D61C41DEBD8F4786D6FF",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "我们只要把事物的初始状态测量好，往定理跟方程上一套，就能知道结果，一切都是确定无疑的。而现在量子力学告诉我们，你根本测量不出事物的初始状态，你就更加无法知道事物的发展结果了。因此，在牛顿的经典力学中，其根本特征是可度量、可预测、确定性。而在量子力学中，确实变成了不可度量、不可预测、不确定性。类似不确定性的例",
+            "utterances": [
+              {
+                "end_time": 8950,
+                "start_time": 350,
+                "text": "我们只要把事物的初始状态测量好，往定理跟方程上一套，就能知道结果，一切都是确定无疑的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 550,
+                    "start_time": 350,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 710,
+                    "start_time": 550,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 870,
+                    "start_time": 710,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 990,
+                    "start_time": 870,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1190,
+                    "start_time": 990,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1390,
+                    "start_time": 1190,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1510,
+                    "start_time": 1390,
+                    "text": "物"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1670,
+                    "start_time": 1510,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1830,
+                    "start_time": 1670,
+                    "text": "初"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1950,
+                    "start_time": 1830,
+                    "text": "始"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2230,
+                    "start_time": 2030,
+                    "text": "状"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2350,
+                    "start_time": 2230,
+                    "text": "态"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2590,
+                    "start_time": 2390,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2710,
+                    "start_time": 2590,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3110,
+                    "start_time": 2750,
+                    "text": "好"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3670,
+                    "start_time": 3390,
+                    "text": "往"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4230,
+                    "start_time": 3990,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4430,
+                    "start_time": 4230,
+                    "text": "理"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4710,
+                    "start_time": 4510,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4910,
+                    "start_time": 4710,
+                    "text": "方"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5070,
+                    "start_time": 4910,
+                    "text": "程"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5230,
+                    "start_time": 5070,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5430,
+                    "start_time": 5230,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5670,
+                    "start_time": 5430,
+                    "text": "套"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5950,
+                    "start_time": 5750,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6110,
+                    "start_time": 5950,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6270,
+                    "start_time": 6110,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6430,
+                    "start_time": 6270,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6630,
+                    "start_time": 6430,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6870,
+                    "start_time": 6630,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7350,
+                    "start_time": 7150,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7590,
+                    "start_time": 7350,
+                    "text": "切"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7790,
+                    "start_time": 7630,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7990,
+                    "start_time": 7790,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8150,
+                    "start_time": 7990,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8350,
+                    "start_time": 8150,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8550,
+                    "start_time": 8350,
+                    "text": "无"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8670,
+                    "start_time": 8550,
+                    "text": "疑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8950,
+                    "start_time": 8710,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 17510,
+                "start_time": 9110,
+                "text": "而现在量子力学告诉我们，你根本测量不出事物的初始状态，你就更加无法知道事物的发展结果了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 9350,
+                    "start_time": 9110,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9510,
+                    "start_time": 9350,
+                    "text": "现"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9670,
+                    "start_time": 9510,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9830,
+                    "start_time": 9710,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10030,
+                    "start_time": 9870,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10230,
+                    "start_time": 10030,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10390,
+                    "start_time": 10230,
+                    "text": "学"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10590,
+                    "start_time": 10390,
+                    "text": "告"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10670,
+                    "start_time": 10590,
+                    "text": "诉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10830,
+                    "start_time": 10670,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10950,
+                    "start_time": 10830,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11310,
+                    "start_time": 11070,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11550,
+                    "start_time": 11350,
+                    "text": "根"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11750,
+                    "start_time": 11550,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11990,
+                    "start_time": 11790,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12150,
+                    "start_time": 11990,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12350,
+                    "start_time": 12150,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12550,
+                    "start_time": 12350,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12790,
+                    "start_time": 12590,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12910,
+                    "start_time": 12790,
+                    "text": "物"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13150,
+                    "start_time": 12910,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13350,
+                    "start_time": 13150,
+                    "text": "初"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13550,
+                    "start_time": 13350,
+                    "text": "始"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13790,
+                    "start_time": 13590,
+                    "text": "状"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13990,
+                    "start_time": 13790,
+                    "text": "态"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14310,
+                    "start_time": 14150,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14510,
+                    "start_time": 14310,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14750,
+                    "start_time": 14510,
+                    "text": "更"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14990,
+                    "start_time": 14750,
+                    "text": "加"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15230,
+                    "start_time": 15030,
+                    "text": "无"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15470,
+                    "start_time": 15230,
+                    "text": "法"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15750,
+                    "start_time": 15550,
+                    "text": "知"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15910,
+                    "start_time": 15750,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16230,
+                    "start_time": 16030,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16350,
+                    "start_time": 16230,
+                    "text": "物"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16550,
+                    "start_time": 16350,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16750,
+                    "start_time": 16550,
+                    "text": "发"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16910,
+                    "start_time": 16750,
+                    "text": "展"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17150,
+                    "start_time": 16950,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17270,
+                    "start_time": 17150,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17510,
+                    "start_time": 17310,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 24750,
+                "start_time": 17750,
+                "text": "因此，在牛顿的经典力学中，其根本特征是可度量、可预测、确定性。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 17950,
+                    "start_time": 17750,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18150,
+                    "start_time": 17950,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18590,
+                    "start_time": 18350,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18830,
+                    "start_time": 18630,
+                    "text": "牛"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19070,
+                    "start_time": 18950,
+                    "text": "顿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19310,
+                    "start_time": 19110,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19430,
+                    "start_time": 19310,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19590,
+                    "start_time": 19430,
+                    "text": "典"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19790,
+                    "start_time": 19750,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20030,
+                    "start_time": 19870,
+                    "text": "学"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20270,
+                    "start_time": 20030,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20790,
+                    "start_time": 20510,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21030,
+                    "start_time": 20830,
+                    "text": "根"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21230,
+                    "start_time": 21030,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21470,
+                    "start_time": 21230,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21630,
+                    "start_time": 21470,
+                    "text": "征"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22110,
+                    "start_time": 21750,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22470,
+                    "start_time": 22150,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22670,
+                    "start_time": 22590,
+                    "text": "度"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22870,
+                    "start_time": 22790,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23390,
+                    "start_time": 23110,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23630,
+                    "start_time": 23390,
+                    "text": "预"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23870,
+                    "start_time": 23630,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24310,
+                    "start_time": 24030,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24510,
+                    "start_time": 24310,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24750,
+                    "start_time": 24510,
+                    "text": "性"
+                  }
+                ]
+              },
+              {
+                "end_time": 32270,
+                "start_time": 25190,
+                "text": "而在量子力学中，确实变成了不可度量、不可预测、不确定性。类似不确定性的例",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 25430,
+                    "start_time": 25190,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25630,
+                    "start_time": 25430,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25870,
+                    "start_time": 25630,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26030,
+                    "start_time": 25870,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26190,
+                    "start_time": 26150,
+                    "text": "力"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26430,
+                    "start_time": 26270,
+                    "text": "学"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26670,
+                    "start_time": 26430,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27030,
+                    "start_time": 26790,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27270,
+                    "start_time": 27030,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27750,
+                    "start_time": 27510,
+                    "text": "变"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27910,
+                    "start_time": 27750,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28110,
+                    "start_time": 27910,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28310,
+                    "start_time": 28110,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28470,
+                    "start_time": 28310,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28670,
+                    "start_time": 28550,
+                    "text": "度"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28830,
+                    "start_time": 28670,
+                    "text": "量"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29190,
+                    "start_time": 28990,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29390,
+                    "start_time": 29190,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29590,
+                    "start_time": 29390,
+                    "text": "预"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29750,
+                    "start_time": 29590,
+                    "text": "测"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30070,
+                    "start_time": 29870,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30270,
+                    "start_time": 30070,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30430,
+                    "start_time": 30270,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30630,
+                    "start_time": 30430,
+                    "text": "性"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31110,
+                    "start_time": 30910,
+                    "text": "类"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31350,
+                    "start_time": 31110,
+                    "text": "似"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31590,
+                    "start_time": 31350,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31750,
+                    "start_time": 31590,
+                    "text": "确"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31870,
+                    "start_time": 31750,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32030,
+                    "start_time": 31870,
+                    "text": "性"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32190,
+                    "start_time": 32030,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32270,
+                    "start_time": 32230,
+                    "text": "例"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "我们只要把事物的初始状态测量好，往定理跟方程上一套，就能知道结果，一切都是确定无疑的。而现在量子力学告诉我们，你根本测量不出事物的初始状态，你就更加无法知道事物的发展结果了。因此，在牛顿的经典力学中，其根本特征是可度量、可预测、确定性。而在量子力学中，确实变成了不可度量、不可预测、不确定性。类似不确定性的例",
+        "utterances": [
+          {
+            "end_time": 8950,
+            "start_time": 350,
+            "text": "我们只要把事物的初始状态测量好，往定理跟方程上一套，就能知道结果，一切都是确定无疑的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 550,
+                "start_time": 350,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 710,
+                "start_time": 550,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 870,
+                "start_time": 710,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 990,
+                "start_time": 870,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1190,
+                "start_time": 990,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1390,
+                "start_time": 1190,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1510,
+                "start_time": 1390,
+                "text": "物"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1670,
+                "start_time": 1510,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1830,
+                "start_time": 1670,
+                "text": "初"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1950,
+                "start_time": 1830,
+                "text": "始"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2230,
+                "start_time": 2030,
+                "text": "状"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2350,
+                "start_time": 2230,
+                "text": "态"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2590,
+                "start_time": 2390,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2710,
+                "start_time": 2590,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3110,
+                "start_time": 2750,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3670,
+                "start_time": 3390,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4230,
+                "start_time": 3990,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4430,
+                "start_time": 4230,
+                "text": "理"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4710,
+                "start_time": 4510,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4910,
+                "start_time": 4710,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5070,
+                "start_time": 4910,
+                "text": "程"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5230,
+                "start_time": 5070,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5430,
+                "start_time": 5230,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5670,
+                "start_time": 5430,
+                "text": "套"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5950,
+                "start_time": 5750,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6110,
+                "start_time": 5950,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6270,
+                "start_time": 6110,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6430,
+                "start_time": 6270,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6630,
+                "start_time": 6430,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6870,
+                "start_time": 6630,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7350,
+                "start_time": 7150,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7590,
+                "start_time": 7350,
+                "text": "切"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7790,
+                "start_time": 7630,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7990,
+                "start_time": 7790,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8150,
+                "start_time": 7990,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8350,
+                "start_time": 8150,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8550,
+                "start_time": 8350,
+                "text": "无"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8670,
+                "start_time": 8550,
+                "text": "疑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8950,
+                "start_time": 8710,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 17510,
+            "start_time": 9110,
+            "text": "而现在量子力学告诉我们，你根本测量不出事物的初始状态，你就更加无法知道事物的发展结果了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 9350,
+                "start_time": 9110,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9510,
+                "start_time": 9350,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9670,
+                "start_time": 9510,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9830,
+                "start_time": 9710,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10030,
+                "start_time": 9870,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10230,
+                "start_time": 10030,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10390,
+                "start_time": 10230,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10590,
+                "start_time": 10390,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10670,
+                "start_time": 10590,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10830,
+                "start_time": 10670,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10950,
+                "start_time": 10830,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11310,
+                "start_time": 11070,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11550,
+                "start_time": 11350,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11750,
+                "start_time": 11550,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11990,
+                "start_time": 11790,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12150,
+                "start_time": 11990,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12350,
+                "start_time": 12150,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12550,
+                "start_time": 12350,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12790,
+                "start_time": 12590,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12910,
+                "start_time": 12790,
+                "text": "物"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13150,
+                "start_time": 12910,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13350,
+                "start_time": 13150,
+                "text": "初"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13550,
+                "start_time": 13350,
+                "text": "始"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13790,
+                "start_time": 13590,
+                "text": "状"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13990,
+                "start_time": 13790,
+                "text": "态"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14310,
+                "start_time": 14150,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14510,
+                "start_time": 14310,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14750,
+                "start_time": 14510,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14990,
+                "start_time": 14750,
+                "text": "加"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15230,
+                "start_time": 15030,
+                "text": "无"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15470,
+                "start_time": 15230,
+                "text": "法"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15750,
+                "start_time": 15550,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15910,
+                "start_time": 15750,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16230,
+                "start_time": 16030,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16350,
+                "start_time": 16230,
+                "text": "物"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16550,
+                "start_time": 16350,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16750,
+                "start_time": 16550,
+                "text": "发"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16910,
+                "start_time": 16750,
+                "text": "展"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17150,
+                "start_time": 16950,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17270,
+                "start_time": 17150,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17510,
+                "start_time": 17310,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 24750,
+            "start_time": 17750,
+            "text": "因此，在牛顿的经典力学中，其根本特征是可度量、可预测、确定性。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17950,
+                "start_time": 17750,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18150,
+                "start_time": 17950,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18590,
+                "start_time": 18350,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18830,
+                "start_time": 18630,
+                "text": "牛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19070,
+                "start_time": 18950,
+                "text": "顿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19310,
+                "start_time": 19110,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19430,
+                "start_time": 19310,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19590,
+                "start_time": 19430,
+                "text": "典"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19790,
+                "start_time": 19750,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20030,
+                "start_time": 19870,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20270,
+                "start_time": 20030,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20790,
+                "start_time": 20510,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21030,
+                "start_time": 20830,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21230,
+                "start_time": 21030,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21470,
+                "start_time": 21230,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21630,
+                "start_time": 21470,
+                "text": "征"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22110,
+                "start_time": 21750,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22470,
+                "start_time": 22150,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22670,
+                "start_time": 22590,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22870,
+                "start_time": 22790,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23390,
+                "start_time": 23110,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23630,
+                "start_time": 23390,
+                "text": "预"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23870,
+                "start_time": 23630,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24310,
+                "start_time": 24030,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24510,
+                "start_time": 24310,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24750,
+                "start_time": 24510,
+                "text": "性"
+              }
+            ]
+          },
+          {
+            "end_time": 32270,
+            "start_time": 25190,
+            "text": "而在量子力学中，确实变成了不可度量、不可预测、不确定性。类似不确定性的例",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 25430,
+                "start_time": 25190,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25630,
+                "start_time": 25430,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25870,
+                "start_time": 25630,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26030,
+                "start_time": 25870,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26190,
+                "start_time": 26150,
+                "text": "力"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26430,
+                "start_time": 26270,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26670,
+                "start_time": 26430,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27030,
+                "start_time": 26790,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27270,
+                "start_time": 27030,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27750,
+                "start_time": 27510,
+                "text": "变"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27910,
+                "start_time": 27750,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28110,
+                "start_time": 27910,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28310,
+                "start_time": 28110,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28470,
+                "start_time": 28310,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28670,
+                "start_time": 28550,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28830,
+                "start_time": 28670,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29190,
+                "start_time": 28990,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29390,
+                "start_time": 29190,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29590,
+                "start_time": 29390,
+                "text": "预"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29750,
+                "start_time": 29590,
+                "text": "测"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30070,
+                "start_time": 29870,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30270,
+                "start_time": 30070,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30430,
+                "start_time": 30270,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30630,
+                "start_time": 30430,
+                "text": "性"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31110,
+                "start_time": 30910,
+                "text": "类"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31350,
+                "start_time": 31110,
+                "text": "似"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31590,
+                "start_time": 31350,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31750,
+                "start_time": 31590,
+                "text": "确"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31870,
+                "start_time": 31750,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32030,
+                "start_time": 31870,
+                "text": "性"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32190,
+                "start_time": 32030,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32270,
+                "start_time": 32230,
+                "text": "例"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

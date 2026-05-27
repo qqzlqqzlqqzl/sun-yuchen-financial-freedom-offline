@@ -1,0 +1,67 @@
+{
+  "item": {
+    "index": 4,
+    "audio_id": "wavlake-mp3__081__b0c91068",
+    "episode": "081",
+    "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "line_no": 44,
+    "segment_start": 969.12,
+    "segment_end": 969.18,
+    "snippet_start": 967.92,
+    "snippet_end": 970.38,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+    "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0040__wavlake-mp3__081__b0c91068__line0044.wav",
+    "volc_ok": false,
+    "volc_status": "20000003",
+    "volc_message": "[Normal silence audio] Handle response: no valid speech in audio",
+    "volc_logid": "202605271203105616A2E0D1FCF9159FAB",
+    "volc_text": "",
+    "request_id": "3f83b4f2-4ca2-4861-a113-37761c5d3608",
+    "raw_json_path": "volc-raw-json/0040.json"
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "0c944d31-d3f3-4c28-a9aa-40402d19aeb6",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712042810B1FF937F9F559748D1",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000003",
+        "api_message": "[Normal silence audio] Handle response: no valid speech in audio",
+        "tt_logid": "202605271204285408F499AC5D025A0FAB",
+        "response": {
+          "audio_info": {
+            "duration": 1977
+          },
+          "result": {
+            "additions": {
+              "duration": "1977"
+            },
+            "text": ""
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 1977
+      },
+      "result": {
+        "additions": {
+          "duration": "1977"
+        },
+        "text": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "item": {
+    "index": 53,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 62,
+    "segment_start": 580.06,
+    "segment_end": 580.36,
+    "snippet_start": 578.8599999999999,
+    "snippet_end": 581.5600000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "量子力学其中一个最重要的理论叫做uncertainty principle,它认为我们没有办法准确测试。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0053__wavlake-mp3__082__3a025f97__line0062.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "afe4e286-cf18-4927-96fe-1f9137523c33",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203210C536DAE61D05E5989DC",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120321B5335E2ACB8EADE71DC2",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000003",
+        "api_message": "[Normal silence audio] Handle response: no valid speech in audio",
+        "tt_logid": "20260527120323279409C31652F35ABBB5",
+        "response": {
+          "audio_info": {
+            "duration": 1522
+          },
+          "result": {
+            "additions": {
+              "duration": "1522"
+            },
+            "text": ""
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 1522
+      },
+      "result": {
+        "additions": {
+          "duration": "1522"
+        },
+        "text": ""
+      }
+    }
+  }
+}

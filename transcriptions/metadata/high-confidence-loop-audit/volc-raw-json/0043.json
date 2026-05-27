@@ -1,0 +1,246 @@
+{
+  "item": {
+    "index": 43,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 15,
+    "segment_start": 86.32,
+    "segment_end": 87.26,
+    "snippet_start": 85.11999999999999,
+    "snippet_end": 88.46000000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "湖畔大学的校董和保健人群体也扩张到了将近100名。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0043__wavlake-mp3__082__3a025f97__line0015.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "45dc048f-d7ff-4419-87a4-b2fe4ebf975c",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120317DAA0E43DB0DC7F0650FC",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120317ED76E93553759618E348",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120319FE4880E908FB57BA31C2",
+        "response": {
+          "audio_info": {
+            "duration": 3340
+          },
+          "result": {
+            "additions": {
+              "duration": "3340"
+            },
+            "text": "将近100名。我看到有些小伙伴的",
+            "utterances": [
+              {
+                "end_time": 3200,
+                "start_time": 120,
+                "text": "将近100名。我看到有些小伙伴的",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 120,
+                    "text": "将"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 320,
+                    "text": "近"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 560,
+                    "text": "100"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 960,
+                    "text": "名"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1520,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1760,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2000,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2320,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2520,
+                    "text": "些"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2680,
+                    "text": "小"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2840,
+                    "text": "伙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3040,
+                    "start_time": 2960,
+                    "text": "伴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3200,
+                    "start_time": 3040,
+                    "text": "的"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 3340
+      },
+      "result": {
+        "additions": {
+          "duration": "3340"
+        },
+        "text": "将近100名。我看到有些小伙伴的",
+        "utterances": [
+          {
+            "end_time": 3200,
+            "start_time": 120,
+            "text": "将近100名。我看到有些小伙伴的",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 120,
+                "text": "将"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 320,
+                "text": "近"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 560,
+                "text": "100"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 960,
+                "text": "名"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1520,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1760,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2000,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2320,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2520,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2680,
+                "text": "小"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2840,
+                "text": "伙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2960,
+                "text": "伴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3040,
+                "text": "的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

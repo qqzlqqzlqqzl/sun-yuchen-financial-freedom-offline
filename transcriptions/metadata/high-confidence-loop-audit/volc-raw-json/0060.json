@@ -1,0 +1,246 @@
+{
+  "item": {
+    "index": 60,
+    "audio_id": "wavlake-mp3__102__9360cb03",
+    "episode": "102",
+    "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "line_no": 15,
+    "segment_start": 194.5,
+    "segment_end": 194.72,
+    "snippet_start": 193.3,
+    "snippet_end": 195.92,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+    "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0060__wavlake-mp3__102__9360cb03__line0015.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "5c91bd93-97e3-4540-8263-448b05df4fdd",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203238121B0983B66EFB28F17",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120324D8AD8FBA70C96B077B44",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120325DA0446BF79A267032C75",
+        "response": {
+          "audio_info": {
+            "duration": 2620
+          },
+          "result": {
+            "additions": {
+              "duration": "2620"
+            },
+            "text": "提出了无政府资本主义之后呢",
+            "utterances": [
+              {
+                "end_time": 2560,
+                "start_time": 120,
+                "text": "提出了无政府资本主义之后呢",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 120,
+                    "text": "提"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 480,
+                    "start_time": 280,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 480,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1320,
+                    "start_time": 1040,
+                    "text": "无"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1320,
+                    "text": "政"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1560,
+                    "text": "府"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1720,
+                    "text": "资"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1840,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1960,
+                    "text": "主"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2120,
+                    "text": "义"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2200,
+                    "text": "之"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2320,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2440,
+                    "text": "呢"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2620
+      },
+      "result": {
+        "additions": {
+          "duration": "2620"
+        },
+        "text": "提出了无政府资本主义之后呢",
+        "utterances": [
+          {
+            "end_time": 2560,
+            "start_time": 120,
+            "text": "提出了无政府资本主义之后呢",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 120,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 280,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1040,
+                "text": "无"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1320,
+                "text": "政"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "府"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "资"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1840,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1960,
+                "text": "主"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2120,
+                "text": "义"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2320,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2440,
+                "text": "呢"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

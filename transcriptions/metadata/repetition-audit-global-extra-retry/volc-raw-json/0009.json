@@ -1,0 +1,2171 @@
+{
+  "item": {
+    "index": 9,
+    "audio_id": "wavlake-mp3__036__8bed1231",
+    "episode": "036",
+    "title": "036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "line_no": 7,
+    "segment_start": 180.0,
+    "segment_end": 209.98,
+    "snippet_start": 178.8,
+    "snippet_end": 211.17999999999998,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。我在财富自由革命之路。在这一边,等着你。",
+    "audio_path": "wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0010__wavlake-mp3__036__8bed1231__line0007.wav",
+    "volc_ok": false,
+    "volc_status": null,
+    "volc_message": null,
+    "volc_logid": null,
+    "volc_text": "",
+    "request_id": "01be5af6-2f1b-46eb-a1b8-23cd21e6aa7e",
+    "raw_json_path": "volc-raw-json/0010.json"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "c331cc81-7cd2-4aa0-8c24-15599e7b34f0",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052711541438DCC5F435F29CC0D543",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052711541591CAE4C9B24C3FC51E0C",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527115417EBC61208A5745C6B15DF",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527115418A79F93E6382704B313EC",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "我觉得所以叫为什么叫巴菲特也不是神呢？对吧？巴菲特也失去了一个啊，互联网行业带来的高增长啊，巴菲特没有投 facebook 没有投 google 啊，亏了，当然当然这个是非常大的一个机会成本。同时呢，巴菲特啊没有投 Facebook 和 Google 居然投了 IBM 所以亏的底裤都掉出来了，是吧？所以这也是为什么就是股神也不能全信呢。所以往往呢，他可能啊，但是这个也可以告诉我们，就是巴菲特的投资逻辑以及投资",
+            "utterances": [
+              {
+                "end_time": 2580,
+                "start_time": 260,
+                "text": "我觉得所以叫为什么叫巴菲特也不是神呢？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 300,
+                    "start_time": 260,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 420,
+                    "start_time": 300,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 460,
+                    "start_time": 420,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 580,
+                    "start_time": 460,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 660,
+                    "start_time": 580,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 820,
+                    "start_time": 700,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1060,
+                    "start_time": 940,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1140,
+                    "start_time": 1060,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1220,
+                    "start_time": 1140,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1380,
+                    "start_time": 1220,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1540,
+                    "start_time": 1420,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1660,
+                    "start_time": 1540,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1780,
+                    "start_time": 1660,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1940,
+                    "start_time": 1780,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2020,
+                    "start_time": 1940,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2140,
+                    "start_time": 2020,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2380,
+                    "start_time": 2140,
+                    "text": "神"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2580,
+                    "start_time": 2380,
+                    "text": "呢"
+                  }
+                ]
+              },
+              {
+                "end_time": 3060,
+                "start_time": 2700,
+                "text": "对吧？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2860,
+                    "start_time": 2700,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3060,
+                    "start_time": 2860,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 13500,
+                "start_time": 3540,
+                "text": "巴菲特也失去了一个啊，互联网行业带来的高增长啊，巴菲特没有投 facebook 没有投 google 啊，亏了，当然当然这个是非常大的一个机会成本。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3700,
+                    "start_time": 3540,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3820,
+                    "start_time": 3700,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4020,
+                    "start_time": 3860,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4300,
+                    "start_time": 4020,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4540,
+                    "start_time": 4300,
+                    "text": "失"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4700,
+                    "start_time": 4540,
+                    "text": "去"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4940,
+                    "start_time": 4700,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5180,
+                    "start_time": 4980,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5460,
+                    "start_time": 5180,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5820,
+                    "start_time": 5700,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6100,
+                    "start_time": 5940,
+                    "text": "互"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6300,
+                    "start_time": 6100,
+                    "text": "联"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6500,
+                    "start_time": 6300,
+                    "text": "网"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6740,
+                    "start_time": 6540,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6860,
+                    "start_time": 6740,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7020,
+                    "start_time": 6860,
+                    "text": "带"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7140,
+                    "start_time": 7020,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7300,
+                    "start_time": 7140,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7500,
+                    "start_time": 7300,
+                    "text": "高"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7740,
+                    "start_time": 7500,
+                    "text": "增"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7940,
+                    "start_time": 7740,
+                    "text": "长"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8260,
+                    "start_time": 8140,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8580,
+                    "start_time": 8420,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8660,
+                    "start_time": 8580,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8820,
+                    "start_time": 8700,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8980,
+                    "start_time": 8820,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9060,
+                    "start_time": 8980,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9220,
+                    "start_time": 9060,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9580,
+                    "start_time": 9260,
+                    "text": "facebook"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9860,
+                    "start_time": 9740,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9900,
+                    "start_time": 9860,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10060,
+                    "start_time": 9900,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10380,
+                    "start_time": 10140,
+                    "text": "google"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10740,
+                    "start_time": 10580,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11260,
+                    "start_time": 11020,
+                    "text": "亏"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11460,
+                    "start_time": 11260,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11580,
+                    "start_time": 11460,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11660,
+                    "start_time": 11580,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11860,
+                    "start_time": 11700,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11940,
+                    "start_time": 11860,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12060,
+                    "start_time": 11940,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12140,
+                    "start_time": 12060,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12260,
+                    "start_time": 12140,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12380,
+                    "start_time": 12260,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12460,
+                    "start_time": 12380,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12620,
+                    "start_time": 12460,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12700,
+                    "start_time": 12620,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12820,
+                    "start_time": 12700,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12940,
+                    "start_time": 12820,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13060,
+                    "start_time": 12940,
+                    "text": "机"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13220,
+                    "start_time": 13060,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13380,
+                    "start_time": 13220,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13500,
+                    "start_time": 13380,
+                    "text": "本"
+                  }
+                ]
+              },
+              {
+                "end_time": 20850,
+                "start_time": 14170,
+                "text": "同时呢，巴菲特啊没有投 Facebook 和 Google 居然投了 IBM 所以亏的底裤都掉出来了，是吧？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 14450,
+                    "start_time": 14170,
+                    "text": "同"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14650,
+                    "start_time": 14450,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14890,
+                    "start_time": 14650,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15170,
+                    "start_time": 14970,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15330,
+                    "start_time": 15170,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15610,
+                    "start_time": 15330,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16130,
+                    "start_time": 16010,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16370,
+                    "start_time": 16210,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16490,
+                    "start_time": 16370,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16650,
+                    "start_time": 16490,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17130,
+                    "start_time": 16730,
+                    "text": "Facebook"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17490,
+                    "start_time": 17290,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17730,
+                    "start_time": 17530,
+                    "text": "Google"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17930,
+                    "start_time": 17850,
+                    "text": "居"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18050,
+                    "start_time": 17930,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18170,
+                    "start_time": 18050,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18290,
+                    "start_time": 18210,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18690,
+                    "start_time": 18370,
+                    "text": "IBM"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": -1,
+                    "start_time": -1,
+                    "text": " "
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18970,
+                    "start_time": 18810,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19090,
+                    "start_time": 18970,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19330,
+                    "start_time": 19090,
+                    "text": "亏"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19450,
+                    "start_time": 19330,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19650,
+                    "start_time": 19450,
+                    "text": "底"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19810,
+                    "start_time": 19650,
+                    "text": "裤"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19970,
+                    "start_time": 19810,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20170,
+                    "start_time": 19970,
+                    "text": "掉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20290,
+                    "start_time": 20170,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20370,
+                    "start_time": 20290,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20530,
+                    "start_time": 20370,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20650,
+                    "start_time": 20530,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20850,
+                    "start_time": 20650,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 24050,
+                "start_time": 21130,
+                "text": "所以这也是为什么就是股神也不能全信呢。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 21290,
+                    "start_time": 21130,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21330,
+                    "start_time": 21290,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21530,
+                    "start_time": 21330,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21570,
+                    "start_time": 21530,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21690,
+                    "start_time": 21570,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21810,
+                    "start_time": 21690,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21850,
+                    "start_time": 21810,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21970,
+                    "start_time": 21850,
+                    "text": "么"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22090,
+                    "start_time": 21970,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22210,
+                    "start_time": 22090,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22410,
+                    "start_time": 22210,
+                    "text": "股"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22690,
+                    "start_time": 22410,
+                    "text": "神"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23210,
+                    "start_time": 23010,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23330,
+                    "start_time": 23210,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23450,
+                    "start_time": 23330,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23690,
+                    "start_time": 23450,
+                    "text": "全"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23930,
+                    "start_time": 23690,
+                    "text": "信"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24050,
+                    "start_time": 24010,
+                    "text": "呢"
+                  }
+                ]
+              },
+              {
+                "end_time": 32200,
+                "start_time": 24560,
+                "text": "所以往往呢，他可能啊，但是这个也可以告诉我们，就是巴菲特的投资逻辑以及投资",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 24760,
+                    "start_time": 24560,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24880,
+                    "start_time": 24760,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25280,
+                    "start_time": 25000,
+                    "text": "往"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25480,
+                    "start_time": 25320,
+                    "text": "往"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25760,
+                    "start_time": 25520,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25960,
+                    "start_time": 25840,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26480,
+                    "start_time": 26200,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26720,
+                    "start_time": 26480,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27160,
+                    "start_time": 26960,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27520,
+                    "start_time": 27280,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27760,
+                    "start_time": 27520,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28600,
+                    "start_time": 28280,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28760,
+                    "start_time": 28600,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28960,
+                    "start_time": 28760,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29040,
+                    "start_time": 28960,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29160,
+                    "start_time": 29040,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29320,
+                    "start_time": 29160,
+                    "text": "告"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29400,
+                    "start_time": 29320,
+                    "text": "诉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29520,
+                    "start_time": 29400,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29640,
+                    "start_time": 29520,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29760,
+                    "start_time": 29640,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29960,
+                    "start_time": 29760,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30440,
+                    "start_time": 30240,
+                    "text": "巴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30600,
+                    "start_time": 30440,
+                    "text": "菲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30800,
+                    "start_time": 30600,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31000,
+                    "start_time": 30800,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31200,
+                    "start_time": 31000,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31320,
+                    "start_time": 31200,
+                    "text": "资"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31600,
+                    "start_time": 31360,
+                    "text": "逻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31680,
+                    "start_time": 31600,
+                    "text": "辑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31840,
+                    "start_time": 31760,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31960,
+                    "start_time": 31840,
+                    "text": "及"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32120,
+                    "start_time": 32000,
+                    "text": "投"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32200,
+                    "start_time": 32120,
+                    "text": "资"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "我觉得所以叫为什么叫巴菲特也不是神呢？对吧？巴菲特也失去了一个啊，互联网行业带来的高增长啊，巴菲特没有投 facebook 没有投 google 啊，亏了，当然当然这个是非常大的一个机会成本。同时呢，巴菲特啊没有投 Facebook 和 Google 居然投了 IBM 所以亏的底裤都掉出来了，是吧？所以这也是为什么就是股神也不能全信呢。所以往往呢，他可能啊，但是这个也可以告诉我们，就是巴菲特的投资逻辑以及投资",
+        "utterances": [
+          {
+            "end_time": 2580,
+            "start_time": 260,
+            "text": "我觉得所以叫为什么叫巴菲特也不是神呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 300,
+                "start_time": 260,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 420,
+                "start_time": 300,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 460,
+                "start_time": 420,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 580,
+                "start_time": 460,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 660,
+                "start_time": 580,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 820,
+                "start_time": 700,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1060,
+                "start_time": 940,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1140,
+                "start_time": 1060,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1220,
+                "start_time": 1140,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1380,
+                "start_time": 1220,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1540,
+                "start_time": 1420,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1660,
+                "start_time": 1540,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1780,
+                "start_time": 1660,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1940,
+                "start_time": 1780,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2020,
+                "start_time": 1940,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2140,
+                "start_time": 2020,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2380,
+                "start_time": 2140,
+                "text": "神"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2580,
+                "start_time": 2380,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 3060,
+            "start_time": 2700,
+            "text": "对吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2860,
+                "start_time": 2700,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3060,
+                "start_time": 2860,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 13500,
+            "start_time": 3540,
+            "text": "巴菲特也失去了一个啊，互联网行业带来的高增长啊，巴菲特没有投 facebook 没有投 google 啊，亏了，当然当然这个是非常大的一个机会成本。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3700,
+                "start_time": 3540,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3820,
+                "start_time": 3700,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4020,
+                "start_time": 3860,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4300,
+                "start_time": 4020,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4540,
+                "start_time": 4300,
+                "text": "失"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4700,
+                "start_time": 4540,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4940,
+                "start_time": 4700,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5180,
+                "start_time": 4980,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5460,
+                "start_time": 5180,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5820,
+                "start_time": 5700,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6100,
+                "start_time": 5940,
+                "text": "互"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6300,
+                "start_time": 6100,
+                "text": "联"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6500,
+                "start_time": 6300,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6740,
+                "start_time": 6540,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6860,
+                "start_time": 6740,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7020,
+                "start_time": 6860,
+                "text": "带"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7140,
+                "start_time": 7020,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7300,
+                "start_time": 7140,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7500,
+                "start_time": 7300,
+                "text": "高"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7740,
+                "start_time": 7500,
+                "text": "增"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7940,
+                "start_time": 7740,
+                "text": "长"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8260,
+                "start_time": 8140,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8580,
+                "start_time": 8420,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8660,
+                "start_time": 8580,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8820,
+                "start_time": 8700,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8980,
+                "start_time": 8820,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9060,
+                "start_time": 8980,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9220,
+                "start_time": 9060,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 9580,
+                "start_time": 9260,
+                "text": "facebook"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 9860,
+                "start_time": 9740,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9900,
+                "start_time": 9860,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10060,
+                "start_time": 9900,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 10380,
+                "start_time": 10140,
+                "text": "google"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 10740,
+                "start_time": 10580,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11260,
+                "start_time": 11020,
+                "text": "亏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11460,
+                "start_time": 11260,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11580,
+                "start_time": 11460,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11660,
+                "start_time": 11580,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11860,
+                "start_time": 11700,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11940,
+                "start_time": 11860,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12060,
+                "start_time": 11940,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12140,
+                "start_time": 12060,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12260,
+                "start_time": 12140,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12380,
+                "start_time": 12260,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12460,
+                "start_time": 12380,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12620,
+                "start_time": 12460,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12700,
+                "start_time": 12620,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12820,
+                "start_time": 12700,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12940,
+                "start_time": 12820,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13060,
+                "start_time": 12940,
+                "text": "机"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13220,
+                "start_time": 13060,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13380,
+                "start_time": 13220,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13500,
+                "start_time": 13380,
+                "text": "本"
+              }
+            ]
+          },
+          {
+            "end_time": 20850,
+            "start_time": 14170,
+            "text": "同时呢，巴菲特啊没有投 Facebook 和 Google 居然投了 IBM 所以亏的底裤都掉出来了，是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14450,
+                "start_time": 14170,
+                "text": "同"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14650,
+                "start_time": 14450,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14890,
+                "start_time": 14650,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15170,
+                "start_time": 14970,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15330,
+                "start_time": 15170,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15610,
+                "start_time": 15330,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16130,
+                "start_time": 16010,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16370,
+                "start_time": 16210,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16490,
+                "start_time": 16370,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16650,
+                "start_time": 16490,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 17130,
+                "start_time": 16730,
+                "text": "Facebook"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 17490,
+                "start_time": 17290,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 17730,
+                "start_time": 17530,
+                "text": "Google"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 17930,
+                "start_time": 17850,
+                "text": "居"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18050,
+                "start_time": 17930,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18170,
+                "start_time": 18050,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18290,
+                "start_time": 18210,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 18690,
+                "start_time": 18370,
+                "text": "IBM"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 18970,
+                "start_time": 18810,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19090,
+                "start_time": 18970,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19330,
+                "start_time": 19090,
+                "text": "亏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19450,
+                "start_time": 19330,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19650,
+                "start_time": 19450,
+                "text": "底"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19810,
+                "start_time": 19650,
+                "text": "裤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19970,
+                "start_time": 19810,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20170,
+                "start_time": 19970,
+                "text": "掉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20290,
+                "start_time": 20170,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20370,
+                "start_time": 20290,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20530,
+                "start_time": 20370,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20650,
+                "start_time": 20530,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20850,
+                "start_time": 20650,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 24050,
+            "start_time": 21130,
+            "text": "所以这也是为什么就是股神也不能全信呢。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 21290,
+                "start_time": 21130,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21330,
+                "start_time": 21290,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21530,
+                "start_time": 21330,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21570,
+                "start_time": 21530,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21690,
+                "start_time": 21570,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21810,
+                "start_time": 21690,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21850,
+                "start_time": 21810,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21970,
+                "start_time": 21850,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22090,
+                "start_time": 21970,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22210,
+                "start_time": 22090,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22410,
+                "start_time": 22210,
+                "text": "股"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22690,
+                "start_time": 22410,
+                "text": "神"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23210,
+                "start_time": 23010,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23330,
+                "start_time": 23210,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23450,
+                "start_time": 23330,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23690,
+                "start_time": 23450,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23930,
+                "start_time": 23690,
+                "text": "信"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24050,
+                "start_time": 24010,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 32200,
+            "start_time": 24560,
+            "text": "所以往往呢，他可能啊，但是这个也可以告诉我们，就是巴菲特的投资逻辑以及投资",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24760,
+                "start_time": 24560,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24880,
+                "start_time": 24760,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25280,
+                "start_time": 25000,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25480,
+                "start_time": 25320,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25760,
+                "start_time": 25520,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25960,
+                "start_time": 25840,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26480,
+                "start_time": 26200,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26720,
+                "start_time": 26480,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27160,
+                "start_time": 26960,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27520,
+                "start_time": 27280,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27760,
+                "start_time": 27520,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28600,
+                "start_time": 28280,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28760,
+                "start_time": 28600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28960,
+                "start_time": 28760,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29040,
+                "start_time": 28960,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29160,
+                "start_time": 29040,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29320,
+                "start_time": 29160,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29400,
+                "start_time": 29320,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29520,
+                "start_time": 29400,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29640,
+                "start_time": 29520,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29760,
+                "start_time": 29640,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29960,
+                "start_time": 29760,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30440,
+                "start_time": 30240,
+                "text": "巴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30600,
+                "start_time": 30440,
+                "text": "菲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30800,
+                "start_time": 30600,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31000,
+                "start_time": 30800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31200,
+                "start_time": 31000,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31320,
+                "start_time": 31200,
+                "text": "资"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31600,
+                "start_time": 31360,
+                "text": "逻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31680,
+                "start_time": 31600,
+                "text": "辑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31840,
+                "start_time": 31760,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31960,
+                "start_time": 31840,
+                "text": "及"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32120,
+                "start_time": 32000,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32200,
+                "start_time": 32120,
+                "text": "资"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

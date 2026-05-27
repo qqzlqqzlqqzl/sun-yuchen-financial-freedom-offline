@@ -1,0 +1,235 @@
+{
+  "item": {
+    "index": 17,
+    "audio_id": "wavlake-mp3__124__4343a7c0",
+    "episode": "124",
+    "title": "125 孙宇晨：【财富天问】中国人为什么富不起来？谈中国财富传承问题",
+    "line_no": 33,
+    "segment_start": 233.8,
+    "segment_end": 234.1,
+    "snippet_start": 232.6,
+    "snippet_end": 235.3,
+    "flags": [
+      "repeated_phrase_loop"
+    ],
+    "current_text": "其实想一想,很匪夷所思,我爷爷是个富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪。",
+    "srt_text": "其实想一想,很匪夷所思,我爷爷是个富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪,我也是富豪。",
+    "audio_path": "wavlake-mp3/124 - 124 - 125 孙宇晨：【财富天问】中国人为什么富不起来？谈中国财富传承问题.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit/snippets/0017__wavlake-mp3__124__4343a7c0__line0033.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "f98bc3cc-cec4-4298-8b34-3c83b61ce705",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271146154D8ECF7FDB69FDB1C1EC",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527114615A7BD6515E11B04863D31",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052711461780EFD38652B9406ABB30",
+        "response": {
+          "audio_info": {
+            "duration": 2700
+          },
+          "result": {
+            "additions": {
+              "duration": "2700"
+            },
+            "text": "我就彻底完蛋了，别说财富了。",
+            "utterances": [
+              {
+                "end_time": 2600,
+                "start_time": 40,
+                "text": "我就彻底完蛋了，别说财富了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 120,
+                    "start_time": 40,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 120,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 240,
+                    "text": "彻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 480,
+                    "start_time": 360,
+                    "text": "底"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 480,
+                    "text": "完"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 800,
+                    "start_time": 680,
+                    "text": "蛋"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 840,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1560,
+                    "text": "别"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1800,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2000,
+                    "text": "财"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2400,
+                    "start_time": 2240,
+                    "text": "富"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2400,
+                    "text": "了"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2700
+      },
+      "result": {
+        "additions": {
+          "duration": "2700"
+        },
+        "text": "我就彻底完蛋了，别说财富了。",
+        "utterances": [
+          {
+            "end_time": 2600,
+            "start_time": 40,
+            "text": "我就彻底完蛋了，别说财富了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 40,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 120,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "彻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "底"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "完"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 680,
+                "text": "蛋"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 840,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1560,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1800,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2000,
+                "text": "财"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2240,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2400,
+                "text": "了"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

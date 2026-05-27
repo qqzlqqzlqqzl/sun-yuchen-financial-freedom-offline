@@ -1,0 +1,1948 @@
+{
+  "item": {
+    "index": 4,
+    "audio_id": "official-vimeo-m4a-partial__052__c75cdd42",
+    "episode": "052",
+    "title": "052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+    "line_no": 2,
+    "segment_start": 30.0,
+    "segment_end": 59.98,
+    "snippet_start": 28.8,
+    "snippet_end": 61.18,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上《财富自由革命之路》。我在《财富自由革命之路》的另一边等着你。",
+    "audio_path": "official-vimeo-m4a-partial/052 - 052【90后不买房】房子户口是子女教育的门槛吗？ [1179740167].m4a",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0004__official-vimeo-m4a-partial__052__c75cdd42__line0002.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "88291983-2c80-487b-91f9-280e6e68ba4d",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712024038C1D32402AAC25BBB35",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712024164DDF6DBA24510032C0C",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271202433609EFD4182B26907270",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271202451775D7B364307C68E846",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "他去直接申请一下就能办下来。啊，他一申请果然就办下来了。像广州、深圳啊，乃至我的家乡惠州，其实办户口都不难，广东城市办户口都不难。可能难的就是北京跟上海吧。首先一啊，我觉得这两个地区目前看是这样，你买了房子也不见得户口好办，其实真是这样。举个例子，首先你想在北京买房，本身也要交5年，是连续交5年吧，你可能才能在北京市内买嘛，你即便",
+            "utterances": [
+              {
+                "end_time": 1760,
+                "start_time": 80,
+                "text": "他去直接申请一下就能办下来。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 80,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 280,
+                    "text": "去"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 440,
+                    "text": "直"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 680,
+                    "start_time": 560,
+                    "text": "接"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 680,
+                    "text": "申"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 920,
+                    "start_time": 840,
+                    "text": "请"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 920,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1120,
+                    "start_time": 1040,
+                    "text": "下"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1120,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1360,
+                    "start_time": 1240,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1360,
+                    "text": "办"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1560,
+                    "text": "下"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1720,
+                    "text": "来"
+                  }
+                ]
+              },
+              {
+                "end_time": 3600,
+                "start_time": 1960,
+                "text": "啊，他一申请果然就办下来了。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2080,
+                    "start_time": 1960,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2200,
+                    "start_time": 2120,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2400,
+                    "start_time": 2240,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2400,
+                    "text": "申"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2520,
+                    "text": "请"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2760,
+                    "start_time": 2600,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2880,
+                    "start_time": 2760,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2880,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3160,
+                    "start_time": 3000,
+                    "text": "办"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3280,
+                    "start_time": 3160,
+                    "text": "下"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3280,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3600,
+                    "start_time": 3400,
+                    "text": "了"
+                  }
+                ]
+              },
+              {
+                "end_time": 10280,
+                "start_time": 3880,
+                "text": "像广州、深圳啊，乃至我的家乡惠州，其实办户口都不难，广东城市办户口都不难。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3880,
+                    "text": "像"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4480,
+                    "start_time": 4200,
+                    "text": "广"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4480,
+                    "text": "州"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5040,
+                    "start_time": 4800,
+                    "text": "深"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5280,
+                    "start_time": 5040,
+                    "text": "圳"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5600,
+                    "start_time": 5480,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5840,
+                    "start_time": 5680,
+                    "text": "乃"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6000,
+                    "start_time": 5840,
+                    "text": "至"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6080,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6440,
+                    "start_time": 6280,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6600,
+                    "start_time": 6440,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6720,
+                    "start_time": 6600,
+                    "text": "乡"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6800,
+                    "text": "惠"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7200,
+                    "start_time": 6960,
+                    "text": "州"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7440,
+                    "start_time": 7280,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7440,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7880,
+                    "start_time": 7640,
+                    "text": "办"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8080,
+                    "start_time": 7960,
+                    "text": "户"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8200,
+                    "start_time": 8080,
+                    "text": "口"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8360,
+                    "start_time": 8200,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8480,
+                    "start_time": 8360,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8640,
+                    "start_time": 8480,
+                    "text": "难"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8920,
+                    "start_time": 8720,
+                    "text": "广"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9120,
+                    "start_time": 8920,
+                    "text": "东"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9240,
+                    "start_time": 9120,
+                    "text": "城"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9360,
+                    "start_time": 9240,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9560,
+                    "start_time": 9400,
+                    "text": "办"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9720,
+                    "start_time": 9640,
+                    "text": "户"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9800,
+                    "text": "口"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10040,
+                    "start_time": 9920,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10120,
+                    "start_time": 10040,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10280,
+                    "start_time": 10120,
+                    "text": "难"
+                  }
+                ]
+              },
+              {
+                "end_time": 12950,
+                "start_time": 10750,
+                "text": "可能难的就是北京跟上海吧。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 10910,
+                    "start_time": 10750,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11030,
+                    "start_time": 10910,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11230,
+                    "start_time": 11030,
+                    "text": "难"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11390,
+                    "start_time": 11230,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11550,
+                    "start_time": 11390,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11670,
+                    "start_time": 11550,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11830,
+                    "start_time": 11670,
+                    "text": "北"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11990,
+                    "start_time": 11830,
+                    "text": "京"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12230,
+                    "start_time": 11990,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12430,
+                    "start_time": 12230,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12630,
+                    "start_time": 12430,
+                    "text": "海"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12950,
+                    "start_time": 12630,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 23240,
+                "start_time": 14240,
+                "text": "首先一啊，我觉得这两个地区目前看是这样，你买了房子也不见得户口好办，其实真是这样。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 14440,
+                    "start_time": 14240,
+                    "text": "首"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14600,
+                    "start_time": 14440,
+                    "text": "先"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14880,
+                    "start_time": 14600,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15120,
+                    "start_time": 14960,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15440,
+                    "start_time": 15200,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15600,
+                    "start_time": 15440,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15800,
+                    "start_time": 15600,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16520,
+                    "start_time": 16160,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16680,
+                    "start_time": 16520,
+                    "text": "两"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16840,
+                    "start_time": 16680,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17040,
+                    "start_time": 16840,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17320,
+                    "start_time": 17040,
+                    "text": "区"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17800,
+                    "start_time": 17520,
+                    "text": "目"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17960,
+                    "start_time": 17800,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18160,
+                    "start_time": 17960,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18320,
+                    "start_time": 18160,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18440,
+                    "start_time": 18320,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18600,
+                    "start_time": 18440,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19600,
+                    "start_time": 19200,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20160,
+                    "start_time": 19880,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20360,
+                    "start_time": 20160,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20520,
+                    "start_time": 20360,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20680,
+                    "start_time": 20520,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20840,
+                    "start_time": 20680,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21000,
+                    "start_time": 20840,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21120,
+                    "start_time": 21000,
+                    "text": "见"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21240,
+                    "start_time": 21120,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21440,
+                    "start_time": 21280,
+                    "text": "户"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21600,
+                    "start_time": 21440,
+                    "text": "口"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21840,
+                    "start_time": 21600,
+                    "text": "好"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22080,
+                    "start_time": 21840,
+                    "text": "办"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22480,
+                    "start_time": 22280,
+                    "text": "其"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22600,
+                    "start_time": 22480,
+                    "text": "实"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22800,
+                    "start_time": 22600,
+                    "text": "真"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22960,
+                    "start_time": 22800,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23080,
+                    "start_time": 22960,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23240,
+                    "start_time": 23080,
+                    "text": "样"
+                  }
+                ]
+              },
+              {
+                "end_time": 32270,
+                "start_time": 24390,
+                "text": "举个例子，首先你想在北京买房，本身也要交5年，是连续交5年吧，你可能才能在北京市内买嘛，你即便",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 24590,
+                    "start_time": 24390,
+                    "text": "举"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24790,
+                    "start_time": 24590,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24910,
+                    "start_time": 24790,
+                    "text": "例"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25030,
+                    "start_time": 24910,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25190,
+                    "start_time": 25070,
+                    "text": "首"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25310,
+                    "start_time": 25190,
+                    "text": "先"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25430,
+                    "start_time": 25310,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25550,
+                    "start_time": 25510,
+                    "text": "想"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25830,
+                    "start_time": 25670,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25990,
+                    "start_time": 25830,
+                    "text": "北"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26150,
+                    "start_time": 25990,
+                    "text": "京"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26390,
+                    "start_time": 26190,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26630,
+                    "start_time": 26390,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26870,
+                    "start_time": 26670,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26950,
+                    "start_time": 26870,
+                    "text": "身"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27070,
+                    "start_time": 26950,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27270,
+                    "start_time": 27070,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27470,
+                    "start_time": 27270,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27750,
+                    "start_time": 27550,
+                    "text": "5"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27990,
+                    "start_time": 27750,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28630,
+                    "start_time": 28350,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28790,
+                    "start_time": 28630,
+                    "text": "连"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28910,
+                    "start_time": 28790,
+                    "text": "续"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29110,
+                    "start_time": 28950,
+                    "text": "交"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29270,
+                    "start_time": 29150,
+                    "text": "5"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29430,
+                    "start_time": 29270,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29670,
+                    "start_time": 29430,
+                    "text": "吧"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30110,
+                    "start_time": 29910,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30230,
+                    "start_time": 30110,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30310,
+                    "start_time": 30230,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30470,
+                    "start_time": 30310,
+                    "text": "才"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30550,
+                    "start_time": 30470,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30710,
+                    "start_time": 30550,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30790,
+                    "start_time": 30710,
+                    "text": "北"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30910,
+                    "start_time": 30790,
+                    "text": "京"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31070,
+                    "start_time": 30910,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31230,
+                    "start_time": 31070,
+                    "text": "内"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31430,
+                    "start_time": 31230,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31550,
+                    "start_time": 31470,
+                    "text": "嘛"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31990,
+                    "start_time": 31790,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32150,
+                    "start_time": 31990,
+                    "text": "即"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32270,
+                    "start_time": 32150,
+                    "text": "便"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "他去直接申请一下就能办下来。啊，他一申请果然就办下来了。像广州、深圳啊，乃至我的家乡惠州，其实办户口都不难，广东城市办户口都不难。可能难的就是北京跟上海吧。首先一啊，我觉得这两个地区目前看是这样，你买了房子也不见得户口好办，其实真是这样。举个例子，首先你想在北京买房，本身也要交5年，是连续交5年吧，你可能才能在北京市内买嘛，你即便",
+        "utterances": [
+          {
+            "end_time": 1760,
+            "start_time": 80,
+            "text": "他去直接申请一下就能办下来。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 80,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "直"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 560,
+                "text": "接"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 680,
+                "text": "申"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 840,
+                "text": "请"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 920,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 1040,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1120,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1240,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1360,
+                "text": "办"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1560,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1720,
+                "text": "来"
+              }
+            ]
+          },
+          {
+            "end_time": 3600,
+            "start_time": 1960,
+            "text": "啊，他一申请果然就办下来了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1960,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2120,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2240,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2400,
+                "text": "申"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2520,
+                "text": "请"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2600,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2880,
+                "start_time": 2760,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2880,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 3000,
+                "text": "办"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3160,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3280,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3400,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 10280,
+            "start_time": 3880,
+            "text": "像广州、深圳啊，乃至我的家乡惠州，其实办户口都不难，广东城市办户口都不难。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3880,
+                "text": "像"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4200,
+                "text": "广"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4480,
+                "text": "州"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4800,
+                "text": "深"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5040,
+                "text": "圳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5680,
+                "text": "乃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5840,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6080,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6280,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6440,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6600,
+                "text": "乡"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6800,
+                "text": "惠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7200,
+                "start_time": 6960,
+                "text": "州"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7280,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7440,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7640,
+                "text": "办"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 7960,
+                "text": "户"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8200,
+                "start_time": 8080,
+                "text": "口"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8360,
+                "start_time": 8200,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8480,
+                "start_time": 8360,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8640,
+                "start_time": 8480,
+                "text": "难"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8920,
+                "start_time": 8720,
+                "text": "广"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 8920,
+                "text": "东"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9240,
+                "start_time": 9120,
+                "text": "城"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9240,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9400,
+                "text": "办"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9720,
+                "start_time": 9640,
+                "text": "户"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9800,
+                "text": "口"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9920,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10120,
+                "start_time": 10040,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10280,
+                "start_time": 10120,
+                "text": "难"
+              }
+            ]
+          },
+          {
+            "end_time": 12950,
+            "start_time": 10750,
+            "text": "可能难的就是北京跟上海吧。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 10910,
+                "start_time": 10750,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11030,
+                "start_time": 10910,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11230,
+                "start_time": 11030,
+                "text": "难"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11390,
+                "start_time": 11230,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11550,
+                "start_time": 11390,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11670,
+                "start_time": 11550,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11830,
+                "start_time": 11670,
+                "text": "北"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11990,
+                "start_time": 11830,
+                "text": "京"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12230,
+                "start_time": 11990,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12430,
+                "start_time": 12230,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12630,
+                "start_time": 12430,
+                "text": "海"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12950,
+                "start_time": 12630,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 23240,
+            "start_time": 14240,
+            "text": "首先一啊，我觉得这两个地区目前看是这样，你买了房子也不见得户口好办，其实真是这样。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14440,
+                "start_time": 14240,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14600,
+                "start_time": 14440,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14880,
+                "start_time": 14600,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15120,
+                "start_time": 14960,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15440,
+                "start_time": 15200,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15600,
+                "start_time": 15440,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15800,
+                "start_time": 15600,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16520,
+                "start_time": 16160,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16680,
+                "start_time": 16520,
+                "text": "两"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16840,
+                "start_time": 16680,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17040,
+                "start_time": 16840,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17320,
+                "start_time": 17040,
+                "text": "区"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17800,
+                "start_time": 17520,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17960,
+                "start_time": 17800,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18160,
+                "start_time": 17960,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18320,
+                "start_time": 18160,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18440,
+                "start_time": 18320,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18600,
+                "start_time": 18440,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19600,
+                "start_time": 19200,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20160,
+                "start_time": 19880,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20360,
+                "start_time": 20160,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20520,
+                "start_time": 20360,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20680,
+                "start_time": 20520,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20840,
+                "start_time": 20680,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21000,
+                "start_time": 20840,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21120,
+                "start_time": 21000,
+                "text": "见"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21240,
+                "start_time": 21120,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21440,
+                "start_time": 21280,
+                "text": "户"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21600,
+                "start_time": 21440,
+                "text": "口"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21840,
+                "start_time": 21600,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22080,
+                "start_time": 21840,
+                "text": "办"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22480,
+                "start_time": 22280,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22600,
+                "start_time": 22480,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22800,
+                "start_time": 22600,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22960,
+                "start_time": 22800,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23080,
+                "start_time": 22960,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23240,
+                "start_time": 23080,
+                "text": "样"
+              }
+            ]
+          },
+          {
+            "end_time": 32270,
+            "start_time": 24390,
+            "text": "举个例子，首先你想在北京买房，本身也要交5年，是连续交5年吧，你可能才能在北京市内买嘛，你即便",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24590,
+                "start_time": 24390,
+                "text": "举"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24790,
+                "start_time": 24590,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24910,
+                "start_time": 24790,
+                "text": "例"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25030,
+                "start_time": 24910,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25190,
+                "start_time": 25070,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25310,
+                "start_time": 25190,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25430,
+                "start_time": 25310,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25550,
+                "start_time": 25510,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25830,
+                "start_time": 25670,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25990,
+                "start_time": 25830,
+                "text": "北"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26150,
+                "start_time": 25990,
+                "text": "京"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26390,
+                "start_time": 26190,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26630,
+                "start_time": 26390,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26870,
+                "start_time": 26670,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26950,
+                "start_time": 26870,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27070,
+                "start_time": 26950,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27270,
+                "start_time": 27070,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27470,
+                "start_time": 27270,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27750,
+                "start_time": 27550,
+                "text": "5"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27990,
+                "start_time": 27750,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28630,
+                "start_time": 28350,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28790,
+                "start_time": 28630,
+                "text": "连"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28910,
+                "start_time": 28790,
+                "text": "续"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29110,
+                "start_time": 28950,
+                "text": "交"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29270,
+                "start_time": 29150,
+                "text": "5"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29430,
+                "start_time": 29270,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29670,
+                "start_time": 29430,
+                "text": "吧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30110,
+                "start_time": 29910,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30230,
+                "start_time": 30110,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30310,
+                "start_time": 30230,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30470,
+                "start_time": 30310,
+                "text": "才"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30550,
+                "start_time": 30470,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30710,
+                "start_time": 30550,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30790,
+                "start_time": 30710,
+                "text": "北"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30910,
+                "start_time": 30790,
+                "text": "京"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31070,
+                "start_time": 30910,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31230,
+                "start_time": 31070,
+                "text": "内"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31430,
+                "start_time": 31230,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31550,
+                "start_time": 31470,
+                "text": "嘛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31990,
+                "start_time": 31790,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32150,
+                "start_time": 31990,
+                "text": "即"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32270,
+                "start_time": 32150,
+                "text": "便"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

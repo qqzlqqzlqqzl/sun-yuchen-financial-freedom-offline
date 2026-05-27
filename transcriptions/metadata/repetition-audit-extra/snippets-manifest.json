@@ -1,0 +1,24 @@
+{
+  "created_at": "2026-05-27T00:00:00+0800",
+  "note": "extra repetition audit for line 2",
+  "count": 1,
+  "items": [
+    {
+      "index": 1,
+      "audio_id": "wavlake-mp3__120__34108871",
+      "episode": "120",
+      "title": "【家人边界】新道德破解旧问题",
+      "line_no": 2,
+      "segment_start": 30.0,
+      "segment_end": 59.98,
+      "snippet_start": 28.8,
+      "snippet_end": 61.18,
+      "flags": [
+        "repeated_phrase_loop_extra"
+      ],
+      "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+      "audio_path": "wavlake-mp3/120 - 120 - 121 孙宇晨：【家人边界】新道德破解旧问题.mp3",
+      "snippet_path": "transcriptions/metadata/repetition-audit-extra/snippets/0001__wavlake-mp3__120__34108871__line0002.wav"
+    }
+  ]
+}

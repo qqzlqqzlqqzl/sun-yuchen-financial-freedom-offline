@@ -1,0 +1,284 @@
+{
+  "item": {
+    "index": 77,
+    "audio_id": "wavlake-mp3__114__1125512e",
+    "episode": "114",
+    "title": "114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "line_no": 26,
+    "segment_start": 289.2,
+    "segment_end": 289.96,
+    "snippet_start": 288.0,
+    "snippet_end": 291.15999999999997,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "可能艾滋病的患者预期寿命就比普通人少5到8年而已。",
+    "audio_path": "wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0077__wavlake-mp3__114__1125512e__line0026.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "29452bf7-ac2b-47f5-b32b-3b1eb07bce3c",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203294749DF21BB8C1D0554CD",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203299909395E1DE0B58811F2",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271203312CBC633EDFCFBB85E982",
+        "response": {
+          "audio_info": {
+            "duration": 3160
+          },
+          "result": {
+            "additions": {
+              "duration": "3160"
+            },
+            "text": "5~8年而已。所以从这个角度来说，我们",
+            "utterances": [
+              {
+                "end_time": 1490,
+                "start_time": 210,
+                "text": "5~8年而已。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 890,
+                    "start_time": 210,
+                    "text": "5~8"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1090,
+                    "start_time": 890,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1370,
+                    "start_time": 1170,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1490,
+                    "start_time": 1370,
+                    "text": "已"
+                  }
+                ]
+              },
+              {
+                "end_time": 3130,
+                "start_time": 1930,
+                "text": "所以从这个角度来说，我们",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2090,
+                    "start_time": 1930,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2170,
+                    "start_time": 2090,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2330,
+                    "start_time": 2170,
+                    "text": "从"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2450,
+                    "start_time": 2330,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2530,
+                    "start_time": 2450,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2650,
+                    "start_time": 2530,
+                    "text": "角"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2730,
+                    "start_time": 2650,
+                    "text": "度"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2850,
+                    "start_time": 2730,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2930,
+                    "start_time": 2850,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3010,
+                    "start_time": 2930,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3130,
+                    "start_time": 3010,
+                    "text": "们"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 3160
+      },
+      "result": {
+        "additions": {
+          "duration": "3160"
+        },
+        "text": "5~8年而已。所以从这个角度来说，我们",
+        "utterances": [
+          {
+            "end_time": 1490,
+            "start_time": 210,
+            "text": "5~8年而已。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 890,
+                "start_time": 210,
+                "text": "5~8"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1090,
+                "start_time": 890,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1370,
+                "start_time": 1170,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1490,
+                "start_time": 1370,
+                "text": "已"
+              }
+            ]
+          },
+          {
+            "end_time": 3130,
+            "start_time": 1930,
+            "text": "所以从这个角度来说，我们",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2090,
+                "start_time": 1930,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2170,
+                "start_time": 2090,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2330,
+                "start_time": 2170,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2450,
+                "start_time": 2330,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2530,
+                "start_time": 2450,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2650,
+                "start_time": 2530,
+                "text": "角"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2730,
+                "start_time": 2650,
+                "text": "度"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2850,
+                "start_time": 2730,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2930,
+                "start_time": 2850,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3010,
+                "start_time": 2930,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3130,
+                "start_time": 3010,
+                "text": "们"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

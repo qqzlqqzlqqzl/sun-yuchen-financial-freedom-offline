@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-05-27T12:06:22+0800",
+  "note": "Volcengine standard ASR audit for suspicious repeated transcript snippets. API key is not stored.",
+  "source_manifest": "snippets-manifest.json",
+  "resource_id": "volc.bigasr.auc",
+  "api_kind": "standard_submit_query",
+  "count": 1,
+  "ok_count": 1,
+  "elapsed_seconds": 4.465,
+  "items": [
+    {
+      "index": 1,
+      "audio_id": "wavlake-mp3__063__a2ff3819",
+      "episode": "063",
+      "title": "063 - 063 - 063 孙宇晨：【原始积累】复利定律.mp3",
+      "line_no": 13,
+      "segment_start": 213.7,
+      "segment_end": 239.96,
+      "snippet_start": 212.5,
+      "snippet_end": 241.16,
+      "flags": [
+        "remaining_phrase_loop"
+      ],
+      "current_text": "第二个例子呢,啊,我们大家可以看一个,啊,很简单的表格,啊,就是如果我们啊,啊,把一笔钱放进投资的时候,我们经常会看到所谓的投资收益率,我们以投资收益率5%,10%,15%,20%,25%和30%这六个档,啊,一分之三十,这六个档,啊,一分之三十,这六个档,啊,一分之三十,这六个档,啊,一分之三十,这六个档,啊,一分之三十,这六个档,啊,一分之三十,这六个档,啊,一分之三十,这六个档.",
+      "audio_path": "wavlake-mp3/063 - 063 - 063 孙宇晨：【原始积累】复利定律.mp3",
+      "snippet_path": "transcriptions/metadata/final-single-loop-audit/snippets/0001__wavlake-mp3__063__a2ff3819__line0013.wav",
+      "volc_ok": true,
+      "volc_status": "20000000",
+      "volc_message": "OK",
+      "volc_logid": "20260527120622567F9DD62EC8F1115282",
+      "volc_text": "无法完成的。第二个例子呢，啊，我们大家可以看一个啊很简单的表格。嗯，就是如果我们啊啊把一笔钱放进投资的时候。我们经常会看到所谓的投资收益率。我们以投资收益率5%、10%、15%、20%。百分之二十五和百分之三十，这六个档啊，一起来看。",
+      "request_id": "09366c55-af70-4e8d-b7b9-f4610c78b34a",
+      "raw_json_path": "volc-raw-json/0001.json"
+    }
+  ]
+}

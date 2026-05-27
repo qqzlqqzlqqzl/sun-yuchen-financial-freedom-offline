@@ -1,0 +1,306 @@
+{
+  "item": {
+    "index": 78,
+    "audio_id": "wavlake-mp3__118__86d1aebf",
+    "episode": "118",
+    "title": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "line_no": 66,
+    "segment_start": 419.68,
+    "segment_end": 421.68,
+    "snippet_start": 418.48,
+    "snippet_end": 422.88,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "古人所说的娶妻娶贤,以及娶老公嫁狼也要嫁贤吧,是太对了。",
+    "audio_path": "wavlake-mp3/118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0078__wavlake-mp3__118__86d1aebf__line0066.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "bfefddb6-2176-4315-a276-6d0591ae2730",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712032965E06BB08D96A5B31C7E",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203296245E5922DF53631245E",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120331F2054E86B18E280A5D0C",
+        "response": {
+          "audio_info": {
+            "duration": 4400
+          },
+          "result": {
+            "additions": {
+              "duration": "4400"
+            },
+            "text": "告诉大家，古人所说的娶妻娶贤，以及娶老公。",
+            "utterances": [
+              {
+                "end_time": 3920,
+                "start_time": 160,
+                "text": "告诉大家，古人所说的娶妻娶贤，以及娶老公。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 320,
+                    "start_time": 160,
+                    "text": "告"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 320,
+                    "text": "诉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 560,
+                    "start_time": 440,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 720,
+                    "start_time": 560,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 840,
+                    "text": "古"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1040,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1400,
+                    "start_time": 1240,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1400,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1560,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1720,
+                    "text": "娶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 1920,
+                    "text": "妻"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2240,
+                    "text": "娶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2480,
+                    "text": "贤"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3160,
+                    "start_time": 2960,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3240,
+                    "start_time": 3160,
+                    "text": "及"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3280,
+                    "text": "娶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3520,
+                    "text": "老"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3920,
+                    "start_time": 3720,
+                    "text": "公"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "告诉大家，古人所说的娶妻娶贤，以及娶老公。",
+        "utterances": [
+          {
+            "end_time": 3920,
+            "start_time": 160,
+            "text": "告诉大家，古人所说的娶妻娶贤，以及娶老公。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 320,
+                "start_time": 160,
+                "text": "告"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 320,
+                "text": "诉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 440,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 560,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 840,
+                "text": "古"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1400,
+                "start_time": 1240,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1400,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1560,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1720,
+                "text": "娶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 1920,
+                "text": "妻"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2240,
+                "text": "娶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2480,
+                "text": "贤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 2960,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3160,
+                "text": "及"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3280,
+                "text": "娶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3520,
+                "text": "老"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3720,
+                "text": "公"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

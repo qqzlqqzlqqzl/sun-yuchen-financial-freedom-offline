@@ -1,0 +1,450 @@
+{
+  "item": {
+    "index": 42,
+    "audio_id": "wavlake-mp3__082__3a025f97",
+    "episode": "082",
+    "title": "082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "line_no": 14,
+    "segment_start": 80.9,
+    "segment_end": 86.32,
+    "snippet_start": 79.7,
+    "snippet_end": 87.52,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "湖畔大学的校董和保健人群体也扩张到了将近100名。",
+    "audio_path": "wavlake-mp3/082 - 082 - 082 孙宇晨：【不确定性】薛定谔的猫.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0042__wavlake-mp3__082__3a025f97__line0014.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "c2d9ef88-2aaa-4d18-9b58-421d2b9ac475",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "2026052712031312F2847DD841B15DEDD1",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712031779462F2B7C4849B0FD4F",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120318A37489ED800511162C83",
+        "response": {
+          "audio_info": {
+            "duration": 7820
+          },
+          "result": {
+            "additions": {
+              "duration": "7820"
+            },
+            "text": "30名学员，湖畔大学的校董和保健人群体呢，也扩张到了将近100名。我看到",
+            "utterances": [
+              {
+                "end_time": 7560,
+                "start_time": 160,
+                "text": "30名学员，湖畔大学的校董和保健人群体呢，也扩张到了将近100名。我看到",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 160,
+                    "text": "30"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 520,
+                    "text": "名"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1000,
+                    "start_time": 760,
+                    "text": "学"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1000,
+                    "text": "员"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1680,
+                    "start_time": 1480,
+                    "text": "湖"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1720,
+                    "text": "畔"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2040,
+                    "start_time": 1880,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 2040,
+                    "text": "学"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2120,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2400,
+                    "start_time": 2280,
+                    "text": "校"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2520,
+                    "text": "董"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2800,
+                    "start_time": 2640,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3000,
+                    "start_time": 2800,
+                    "text": "保"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 3000,
+                    "text": "健"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3440,
+                    "start_time": 3200,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3440,
+                    "text": "群"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3760,
+                    "start_time": 3640,
+                    "text": "体"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4000,
+                    "start_time": 3760,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4560,
+                    "start_time": 4240,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4840,
+                    "start_time": 4600,
+                    "text": "扩"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5040,
+                    "start_time": 4840,
+                    "text": "张"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5240,
+                    "start_time": 5040,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5440,
+                    "start_time": 5240,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5680,
+                    "start_time": 5440,
+                    "text": "将"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5680,
+                    "text": "近"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6360,
+                    "start_time": 5960,
+                    "text": "100"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6640,
+                    "start_time": 6360,
+                    "text": "名"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7200,
+                    "start_time": 6920,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7400,
+                    "start_time": 7200,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7560,
+                    "start_time": 7400,
+                    "text": "到"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 7820
+      },
+      "result": {
+        "additions": {
+          "duration": "7820"
+        },
+        "text": "30名学员，湖畔大学的校董和保健人群体呢，也扩张到了将近100名。我看到",
+        "utterances": [
+          {
+            "end_time": 7560,
+            "start_time": 160,
+            "text": "30名学员，湖畔大学的校董和保健人群体呢，也扩张到了将近100名。我看到",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 160,
+                "text": "30"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 520,
+                "text": "名"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 760,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1000,
+                "text": "员"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1480,
+                "text": "湖"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1720,
+                "text": "畔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2040,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2280,
+                "text": "校"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2520,
+                "text": "董"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2640,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2800,
+                "text": "保"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 3000,
+                "text": "健"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3200,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3440,
+                "text": "群"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3640,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4000,
+                "start_time": 3760,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4240,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4600,
+                "text": "扩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4840,
+                "text": "张"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5040,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5240,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5440,
+                "text": "将"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5680,
+                "text": "近"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 5960,
+                "text": "100"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6360,
+                "text": "名"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7200,
+                "start_time": 6920,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7400,
+                "start_time": 7200,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7400,
+                "text": "到"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

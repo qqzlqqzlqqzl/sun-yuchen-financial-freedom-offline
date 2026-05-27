@@ -1,0 +1,222 @@
+{
+  "item": {
+    "index": 19,
+    "audio_id": "wavlake-mp3__080__63763504",
+    "episode": "080",
+    "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "line_no": 56,
+    "segment_start": 667.68,
+    "segment_end": 667.7,
+    "snippet_start": 666.4799999999999,
+    "snippet_end": 668.9000000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+    "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0019__wavlake-mp3__080__63763504__line0056.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "db2113e1-741c-4860-b78a-e990889f0292",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120243FF47AD0F7D78B990B156",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120244D366B967C92597044108",
+        "response": {
+          "audio_info": {
+            "duration": 2420
+          },
+          "result": {
+            "additions": {
+              "duration": "2420"
+            },
+            "text": "我在这个书里面写了，90后啊。",
+            "utterances": [
+              {
+                "end_time": 1960,
+                "start_time": 0,
+                "text": "我在这个书里面写了，90后啊。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 0,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 160,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 280,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 480,
+                    "start_time": 360,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 480,
+                    "text": "书"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 640,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 760,
+                    "text": "面"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 880,
+                    "text": "写"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1080,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1640,
+                    "start_time": 1280,
+                    "text": "90"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1640,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1840,
+                    "text": "啊"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2420
+      },
+      "result": {
+        "additions": {
+          "duration": "2420"
+        },
+        "text": "我在这个书里面写了，90后啊。",
+        "utterances": [
+          {
+            "end_time": 1960,
+            "start_time": 0,
+            "text": "我在这个书里面写了，90后啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 0,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 280,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 480,
+                "text": "书"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 640,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 760,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 880,
+                "text": "写"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1080,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1280,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1640,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1840,
+                "text": "啊"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

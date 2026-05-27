@@ -1,0 +1,1600 @@
+{
+  "item": {
+    "index": 1,
+    "audio_id": "wavlake-mp3__120__34108871",
+    "episode": "120",
+    "title": "【家人边界】新道德破解旧问题",
+    "line_no": 2,
+    "segment_start": 30.0,
+    "segment_end": 59.98,
+    "snippet_start": 28.8,
+    "snippet_end": 61.18,
+    "flags": [
+      "repeated_phrase_loop_extra"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+    "audio_path": "wavlake-mp3/120 - 120 - 121 孙宇晨：【家人边界】新道德破解旧问题.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-extra/snippets/0001__wavlake-mp3__120__34108871__line0002.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "519229ee-4599-40e9-9ce2-8290797c9e1e",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271148558210D2751CCE8993CD03",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527114857E08BB04DBFA03432C60D",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271148596BC982986060B75920FD",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "一个人的考试成绩，人生都是自己的考试成绩和人生，而不是他人人生的附庸。高考成绩考得差还是好，影响的是你自己。首先一，跟我父母的人生没有任何关系。大家注意，这是一个本质出发的前提条件。就像我，孙宇晨已经考上北大，宾大，都是常春藤的名校。按照传统的观念，我儿子是不是至少得",
+            "utterances": [
+              {
+                "end_time": 10590,
+                "start_time": 750,
+                "text": "一个人的考试成绩，人生都是自己的考试成绩和人生，而不是他人人生的附庸。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 990,
+                    "start_time": 750,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1150,
+                    "start_time": 990,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1350,
+                    "start_time": 1150,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1670,
+                    "start_time": 1350,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2270,
+                    "start_time": 1990,
+                    "text": "考"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2430,
+                    "start_time": 2270,
+                    "text": "试"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2670,
+                    "start_time": 2430,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2830,
+                    "start_time": 2670,
+                    "text": "绩"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3350,
+                    "start_time": 3070,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3710,
+                    "start_time": 3350,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4870,
+                    "start_time": 4550,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5070,
+                    "start_time": 4870,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5230,
+                    "start_time": 5070,
+                    "text": "自"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5390,
+                    "start_time": 5230,
+                    "text": "己"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5550,
+                    "start_time": 5390,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5710,
+                    "start_time": 5550,
+                    "text": "考"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5830,
+                    "start_time": 5710,
+                    "text": "试"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6030,
+                    "start_time": 5870,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6110,
+                    "start_time": 6030,
+                    "text": "绩"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6350,
+                    "start_time": 6150,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6510,
+                    "start_time": 6350,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6750,
+                    "start_time": 6510,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7830,
+                    "start_time": 7350,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8550,
+                    "start_time": 8230,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8830,
+                    "start_time": 8550,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9230,
+                    "start_time": 8910,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9590,
+                    "start_time": 9230,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9950,
+                    "start_time": 9710,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10110,
+                    "start_time": 9950,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10270,
+                    "start_time": 10110,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10390,
+                    "start_time": 10350,
+                    "text": "附"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10590,
+                    "start_time": 10550,
+                    "text": "庸"
+                  }
+                ]
+              },
+              {
+                "end_time": 15550,
+                "start_time": 11790,
+                "text": "高考成绩考得差还是好，影响的是你自己。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 11950,
+                    "start_time": 11790,
+                    "text": "高"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12150,
+                    "start_time": 11950,
+                    "text": "考"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12270,
+                    "start_time": 12150,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12390,
+                    "start_time": 12270,
+                    "text": "绩"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12550,
+                    "start_time": 12390,
+                    "text": "考"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12670,
+                    "start_time": 12550,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12950,
+                    "start_time": 12670,
+                    "text": "差"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13270,
+                    "start_time": 13030,
+                    "text": "还"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13430,
+                    "start_time": 13270,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13750,
+                    "start_time": 13430,
+                    "text": "好"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14430,
+                    "start_time": 14190,
+                    "text": "影"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14630,
+                    "start_time": 14430,
+                    "text": "响"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14790,
+                    "start_time": 14630,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14990,
+                    "start_time": 14790,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15150,
+                    "start_time": 14990,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15350,
+                    "start_time": 15150,
+                    "text": "自"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15550,
+                    "start_time": 15350,
+                    "text": "己"
+                  }
+                ]
+              },
+              {
+                "end_time": 19670,
+                "start_time": 16070,
+                "text": "首先一，跟我父母的人生没有任何关系。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 16310,
+                    "start_time": 16070,
+                    "text": "首"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16470,
+                    "start_time": 16310,
+                    "text": "先"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16830,
+                    "start_time": 16470,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17310,
+                    "start_time": 17030,
+                    "text": "跟"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17550,
+                    "start_time": 17310,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17710,
+                    "start_time": 17550,
+                    "text": "父"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17830,
+                    "start_time": 17710,
+                    "text": "母"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18030,
+                    "start_time": 17830,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18190,
+                    "start_time": 18030,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18430,
+                    "start_time": 18190,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18790,
+                    "start_time": 18550,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18950,
+                    "start_time": 18790,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19070,
+                    "start_time": 18950,
+                    "text": "任"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19190,
+                    "start_time": 19070,
+                    "text": "何"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19470,
+                    "start_time": 19190,
+                    "text": "关"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19670,
+                    "start_time": 19470,
+                    "text": "系"
+                  }
+                ]
+              },
+              {
+                "end_time": 23670,
+                "start_time": 20150,
+                "text": "大家注意，这是一个本质出发的前提条件。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 20390,
+                    "start_time": 20150,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20550,
+                    "start_time": 20390,
+                    "text": "家"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20710,
+                    "start_time": 20550,
+                    "text": "注"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20830,
+                    "start_time": 20710,
+                    "text": "意"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20990,
+                    "start_time": 20830,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21150,
+                    "start_time": 20990,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21270,
+                    "start_time": 21150,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21510,
+                    "start_time": 21270,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22110,
+                    "start_time": 21750,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22270,
+                    "start_time": 22110,
+                    "text": "质"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22550,
+                    "start_time": 22510,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22750,
+                    "start_time": 22710,
+                    "text": "发"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22990,
+                    "start_time": 22790,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23190,
+                    "start_time": 22990,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23310,
+                    "start_time": 23190,
+                    "text": "提"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23550,
+                    "start_time": 23350,
+                    "text": "条"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23670,
+                    "start_time": 23550,
+                    "text": "件"
+                  }
+                ]
+              },
+              {
+                "end_time": 29400,
+                "start_time": 24720,
+                "text": "就像我，孙宇晨已经考上北大，宾大，都是常春藤的名校。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 24920,
+                    "start_time": 24720,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25120,
+                    "start_time": 24920,
+                    "text": "像"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25440,
+                    "start_time": 25120,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26080,
+                    "start_time": 25920,
+                    "text": "孙"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26200,
+                    "start_time": 26160,
+                    "text": "宇"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26400,
+                    "start_time": 26360,
+                    "text": "晨"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26640,
+                    "start_time": 26520,
+                    "text": "已"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26760,
+                    "start_time": 26640,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26960,
+                    "start_time": 26760,
+                    "text": "考"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27160,
+                    "start_time": 26960,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27440,
+                    "start_time": 27240,
+                    "text": "北"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27600,
+                    "start_time": 27440,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27800,
+                    "start_time": 27760,
+                    "text": "宾"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28080,
+                    "start_time": 27880,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28240,
+                    "start_time": 28080,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28320,
+                    "start_time": 28240,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28480,
+                    "start_time": 28360,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28640,
+                    "start_time": 28480,
+                    "text": "春"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28800,
+                    "start_time": 28760,
+                    "text": "藤"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29000,
+                    "start_time": 28840,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29160,
+                    "start_time": 29000,
+                    "text": "名"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29400,
+                    "start_time": 29160,
+                    "text": "校"
+                  }
+                ]
+              },
+              {
+                "end_time": 32320,
+                "start_time": 29960,
+                "text": "按照传统的观念，我儿子是不是至少得",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 30160,
+                    "start_time": 29960,
+                    "text": "按"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30320,
+                    "start_time": 30160,
+                    "text": "照"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30560,
+                    "start_time": 30320,
+                    "text": "传"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30680,
+                    "start_time": 30560,
+                    "text": "统"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30880,
+                    "start_time": 30680,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31040,
+                    "start_time": 30880,
+                    "text": "观"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31160,
+                    "start_time": 31040,
+                    "text": "念"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31480,
+                    "start_time": 31240,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31600,
+                    "start_time": 31480,
+                    "text": "儿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31720,
+                    "start_time": 31600,
+                    "text": "子"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31840,
+                    "start_time": 31720,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31920,
+                    "start_time": 31840,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32000,
+                    "start_time": 31920,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32120,
+                    "start_time": 32000,
+                    "text": "至"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32200,
+                    "start_time": 32120,
+                    "text": "少"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32320,
+                    "start_time": 32240,
+                    "text": "得"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "一个人的考试成绩，人生都是自己的考试成绩和人生，而不是他人人生的附庸。高考成绩考得差还是好，影响的是你自己。首先一，跟我父母的人生没有任何关系。大家注意，这是一个本质出发的前提条件。就像我，孙宇晨已经考上北大，宾大，都是常春藤的名校。按照传统的观念，我儿子是不是至少得",
+        "utterances": [
+          {
+            "end_time": 10590,
+            "start_time": 750,
+            "text": "一个人的考试成绩，人生都是自己的考试成绩和人生，而不是他人人生的附庸。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 990,
+                "start_time": 750,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1150,
+                "start_time": 990,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1350,
+                "start_time": 1150,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1670,
+                "start_time": 1350,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2270,
+                "start_time": 1990,
+                "text": "考"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2430,
+                "start_time": 2270,
+                "text": "试"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2670,
+                "start_time": 2430,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2830,
+                "start_time": 2670,
+                "text": "绩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3350,
+                "start_time": 3070,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3710,
+                "start_time": 3350,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4870,
+                "start_time": 4550,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5070,
+                "start_time": 4870,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5230,
+                "start_time": 5070,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5390,
+                "start_time": 5230,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5550,
+                "start_time": 5390,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5710,
+                "start_time": 5550,
+                "text": "考"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5830,
+                "start_time": 5710,
+                "text": "试"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6030,
+                "start_time": 5870,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6110,
+                "start_time": 6030,
+                "text": "绩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6350,
+                "start_time": 6150,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6510,
+                "start_time": 6350,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6750,
+                "start_time": 6510,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7830,
+                "start_time": 7350,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8550,
+                "start_time": 8230,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8830,
+                "start_time": 8550,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9230,
+                "start_time": 8910,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9590,
+                "start_time": 9230,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9950,
+                "start_time": 9710,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10110,
+                "start_time": 9950,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10270,
+                "start_time": 10110,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10390,
+                "start_time": 10350,
+                "text": "附"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10590,
+                "start_time": 10550,
+                "text": "庸"
+              }
+            ]
+          },
+          {
+            "end_time": 15550,
+            "start_time": 11790,
+            "text": "高考成绩考得差还是好，影响的是你自己。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11950,
+                "start_time": 11790,
+                "text": "高"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12150,
+                "start_time": 11950,
+                "text": "考"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12270,
+                "start_time": 12150,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12390,
+                "start_time": 12270,
+                "text": "绩"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12550,
+                "start_time": 12390,
+                "text": "考"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12670,
+                "start_time": 12550,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12950,
+                "start_time": 12670,
+                "text": "差"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13270,
+                "start_time": 13030,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13430,
+                "start_time": 13270,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13750,
+                "start_time": 13430,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14430,
+                "start_time": 14190,
+                "text": "影"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14630,
+                "start_time": 14430,
+                "text": "响"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14790,
+                "start_time": 14630,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14990,
+                "start_time": 14790,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15150,
+                "start_time": 14990,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15350,
+                "start_time": 15150,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15550,
+                "start_time": 15350,
+                "text": "己"
+              }
+            ]
+          },
+          {
+            "end_time": 19670,
+            "start_time": 16070,
+            "text": "首先一，跟我父母的人生没有任何关系。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 16310,
+                "start_time": 16070,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16470,
+                "start_time": 16310,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16830,
+                "start_time": 16470,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17310,
+                "start_time": 17030,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17550,
+                "start_time": 17310,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17710,
+                "start_time": 17550,
+                "text": "父"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17830,
+                "start_time": 17710,
+                "text": "母"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18030,
+                "start_time": 17830,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18190,
+                "start_time": 18030,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18430,
+                "start_time": 18190,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18790,
+                "start_time": 18550,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18950,
+                "start_time": 18790,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19070,
+                "start_time": 18950,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19190,
+                "start_time": 19070,
+                "text": "何"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19470,
+                "start_time": 19190,
+                "text": "关"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19670,
+                "start_time": 19470,
+                "text": "系"
+              }
+            ]
+          },
+          {
+            "end_time": 23670,
+            "start_time": 20150,
+            "text": "大家注意，这是一个本质出发的前提条件。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 20390,
+                "start_time": 20150,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20550,
+                "start_time": 20390,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20710,
+                "start_time": 20550,
+                "text": "注"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20830,
+                "start_time": 20710,
+                "text": "意"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20990,
+                "start_time": 20830,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21150,
+                "start_time": 20990,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21270,
+                "start_time": 21150,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21510,
+                "start_time": 21270,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22110,
+                "start_time": 21750,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22270,
+                "start_time": 22110,
+                "text": "质"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22550,
+                "start_time": 22510,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22750,
+                "start_time": 22710,
+                "text": "发"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22990,
+                "start_time": 22790,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23190,
+                "start_time": 22990,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23310,
+                "start_time": 23190,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23550,
+                "start_time": 23350,
+                "text": "条"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23670,
+                "start_time": 23550,
+                "text": "件"
+              }
+            ]
+          },
+          {
+            "end_time": 29400,
+            "start_time": 24720,
+            "text": "就像我，孙宇晨已经考上北大，宾大，都是常春藤的名校。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24920,
+                "start_time": 24720,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25120,
+                "start_time": 24920,
+                "text": "像"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25440,
+                "start_time": 25120,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26080,
+                "start_time": 25920,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26200,
+                "start_time": 26160,
+                "text": "宇"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26400,
+                "start_time": 26360,
+                "text": "晨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26640,
+                "start_time": 26520,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26760,
+                "start_time": 26640,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26960,
+                "start_time": 26760,
+                "text": "考"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27160,
+                "start_time": 26960,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27440,
+                "start_time": 27240,
+                "text": "北"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27600,
+                "start_time": 27440,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27800,
+                "start_time": 27760,
+                "text": "宾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28080,
+                "start_time": 27880,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28240,
+                "start_time": 28080,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28320,
+                "start_time": 28240,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28480,
+                "start_time": 28360,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28640,
+                "start_time": 28480,
+                "text": "春"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28800,
+                "start_time": 28760,
+                "text": "藤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29000,
+                "start_time": 28840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29160,
+                "start_time": 29000,
+                "text": "名"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29400,
+                "start_time": 29160,
+                "text": "校"
+              }
+            ]
+          },
+          {
+            "end_time": 32320,
+            "start_time": 29960,
+            "text": "按照传统的观念，我儿子是不是至少得",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 30160,
+                "start_time": 29960,
+                "text": "按"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30320,
+                "start_time": 30160,
+                "text": "照"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30560,
+                "start_time": 30320,
+                "text": "传"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30680,
+                "start_time": 30560,
+                "text": "统"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30880,
+                "start_time": 30680,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31040,
+                "start_time": 30880,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31160,
+                "start_time": 31040,
+                "text": "念"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31480,
+                "start_time": 31240,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31600,
+                "start_time": 31480,
+                "text": "儿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31720,
+                "start_time": 31600,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31840,
+                "start_time": 31720,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31920,
+                "start_time": 31840,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32000,
+                "start_time": 31920,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32120,
+                "start_time": 32000,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32200,
+                "start_time": 32120,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32320,
+                "start_time": 32240,
+                "text": "得"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

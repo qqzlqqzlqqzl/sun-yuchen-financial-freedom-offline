@@ -1,0 +1,2030 @@
+{
+  "item": {
+    "index": 35,
+    "audio_id": "wavlake-mp3__081__b0c91068",
+    "episode": "081",
+    "title": "081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "line_no": 39,
+    "segment_start": 898.86,
+    "segment_end": 928.84,
+    "snippet_start": 897.66,
+    "snippet_end": 930.0400000000001,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "那也不行,就是可能要尽量与学识的力量打入学识的力量,",
+    "audio_path": "wavlake-mp3/081 - 081 - 081 孙宇晨：【番外】相信选择的力量.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0035__wavlake-mp3__081__b0c91068__line0039.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "c72f52d7-ea4a-4860-901a-18110f7b7ce9",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120251464CC1997122F35A9263",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712032390A84B9EB2A58FB29770",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120324A265477464159030B1AE",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "对，有一个，任何一个行业，如果中国成为这个行业的领军企业，那这个行业所有产生的中产阶级瞬间被摧毁，是吧？因为我们中国当然对消费者是好好事，消费者可以马上使用到最廉价、最够用的产品。比如说一个以前一个纽扣，啊，要让日本人、德国人做，那纽扣很贵啊，因为很讲品质，中国人够系就行了嘛，对吧？啊，然后但是我的售价会大幅降低。所以中国和美国都是一个特别擅长做这种。",
+            "utterances": [
+              {
+                "end_time": 10480,
+                "start_time": 560,
+                "text": "对，有一个，任何一个行业，如果中国成为这个行业的领军企业，那这个行业所有产生的中产阶级瞬间被摧毁，是吧？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 560,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1320,
+                    "start_time": 960,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1320,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1520,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2160,
+                    "start_time": 1960,
+                    "text": "任"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2160,
+                    "text": "何"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2280,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2560,
+                    "start_time": 2440,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2560,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2680,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3040,
+                    "start_time": 2880,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3240,
+                    "start_time": 3040,
+                    "text": "果"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3560,
+                    "start_time": 3240,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3840,
+                    "start_time": 3560,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4280,
+                    "start_time": 4040,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4440,
+                    "start_time": 4280,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4440,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4720,
+                    "start_time": 4600,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4720,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5040,
+                    "start_time": 4880,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5160,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5720,
+                    "start_time": 5480,
+                    "text": "领"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5960,
+                    "start_time": 5720,
+                    "text": "军"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6240,
+                    "start_time": 6000,
+                    "text": "企"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6400,
+                    "start_time": 6240,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7000,
+                    "start_time": 6720,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7160,
+                    "start_time": 7000,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7320,
+                    "start_time": 7160,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7480,
+                    "start_time": 7320,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7640,
+                    "start_time": 7480,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7880,
+                    "start_time": 7680,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8040,
+                    "start_time": 7880,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8200,
+                    "start_time": 8040,
+                    "text": "产"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8280,
+                    "start_time": 8200,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8440,
+                    "start_time": 8280,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8560,
+                    "start_time": 8440,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8720,
+                    "start_time": 8560,
+                    "text": "产"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8880,
+                    "start_time": 8760,
+                    "text": "阶"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9000,
+                    "start_time": 8880,
+                    "text": "级"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9320,
+                    "start_time": 9120,
+                    "text": "瞬"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9440,
+                    "start_time": 9320,
+                    "text": "间"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9680,
+                    "start_time": 9440,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9680,
+                    "text": "摧"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10040,
+                    "start_time": 9840,
+                    "text": "毁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10280,
+                    "start_time": 10120,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10480,
+                    "start_time": 10280,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 17280,
+                "start_time": 10760,
+                "text": "因为我们中国当然对消费者是好好事，消费者可以马上使用到最廉价、最够用的产品。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 10960,
+                    "start_time": 10760,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11080,
+                    "start_time": 10960,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11240,
+                    "start_time": 11080,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11360,
+                    "start_time": 11240,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11520,
+                    "start_time": 11360,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11720,
+                    "start_time": 11520,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12000,
+                    "start_time": 11840,
+                    "text": "当"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12120,
+                    "start_time": 12000,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12320,
+                    "start_time": 12120,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12440,
+                    "start_time": 12320,
+                    "text": "消"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12560,
+                    "start_time": 12440,
+                    "text": "费"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12720,
+                    "start_time": 12560,
+                    "text": "者"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12880,
+                    "start_time": 12720,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13080,
+                    "start_time": 12880,
+                    "text": "好"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13360,
+                    "start_time": 13120,
+                    "text": "好"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13560,
+                    "start_time": 13360,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13880,
+                    "start_time": 13680,
+                    "text": "消"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14000,
+                    "start_time": 13880,
+                    "text": "费"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14160,
+                    "start_time": 14000,
+                    "text": "者"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14320,
+                    "start_time": 14160,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14520,
+                    "start_time": 14320,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14920,
+                    "start_time": 14720,
+                    "text": "马"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15120,
+                    "start_time": 14920,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15280,
+                    "start_time": 15120,
+                    "text": "使"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15400,
+                    "start_time": 15280,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15640,
+                    "start_time": 15400,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15840,
+                    "start_time": 15640,
+                    "text": "最"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16080,
+                    "start_time": 15920,
+                    "text": "廉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16280,
+                    "start_time": 16080,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16520,
+                    "start_time": 16320,
+                    "text": "最"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16720,
+                    "start_time": 16520,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16840,
+                    "start_time": 16720,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17000,
+                    "start_time": 16840,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17160,
+                    "start_time": 17000,
+                    "text": "产"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17280,
+                    "start_time": 17160,
+                    "text": "品"
+                  }
+                ]
+              },
+              {
+                "end_time": 24400,
+                "start_time": 17320,
+                "text": "比如说一个以前一个纽扣，啊，要让日本人、德国人做，那纽扣很贵啊，因为很讲品质，中国人够系就行了嘛，对吧？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 17480,
+                    "start_time": 17320,
+                    "text": "比"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17560,
+                    "start_time": 17480,
+                    "text": "如"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17680,
+                    "start_time": 17560,
+                    "text": "说"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17840,
+                    "start_time": 17680,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17960,
+                    "start_time": 17840,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18120,
+                    "start_time": 18000,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18280,
+                    "start_time": 18120,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18400,
+                    "start_time": 18280,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18520,
+                    "start_time": 18400,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18680,
+                    "start_time": 18520,
+                    "text": "纽"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18880,
+                    "start_time": 18720,
+                    "text": "扣"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19560,
+                    "start_time": 19400,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19720,
+                    "start_time": 19560,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19920,
+                    "start_time": 19720,
+                    "text": "让"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20000,
+                    "start_time": 19920,
+                    "text": "日"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20080,
+                    "start_time": 20000,
+                    "text": "本"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20160,
+                    "start_time": 20080,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20320,
+                    "start_time": 20200,
+                    "text": "德"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20400,
+                    "start_time": 20320,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20520,
+                    "start_time": 20400,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20600,
+                    "start_time": 20520,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20760,
+                    "start_time": 20720,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20960,
+                    "start_time": 20840,
+                    "text": "纽"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21080,
+                    "start_time": 20960,
+                    "text": "扣"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21280,
+                    "start_time": 21120,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21440,
+                    "start_time": 21280,
+                    "text": "贵"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21600,
+                    "start_time": 21480,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21720,
+                    "start_time": 21640,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21840,
+                    "start_time": 21720,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22000,
+                    "start_time": 21840,
+                    "text": "很"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22200,
+                    "start_time": 22000,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22400,
+                    "start_time": 22200,
+                    "text": "品"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22520,
+                    "start_time": 22400,
+                    "text": "质"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22760,
+                    "start_time": 22640,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22840,
+                    "start_time": 22760,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23000,
+                    "start_time": 22840,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23240,
+                    "start_time": 23040,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23440,
+                    "start_time": 23400,
+                    "text": "系"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23640,
+                    "start_time": 23520,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23760,
+                    "start_time": 23640,
+                    "text": "行"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23880,
+                    "start_time": 23760,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24000,
+                    "start_time": 23880,
+                    "text": "嘛"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24280,
+                    "start_time": 24120,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24400,
+                    "start_time": 24280,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 27710,
+                "start_time": 24750,
+                "text": "啊，然后但是我的售价会大幅降低。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 24870,
+                    "start_time": 24750,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25230,
+                    "start_time": 25070,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25350,
+                    "start_time": 25230,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25510,
+                    "start_time": 25350,
+                    "text": "但"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25630,
+                    "start_time": 25510,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25790,
+                    "start_time": 25630,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25990,
+                    "start_time": 25790,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26470,
+                    "start_time": 26190,
+                    "text": "售"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26670,
+                    "start_time": 26470,
+                    "text": "价"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26870,
+                    "start_time": 26670,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27070,
+                    "start_time": 26870,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27230,
+                    "start_time": 27070,
+                    "text": "幅"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27510,
+                    "start_time": 27270,
+                    "text": "降"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27710,
+                    "start_time": 27510,
+                    "text": "低"
+                  }
+                ]
+              },
+              {
+                "end_time": 31590,
+                "start_time": 28110,
+                "text": "所以中国和美国都是一个特别擅长做这种。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 28270,
+                    "start_time": 28110,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28430,
+                    "start_time": 28270,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28630,
+                    "start_time": 28430,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28750,
+                    "start_time": 28630,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28990,
+                    "start_time": 28750,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29190,
+                    "start_time": 28990,
+                    "text": "美"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29350,
+                    "start_time": 29190,
+                    "text": "国"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29510,
+                    "start_time": 29350,
+                    "text": "都"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29670,
+                    "start_time": 29510,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29790,
+                    "start_time": 29670,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29990,
+                    "start_time": 29790,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30310,
+                    "start_time": 30110,
+                    "text": "特"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30470,
+                    "start_time": 30310,
+                    "text": "别"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30790,
+                    "start_time": 30510,
+                    "text": "擅"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30910,
+                    "start_time": 30790,
+                    "text": "长"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31150,
+                    "start_time": 30950,
+                    "text": "做"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31350,
+                    "start_time": 31230,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31590,
+                    "start_time": 31510,
+                    "text": "种"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "对，有一个，任何一个行业，如果中国成为这个行业的领军企业，那这个行业所有产生的中产阶级瞬间被摧毁，是吧？因为我们中国当然对消费者是好好事，消费者可以马上使用到最廉价、最够用的产品。比如说一个以前一个纽扣，啊，要让日本人、德国人做，那纽扣很贵啊，因为很讲品质，中国人够系就行了嘛，对吧？啊，然后但是我的售价会大幅降低。所以中国和美国都是一个特别擅长做这种。",
+        "utterances": [
+          {
+            "end_time": 10480,
+            "start_time": 560,
+            "text": "对，有一个，任何一个行业，如果中国成为这个行业的领军企业，那这个行业所有产生的中产阶级瞬间被摧毁，是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 560,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 960,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1320,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1520,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 1960,
+                "text": "任"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2160,
+                "text": "何"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2280,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2560,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2680,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2880,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3040,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3240,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3560,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4040,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4280,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4440,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4720,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4880,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5160,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5480,
+                "text": "领"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5720,
+                "text": "军"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6240,
+                "start_time": 6000,
+                "text": "企"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6240,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6720,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7000,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7320,
+                "start_time": 7160,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7320,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 7480,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7680,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8040,
+                "start_time": 7880,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8200,
+                "start_time": 8040,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8200,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8440,
+                "start_time": 8280,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8440,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8560,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8760,
+                "text": "阶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8880,
+                "text": "级"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9120,
+                "text": "瞬"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9440,
+                "start_time": 9320,
+                "text": "间"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9680,
+                "start_time": 9440,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9680,
+                "text": "摧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9840,
+                "text": "毁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10280,
+                "start_time": 10120,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10480,
+                "start_time": 10280,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 17280,
+            "start_time": 10760,
+            "text": "因为我们中国当然对消费者是好好事，消费者可以马上使用到最廉价、最够用的产品。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10760,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11080,
+                "start_time": 10960,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11240,
+                "start_time": 11080,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11360,
+                "start_time": 11240,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11520,
+                "start_time": 11360,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11720,
+                "start_time": 11520,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12000,
+                "start_time": 11840,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12120,
+                "start_time": 12000,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12320,
+                "start_time": 12120,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12440,
+                "start_time": 12320,
+                "text": "消"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12560,
+                "start_time": 12440,
+                "text": "费"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12720,
+                "start_time": 12560,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12880,
+                "start_time": 12720,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13080,
+                "start_time": 12880,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13360,
+                "start_time": 13120,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13560,
+                "start_time": 13360,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13880,
+                "start_time": 13680,
+                "text": "消"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14000,
+                "start_time": 13880,
+                "text": "费"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14160,
+                "start_time": 14000,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14320,
+                "start_time": 14160,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14520,
+                "start_time": 14320,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14920,
+                "start_time": 14720,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15120,
+                "start_time": 14920,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15280,
+                "start_time": 15120,
+                "text": "使"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15400,
+                "start_time": 15280,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15640,
+                "start_time": 15400,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15840,
+                "start_time": 15640,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16080,
+                "start_time": 15920,
+                "text": "廉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16280,
+                "start_time": 16080,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16520,
+                "start_time": 16320,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16720,
+                "start_time": 16520,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16840,
+                "start_time": 16720,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17000,
+                "start_time": 16840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17160,
+                "start_time": 17000,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17280,
+                "start_time": 17160,
+                "text": "品"
+              }
+            ]
+          },
+          {
+            "end_time": 24400,
+            "start_time": 17320,
+            "text": "比如说一个以前一个纽扣，啊，要让日本人、德国人做，那纽扣很贵啊，因为很讲品质，中国人够系就行了嘛，对吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17480,
+                "start_time": 17320,
+                "text": "比"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17560,
+                "start_time": 17480,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17680,
+                "start_time": 17560,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17840,
+                "start_time": 17680,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17960,
+                "start_time": 17840,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18120,
+                "start_time": 18000,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18280,
+                "start_time": 18120,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18400,
+                "start_time": 18280,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18520,
+                "start_time": 18400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18680,
+                "start_time": 18520,
+                "text": "纽"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18880,
+                "start_time": 18720,
+                "text": "扣"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19560,
+                "start_time": 19400,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19720,
+                "start_time": 19560,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19920,
+                "start_time": 19720,
+                "text": "让"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20000,
+                "start_time": 19920,
+                "text": "日"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20080,
+                "start_time": 20000,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20160,
+                "start_time": 20080,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20320,
+                "start_time": 20200,
+                "text": "德"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20400,
+                "start_time": 20320,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20520,
+                "start_time": 20400,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20600,
+                "start_time": 20520,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20760,
+                "start_time": 20720,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20960,
+                "start_time": 20840,
+                "text": "纽"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21080,
+                "start_time": 20960,
+                "text": "扣"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21280,
+                "start_time": 21120,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21440,
+                "start_time": 21280,
+                "text": "贵"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21600,
+                "start_time": 21480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21720,
+                "start_time": 21640,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21840,
+                "start_time": 21720,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22000,
+                "start_time": 21840,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22200,
+                "start_time": 22000,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22400,
+                "start_time": 22200,
+                "text": "品"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22520,
+                "start_time": 22400,
+                "text": "质"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22760,
+                "start_time": 22640,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22840,
+                "start_time": 22760,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23000,
+                "start_time": 22840,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23240,
+                "start_time": 23040,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23440,
+                "start_time": 23400,
+                "text": "系"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23640,
+                "start_time": 23520,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23760,
+                "start_time": 23640,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23880,
+                "start_time": 23760,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24000,
+                "start_time": 23880,
+                "text": "嘛"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24280,
+                "start_time": 24120,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24400,
+                "start_time": 24280,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 27710,
+            "start_time": 24750,
+            "text": "啊，然后但是我的售价会大幅降低。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24870,
+                "start_time": 24750,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25230,
+                "start_time": 25070,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25350,
+                "start_time": 25230,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25510,
+                "start_time": 25350,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25630,
+                "start_time": 25510,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25790,
+                "start_time": 25630,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25990,
+                "start_time": 25790,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26470,
+                "start_time": 26190,
+                "text": "售"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26670,
+                "start_time": 26470,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26870,
+                "start_time": 26670,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27070,
+                "start_time": 26870,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27230,
+                "start_time": 27070,
+                "text": "幅"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27510,
+                "start_time": 27270,
+                "text": "降"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27710,
+                "start_time": 27510,
+                "text": "低"
+              }
+            ]
+          },
+          {
+            "end_time": 31590,
+            "start_time": 28110,
+            "text": "所以中国和美国都是一个特别擅长做这种。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28270,
+                "start_time": 28110,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28430,
+                "start_time": 28270,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28630,
+                "start_time": 28430,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28750,
+                "start_time": 28630,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28990,
+                "start_time": 28750,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29190,
+                "start_time": 28990,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29350,
+                "start_time": 29190,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29510,
+                "start_time": 29350,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29670,
+                "start_time": 29510,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29790,
+                "start_time": 29670,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29990,
+                "start_time": 29790,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30310,
+                "start_time": 30110,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30470,
+                "start_time": 30310,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30790,
+                "start_time": 30510,
+                "text": "擅"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30910,
+                "start_time": 30790,
+                "text": "长"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31150,
+                "start_time": 30950,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31350,
+                "start_time": 31230,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31590,
+                "start_time": 31510,
+                "text": "种"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

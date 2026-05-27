@@ -1,0 +1,1912 @@
+{
+  "item": {
+    "index": 65,
+    "audio_id": "wavlake-mp3__102__9360cb03",
+    "episode": "102",
+    "title": "102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "line_no": 20,
+    "segment_start": 284.76,
+    "segment_end": 314.74,
+    "snippet_start": 283.56,
+    "snippet_end": 315.94,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而我们可以看到,比特币是由一个叫钟本聪的极端不靠谱的人创立的,但并不影响比特币今天在社会上受到如此之大影响。",
+    "audio_path": "wavlake-mp3/102 - 102 - 103 孙宇晨：【比特币】与传统货币、其他虚拟币的比较.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0065__wavlake-mp3__102__9360cb03__line0020.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "b76c2ea1-d473-4305-bee5-91ac28b621fe",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120325906A9F064BB9D85B1115",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120325E0AAAF3CB11055DC4080",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120327428490C32298820694EA",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "一个非常朴素的市盈率的标准，就是你们公司的盈利乘上一个市盈率就是你们公司的估值。而一个新生事物刚诞生的时候，由于它也不盈利。他未来的经济模式，商业模式也不明确。这时候往往估值是最高的，因为他使用的估值我们经常讲笑话叫市梦率。这时候就是，他人有多大胆，地有多大产，是吧？这个新生事物能被解释成多少，啊，我们就觉得它值多少钱。",
+            "utterances": [
+              {
+                "end_time": 7360,
+                "start_time": 120,
+                "text": "一个非常朴素的市盈率的标准，就是你们公司的盈利乘上一个市盈率就是你们公司的估值。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 120,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 280,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 880,
+                    "start_time": 680,
+                    "text": "非"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1040,
+                    "start_time": 880,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1320,
+                    "start_time": 1120,
+                    "text": "朴"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1520,
+                    "start_time": 1440,
+                    "text": "素"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1600,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1960,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2160,
+                    "text": "盈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2320,
+                    "text": "率"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2680,
+                    "start_time": 2480,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2680,
+                    "text": "标"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2960,
+                    "start_time": 2840,
+                    "text": "准"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3160,
+                    "start_time": 3000,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3280,
+                    "start_time": 3160,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3400,
+                    "start_time": 3280,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3400,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3640,
+                    "start_time": 3520,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3640,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3920,
+                    "start_time": 3720,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4120,
+                    "start_time": 3920,
+                    "text": "盈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4120,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5040,
+                    "start_time": 4760,
+                    "text": "乘"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5320,
+                    "start_time": 5040,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5480,
+                    "start_time": 5320,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5640,
+                    "start_time": 5480,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5720,
+                    "start_time": 5640,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5880,
+                    "start_time": 5800,
+                    "text": "盈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6080,
+                    "start_time": 5920,
+                    "text": "率"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6240,
+                    "start_time": 6080,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6320,
+                    "start_time": 6240,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6440,
+                    "start_time": 6320,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6560,
+                    "start_time": 6440,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6560,
+                    "text": "公"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6760,
+                    "start_time": 6680,
+                    "text": "司"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6960,
+                    "start_time": 6760,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7120,
+                    "start_time": 6960,
+                    "text": "估"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7360,
+                    "start_time": 7120,
+                    "text": "值"
+                  }
+                ]
+              },
+              {
+                "end_time": 12040,
+                "start_time": 8040,
+                "text": "而一个新生事物刚诞生的时候，由于它也不盈利。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8440,
+                    "start_time": 8040,
+                    "text": "而"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9280,
+                    "start_time": 9040,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9400,
+                    "start_time": 9280,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9600,
+                    "start_time": 9400,
+                    "text": "新"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9720,
+                    "start_time": 9600,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10000,
+                    "start_time": 9880,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10080,
+                    "start_time": 10000,
+                    "text": "物"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10400,
+                    "start_time": 10200,
+                    "text": "刚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10560,
+                    "start_time": 10400,
+                    "text": "诞"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10680,
+                    "start_time": 10560,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10800,
+                    "start_time": 10680,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10880,
+                    "start_time": 10800,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10960,
+                    "start_time": 10880,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11120,
+                    "start_time": 10960,
+                    "text": "由"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11200,
+                    "start_time": 11120,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11320,
+                    "start_time": 11280,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11520,
+                    "start_time": 11360,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11720,
+                    "start_time": 11520,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11880,
+                    "start_time": 11720,
+                    "text": "盈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12040,
+                    "start_time": 11880,
+                    "text": "利"
+                  }
+                ]
+              },
+              {
+                "end_time": 16430,
+                "start_time": 12670,
+                "text": "他未来的经济模式，商业模式也不明确。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 12750,
+                    "start_time": 12670,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13030,
+                    "start_time": 12830,
+                    "text": "未"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13190,
+                    "start_time": 13030,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13350,
+                    "start_time": 13190,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13550,
+                    "start_time": 13350,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13710,
+                    "start_time": 13550,
+                    "text": "济"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13950,
+                    "start_time": 13750,
+                    "text": "模"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14110,
+                    "start_time": 13950,
+                    "text": "式"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14470,
+                    "start_time": 14230,
+                    "text": "商"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14670,
+                    "start_time": 14470,
+                    "text": "业"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14910,
+                    "start_time": 14670,
+                    "text": "模"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15110,
+                    "start_time": 14910,
+                    "text": "式"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15710,
+                    "start_time": 15470,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15910,
+                    "start_time": 15710,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16190,
+                    "start_time": 15910,
+                    "text": "明"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16430,
+                    "start_time": 16190,
+                    "text": "确"
+                  }
+                ]
+              },
+              {
+                "end_time": 22670,
+                "start_time": 16870,
+                "text": "这时候往往估值是最高的，因为他使用的估值我们经常讲笑话叫市梦率。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 17150,
+                    "start_time": 16870,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17310,
+                    "start_time": 17150,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17470,
+                    "start_time": 17310,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17590,
+                    "start_time": 17470,
+                    "text": "往"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17750,
+                    "start_time": 17670,
+                    "text": "往"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17990,
+                    "start_time": 17830,
+                    "text": "估"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18150,
+                    "start_time": 17990,
+                    "text": "值"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18350,
+                    "start_time": 18150,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18510,
+                    "start_time": 18350,
+                    "text": "最"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18710,
+                    "start_time": 18510,
+                    "text": "高"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18910,
+                    "start_time": 18710,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19070,
+                    "start_time": 18910,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19190,
+                    "start_time": 19070,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19310,
+                    "start_time": 19230,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19550,
+                    "start_time": 19390,
+                    "text": "使"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19670,
+                    "start_time": 19550,
+                    "text": "用"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19830,
+                    "start_time": 19670,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19990,
+                    "start_time": 19830,
+                    "text": "估"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20150,
+                    "start_time": 19990,
+                    "text": "值"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20310,
+                    "start_time": 20150,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20390,
+                    "start_time": 20310,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20510,
+                    "start_time": 20390,
+                    "text": "经"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20670,
+                    "start_time": 20510,
+                    "text": "常"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20910,
+                    "start_time": 20710,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21110,
+                    "start_time": 20910,
+                    "text": "笑"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21310,
+                    "start_time": 21110,
+                    "text": "话"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21590,
+                    "start_time": 21310,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21990,
+                    "start_time": 21950,
+                    "text": "市"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22310,
+                    "start_time": 22230,
+                    "text": "梦"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22670,
+                    "start_time": 22430,
+                    "text": "率"
+                  }
+                ]
+              },
+              {
+                "end_time": 26600,
+                "start_time": 23040,
+                "text": "这时候就是，他人有多大胆，地有多大产，是吧？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 23200,
+                    "start_time": 23040,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23280,
+                    "start_time": 23200,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23400,
+                    "start_time": 23280,
+                    "text": "候"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23560,
+                    "start_time": 23400,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23760,
+                    "start_time": 23560,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23920,
+                    "start_time": 23840,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24480,
+                    "start_time": 24200,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24680,
+                    "start_time": 24480,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24880,
+                    "start_time": 24680,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25040,
+                    "start_time": 24880,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25280,
+                    "start_time": 25040,
+                    "text": "胆"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25600,
+                    "start_time": 25360,
+                    "text": "地"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25760,
+                    "start_time": 25600,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25880,
+                    "start_time": 25760,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26040,
+                    "start_time": 25880,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26200,
+                    "start_time": 26160,
+                    "text": "产"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26480,
+                    "start_time": 26440,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26600,
+                    "start_time": 26480,
+                    "text": "吧"
+                  }
+                ]
+              },
+              {
+                "end_time": 32280,
+                "start_time": 26680,
+                "text": "这个新生事物能被解释成多少，啊，我们就觉得它值多少钱。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 26800,
+                    "start_time": 26680,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27040,
+                    "start_time": 26800,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27400,
+                    "start_time": 27160,
+                    "text": "新"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27600,
+                    "start_time": 27400,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27760,
+                    "start_time": 27600,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27880,
+                    "start_time": 27760,
+                    "text": "物"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28080,
+                    "start_time": 27880,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28360,
+                    "start_time": 28080,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28640,
+                    "start_time": 28360,
+                    "text": "解"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28840,
+                    "start_time": 28640,
+                    "text": "释"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29080,
+                    "start_time": 28840,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29320,
+                    "start_time": 29080,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29560,
+                    "start_time": 29320,
+                    "text": "少"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30280,
+                    "start_time": 30240,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30600,
+                    "start_time": 30400,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30840,
+                    "start_time": 30600,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31280,
+                    "start_time": 31000,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31440,
+                    "start_time": 31280,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31520,
+                    "start_time": 31440,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31640,
+                    "start_time": 31560,
+                    "text": "它"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31880,
+                    "start_time": 31680,
+                    "text": "值"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32000,
+                    "start_time": 31880,
+                    "text": "多"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32120,
+                    "start_time": 32000,
+                    "text": "少"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32280,
+                    "start_time": 32120,
+                    "text": "钱"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "一个非常朴素的市盈率的标准，就是你们公司的盈利乘上一个市盈率就是你们公司的估值。而一个新生事物刚诞生的时候，由于它也不盈利。他未来的经济模式，商业模式也不明确。这时候往往估值是最高的，因为他使用的估值我们经常讲笑话叫市梦率。这时候就是，他人有多大胆，地有多大产，是吧？这个新生事物能被解释成多少，啊，我们就觉得它值多少钱。",
+        "utterances": [
+          {
+            "end_time": 7360,
+            "start_time": 120,
+            "text": "一个非常朴素的市盈率的标准，就是你们公司的盈利乘上一个市盈率就是你们公司的估值。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 120,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 680,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 880,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1120,
+                "text": "朴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1440,
+                "text": "素"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1960,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2160,
+                "text": "盈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2320,
+                "text": "率"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2480,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2680,
+                "text": "标"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2840,
+                "text": "准"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 3000,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3160,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3280,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3400,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3640,
+                "start_time": 3520,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3640,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3920,
+                "start_time": 3720,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 3920,
+                "text": "盈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4120,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4760,
+                "text": "乘"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5040,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5320,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5480,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5640,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5800,
+                "text": "盈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5920,
+                "text": "率"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6240,
+                "start_time": 6080,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6240,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6320,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6440,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6560,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6760,
+                "start_time": 6680,
+                "text": "司"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6760,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 6960,
+                "text": "估"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7120,
+                "text": "值"
+              }
+            ]
+          },
+          {
+            "end_time": 12040,
+            "start_time": 8040,
+            "text": "而一个新生事物刚诞生的时候，由于它也不盈利。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8440,
+                "start_time": 8040,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9280,
+                "start_time": 9040,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9600,
+                "start_time": 9400,
+                "text": "新"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9720,
+                "start_time": 9600,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10000,
+                "start_time": 9880,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10080,
+                "start_time": 10000,
+                "text": "物"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10400,
+                "start_time": 10200,
+                "text": "刚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10560,
+                "start_time": 10400,
+                "text": "诞"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10680,
+                "start_time": 10560,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10800,
+                "start_time": 10680,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10880,
+                "start_time": 10800,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10880,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11120,
+                "start_time": 10960,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11200,
+                "start_time": 11120,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11320,
+                "start_time": 11280,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11520,
+                "start_time": 11360,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11720,
+                "start_time": 11520,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11880,
+                "start_time": 11720,
+                "text": "盈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12040,
+                "start_time": 11880,
+                "text": "利"
+              }
+            ]
+          },
+          {
+            "end_time": 16430,
+            "start_time": 12670,
+            "text": "他未来的经济模式，商业模式也不明确。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12750,
+                "start_time": 12670,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13030,
+                "start_time": 12830,
+                "text": "未"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13190,
+                "start_time": 13030,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13350,
+                "start_time": 13190,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13550,
+                "start_time": 13350,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13710,
+                "start_time": 13550,
+                "text": "济"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13950,
+                "start_time": 13750,
+                "text": "模"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14110,
+                "start_time": 13950,
+                "text": "式"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14470,
+                "start_time": 14230,
+                "text": "商"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14670,
+                "start_time": 14470,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14910,
+                "start_time": 14670,
+                "text": "模"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15110,
+                "start_time": 14910,
+                "text": "式"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15710,
+                "start_time": 15470,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15910,
+                "start_time": 15710,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16190,
+                "start_time": 15910,
+                "text": "明"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16430,
+                "start_time": 16190,
+                "text": "确"
+              }
+            ]
+          },
+          {
+            "end_time": 22670,
+            "start_time": 16870,
+            "text": "这时候往往估值是最高的，因为他使用的估值我们经常讲笑话叫市梦率。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17150,
+                "start_time": 16870,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17310,
+                "start_time": 17150,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17470,
+                "start_time": 17310,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17590,
+                "start_time": 17470,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17750,
+                "start_time": 17670,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17990,
+                "start_time": 17830,
+                "text": "估"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18150,
+                "start_time": 17990,
+                "text": "值"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18350,
+                "start_time": 18150,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18510,
+                "start_time": 18350,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18710,
+                "start_time": 18510,
+                "text": "高"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18910,
+                "start_time": 18710,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19070,
+                "start_time": 18910,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19190,
+                "start_time": 19070,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19310,
+                "start_time": 19230,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19550,
+                "start_time": 19390,
+                "text": "使"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19670,
+                "start_time": 19550,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19830,
+                "start_time": 19670,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19830,
+                "text": "估"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20150,
+                "start_time": 19990,
+                "text": "值"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20310,
+                "start_time": 20150,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20390,
+                "start_time": 20310,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20510,
+                "start_time": 20390,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20670,
+                "start_time": 20510,
+                "text": "常"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20910,
+                "start_time": 20710,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21110,
+                "start_time": 20910,
+                "text": "笑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21310,
+                "start_time": 21110,
+                "text": "话"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21590,
+                "start_time": 21310,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21990,
+                "start_time": 21950,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22310,
+                "start_time": 22230,
+                "text": "梦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22670,
+                "start_time": 22430,
+                "text": "率"
+              }
+            ]
+          },
+          {
+            "end_time": 26600,
+            "start_time": 23040,
+            "text": "这时候就是，他人有多大胆，地有多大产，是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 23200,
+                "start_time": 23040,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23280,
+                "start_time": 23200,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23400,
+                "start_time": 23280,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23560,
+                "start_time": 23400,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23760,
+                "start_time": 23560,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23920,
+                "start_time": 23840,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24480,
+                "start_time": 24200,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24680,
+                "start_time": 24480,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24880,
+                "start_time": 24680,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25040,
+                "start_time": 24880,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25280,
+                "start_time": 25040,
+                "text": "胆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25600,
+                "start_time": 25360,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25760,
+                "start_time": 25600,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25880,
+                "start_time": 25760,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26040,
+                "start_time": 25880,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26200,
+                "start_time": 26160,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26480,
+                "start_time": 26440,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26600,
+                "start_time": 26480,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 32280,
+            "start_time": 26680,
+            "text": "这个新生事物能被解释成多少，啊，我们就觉得它值多少钱。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 26800,
+                "start_time": 26680,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27040,
+                "start_time": 26800,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27400,
+                "start_time": 27160,
+                "text": "新"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27600,
+                "start_time": 27400,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27760,
+                "start_time": 27600,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27880,
+                "start_time": 27760,
+                "text": "物"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28080,
+                "start_time": 27880,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28360,
+                "start_time": 28080,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28640,
+                "start_time": 28360,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28840,
+                "start_time": 28640,
+                "text": "释"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29080,
+                "start_time": 28840,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29320,
+                "start_time": 29080,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29560,
+                "start_time": 29320,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30280,
+                "start_time": 30240,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30600,
+                "start_time": 30400,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30840,
+                "start_time": 30600,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31280,
+                "start_time": 31000,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31440,
+                "start_time": 31280,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31520,
+                "start_time": 31440,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31640,
+                "start_time": 31560,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31880,
+                "start_time": 31680,
+                "text": "值"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32000,
+                "start_time": 31880,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32120,
+                "start_time": 32000,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32280,
+                "start_time": 32120,
+                "text": "钱"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

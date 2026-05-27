@@ -1,0 +1,29 @@
+{
+  "item": {
+    "index": 2,
+    "audio_id": "wavlake-mp3__021__2cde99a5",
+    "episode": "021",
+    "title": "021 - 021 - 021 孙宇晨：财富自由与和解艺术.mp3",
+    "line_no": 2,
+    "segment_start": 30.0,
+    "segment_end": 59.98,
+    "snippet_start": 28.8,
+    "snippet_end": 61.18,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+    "audio_path": "wavlake-mp3/021 - 021 - 021 孙宇晨：财富自由与和解艺术.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0002__wavlake-mp3__021__2cde99a5__line0002.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "request_id": "4b1170e1-4ee3-4c2f-b0e4-fba44bb605d0",
+    "submit": {
+      "ok": false,
+      "error_type": "URLError",
+      "error": "<urlopen error [Errno 32] Broken pipe>"
+    },
+    "queries": []
+  }
+}

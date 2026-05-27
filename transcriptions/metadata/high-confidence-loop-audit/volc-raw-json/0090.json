@@ -1,0 +1,234 @@
+{
+  "item": {
+    "index": 90,
+    "audio_id": "wavlake-mp3__134__621e51c0",
+    "episode": "134",
+    "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+    "line_no": 8,
+    "segment_start": 179.84,
+    "segment_end": 179.96,
+    "snippet_start": 178.64000000000001,
+    "snippet_end": 181.16,
+    "flags": [
+      "late_intro"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+    "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0090__wavlake-mp3__134__621e51c0__line0008.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "df1cc41b-e0e1-47f8-9e86-1a7a57a90729",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120331EA13500F689877DDC0A8",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "202605271203322E8A63C79F9EE585BCAB",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120408D11919DFCCB718B152E4",
+        "response": {
+          "audio_info": {
+            "duration": 2520
+          },
+          "result": {
+            "additions": {
+              "duration": "2520"
+            },
+            "text": "所以可以看到啊，前天我们大",
+            "utterances": [
+              {
+                "end_time": 2480,
+                "start_time": 840,
+                "text": "所以可以看到啊，前天我们大",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 840,
+                    "text": "所"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 1000,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 1080,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1200,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1280,
+                    "text": "看"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1560,
+                    "start_time": 1440,
+                    "text": "到"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1760,
+                    "start_time": 1640,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1840,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2080,
+                    "start_time": 1920,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2240,
+                    "start_time": 2160,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2320,
+                    "start_time": 2240,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2480,
+                    "start_time": 2320,
+                    "text": "大"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2520
+      },
+      "result": {
+        "additions": {
+          "duration": "2520"
+        },
+        "text": "所以可以看到啊，前天我们大",
+        "utterances": [
+          {
+            "end_time": 2480,
+            "start_time": 840,
+            "text": "所以可以看到啊，前天我们大",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 840,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 1000,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1080,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1200,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1280,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1440,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1640,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1840,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1920,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2160,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2240,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2320,
+                "text": "大"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2003 @@
+{
+  "item": {
+    "index": 10,
+    "audio_id": "wavlake-mp3__040__3c1baea7",
+    "episode": "040",
+    "title": "040 - 040 - 040 孙宇晨：结婚这件小事.mp3",
+    "line_no": 2,
+    "segment_start": 30.0,
+    "segment_end": 59.98,
+    "snippet_start": 28.8,
+    "snippet_end": 61.18,
+    "flags": [
+      "remaining_global_repeated_phrase_loop"
+    ],
+    "current_text": "我是陪你一起与我踏上财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路,我在财富自由革命之路。",
+    "audio_path": "wavlake-mp3/040 - 040 - 040 孙宇晨：结婚这件小事.mp3",
+    "snippet_path": "transcriptions/metadata/repetition-audit-global-extra/snippets/0011__wavlake-mp3__040__3c1baea7__line0002.wav",
+    "volc_ok": false,
+    "volc_status": null,
+    "volc_message": null,
+    "volc_logid": null,
+    "volc_text": "",
+    "request_id": "6b3b7ba6-8c37-4410-9649-79370620f3e1",
+    "raw_json_path": "volc-raw-json/0011.json"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "eec520b2-e72f-4348-ac0f-8a60d2713ccb",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527115415CDB00F76F77432B3F9DA",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527115416760F71210C865A2FD881",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527115418164FD34F6652100DB56D",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "讲我们九零后的三大革命，就是九零后不买房、不买车和不结婚的三大革命。然后在此期间呢，我们也会穿插着讲一下明道那一张我们提出的问题，就是你的成年礼是什么？啊，以及具体的事件，我们也会来分析。然后今天这一章，我们主要是讲90后不结婚这一章。然后同时呢，我们也会掺杂各种各样关于结婚买房和买车的案例。然后我们一起再来分析分析这些案例，啊，来组成。",
+            "utterances": [
+              {
+                "end_time": 5920,
+                "start_time": 80,
+                "text": "讲我们九零后的三大革命，就是九零后不买房、不买车和不结婚的三大革命。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 80,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 240,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 480,
+                    "start_time": 360,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 480,
+                    "text": "九"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 640,
+                    "text": "零"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 840,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1120,
+                    "start_time": 960,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1280,
+                    "start_time": 1120,
+                    "text": "三"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1480,
+                    "start_time": 1280,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1480,
+                    "text": "革"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1840,
+                    "start_time": 1720,
+                    "text": "命"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1960,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2280,
+                    "start_time": 2120,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2280,
+                    "text": "九"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2600,
+                    "start_time": 2440,
+                    "text": "零"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2840,
+                    "start_time": 2600,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3160,
+                    "start_time": 2920,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3360,
+                    "start_time": 3160,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3680,
+                    "start_time": 3360,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4160,
+                    "start_time": 3960,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4320,
+                    "start_time": 4160,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4520,
+                    "start_time": 4320,
+                    "text": "车"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4680,
+                    "start_time": 4520,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4840,
+                    "start_time": 4680,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4960,
+                    "start_time": 4840,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5120,
+                    "start_time": 4960,
+                    "text": "婚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5280,
+                    "start_time": 5120,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5440,
+                    "start_time": 5280,
+                    "text": "三"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5600,
+                    "start_time": 5440,
+                    "text": "大"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5760,
+                    "start_time": 5600,
+                    "text": "革"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5920,
+                    "start_time": 5760,
+                    "text": "命"
+                  }
+                ]
+              },
+              {
+                "end_time": 13360,
+                "start_time": 6360,
+                "text": "然后在此期间呢，我们也会穿插着讲一下明道那一张我们提出的问题，就是你的成年礼是什么？",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 6560,
+                    "start_time": 6360,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6560,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6880,
+                    "start_time": 6680,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7080,
+                    "start_time": 6880,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7320,
+                    "start_time": 7080,
+                    "text": "期"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7520,
+                    "start_time": 7320,
+                    "text": "间"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7720,
+                    "start_time": 7520,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7920,
+                    "start_time": 7720,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8120,
+                    "start_time": 7920,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8440,
+                    "start_time": 8240,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8640,
+                    "start_time": 8440,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8880,
+                    "start_time": 8680,
+                    "text": "穿"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9080,
+                    "start_time": 8880,
+                    "text": "插"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9280,
+                    "start_time": 9080,
+                    "text": "着"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9760,
+                    "start_time": 9560,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9880,
+                    "start_time": 9760,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10000,
+                    "start_time": 9880,
+                    "text": "下"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10120,
+                    "start_time": 10080,
+                    "text": "明"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10320,
+                    "start_time": 10280,
+                    "text": "道"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10440,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10640,
+                    "start_time": 10520,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10760,
+                    "start_time": 10640,
+                    "text": "张"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10880,
+                    "start_time": 10760,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11000,
+                    "start_time": 10880,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11120,
+                    "start_time": 11000,
+                    "text": "提"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11240,
+                    "start_time": 11120,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11360,
+                    "start_time": 11240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11560,
+                    "start_time": 11360,
+                    "text": "问"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11720,
+                    "start_time": 11560,
+                    "text": "题"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11920,
+                    "start_time": 11760,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12040,
+                    "start_time": 11920,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12160,
+                    "start_time": 12040,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12320,
+                    "start_time": 12160,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12480,
+                    "start_time": 12320,
+                    "text": "成"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12640,
+                    "start_time": 12480,
+                    "text": "年"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12840,
+                    "start_time": 12640,
+                    "text": "礼"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13080,
+                    "start_time": 12880,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13200,
+                    "start_time": 13080,
+                    "text": "什"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13360,
+                    "start_time": 13200,
+                    "text": "么"
+                  }
+                ]
+              },
+              {
+                "end_time": 16090,
+                "start_time": 13890,
+                "text": "啊，以及具体的事件，我们也会来分析。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 14010,
+                    "start_time": 13890,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14210,
+                    "start_time": 14050,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14370,
+                    "start_time": 14210,
+                    "text": "及"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14530,
+                    "start_time": 14370,
+                    "text": "具"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14610,
+                    "start_time": 14530,
+                    "text": "体"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14730,
+                    "start_time": 14610,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14970,
+                    "start_time": 14770,
+                    "text": "事"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15090,
+                    "start_time": 14970,
+                    "text": "件"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15250,
+                    "start_time": 15130,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15330,
+                    "start_time": 15250,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15450,
+                    "start_time": 15330,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15570,
+                    "start_time": 15450,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15770,
+                    "start_time": 15570,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15930,
+                    "start_time": 15770,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16090,
+                    "start_time": 15930,
+                    "text": "析"
+                  }
+                ]
+              },
+              {
+                "end_time": 20890,
+                "start_time": 16570,
+                "text": "然后今天这一章，我们主要是讲90后不结婚这一章。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 16770,
+                    "start_time": 16570,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16930,
+                    "start_time": 16770,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17210,
+                    "start_time": 16930,
+                    "text": "今"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17370,
+                    "start_time": 17210,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17570,
+                    "start_time": 17370,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17730,
+                    "start_time": 17570,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 17890,
+                    "start_time": 17730,
+                    "text": "章"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18170,
+                    "start_time": 17970,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18330,
+                    "start_time": 18170,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18490,
+                    "start_time": 18330,
+                    "text": "主"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18570,
+                    "start_time": 18490,
+                    "text": "要"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18770,
+                    "start_time": 18570,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18970,
+                    "start_time": 18770,
+                    "text": "讲"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19450,
+                    "start_time": 19050,
+                    "text": "90"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19730,
+                    "start_time": 19450,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20050,
+                    "start_time": 19730,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20250,
+                    "start_time": 20050,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20450,
+                    "start_time": 20250,
+                    "text": "婚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20610,
+                    "start_time": 20450,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20770,
+                    "start_time": 20610,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20890,
+                    "start_time": 20770,
+                    "text": "章"
+                  }
+                ]
+              },
+              {
+                "end_time": 27570,
+                "start_time": 21410,
+                "text": "然后同时呢，我们也会掺杂各种各样关于结婚买房和买车的案例。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 21650,
+                    "start_time": 21410,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 21890,
+                    "start_time": 21650,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22290,
+                    "start_time": 21890,
+                    "text": "同"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22530,
+                    "start_time": 22290,
+                    "text": "时"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 22850,
+                    "start_time": 22530,
+                    "text": "呢"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23530,
+                    "start_time": 23290,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23650,
+                    "start_time": 23530,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 23810,
+                    "start_time": 23650,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24050,
+                    "start_time": 23810,
+                    "text": "会"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24250,
+                    "start_time": 24090,
+                    "text": "掺"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24450,
+                    "start_time": 24330,
+                    "text": "杂"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24850,
+                    "start_time": 24650,
+                    "text": "各"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 24970,
+                    "start_time": 24850,
+                    "text": "种"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25090,
+                    "start_time": 24970,
+                    "text": "各"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25250,
+                    "start_time": 25090,
+                    "text": "样"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25410,
+                    "start_time": 25250,
+                    "text": "关"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25570,
+                    "start_time": 25410,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 25770,
+                    "start_time": 25570,
+                    "text": "结"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26010,
+                    "start_time": 25770,
+                    "text": "婚"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26290,
+                    "start_time": 26090,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26530,
+                    "start_time": 26290,
+                    "text": "房"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26690,
+                    "start_time": 26530,
+                    "text": "和"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 26850,
+                    "start_time": 26690,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27050,
+                    "start_time": 26850,
+                    "text": "车"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27250,
+                    "start_time": 27050,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27410,
+                    "start_time": 27250,
+                    "text": "案"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 27570,
+                    "start_time": 27410,
+                    "text": "例"
+                  }
+                ]
+              },
+              {
+                "end_time": 32300,
+                "start_time": 28300,
+                "text": "然后我们一起再来分析分析这些案例，啊，来组成。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 28540,
+                    "start_time": 28300,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 28780,
+                    "start_time": 28540,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29060,
+                    "start_time": 28860,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29260,
+                    "start_time": 29060,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29460,
+                    "start_time": 29260,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29540,
+                    "start_time": 29460,
+                    "text": "起"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29700,
+                    "start_time": 29540,
+                    "text": "再"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29860,
+                    "start_time": 29700,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 29980,
+                    "start_time": 29860,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30100,
+                    "start_time": 29980,
+                    "text": "析"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30260,
+                    "start_time": 30140,
+                    "text": "分"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30380,
+                    "start_time": 30260,
+                    "text": "析"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30500,
+                    "start_time": 30380,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30660,
+                    "start_time": 30500,
+                    "text": "些"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 30900,
+                    "start_time": 30700,
+                    "text": "案"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31060,
+                    "start_time": 30900,
+                    "text": "例"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31620,
+                    "start_time": 31580,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 31980,
+                    "start_time": 31780,
+                    "text": "来"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32140,
+                    "start_time": 31980,
+                    "text": "组"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 32300,
+                    "start_time": 32140,
+                    "text": "成"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "讲我们九零后的三大革命，就是九零后不买房、不买车和不结婚的三大革命。然后在此期间呢，我们也会穿插着讲一下明道那一张我们提出的问题，就是你的成年礼是什么？啊，以及具体的事件，我们也会来分析。然后今天这一章，我们主要是讲90后不结婚这一章。然后同时呢，我们也会掺杂各种各样关于结婚买房和买车的案例。然后我们一起再来分析分析这些案例，啊，来组成。",
+        "utterances": [
+          {
+            "end_time": 5920,
+            "start_time": 80,
+            "text": "讲我们九零后的三大革命，就是九零后不买房、不买车和不结婚的三大革命。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 80,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 480,
+                "text": "九"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 640,
+                "text": "零"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 840,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 960,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1120,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1280,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1480,
+                "text": "革"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1720,
+                "text": "命"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1960,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2280,
+                "text": "九"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2440,
+                "text": "零"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2600,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 2920,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3160,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3680,
+                "start_time": 3360,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 3960,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4160,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4320,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4520,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4680,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4840,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5120,
+                "start_time": 4960,
+                "text": "婚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5280,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5440,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5760,
+                "start_time": 5600,
+                "text": "革"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5920,
+                "start_time": 5760,
+                "text": "命"
+              }
+            ]
+          },
+          {
+            "end_time": 13360,
+            "start_time": 6360,
+            "text": "然后在此期间呢，我们也会穿插着讲一下明道那一张我们提出的问题，就是你的成年礼是什么？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6360,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6560,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6880,
+                "start_time": 6680,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7080,
+                "start_time": 6880,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7320,
+                "start_time": 7080,
+                "text": "期"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7320,
+                "text": "间"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7520,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7720,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8120,
+                "start_time": 7920,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8440,
+                "start_time": 8240,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8640,
+                "start_time": 8440,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8680,
+                "text": "穿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9080,
+                "start_time": 8880,
+                "text": "插"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9280,
+                "start_time": 9080,
+                "text": "着"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9560,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9880,
+                "start_time": 9760,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10000,
+                "start_time": 9880,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10120,
+                "start_time": 10080,
+                "text": "明"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10320,
+                "start_time": 10280,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10440,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10640,
+                "start_time": 10520,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10760,
+                "start_time": 10640,
+                "text": "张"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10880,
+                "start_time": 10760,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11000,
+                "start_time": 10880,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11120,
+                "start_time": 11000,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11240,
+                "start_time": 11120,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11360,
+                "start_time": 11240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11560,
+                "start_time": 11360,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11720,
+                "start_time": 11560,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11920,
+                "start_time": 11760,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12040,
+                "start_time": 11920,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12160,
+                "start_time": 12040,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12320,
+                "start_time": 12160,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12480,
+                "start_time": 12320,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12640,
+                "start_time": 12480,
+                "text": "年"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12840,
+                "start_time": 12640,
+                "text": "礼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13080,
+                "start_time": 12880,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13200,
+                "start_time": 13080,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13360,
+                "start_time": 13200,
+                "text": "么"
+              }
+            ]
+          },
+          {
+            "end_time": 16090,
+            "start_time": 13890,
+            "text": "啊，以及具体的事件，我们也会来分析。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14010,
+                "start_time": 13890,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14210,
+                "start_time": 14050,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14370,
+                "start_time": 14210,
+                "text": "及"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14530,
+                "start_time": 14370,
+                "text": "具"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14610,
+                "start_time": 14530,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14730,
+                "start_time": 14610,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14970,
+                "start_time": 14770,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15090,
+                "start_time": 14970,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15250,
+                "start_time": 15130,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15330,
+                "start_time": 15250,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15450,
+                "start_time": 15330,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15570,
+                "start_time": 15450,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15770,
+                "start_time": 15570,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15930,
+                "start_time": 15770,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16090,
+                "start_time": 15930,
+                "text": "析"
+              }
+            ]
+          },
+          {
+            "end_time": 20890,
+            "start_time": 16570,
+            "text": "然后今天这一章，我们主要是讲90后不结婚这一章。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 16770,
+                "start_time": 16570,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16930,
+                "start_time": 16770,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17210,
+                "start_time": 16930,
+                "text": "今"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17370,
+                "start_time": 17210,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17570,
+                "start_time": 17370,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17730,
+                "start_time": 17570,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17890,
+                "start_time": 17730,
+                "text": "章"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18170,
+                "start_time": 17970,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18330,
+                "start_time": 18170,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18490,
+                "start_time": 18330,
+                "text": "主"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18570,
+                "start_time": 18490,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18770,
+                "start_time": 18570,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18970,
+                "start_time": 18770,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19450,
+                "start_time": 19050,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19730,
+                "start_time": 19450,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20050,
+                "start_time": 19730,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20250,
+                "start_time": 20050,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20450,
+                "start_time": 20250,
+                "text": "婚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20610,
+                "start_time": 20450,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20770,
+                "start_time": 20610,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20890,
+                "start_time": 20770,
+                "text": "章"
+              }
+            ]
+          },
+          {
+            "end_time": 27570,
+            "start_time": 21410,
+            "text": "然后同时呢，我们也会掺杂各种各样关于结婚买房和买车的案例。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 21650,
+                "start_time": 21410,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21890,
+                "start_time": 21650,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22290,
+                "start_time": 21890,
+                "text": "同"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22530,
+                "start_time": 22290,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22850,
+                "start_time": 22530,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23530,
+                "start_time": 23290,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23650,
+                "start_time": 23530,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23810,
+                "start_time": 23650,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24050,
+                "start_time": 23810,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24250,
+                "start_time": 24090,
+                "text": "掺"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24450,
+                "start_time": 24330,
+                "text": "杂"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24850,
+                "start_time": 24650,
+                "text": "各"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24970,
+                "start_time": 24850,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25090,
+                "start_time": 24970,
+                "text": "各"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25250,
+                "start_time": 25090,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25410,
+                "start_time": 25250,
+                "text": "关"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25570,
+                "start_time": 25410,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25770,
+                "start_time": 25570,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26010,
+                "start_time": 25770,
+                "text": "婚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26290,
+                "start_time": 26090,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26530,
+                "start_time": 26290,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26690,
+                "start_time": 26530,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26850,
+                "start_time": 26690,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27050,
+                "start_time": 26850,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27250,
+                "start_time": 27050,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27410,
+                "start_time": 27250,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27570,
+                "start_time": 27410,
+                "text": "例"
+              }
+            ]
+          },
+          {
+            "end_time": 32300,
+            "start_time": 28300,
+            "text": "然后我们一起再来分析分析这些案例，啊，来组成。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28540,
+                "start_time": 28300,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28780,
+                "start_time": 28540,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29060,
+                "start_time": 28860,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29260,
+                "start_time": 29060,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29460,
+                "start_time": 29260,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29540,
+                "start_time": 29460,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29700,
+                "start_time": 29540,
+                "text": "再"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29860,
+                "start_time": 29700,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29980,
+                "start_time": 29860,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30100,
+                "start_time": 29980,
+                "text": "析"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30260,
+                "start_time": 30140,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30380,
+                "start_time": 30260,
+                "text": "析"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30500,
+                "start_time": 30380,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30660,
+                "start_time": 30500,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30900,
+                "start_time": 30700,
+                "text": "案"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31060,
+                "start_time": 30900,
+                "text": "例"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31620,
+                "start_time": 31580,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31980,
+                "start_time": 31780,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32140,
+                "start_time": 31980,
+                "text": "组"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32300,
+                "start_time": 32140,
+                "text": "成"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

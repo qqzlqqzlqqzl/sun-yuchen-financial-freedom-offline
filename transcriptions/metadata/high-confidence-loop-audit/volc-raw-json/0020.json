@@ -1,0 +1,888 @@
+{
+  "item": {
+    "index": 20,
+    "audio_id": "wavlake-mp3__080__63763504",
+    "episode": "080",
+    "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "line_no": 57,
+    "segment_start": 667.7,
+    "segment_end": 679.38,
+    "snippet_start": 666.5,
+    "snippet_end": 680.58,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+    "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0020__wavlake-mp3__080__63763504__line0057.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "85692d4a-2140-4714-a0e2-78e6fea58655",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271202437776D31813DE4E6B2367",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120244AC118400F9EFBA351941",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "202605271202461E598D4A31DF3AC26CE9",
+        "response": {
+          "audio_info": {
+            "duration": 14080
+          },
+          "result": {
+            "additions": {
+              "duration": "14080"
+            },
+            "text": "我在这个书里面写了，90后啊，30岁之前不买车。就。我我马上我马上决定那个卖了，然后从此以后那个不开了，对，我只叫专车。对，只叫专车就没没有被安定位。",
+            "utterances": [
+              {
+                "end_time": 4880,
+                "start_time": 40,
+                "text": "我在这个书里面写了，90后啊，30岁之前不买车。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 160,
+                    "start_time": 40,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 160,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 360,
+                    "start_time": 280,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 440,
+                    "start_time": 360,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 440,
+                    "text": "书"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 640,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 760,
+                    "text": "面"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1080,
+                    "start_time": 880,
+                    "text": "写"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1080,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1640,
+                    "start_time": 1280,
+                    "text": "90"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1800,
+                    "start_time": 1640,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2000,
+                    "start_time": 1840,
+                    "text": "啊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3520,
+                    "start_time": 3120,
+                    "text": "30"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3720,
+                    "start_time": 3520,
+                    "text": "岁"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3880,
+                    "start_time": 3720,
+                    "text": "之"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4040,
+                    "start_time": 3880,
+                    "text": "前"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4080,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4600,
+                    "start_time": 4360,
+                    "text": "买"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4880,
+                    "start_time": 4600,
+                    "text": "车"
+                  }
+                ]
+              },
+              {
+                "end_time": 5560,
+                "start_time": 5320,
+                "text": "就。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 5560,
+                    "start_time": 5320,
+                    "text": "就"
+                  }
+                ]
+              },
+              {
+                "end_time": 11280,
+                "start_time": 5560,
+                "text": "我我马上我马上决定那个卖了，然后从此以后那个不开了，对，我只叫专车。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 5680,
+                    "start_time": 5560,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6040,
+                    "start_time": 5840,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6120,
+                    "start_time": 6040,
+                    "text": "马"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6280,
+                    "start_time": 6240,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6560,
+                    "start_time": 6440,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6680,
+                    "start_time": 6600,
+                    "text": "马"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6800,
+                    "start_time": 6680,
+                    "text": "上"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7040,
+                    "start_time": 6840,
+                    "text": "决"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7120,
+                    "start_time": 7040,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7280,
+                    "start_time": 7160,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7440,
+                    "start_time": 7280,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7760,
+                    "start_time": 7520,
+                    "text": "卖"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7880,
+                    "start_time": 7760,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8120,
+                    "start_time": 7960,
+                    "text": "然"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8200,
+                    "start_time": 8120,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 8960,
+                    "start_time": 8800,
+                    "text": "从"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9120,
+                    "start_time": 8960,
+                    "text": "此"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9240,
+                    "start_time": 9120,
+                    "text": "以"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9400,
+                    "start_time": 9240,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9560,
+                    "start_time": 9440,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9720,
+                    "start_time": 9560,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9880,
+                    "start_time": 9720,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10040,
+                    "start_time": 9880,
+                    "text": "开"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10200,
+                    "start_time": 10040,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10400,
+                    "start_time": 10240,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10400,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10680,
+                    "start_time": 10520,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10840,
+                    "start_time": 10680,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11040,
+                    "start_time": 10920,
+                    "text": "专"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11280,
+                    "start_time": 11040,
+                    "text": "车"
+                  }
+                ]
+              },
+              {
+                "end_time": 13980,
+                "start_time": 11620,
+                "text": "对，只叫专车就没没有被安定位。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 11740,
+                    "start_time": 11620,
+                    "text": "对"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11860,
+                    "start_time": 11780,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12020,
+                    "start_time": 11980,
+                    "text": "叫"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12300,
+                    "start_time": 12180,
+                    "text": "专"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12460,
+                    "start_time": 12380,
+                    "text": "车"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12780,
+                    "start_time": 12620,
+                    "text": "就"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12900,
+                    "start_time": 12780,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13100,
+                    "start_time": 12940,
+                    "text": "没"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13180,
+                    "start_time": 13100,
+                    "text": "有"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13340,
+                    "start_time": 13260,
+                    "text": "被"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13540,
+                    "start_time": 13460,
+                    "text": "安"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13860,
+                    "start_time": 13740,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13980,
+                    "start_time": 13860,
+                    "text": "位"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 14080
+      },
+      "result": {
+        "additions": {
+          "duration": "14080"
+        },
+        "text": "我在这个书里面写了，90后啊，30岁之前不买车。就。我我马上我马上决定那个卖了，然后从此以后那个不开了，对，我只叫专车。对，只叫专车就没没有被安定位。",
+        "utterances": [
+          {
+            "end_time": 4880,
+            "start_time": 40,
+            "text": "我在这个书里面写了，90后啊，30岁之前不买车。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 280,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 360,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 440,
+                "text": "书"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 640,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 760,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1080,
+                "start_time": 880,
+                "text": "写"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1080,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1640,
+                "start_time": 1280,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1640,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1840,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3120,
+                "text": "30"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3520,
+                "text": "岁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3720,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4080,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4360,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4600,
+                "text": "车"
+              }
+            ]
+          },
+          {
+            "end_time": 5560,
+            "start_time": 5320,
+            "text": "就。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5320,
+                "text": "就"
+              }
+            ]
+          },
+          {
+            "end_time": 11280,
+            "start_time": 5560,
+            "text": "我我马上我马上决定那个卖了，然后从此以后那个不开了，对，我只叫专车。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5560,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5840,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 6040,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6240,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6440,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6600,
+                "text": "马"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6680,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7040,
+                "start_time": 6840,
+                "text": "决"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 7040,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7160,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7520,
+                "text": "卖"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7760,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8120,
+                "start_time": 7960,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8200,
+                "start_time": 8120,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8800,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 8960,
+                "text": "此"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9240,
+                "start_time": 9120,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9400,
+                "start_time": 9240,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9560,
+                "start_time": 9440,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9720,
+                "start_time": 9560,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9880,
+                "start_time": 9720,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9880,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10200,
+                "start_time": 10040,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10400,
+                "start_time": 10240,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10400,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10680,
+                "start_time": 10520,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10840,
+                "start_time": 10680,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11040,
+                "start_time": 10920,
+                "text": "专"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11280,
+                "start_time": 11040,
+                "text": "车"
+              }
+            ]
+          },
+          {
+            "end_time": 13980,
+            "start_time": 11620,
+            "text": "对，只叫专车就没没有被安定位。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11740,
+                "start_time": 11620,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11860,
+                "start_time": 11780,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12020,
+                "start_time": 11980,
+                "text": "叫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12300,
+                "start_time": 12180,
+                "text": "专"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12460,
+                "start_time": 12380,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12780,
+                "start_time": 12620,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12900,
+                "start_time": 12780,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13100,
+                "start_time": 12940,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13180,
+                "start_time": 13100,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13340,
+                "start_time": 13260,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13540,
+                "start_time": 13460,
+                "text": "安"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13860,
+                "start_time": 13740,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13980,
+                "start_time": 13860,
+                "text": "位"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

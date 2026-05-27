@@ -1,0 +1,222 @@
+{
+  "item": {
+    "index": 13,
+    "audio_id": "wavlake-mp3__075__253dded9",
+    "episode": "075",
+    "title": "075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+    "line_no": 46,
+    "segment_start": 292.96,
+    "segment_end": 293.0,
+    "snippet_start": 291.76,
+    "snippet_end": 294.2,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "而这一点啊,甚至于我们今天的学术界的突破性进展,都是由理论物理相反强调不确定性,强调变化。",
+    "audio_path": "wavlake-mp3/075 - 075 - 075 孙宇晨：【不确定性】拥抱不确定性.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0013__wavlake-mp3__075__253dded9__line0046.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "4d5e4cad-b301-4bd1-b852-db7359b7237e",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120241A4D74BCCA38C905DB7B0",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "2026052712024198BEFDDC03544D3FB196",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120243EF35912AAFB41659DDA2",
+        "response": {
+          "audio_info": {
+            "duration": 2440
+          },
+          "result": {
+            "additions": {
+              "duration": "2440"
+            },
+            "text": "至于我们今天的生活中的。",
+            "utterances": [
+              {
+                "end_time": 2360,
+                "start_time": 200,
+                "text": "至于我们今天的生活中的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 240,
+                    "start_time": 200,
+                    "text": "至"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 640,
+                    "start_time": 480,
+                    "text": "于"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 840,
+                    "start_time": 720,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 840,
+                    "text": "们"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1160,
+                    "start_time": 960,
+                    "text": "今"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1160,
+                    "text": "天"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1440,
+                    "start_time": 1240,
+                    "text": "的"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1480,
+                    "text": "生"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1920,
+                    "start_time": 1720,
+                    "text": "活"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2120,
+                    "start_time": 1920,
+                    "text": "中"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2360,
+                    "start_time": 2120,
+                    "text": "的"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 2440
+      },
+      "result": {
+        "additions": {
+          "duration": "2440"
+        },
+        "text": "至于我们今天的生活中的。",
+        "utterances": [
+          {
+            "end_time": 2360,
+            "start_time": 200,
+            "text": "至于我们今天的生活中的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 200,
+                "text": "至"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 480,
+                "text": "于"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 720,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 840,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 960,
+                "text": "今"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1160,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1480,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1720,
+                "text": "活"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1920,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2120,
+                "text": "的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

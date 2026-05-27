@@ -1,0 +1,246 @@
+{
+  "item": {
+    "index": 3,
+    "audio_id": "official-vimeo-m4a-partial__032__2714f2f9",
+    "episode": "032",
+    "title": "032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+    "line_no": 76,
+    "segment_start": 365.68,
+    "segment_end": 367.7,
+    "snippet_start": 364.48,
+    "snippet_end": 368.9,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "就是比如说我想买,现在买一个桌子、凳子,不收钱,只收黄金,把你黄金给我。",
+    "audio_path": "official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0003__official-vimeo-m4a-partial__032__2714f2f9__line0076.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "7b846d01-bb1e-46fe-84df-01132265576b",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120240E08BB04DBFA0343378BD",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120241F2BEBE102385BE0663DB",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120243EE09439D07E590158B41",
+        "response": {
+          "audio_info": {
+            "duration": 4420
+          },
+          "result": {
+            "additions": {
+              "duration": "4420"
+            },
+            "text": "只收黄金，把你黄金给我，这是我",
+            "utterances": [
+              {
+                "end_time": 4360,
+                "start_time": 960,
+                "text": "只收黄金，把你黄金给我，这是我",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 1200,
+                    "start_time": 960,
+                    "text": "只"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1480,
+                    "start_time": 1200,
+                    "text": "收"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1720,
+                    "start_time": 1480,
+                    "text": "黄"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1960,
+                    "start_time": 1720,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2440,
+                    "start_time": 2280,
+                    "text": "把"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2520,
+                    "start_time": 2440,
+                    "text": "你"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2760,
+                    "start_time": 2600,
+                    "text": "黄"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2920,
+                    "start_time": 2760,
+                    "text": "金"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3120,
+                    "start_time": 2920,
+                    "text": "给"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3360,
+                    "start_time": 3120,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4080,
+                    "start_time": 3880,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4240,
+                    "start_time": 4080,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4360,
+                    "start_time": 4240,
+                    "text": "我"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 4420
+      },
+      "result": {
+        "additions": {
+          "duration": "4420"
+        },
+        "text": "只收黄金，把你黄金给我，这是我",
+        "utterances": [
+          {
+            "end_time": 4360,
+            "start_time": 960,
+            "text": "只收黄金，把你黄金给我，这是我",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 960,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1200,
+                "text": "收"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1480,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1720,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2280,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2440,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2600,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2920,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3120,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3880,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4080,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4240,
+                "text": "我"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

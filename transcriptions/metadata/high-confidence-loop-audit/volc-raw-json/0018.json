@@ -1,0 +1,1248 @@
+{
+  "item": {
+    "index": 18,
+    "audio_id": "wavlake-mp3__080__63763504",
+    "episode": "080",
+    "title": "080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "line_no": 55,
+    "segment_start": 649.5,
+    "segment_end": 667.68,
+    "snippet_start": 648.3,
+    "snippet_end": 668.88,
+    "flags": [
+      "run_len>=3"
+    ],
+    "current_text": "好,那个,还有一个问题呢,我们稍微简化一下,这个问题是要求每个人都要谈一下他经历的温柔。",
+    "audio_path": "wavlake-mp3/080 - 080 - 080 孙宇晨：【番外】毕业就创业OK吗？.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0018__wavlake-mp3__080__63763504__line0055.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "e769c49f-ab92-432b-9f5c-a3a1294be467",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "20260527120243DB700EE873826119470D",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120244AECFCE22DA49E25AB787",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "2026052712024614D5D87A2722FDB55A48",
+        "response": {
+          "audio_info": {
+            "duration": 20580
+          },
+          "result": {
+            "additions": {
+              "duration": "20580"
+            },
+            "text": "惊出一身冷汗。这个是。不，他不一定是男人装的。哈哈哈。这个够残酷的。他可能是温柔。我我稍微补充一下，这我稍微补充一下。我觉得核心原因是因为黄振世吧，老开他那辆宾利车。啊。我我在这个书里面写了，90后啊。",
+            "utterances": [
+              {
+                "end_time": 1420,
+                "start_time": 260,
+                "text": "惊出一身冷汗。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 340,
+                    "start_time": 260,
+                    "text": "惊"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 620,
+                    "start_time": 420,
+                    "text": "出"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 780,
+                    "start_time": 620,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 900,
+                    "start_time": 780,
+                    "text": "身"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1180,
+                    "start_time": 1020,
+                    "text": "冷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1420,
+                    "start_time": 1180,
+                    "text": "汗"
+                  }
+                ]
+              },
+              {
+                "end_time": 3110,
+                "start_time": 2790,
+                "text": "这个是。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 2910,
+                    "start_time": 2790,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 2990,
+                    "start_time": 2910,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3110,
+                    "start_time": 3070,
+                    "text": "是"
+                  }
+                ]
+              },
+              {
+                "end_time": 4390,
+                "start_time": 3190,
+                "text": "不，他不一定是男人装的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 3310,
+                    "start_time": 3190,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3430,
+                    "start_time": 3350,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3550,
+                    "start_time": 3470,
+                    "text": "不"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3630,
+                    "start_time": 3550,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3710,
+                    "start_time": 3630,
+                    "text": "定"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3830,
+                    "start_time": 3710,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 3950,
+                    "start_time": 3830,
+                    "text": "男"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4070,
+                    "start_time": 3950,
+                    "text": "人"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4230,
+                    "start_time": 4110,
+                    "text": "装"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 4390,
+                    "start_time": 4350,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 5670,
+                "start_time": 4590,
+                "text": "哈哈哈。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 4870,
+                    "start_time": 4590,
+                    "text": "哈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5590,
+                    "start_time": 5150,
+                    "text": "哈"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 5670,
+                    "start_time": 5630,
+                    "text": "哈"
+                  }
+                ]
+              },
+              {
+                "end_time": 7390,
+                "start_time": 6350,
+                "text": "这个够残酷的。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 6550,
+                    "start_time": 6350,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6710,
+                    "start_time": 6550,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 6870,
+                    "start_time": 6710,
+                    "text": "够"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7070,
+                    "start_time": 6910,
+                    "text": "残"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7190,
+                    "start_time": 7110,
+                    "text": "酷"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 7390,
+                    "start_time": 7310,
+                    "text": "的"
+                  }
+                ]
+              },
+              {
+                "end_time": 9640,
+                "start_time": 8920,
+                "text": "他可能是温柔。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 8960,
+                    "start_time": 8920,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9120,
+                    "start_time": 9040,
+                    "text": "可"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9200,
+                    "start_time": 9120,
+                    "text": "能"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9360,
+                    "start_time": 9200,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9520,
+                    "start_time": 9360,
+                    "text": "温"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 9640,
+                    "start_time": 9520,
+                    "text": "柔"
+                  }
+                ]
+              },
+              {
+                "end_time": 11960,
+                "start_time": 9800,
+                "text": "我我稍微补充一下，这我稍微补充一下。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 9840,
+                    "start_time": 9800,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10120,
+                    "start_time": 9880,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10240,
+                    "start_time": 10120,
+                    "text": "稍"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10360,
+                    "start_time": 10240,
+                    "text": "微"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10520,
+                    "start_time": 10400,
+                    "text": "补"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10600,
+                    "start_time": 10520,
+                    "text": "充"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10680,
+                    "start_time": 10640,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 10720,
+                    "start_time": 10680,
+                    "text": "下"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11000,
+                    "start_time": 10800,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11160,
+                    "start_time": 11080,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11320,
+                    "start_time": 11200,
+                    "text": "稍"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11400,
+                    "start_time": 11320,
+                    "text": "微"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11560,
+                    "start_time": 11440,
+                    "text": "补"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11680,
+                    "start_time": 11560,
+                    "text": "充"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11800,
+                    "start_time": 11680,
+                    "text": "一"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 11960,
+                    "start_time": 11800,
+                    "text": "下"
+                  }
+                ]
+              },
+              {
+                "end_time": 16360,
+                "start_time": 12480,
+                "text": "我觉得核心原因是因为黄振世吧，老开他那辆宾利车。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 12680,
+                    "start_time": 12480,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12800,
+                    "start_time": 12680,
+                    "text": "觉"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 12880,
+                    "start_time": 12800,
+                    "text": "得"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13080,
+                    "start_time": 12920,
+                    "text": "核"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13200,
+                    "start_time": 13080,
+                    "text": "心"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13360,
+                    "start_time": 13240,
+                    "text": "原"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13440,
+                    "start_time": 13360,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13560,
+                    "start_time": 13440,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13640,
+                    "start_time": 13560,
+                    "text": "因"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13720,
+                    "start_time": 13640,
+                    "text": "为"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 13880,
+                    "start_time": 13760,
+                    "text": "黄"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14040,
+                    "start_time": 14000,
+                    "text": "振"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14240,
+                    "start_time": 14160,
+                    "text": "世"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14400,
+                    "start_time": 14360,
+                    "text": "吧"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 14800,
+                    "start_time": 14560,
+                    "text": "老"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15040,
+                    "start_time": 14800,
+                    "text": "开"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15200,
+                    "start_time": 15120,
+                    "text": "他"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15360,
+                    "start_time": 15240,
+                    "text": "那"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15520,
+                    "start_time": 15360,
+                    "text": "辆"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15720,
+                    "start_time": 15680,
+                    "text": "宾"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 15960,
+                    "start_time": 15840,
+                    "text": "利"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 16360,
+                    "start_time": 16040,
+                    "text": "车"
+                  }
+                ]
+              },
+              {
+                "end_time": 17200,
+                "start_time": 17040,
+                "text": "啊。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 17200,
+                    "start_time": 17040,
+                    "text": "啊"
+                  }
+                ]
+              },
+              {
+                "end_time": 20150,
+                "start_time": 17870,
+                "text": "我我在这个书里面写了，90后啊。",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 18110,
+                    "start_time": 17870,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18270,
+                    "start_time": 18150,
+                    "text": "我"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18430,
+                    "start_time": 18270,
+                    "text": "在"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18510,
+                    "start_time": 18430,
+                    "text": "这"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18630,
+                    "start_time": 18510,
+                    "text": "个"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18830,
+                    "start_time": 18630,
+                    "text": "书"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 18950,
+                    "start_time": 18830,
+                    "text": "里"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19030,
+                    "start_time": 18950,
+                    "text": "面"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19270,
+                    "start_time": 19070,
+                    "text": "写"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19390,
+                    "start_time": 19270,
+                    "text": "了"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19830,
+                    "start_time": 19470,
+                    "text": "90"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 19990,
+                    "start_time": 19830,
+                    "text": "后"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 20150,
+                    "start_time": 20030,
+                    "text": "啊"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 20580
+      },
+      "result": {
+        "additions": {
+          "duration": "20580"
+        },
+        "text": "惊出一身冷汗。这个是。不，他不一定是男人装的。哈哈哈。这个够残酷的。他可能是温柔。我我稍微补充一下，这我稍微补充一下。我觉得核心原因是因为黄振世吧，老开他那辆宾利车。啊。我我在这个书里面写了，90后啊。",
+        "utterances": [
+          {
+            "end_time": 1420,
+            "start_time": 260,
+            "text": "惊出一身冷汗。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 340,
+                "start_time": 260,
+                "text": "惊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 620,
+                "start_time": 420,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 780,
+                "start_time": 620,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 900,
+                "start_time": 780,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1180,
+                "start_time": 1020,
+                "text": "冷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1420,
+                "start_time": 1180,
+                "text": "汗"
+              }
+            ]
+          },
+          {
+            "end_time": 3110,
+            "start_time": 2790,
+            "text": "这个是。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2910,
+                "start_time": 2790,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2990,
+                "start_time": 2910,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3110,
+                "start_time": 3070,
+                "text": "是"
+              }
+            ]
+          },
+          {
+            "end_time": 4390,
+            "start_time": 3190,
+            "text": "不，他不一定是男人装的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3310,
+                "start_time": 3190,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3430,
+                "start_time": 3350,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3550,
+                "start_time": 3470,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3630,
+                "start_time": 3550,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3710,
+                "start_time": 3630,
+                "text": "定"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3830,
+                "start_time": 3710,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3950,
+                "start_time": 3830,
+                "text": "男"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4070,
+                "start_time": 3950,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4230,
+                "start_time": 4110,
+                "text": "装"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4390,
+                "start_time": 4350,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 5670,
+            "start_time": 4590,
+            "text": "哈哈哈。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 4870,
+                "start_time": 4590,
+                "text": "哈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5590,
+                "start_time": 5150,
+                "text": "哈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5670,
+                "start_time": 5630,
+                "text": "哈"
+              }
+            ]
+          },
+          {
+            "end_time": 7390,
+            "start_time": 6350,
+            "text": "这个够残酷的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6550,
+                "start_time": 6350,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6710,
+                "start_time": 6550,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6870,
+                "start_time": 6710,
+                "text": "够"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7070,
+                "start_time": 6910,
+                "text": "残"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7190,
+                "start_time": 7110,
+                "text": "酷"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7390,
+                "start_time": 7310,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 9640,
+            "start_time": 8920,
+            "text": "他可能是温柔。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8920,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 9040,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9120,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9200,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9520,
+                "start_time": 9360,
+                "text": "温"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9520,
+                "text": "柔"
+              }
+            ]
+          },
+          {
+            "end_time": 11960,
+            "start_time": 9800,
+            "text": "我我稍微补充一下，这我稍微补充一下。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 9840,
+                "start_time": 9800,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10120,
+                "start_time": 9880,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 10120,
+                "text": "稍"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10360,
+                "start_time": 10240,
+                "text": "微"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10400,
+                "text": "补"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10600,
+                "start_time": 10520,
+                "text": "充"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10680,
+                "start_time": 10640,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10720,
+                "start_time": 10680,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11000,
+                "start_time": 10800,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11160,
+                "start_time": 11080,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11320,
+                "start_time": 11200,
+                "text": "稍"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11400,
+                "start_time": 11320,
+                "text": "微"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11560,
+                "start_time": 11440,
+                "text": "补"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11680,
+                "start_time": 11560,
+                "text": "充"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11800,
+                "start_time": 11680,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11960,
+                "start_time": 11800,
+                "text": "下"
+              }
+            ]
+          },
+          {
+            "end_time": 16360,
+            "start_time": 12480,
+            "text": "我觉得核心原因是因为黄振世吧，老开他那辆宾利车。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12680,
+                "start_time": 12480,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12800,
+                "start_time": 12680,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12880,
+                "start_time": 12800,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13080,
+                "start_time": 12920,
+                "text": "核"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13200,
+                "start_time": 13080,
+                "text": "心"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13360,
+                "start_time": 13240,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13440,
+                "start_time": 13360,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13560,
+                "start_time": 13440,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13640,
+                "start_time": 13560,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13720,
+                "start_time": 13640,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13880,
+                "start_time": 13760,
+                "text": "黄"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14040,
+                "start_time": 14000,
+                "text": "振"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14240,
+                "start_time": 14160,
+                "text": "世"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14400,
+                "start_time": 14360,
+                "text": "吧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14800,
+                "start_time": 14560,
+                "text": "老"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15040,
+                "start_time": 14800,
+                "text": "开"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15200,
+                "start_time": 15120,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15360,
+                "start_time": 15240,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15520,
+                "start_time": 15360,
+                "text": "辆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15720,
+                "start_time": 15680,
+                "text": "宾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15960,
+                "start_time": 15840,
+                "text": "利"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16360,
+                "start_time": 16040,
+                "text": "车"
+              }
+            ]
+          },
+          {
+            "end_time": 17200,
+            "start_time": 17040,
+            "text": "啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17200,
+                "start_time": 17040,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 20150,
+            "start_time": 17870,
+            "text": "我我在这个书里面写了，90后啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 18110,
+                "start_time": 17870,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18270,
+                "start_time": 18150,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18430,
+                "start_time": 18270,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18510,
+                "start_time": 18430,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18630,
+                "start_time": 18510,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18830,
+                "start_time": 18630,
+                "text": "书"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18950,
+                "start_time": 18830,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19030,
+                "start_time": 18950,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19270,
+                "start_time": 19070,
+                "text": "写"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19390,
+                "start_time": 19270,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19830,
+                "start_time": 19470,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19830,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20150,
+                "start_time": 20030,
+                "text": "啊"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

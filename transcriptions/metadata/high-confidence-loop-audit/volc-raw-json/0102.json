@@ -1,0 +1,150 @@
+{
+  "item": {
+    "index": 102,
+    "audio_id": "wavlake-mp3__134__621e51c0",
+    "episode": "134",
+    "title": "134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+    "line_no": 20,
+    "segment_start": 479.8,
+    "segment_end": 509.78,
+    "snippet_start": 478.6,
+    "snippet_end": 510.97999999999996,
+    "flags": [
+      "late_intro"
+    ],
+    "current_text": "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在这一边等着你。",
+    "audio_path": "wavlake-mp3/134 - 134 - 135 孙宇晨：【财富流向】BTC与BCC，谈区块链创业与投资机会.mp3",
+    "snippet_path": "transcriptions/metadata/high-confidence-loop-audit/snippets/0102__wavlake-mp3__134__621e51c0__line0020.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "request_id": "10e2d29e-9ba1-40fd-8dc9-5cf61b5d90b0",
+    "submit": {
+      "http_status": 200,
+      "api_status": "20000000",
+      "api_message": "OK",
+      "tt_logid": "202605271203379C3F5226AC96F35B4F50",
+      "response": {}
+    },
+    "queries": [
+      {
+        "http_status": 200,
+        "api_status": "20000001",
+        "api_message": "[Processing in progress] Handle response: Start Processing",
+        "tt_logid": "20260527120355D3A9A36ACD4F9DDD56B3",
+        "response": {
+          "audio_info": {},
+          "result": {
+            "text": ""
+          }
+        }
+      },
+      {
+        "http_status": 200,
+        "api_status": "20000000",
+        "api_message": "OK",
+        "tt_logid": "20260527120357990E9A563BD0CE575C06",
+        "response": {
+          "audio_info": {
+            "duration": 32380
+          },
+          "result": {
+            "additions": {
+              "duration": "32380"
+            },
+            "text": "也是宝藏啊！",
+            "utterances": [
+              {
+                "end_time": 1240,
+                "start_time": 120,
+                "text": "也是宝藏啊！",
+                "words": [
+                  {
+                    "confidence": 0,
+                    "end_time": 280,
+                    "start_time": 120,
+                    "text": "也"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 520,
+                    "start_time": 280,
+                    "text": "是"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 760,
+                    "start_time": 520,
+                    "text": "宝"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 960,
+                    "start_time": 760,
+                    "text": "藏"
+                  },
+                  {
+                    "confidence": 0,
+                    "end_time": 1240,
+                    "start_time": 1040,
+                    "text": "啊"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "也是宝藏啊！",
+        "utterances": [
+          {
+            "end_time": 1240,
+            "start_time": 120,
+            "text": "也是宝藏啊！",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 120,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 280,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 520,
+                "text": "宝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 760,
+                "text": "藏"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "啊"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
