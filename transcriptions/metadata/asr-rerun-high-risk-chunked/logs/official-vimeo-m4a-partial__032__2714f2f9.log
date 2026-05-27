@@ -1,0 +1,715 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 64.555 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.400]  大家好,我是陪我APP创始人孙宇辰
+[00:00:02.400 --> 00:00:05.960]  我想邀你一起与我踏上财富自由革命之路
+[00:00:05.960 --> 00:00:08.880]  我在财富自由的另一边等着你
+[00:00:08.880 --> 00:00:12.080]  大家好,我是宇辰
+[00:00:12.080 --> 00:00:15.780]  今天已经到了我们又到了新的一章的时候了
+[00:00:15.780 --> 00:00:21.840]  之前呢,我们先介绍了我们为什么要开通财富自由革命之路这个节目
+[00:00:21.840 --> 00:00:24.120]  又讲了财富自由是什么
+[00:00:24.120 --> 00:00:26.880]  然后又讲了呢,中国90后新时代
+[00:00:26.880 --> 00:00:29.840]  也就是中国接下来要面临的新的危机
+[00:00:29.840 --> 00:00:31.200]  这一章呢
+[00:00:31.200 --> 00:00:33.460]  我们主要讲的预告叫做
+[00:00:33.460 --> 00:00:35.200]  全球流动性过剩
+[00:00:35.200 --> 00:00:39.480]  我们可能提出一个重大的预言
+[00:00:39.480 --> 00:00:41.900]  这个我孙逸臣还没见过任何人
+[00:00:41.900 --> 00:00:43.880]  在公开场合提出过这个预言
+[00:00:43.880 --> 00:00:46.540]  所以可以叫做孙氏预言吧
+[00:00:46.540 --> 00:00:48.360]  就是我个人认为
+[00:00:48.360 --> 00:00:52.240]  贫穷在本世纪会被正式消灭
+[00:00:52.240 --> 00:00:53.920]  也就是咱们这个地球上
+[00:00:53.920 --> 00:00:56.780]  不会再有任何一个穷人了
+[00:00:56.780 --> 00:00:58.800]  等一下我会给大家解释
+[00:00:58.800 --> 00:01:02.940]  为什么我们觉得贫穷在本世纪会被消灭
+[00:01:02.940 --> 00:01:04.560]  这是一个
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 64.055 -t 73.957 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.520]  我们等下来要讲的一个重点话题
+[00:00:02.520 --> 00:00:04.340]  正式开课之前呢
+[00:00:04.340 --> 00:00:06.120]  再回应一下之前粉丝
+[00:00:06.120 --> 00:00:07.840]  对我们投稿的一些反馈吧
+[00:00:07.840 --> 00:00:09.200]  现在呢
+[00:00:09.200 --> 00:00:10.880]  我觉得大家说的对啊
+[00:00:10.880 --> 00:00:12.640]  我还是坚持我的村市风格
+[00:00:12.640 --> 00:00:15.820]  不能完全太没有激情啊
+[00:00:15.820 --> 00:00:16.920]  因为之前有的粉丝
+[00:00:16.920 --> 00:00:18.340]  不喜欢这个风格投诉
+[00:00:18.340 --> 00:00:19.800]  现在呢
+[00:00:19.800 --> 00:00:20.960]  又有些粉丝呢
+[00:00:20.960 --> 00:00:21.820]  喜欢这个风格
+[00:00:21.820 --> 00:00:23.100]  发现没了又投诉
+[00:00:23.100 --> 00:00:24.080]  所以呢
+[00:00:24.080 --> 00:00:26.560]  我觉得如果两头都有人投诉的话
+[00:00:26.560 --> 00:00:28.240]  最好的应对方式
+[00:00:28.240 --> 00:00:29.740]  就是保持自己的风格吧
+[00:00:29.740 --> 00:00:32.680]  我觉得这样大家外面也会适应的
+[00:00:32.680 --> 00:00:33.480]  这是第一点
+[00:00:33.480 --> 00:00:35.000]  第二点是呢
+[00:00:35.000 --> 00:00:37.520]  我们有的理论
+[00:00:37.520 --> 00:00:39.680]  有的课程是在讲理论
+[00:00:39.680 --> 00:00:41.880]  有的课程是在讲案例
+[00:00:41.880 --> 00:00:43.760]  所以希望大家呢
+[00:00:43.760 --> 00:00:46.040]  能把完整的一整套听下来
+[00:00:46.040 --> 00:00:46.840]  再做评价
+[00:00:46.840 --> 00:00:49.380]  有的人光在案例那一章听完
+[00:00:49.380 --> 00:00:51.380]  说怎么一点理论都不讲呢
+[00:00:51.380 --> 00:00:53.740]  有的光在理论章节听完之后
+[00:00:53.740 --> 00:00:55.440]  一点案例怎么都不讲呢
+[00:00:55.440 --> 00:00:57.660]  我刚才看了一下
+[00:00:57.660 --> 00:00:59.380]  我们已经是一个长达31的
+[00:00:59.380 --> 00:01:01.160]  这样一个非常复杂的课程了
+[00:01:01.160 --> 00:01:04.280]  所以希望大家从头到尾全部听完
+[00:01:04.280 --> 00:01:06.080]  再给我做完整的反馈
+[00:01:06.080 --> 00:01:07.520]  我觉得这样也更公正一些
+[00:01:07.520 --> 00:01:10.100]  而且我们对大家的这个东西
+[00:01:10.100 --> 00:01:12.120]  也才能真正了解
+[00:01:12.120 --> 00:01:13.480]  大家真正的意见是什么
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 137.512 -t 74.671 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:00.660]  好
+[00:00:00.660 --> 00:00:01.720]  言归正传
+[00:00:01.720 --> 00:00:02.600]  珍惜时间
+[00:00:02.600 --> 00:00:03.420]  马上开始
+[00:00:03.420 --> 00:00:05.680]  目前呢
+[00:00:05.680 --> 00:00:08.140]  我们全球最大的一个主钱率啊
+[00:00:08.140 --> 00:00:09.640]  就是钱不值钱
+[00:00:09.640 --> 00:00:11.700]  流动性是过剩的
+[00:00:11.700 --> 00:00:14.640]  那有的这个读者就会问我啊
+[00:00:14.640 --> 00:00:16.220]  这流动性过剩是个什么鬼
+[00:00:16.220 --> 00:00:17.420]  以前都没有听过
+[00:00:17.420 --> 00:00:19.580]  其实通俗来讲呢
+[00:00:19.580 --> 00:00:21.500]  就是借贷的成本极低
+[00:00:21.500 --> 00:00:23.540]  全世界的央行啊
+[00:00:23.540 --> 00:00:24.920]  都在发行钞票
+[00:00:24.920 --> 00:00:27.120]  逼着每个人成为富人
+[00:00:27.120 --> 00:00:29.060]  要不是我们怎么觉得
+[00:00:29.060 --> 00:00:30.580]  自己工资些老涨
+[00:00:30.580 --> 00:00:34.200]  虽然有时候我们会读一些文章
+[00:00:34.200 --> 00:00:35.400]  或者甚至抱怨一下
+[00:00:35.400 --> 00:00:36.480]  说我工资没有涨
+[00:00:36.480 --> 00:00:38.120]  或者之类来抱怨
+[00:00:38.120 --> 00:00:41.020]  但是对于绝大多数人来说
+[00:00:41.020 --> 00:00:43.620]  其实不可不免的一个客观事实
+[00:00:43.620 --> 00:00:44.420]  就是我们的工资
+[00:00:44.420 --> 00:00:45.940]  当然是一直在上涨的
+[00:00:45.940 --> 00:00:46.520]  对吧
+[00:00:46.520 --> 00:00:48.380]  包括我前几天
+[00:00:48.380 --> 00:00:49.660]  如果有关心我的读者
+[00:00:49.660 --> 00:00:51.000]  看我在微博里面发的
+[00:00:51.000 --> 00:00:52.200]  我就说
+[00:00:52.200 --> 00:00:54.220]  现在我们绝大多数很多大学生
+[00:00:54.220 --> 00:00:56.640]  在北上广大学生起跳的起心
+[00:00:56.640 --> 00:00:59.160]  较比他们绝大多数父母
+[00:00:59.160 --> 00:01:01.220]  奋斗一辈子
+[00:01:01.220 --> 00:01:03.040]  得到的薪水现在还高
+[00:01:03.040 --> 00:01:04.480]  举个例子
+[00:01:04.480 --> 00:01:06.820]  现在比较稍微优秀一些的
+[00:01:06.820 --> 00:01:07.620]  211的学生
+[00:01:07.620 --> 00:01:09.880]  在北京只要找一个互联网公司的工作
+[00:01:09.880 --> 00:01:13.860]  甚至很多人起挑的起薪都有七八千
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 211.683 -t 78.017 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.900]  而我爸其实在
+[00:00:01.900 --> 00:00:04.100]  就是他在那个小城市当公务员
+[00:00:04.100 --> 00:00:06.040]  都干了这么久了
+[00:00:06.040 --> 00:00:08.420]  其实基本工资也就在七八千
+[00:00:08.420 --> 00:00:12.720]  所以你想我爸都已经五六十了
+[00:00:12.720 --> 00:00:14.540]  干了一辈子这么点钱
+[00:00:14.540 --> 00:00:16.280]  而他们起薪是这么高
+[00:00:16.280 --> 00:00:17.320]  什么原因呢
+[00:00:17.320 --> 00:00:19.120]  宏观上真正的原因是什么
+[00:00:19.120 --> 00:00:19.980]  其实就这个原因
+[00:00:19.980 --> 00:00:22.220]  全世界央行发钞
+[00:00:22.220 --> 00:00:24.620]  逼着每个人都成为富人
+[00:00:24.620 --> 00:00:26.260]  因为他那个工资不断上涨
+[00:00:26.260 --> 00:00:29.820]  所以从概率上来看
+[00:00:29.820 --> 00:00:34.380]  我们这个时代成为富人是最容易的
+[00:00:34.380 --> 00:00:37.120]  所以致富以及实现财富自由
+[00:00:37.120 --> 00:00:39.060]  也是我们这个时代的主旋律
+[00:00:39.060 --> 00:00:41.760]  在这个大通胀的时代
+[00:00:41.760 --> 00:00:43.400]  鼓励负债
+[00:00:43.400 --> 00:00:45.840]  负债越多越好
+[00:00:45.840 --> 00:00:49.220]  所以你做大你的负债表
+[00:00:49.220 --> 00:00:50.780]  做大你的资产表
+[00:00:50.780 --> 00:00:54.280]  是你致富的一个最重要的手段
+[00:00:54.280 --> 00:00:56.060]  我们把干货讲完了
+[00:00:56.060 --> 00:00:56.800]  讲点例子
+[00:00:56.800 --> 00:00:58.740]  首先呢
+[00:00:58.740 --> 00:01:01.360]  在我们实现财富自由之前
+[00:01:01.360 --> 00:01:03.960]  我们往往要对这个世界的运转形式
+[00:01:03.960 --> 00:01:05.360]  有一个基本认识
+[00:01:05.360 --> 00:01:08.040]  就你要知道你现在生活的这个地球
+[00:01:08.040 --> 00:01:09.220]  正在发生着什么
+[00:01:09.220 --> 00:01:10.680]  这样的话呢
+[00:01:10.680 --> 00:01:12.960]  会对你做出很多生活的决策
+[00:01:12.960 --> 00:01:14.620]  都有非常大的帮助
+[00:01:14.620 --> 00:01:17.500]  就跟你是在生活在一个森林里的一只
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 289.200 -t 74.943 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.200]  动物
+[00:00:01.200 --> 00:00:02.820]  你必须了解这个森林
+[00:00:02.820 --> 00:00:05.180]  比如说它河流是从高往低流的
+[00:00:05.180 --> 00:00:06.660]  什么时候会下雨
+[00:00:06.660 --> 00:00:08.000]  什么时候有灌木丛
+[00:00:08.000 --> 00:00:09.640]  什么地方有森林
+[00:00:09.640 --> 00:00:10.720]  你必须非常了解
+[00:00:10.720 --> 00:00:12.720]  你如果是一只狮子的话
+[00:00:12.720 --> 00:00:14.540]  你才知道能在哪里抓到羚羊
+[00:00:14.540 --> 00:00:16.480]  你如果是羚羊的话
+[00:00:16.480 --> 00:00:18.740]  才知道怎么才能躲避狮子的追捕
+[00:00:18.740 --> 00:00:21.320]  所以对于任何一个
+[00:00:21.320 --> 00:00:24.420]  在一个有机生态体里的一个组成部分
+[00:00:24.420 --> 00:00:27.100]  你都需要对你的宏观生态体
+[00:00:27.100 --> 00:00:28.700]  有个非常清楚的了解
+[00:00:28.700 --> 00:00:31.360]  这样才能让你在整个生态系统中
+[00:00:31.360 --> 00:00:32.660]  活得非常舒服
+[00:00:32.660 --> 00:00:34.420]  首先我们要了解
+[00:00:34.420 --> 00:00:37.940]  我们整个运转的基本金融体系
+[00:00:37.940 --> 00:00:39.180]  是什么样的
+[00:00:39.180 --> 00:00:40.960]  所以这一章即便有些枯燥
+[00:00:40.960 --> 00:00:42.600]  但我觉得对于每个人来说
+[00:00:42.600 --> 00:00:44.120]  都是必听的
+[00:00:44.120 --> 00:00:44.920]  因为听了之后
+[00:00:44.920 --> 00:00:47.600]  你才能对我们剩下来讲的课的
+[00:00:47.600 --> 00:00:48.540]  非常多的逻辑
+[00:00:48.540 --> 00:00:49.720]  有一个基本的认识
+[00:00:49.720 --> 00:00:54.720]  首先我们要从布林顿森林体系讲起
+[00:00:54.720 --> 00:00:56.820]  也就是从金本位
+[00:00:56.820 --> 00:01:00.640]  到所谓的美元通胀的这么一个美元体系的时代
+[00:01:00.640 --> 00:01:02.180]  首先呢
+[00:01:02.180 --> 00:01:04.680]  我先讲一下金本位是什么东西
+[00:01:04.680 --> 00:01:05.760]  金本位啊
+[00:01:05.760 --> 00:01:06.660]  其实就顾名思义
+[00:01:06.660 --> 00:01:08.320]  就是我们以前记得的啊
+[00:01:08.320 --> 00:01:11.620]  好像把黄金作为一种主要货币的时代
+[00:01:11.620 --> 00:01:13.100]  就是比如说我想买
+[00:01:13.100 --> 00:01:14.500]  现在买一个桌子凳子
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 363.644 -t 75.099 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:00.920]  不收钱
+[00:00:00.920 --> 00:00:02.800]  只收黄金
+[00:00:02.800 --> 00:00:04.040]  把你黄金给我
+[00:00:04.040 --> 00:00:06.520]  这是我们以前的政治课本里叫做
+[00:00:06.520 --> 00:00:08.060]  黄金作为一般等价物嘛
+[00:00:08.060 --> 00:00:08.980]  作为进行交换
+[00:00:08.980 --> 00:00:10.940]  但现在当然大家也知道
+[00:00:10.940 --> 00:00:13.860]  我们其实如果除了戴金项链啊
+[00:00:13.860 --> 00:00:15.420]  可能家里有时候偶尔送你
+[00:00:15.420 --> 00:00:17.840]  有一两个装饰的金条啊
+[00:00:17.840 --> 00:00:20.940]  其实很少有人在在实际生活中
+[00:00:20.940 --> 00:00:22.060]  见到黄金了
+[00:00:22.060 --> 00:00:24.260]  那这是为了什么
+[00:00:24.260 --> 00:00:26.400]  中间是发生了什么样的变化呢
+[00:00:26.400 --> 00:00:29.260]  中间就有一个重要的过渡阶段
+[00:00:29.260 --> 00:00:31.840]  叫做布林顿森林体系
+[00:00:31.840 --> 00:00:34.880]  等一下我再讲布林顿森林体系
+[00:00:34.880 --> 00:00:37.240]  但是我们可以先讲一讲
+[00:00:37.240 --> 00:00:39.560]  在黄金本位时期
+[00:00:39.560 --> 00:00:41.560]  就是我们直接用黄金
+[00:00:41.560 --> 00:00:44.300]  作为一个基本货币的时候
+[00:00:44.300 --> 00:00:47.600]  生活中出现了哪些问题
+[00:00:47.600 --> 00:00:52.140]  首先黄金作为一种基本手段
+[00:00:52.140 --> 00:00:54.660]  其实我们乍一想就可以知道
+[00:00:54.660 --> 00:00:57.280]  它有非常多的问题
+[00:00:57.280 --> 00:00:58.680]  当然最简单的一个问题
+[00:00:58.680 --> 00:01:00.000]  所有人都会意识到的
+[00:01:00.000 --> 00:01:00.280]  就是
+[00:01:00.280 --> 00:01:03.120]  黄金不太方便
+[00:01:03.120 --> 00:01:04.320]  代价有点重
+[00:01:04.320 --> 00:01:06.880]  比如说到每个地方呢
+[00:01:06.880 --> 00:01:08.680]  去其实用起来都很不方便
+[00:01:08.680 --> 00:01:11.040]  其实这个时代早期啊
+[00:01:11.040 --> 00:01:11.920]  早在一战
+[00:01:11.920 --> 00:01:15.100]  就第一次世界大战的时候呢
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 438.242 -t 80.350 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.840]  国际贸易呢
+[00:00:01.840 --> 00:00:03.980]  就当然因为打仗
+[00:00:03.980 --> 00:00:05.840]  那就受到非常大的影响
+[00:00:05.840 --> 00:00:07.840]  这个时候啊
+[00:00:07.840 --> 00:00:09.440]  各个国家为了保障
+[00:00:09.440 --> 00:00:11.260]  他就把他的货币要兑换成黄金嘛
+[00:00:11.260 --> 00:00:12.460]  因为因为金本位嘛
+[00:00:12.460 --> 00:00:13.680]  大家都承认黄金啊
+[00:00:13.680 --> 00:00:14.840]  黄金的信用最好
+[00:00:14.840 --> 00:00:16.280]  然后呢
+[00:00:16.280 --> 00:00:18.240]  那把黄金都兑走了
+[00:00:18.240 --> 00:00:21.300]  市场上就流通的黄金也越来越少
+[00:00:21.300 --> 00:00:23.780]  所以就导致金本位制度
+[00:00:23.780 --> 00:00:26.280]  本身就开始发生了很大的困难
+[00:00:26.280 --> 00:00:27.760]  等一下我会再讲
+[00:00:27.760 --> 00:00:29.540]  金本位本质呢
+[00:00:29.540 --> 00:00:31.760]  有有很多更多的困难啊
+[00:00:31.760 --> 00:00:33.600]  这个是在布林顿森林体系
+[00:00:33.600 --> 00:00:35.240]  对他进行小修小补之后
+[00:00:35.240 --> 00:00:36.900]  才暴露的更加明显的
+[00:00:36.900 --> 00:00:39.380]  就是黄金金本位啊
+[00:00:39.380 --> 00:00:41.620]  其实要为这个世界的经济制度
+[00:00:41.620 --> 00:00:43.420]  背很多锅了
+[00:00:43.420 --> 00:00:45.260]  等下我给大家一点点讲
+[00:00:45.260 --> 00:00:45.960]  你们就会明白
+[00:00:45.960 --> 00:00:47.500]  然后呢
+[00:00:47.500 --> 00:00:49.200]  1929年呢
+[00:00:49.200 --> 00:00:51.520]  又有一次世界性的萧条
+[00:00:51.520 --> 00:00:52.320]  大家知道
+[00:00:52.320 --> 00:00:54.700]  包括美国啊
+[00:00:54.700 --> 00:00:55.400]  欧洲啊
+[00:00:55.400 --> 00:00:57.440]  包括苏联很多国家都陷入这个萧条
+[00:00:57.440 --> 00:00:58.440]  包括中国在内
+[00:00:58.440 --> 00:01:01.860]  然后直接这一次萧条
+[00:01:01.860 --> 00:01:04.560]  导致其中一些国家发生变化
+[00:01:04.560 --> 00:01:06.320]  像德国日本
+[00:01:06.320 --> 00:01:09.280]  所以导致了第二次世界大战
+[00:01:09.280 --> 00:01:10.520]  然后我要讲一下
+[00:01:10.520 --> 00:01:13.940]  就是1929年发生世界性经济危机的时候
+[00:01:13.940 --> 00:01:15.980]  其中有一个重大问题
+[00:01:15.980 --> 00:01:17.980]  就是全世界的所有央行政府
+[00:01:17.980 --> 00:01:19.800]  都没有办法拯救这次金融危机
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 518.093 -t 77.098 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.100]  因为那个时候中央政府呢
+[00:00:03.100 --> 00:00:05.000]  不拥有印钞的权利
+[00:00:05.000 --> 00:00:06.140]  就是企业出问题了
+[00:00:06.140 --> 00:00:08.040]  也没法印钱救他
+[00:00:08.040 --> 00:00:09.880]  就是说我们企业明天就要倒闭了
+[00:00:09.880 --> 00:00:10.800]  工资工人发不出来
+[00:00:10.800 --> 00:00:12.160]  现在呢
+[00:00:12.160 --> 00:00:12.700]  很简单
+[00:00:12.700 --> 00:00:14.740]  政府直接印
+[00:00:14.740 --> 00:00:16.000]  比如说拜拜印
+[00:00:16.000 --> 00:00:17.980]  比如说一个亿美金借给你
+[00:00:17.980 --> 00:00:18.840]  你去发工资
+[00:00:18.840 --> 00:00:20.900]  你就借了
+[00:00:20.900 --> 00:00:22.420]  把这员工工资发了
+[00:00:22.420 --> 00:00:23.240]  发了之后呢
+[00:00:23.240 --> 00:00:25.220]  你要回来好好把生产再调节一下
+[00:00:25.220 --> 00:00:26.220]  你不是又赚钱了吗
+[00:00:26.220 --> 00:00:28.440]  你赚钱了再把钱还给政府
+[00:00:28.440 --> 00:00:29.400]  其实不是政府
+[00:00:29.400 --> 00:00:30.840]  就还给央行就可以了
+[00:00:30.840 --> 00:00:32.140]  央行印了把钱借给你
+[00:00:32.140 --> 00:00:34.420]  或者是有时候央行印了钱
+[00:00:34.420 --> 00:00:35.440]  把钱借给美国政府
+[00:00:35.440 --> 00:00:36.960]  再由美国政府借给你
+[00:00:36.960 --> 00:00:38.260]  但是1929年的时候
+[00:00:38.260 --> 00:00:39.460]  我们没有办法这样做
+[00:00:39.460 --> 00:00:43.160]  当然其实包括这一次世界景气萧条
+[00:00:43.160 --> 00:00:44.520]  美国政府主要解决的
+[00:00:44.520 --> 00:00:46.440]  其实也是政府投放货币的手段
+[00:00:46.440 --> 00:00:50.160]  最后包括美国政府修了非常多的基础设施建设
+[00:00:50.160 --> 00:00:52.520]  来大幅的拉动美国经济增长
+[00:00:52.520 --> 00:00:57.820]  所以在1945年第二次世界大战结束的时候
+[00:00:57.820 --> 00:01:00.840]  大家就说再也不能这样了
+[00:01:00.840 --> 00:01:06.140]  我们要对金本位进行一定程度的修补
+[00:01:06.140 --> 00:01:10.660]  所以大家就聚在美国新罕布什尔州
+[00:01:10.660 --> 00:01:11.640]  叫New Hampshire
+[00:01:11.640 --> 00:01:15.680]  那个州的布林顿森林这个地方
+[00:01:15.680 --> 00:01:17.100]  开了个会
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 594.690 -t 75.593 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.060]  就建构了一个新的体系
+[00:00:02.060 --> 00:00:03.640]  叫布林顿森林体系
+[00:00:03.640 --> 00:00:06.340]  这个布林顿森林体系呢
+[00:00:06.340 --> 00:00:08.080]  主要内容是什么
+[00:00:08.080 --> 00:00:09.500]  其实我们很多人
+[00:00:09.500 --> 00:00:11.300]  可能高中课本都学过
+[00:00:11.300 --> 00:00:13.600]  但是完全没听懂
+[00:00:13.600 --> 00:00:15.620]  这时候我给大家再补补课
+[00:00:15.620 --> 00:00:16.700]  讲一讲
+[00:00:16.700 --> 00:00:18.080]  其实呢
+[00:00:18.080 --> 00:00:19.720]  就规定了几条
+[00:00:19.720 --> 00:00:21.560]  布林顿森林体系啊
+[00:00:21.560 --> 00:00:22.760]  自己本身呢
+[00:00:22.760 --> 00:00:24.460]  还是一个金本位体系
+[00:00:24.460 --> 00:00:25.940]  其实我个人认为
+[00:00:25.940 --> 00:00:28.520]  它只是对金本位的一次修补
+[00:00:28.520 --> 00:00:31.540]  其实原则上很简单
+[00:00:31.540 --> 00:00:32.400]  很简单
+[00:00:32.400 --> 00:00:34.560]  无论他说一千到一万
+[00:00:34.560 --> 00:00:36.540]  其实中间的原因很简单
+[00:00:36.540 --> 00:00:37.180]  就是说呢
+[00:00:37.180 --> 00:00:38.100]  以后大家呀
+[00:00:38.100 --> 00:00:40.480]  就别用黄金了
+[00:00:40.480 --> 00:00:42.000]  改用美元
+[00:00:42.000 --> 00:00:43.860]  那个时候呢
+[00:00:43.860 --> 00:00:45.280]  当然因为美国已经是
+[00:00:45.280 --> 00:00:46.660]  整个世界秩序的
+[00:00:46.660 --> 00:00:47.840]  创造者和建立者
+[00:00:47.840 --> 00:00:49.220]  已经在这个地球
+[00:00:49.220 --> 00:00:51.900]  已经拥有至高无上的权利了
+[00:00:51.900 --> 00:00:52.960]  那时候大家也知道
+[00:00:52.960 --> 00:00:54.220]  欧洲都被打成狗了
+[00:00:54.220 --> 00:00:56.020]  都是美国的马歇尔计划
+[00:00:56.020 --> 00:00:57.340]  借钱给他们做建设呢
+[00:00:57.340 --> 00:00:59.500]  所以大家不会有任何意见
+[00:00:59.500 --> 00:01:00.600]  然后同时呢
+[00:01:00.600 --> 00:01:03.340]  整个亚洲包括日本韩国
+[00:01:03.340 --> 00:01:04.780]  这些国家都是美国在扶持
+[00:01:04.780 --> 00:01:05.380]  包括中国
+[00:01:05.380 --> 00:01:07.680]  那是中国内战还没有爆发呢
+[00:01:07.680 --> 00:01:09.320]  也是美国在扶持
+[00:01:09.320 --> 00:01:13.400]  甚至包括即便中国进入冷战体系框架后
+[00:01:13.400 --> 00:01:14.460]  包括改革开放之后
+[00:01:14.460 --> 00:01:15.580]  我们也
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 669.783 -t 72.307 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.820]  让美国借了非常多的钱
+[00:00:01.820 --> 00:00:03.800]  所以其实美国大概可以看战后
+[00:00:03.800 --> 00:00:05.440]  一直是一个出一个经济主导地位
+[00:00:05.440 --> 00:00:09.480]  所以在这个之前的1944年的时候
+[00:00:09.480 --> 00:00:10.800]  那时候美国更厉害
+[00:00:10.800 --> 00:00:12.280]  所以当他提出这个问题
+[00:00:12.280 --> 00:00:13.380]  大家没有任何意见
+[00:00:13.380 --> 00:00:14.440]  说好可以用美元
+[00:00:14.440 --> 00:00:17.140]  但大家这时候对美国人还是有点concern
+[00:00:17.140 --> 00:00:19.080]  就觉得靠谱吗
+[00:00:19.080 --> 00:00:20.340]  所以这时候美国人就说
+[00:00:20.340 --> 00:00:21.320]  好那你就可以
+[00:00:21.320 --> 00:00:24.340]  你们随时可以拿你的手里的美元
+[00:00:24.340 --> 00:00:27.000]  来从我这儿把我的黄金踢走
+[00:00:27.000 --> 00:00:29.260]  那时候美元呢
+[00:00:29.260 --> 00:00:31.320]  美国的这个黄金储备也比较多
+[00:00:31.320 --> 00:00:35.700]  所以这时候其实美明契约用美元
+[00:00:35.700 --> 00:00:38.220]  实际上跟用黄金是没有差别的
+[00:00:38.220 --> 00:00:42.700]  因为这时候的美元就无非其实就是美金嘛
+[00:00:42.700 --> 00:00:44.080]  就是美元黄金
+[00:00:44.080 --> 00:00:45.320]  其实本质还是黄金
+[00:00:45.320 --> 00:00:46.900]  所以呢
+[00:00:46.900 --> 00:00:49.220]  就执行了个固定汇率
+[00:00:49.220 --> 00:00:51.740]  这就是所谓的布林顿森林体系
+[00:00:51.740 --> 00:00:55.220]  结果布林顿森林体系呢
+[00:00:55.220 --> 00:00:58.320]  到五六十年代的时候啊
+[00:00:58.320 --> 00:01:00.320]  就出现了很多问题
+[00:01:00.320 --> 00:01:02.540]  通常意义上呢
+[00:01:02.540 --> 00:01:05.500]  我们经常讲的一个原因是
+[00:01:05.500 --> 00:01:07.920]  这些国家他赚了美金之后都觉得不靠谱
+[00:01:07.920 --> 00:01:09.340]  都去换黄金
+[00:01:09.340 --> 00:01:11.440]  结果慢慢呢就把
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 741.590 -t 72.614 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.180]  美国人的黄金全给换完了
+[00:00:02.180 --> 00:00:03.460]  美国人说不能换了
+[00:00:03.460 --> 00:00:04.160]  不能换了啊
+[00:00:04.160 --> 00:00:05.580]  不能换不能换黄金了
+[00:00:05.580 --> 00:00:06.520]  再换我没了
+[00:00:06.520 --> 00:00:08.060]  说不允许换了
+[00:00:08.060 --> 00:00:09.460]  所以就导致
+[00:00:09.460 --> 00:00:12.260]  这整个布林顿森林体系崩溃了
+[00:00:12.260 --> 00:00:13.360]  美国人不说不允许换
+[00:00:13.360 --> 00:00:14.240]  那不就崩溃了吗
+[00:00:14.240 --> 00:00:17.460]  但是其实我个人认为呢
+[00:00:17.460 --> 00:00:20.260]  布林顿森林体系的崩溃呢
+[00:00:20.260 --> 00:00:24.140]  不是大家都去换黄金导致的
+[00:00:24.140 --> 00:00:26.800]  而是金本位
+[00:00:26.800 --> 00:00:29.500]  有它内在的很多问题
+[00:00:29.500 --> 00:00:33.500]  所以才渐渐开始变成了
+[00:00:33.500 --> 00:00:37.840]  今天我们以一个美元为单位的计价体系
+[00:00:37.840 --> 00:00:39.080]  而且大家要注意
+[00:00:39.080 --> 00:00:40.940]  布林顿森的体系崩溃之后
+[00:00:40.940 --> 00:00:43.500]  美元与黄金再也不挂钩了
+[00:00:43.500 --> 00:00:47.440]  就是美元跟黄金之前半毛钱关系没有
+[00:00:47.440 --> 00:00:50.540]  黄金与现在大家用的笔记本电脑
+[00:00:50.540 --> 00:00:51.380]  iPhone手机
+[00:00:51.380 --> 00:00:53.660]  包括我桌子上这一盒纸
+[00:00:53.660 --> 00:00:54.600]  没有任何差别
+[00:00:54.600 --> 00:00:56.760]  就是一种普通商品
+[00:00:56.760 --> 00:00:58.680]  大家也不用指望
+[00:00:58.680 --> 00:01:00.000]  就是发生什么金融危机
+[00:01:00.000 --> 00:01:00.940]  你去囤黄金
+[00:01:00.940 --> 00:01:03.840]  我觉得也很难回到黄金时代了
+[00:01:03.840 --> 00:01:06.660]  黄金现在就跟你家的垃圾框一样
+[00:01:06.660 --> 00:01:08.000]  就是一种普通商品
+[00:01:08.000 --> 00:01:10.760]  不具有任何程度的差别
+[00:01:10.760 --> 00:01:12.120]  大家一定要这样理解
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-010/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 813.704 -t 60.536 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-011/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.260]  就现在我发现很多人啊
+[00:00:02.260 --> 00:00:04.180]  活在我们现在已经21世纪了
+[00:00:04.180 --> 00:00:05.460]  还活在上世纪
+[00:00:05.460 --> 00:00:07.760]  大概50年代那种金本位思想下
+[00:00:07.760 --> 00:00:08.600]  有很多人觉得
+[00:00:08.600 --> 00:00:11.500]  就觉得黄金保值值钱什么的
+[00:00:11.500 --> 00:00:13.500]  你觉得你家垃圾桶保值吗
+[00:00:13.500 --> 00:00:13.920]  是吧
+[00:00:13.920 --> 00:00:16.000]  你觉得你家纸巾盒子保值吗
+[00:00:16.000 --> 00:00:17.300]  如果你觉得那不保值
+[00:00:17.300 --> 00:00:18.400]  黄金也不保值
+[00:00:18.400 --> 00:00:19.660]  所以呢
+[00:00:19.660 --> 00:00:21.140]  你一定要正确理解
+[00:00:21.140 --> 00:00:23.100]  就布林顿身体崩溃之后
+[00:00:23.100 --> 00:00:27.040]  黄金就已经完全不是一个
+[00:00:27.040 --> 00:00:29.140]  所谓的货币了
+[00:00:29.140 --> 00:00:30.840]  它就成为一个正常的商品
+[00:00:30.840 --> 00:00:33.100]  所以我们叫黄金的非货币化
+[00:00:33.100 --> 00:00:35.980]  所以我要讲一下前面
+[00:00:35.980 --> 00:00:39.560]  我们经常认为的布林顿森林体系崩溃的原因是不对的
+[00:00:39.560 --> 00:00:41.660]  就是把美国人的黄金给换没了
+[00:00:41.660 --> 00:00:44.660]  这个可能是其中一个原因吧
+[00:00:44.660 --> 00:00:46.160]  但是我觉得是个太小的原因
+[00:00:46.160 --> 00:00:51.160]  真真正正还是金本位在实施过程中太多问题了
+[00:00:59.140 --> 00:01:29.120]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-011/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-011/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-011/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__032__2714f2f9/chunk-011/out -sns -nf -np

@@ -4,10 +4,10 @@
 - manifest_items: 209
 - reviewed_transcripts: 209
 - high: 21
-- medium: 29
-- low: 75
-- clean: 84
-- issue_counts: {'连续重复': 120, '近似重复': 95, '行内循环': 84, '固定口播堆叠': 43, '长音频短文稿': 11, '空行': 7, '疑似错词': 6, '长音频文稿过密': 2, '全文重复': 1}
+- medium: 22
+- low: 77
+- clean: 89
+- issue_counts: {'连续重复': 109, '近似重复': 86, '行内循环': 83, '固定口播堆叠': 39, '长音频短文稿': 11, '空行': 7, '疑似错词': 6, '长音频文稿过密': 2, '全文重复': 1}
 
 ## 高风险 Top 50
 
@@ -209,7 +209,7 @@
 ### wavlake-mp3__010__0b5decda | high | severity 81
 - 文件: `010 - 010 - 010 孙宇晨：财富自由是年轻人首要关注的问题.mp3`
 - 文稿: `transcriptions/text/wavlake-mp3__010__0b5decda.txt`
-- 行数/字数/时长: 82 行 / 1497 字 / 459.0 秒
+- 行数/字数/时长: 82 行 / 1498 字 / 459.0 秒
 - 连续重复 L1-L5: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
 - 固定口播堆叠 lines [1, 2, 3, 4, 5, 82]: 请不吝点赞订阅转发打赏支持明镜与点点栏目
 - 固定口播堆叠 lines [1, 2, 3, 4, 5, 82]: 请不吝点赞订阅转发打赏支持
@@ -223,17 +223,6 @@
 - 长音频文稿过密:
 - 近似重复 L42-L296: 他们说,哎呀,我们的公司是推特的公司。
 - 行内循环 L39: 滴滴说,哎,哦,对对对,最近我确实发现了,哎呀,我们滴滴有几个员工,太糟糕了。
-
-### wavlake-mp3__124__4343a7c0 | medium | severity 78
-- 文件: `124 - 124 - 125 孙宇晨：【财富天问】中国人为什么富不起来？谈中国财富传承问题.mp3`
-- 文稿: `transcriptions/text/wavlake-mp3__124__4343a7c0.txt`
-- 行数/字数/时长: 268 行 / 4742 字 / 1020.0 秒
-- 连续重复 L46-L71: 我记得这个是当时喜马拉雅的赛事,
-- 近似重复 L46-L71: 我记得这个是当时喜马拉雅的赛事,
-- 近似重复 L27-L28: 如果我们听过的富三代的富豪,基本都是从香港或者海外归国的富豪。
-- 近似重复 L35-L36: 我们经常说,站在巨人的肩膀上能看得更远,但是在中国站在富人的肩膀上却死得更快,这个问题始终困扰着中国的富人。
-- 连续重复 L27-L28: 如果我们听过的富三代的富豪,基本都是从香港或者海外归国的富豪。
-- 连续重复 L35-L36: 我们经常说,站在巨人的肩膀上能看得更远,但是在中国站在富人的肩膀上却死得更快,这个问题始终困扰着中国的富人。
 
 ### wavlake-mp3__104__c80960f1 | medium | severity 74
 - 文件: `104 - 104 - 105 孙宇晨：【比特币】与区块链的关系.mp3`
@@ -254,15 +243,6 @@
 - 近似重复 L77-L78: 接下来的两章呢,我们还会讲90后不买车和90后不买房两章。
 - 近似重复 L79-L80: 我们也会跟大家仔细去分析婚姻、车、房,真正对于每一个90后的意义。
 
-### official-vimeo-m4a-partial__010__52931080 | medium | severity 69
-- 文件: `010 - 010预告-财富自由是什么 [1179690712].m4a`
-- 文稿: `transcriptions/text/official-vimeo-m4a-partial__010__52931080.txt`
-- 行数/字数/时长: 151 行 / 1464 字 / 459.0 秒
-- 连续重复 L1-L4: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-- 固定口播堆叠 lines [1, 2, 3, 4]: 请不吝点赞订阅转发打赏支持明镜与点点栏目
-- 固定口播堆叠 lines [1, 2, 3, 4]: 请不吝点赞订阅转发打赏支持
-- 近似重复 L1-L4: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-
 ### wavlake-mp3__118__86d1aebf | medium | severity 64
 - 文件: `118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3`
 - 文稿: `transcriptions/text/wavlake-mp3__118__86d1aebf.txt`
@@ -274,17 +254,6 @@
 - 近似重复 L69-L71: 找一个好的伴侣,对自己来说是非常重要的。
 - 连续重复 L60-L61: 如果愿意去探索真功夫离婚案的读者,可以找来去看一看。
 
-### official-vimeo-m4a-partial__016__71e7d985 | medium | severity 59
-- 文件: `016 - 016财富自由从未如此容易过 [1179692693].m4a`
-- 文稿: `transcriptions/text/official-vimeo-m4a-partial__016__71e7d985.txt`
-- 行数/字数/时长: 580 行 / 6060 字 / 1227.8 秒
-- 连续重复 L1-L2: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-- 固定口播堆叠 lines [1, 2, 580]: 请不吝点赞订阅转发打赏支持明镜与点点栏目
-- 固定口播堆叠 lines [1, 2, 580]: 请不吝点赞订阅转发打赏支持
-- 近似重复 L1-L2: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-- 行内循环 L274: 而某某某种程度上
-- 行内循环 L303: 三三三百多亿的美金
-
 ### wavlake-mp3__048__8b1ae8f0 | medium | severity 47
 - 文件: `048 - 048 - 048 孙宇晨：租房也可以很美好.mp3`
 - 文稿: `transcriptions/text/wavlake-mp3__048__8b1ae8f0.txt`
@@ -293,34 +262,12 @@
 - 近似重复 L143-L156: 然后我们就会再做一个设计
 - 空行 lines [71]:
 
-### official-vimeo-m4a-partial__032__2714f2f9 | medium | severity 46
-- 文件: `032 - 032布林顿森林体系的建立与崩塌 [1179724265].m4a`
-- 文稿: `transcriptions/text/official-vimeo-m4a-partial__032__2714f2f9.txt`
-- 行数/字数/时长: 177 行 / 4717 字 / 874.2 秒
-- 连续重复 L158-L177: 那我们就来看看这个问题吧。
-- 近似重复 L158-L177: 那我们就来看看这个问题吧。
-
 ### wavlake-mp3__042__1203f8e6 | medium | severity 46
 - 文件: `042 - 042 - 042 孙宇晨：【90后不结婚】找到正确的婚姻“合伙人”.mp3`
 - 文稿: `transcriptions/text/wavlake-mp3__042__1203f8e6.txt`
 - 行数/字数/时长: 29 行 / 2840 字 / 811.2 秒
 - 连续重复 L1-L13: 大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
 - 近似重复 L1-L13: 大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
-
-### wavlake-mp3__062__51b8a2ee | medium | severity 46
-- 文件: `062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3`
-- 文稿: `transcriptions/text/wavlake-mp3__062__51b8a2ee.txt`
-- 行数/字数/时长: 38 行 / 1938 字 / 1063.0 秒
-- 连续重复 L2-L38: 大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,在喜马拉雅上的中文口播音频。
-- 近似重复 L2-L38: 大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,在喜马拉雅上的中文口播音频。
-
-### wavlake-mp3__119__c3bb26c7 | medium | severity 43
-- 文件: `119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3`
-- 文稿: `transcriptions/text/wavlake-mp3__119__c3bb26c7.txt`
-- 行数/字数/时长: 324 行 / 4951 字 / 768.7 秒
-- 连续重复 L29-L324: 所以,在中国,父母是不孝的。
-- 近似重复 L27-L28: 所以,在中国,父母的父母是不孝的。
-- 连续重复 L27-L28: 所以,在中国,父母的父母是不孝的。
 
 ### wavlake-mp3__041__5af9497a | medium | severity 42
 - 文件: `041 - 041 - 041 孙宇晨：婚姻功能弱化.mp3`
@@ -348,14 +295,6 @@
 - 近似重复 L161-L163: 也就是哥哥和弟弟本质混好了是没有强制义务去帮助他的姐姐。
 - 近似重复 L172-L173: 而且同时其实弟弟位置上分开已经是一个天赋。
 - 连续重复 L172-L173: 而且同时其实弟弟位置上分开已经是一个天赋。
-
-### official-vimeo-m4a-partial__012__842975e3 | medium | severity 37
-- 文件: `012 - 012财富自由的本质 [1179691257].m4a`
-- 文稿: `transcriptions/text/official-vimeo-m4a-partial__012__842975e3.txt`
-- 行数/字数/时长: 323 行 / 3501 字 / 817.5 秒
-- 连续重复 L1-L2: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-- 近似重复 L1-L2: 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-- 行内循环 L202: 我就要立刻干什么干什么干什么了
 
 ### wavlake-mp3__012__a90a69b6 | medium | severity 37
 - 文件: `012 - 012 - 012 孙宇晨：财富自由与精神自由的关系.mp3`
@@ -465,6 +404,60 @@
 - 连续重复 L18-L20: 他确实在阿里巴巴获得了非常高的金额。
 - 近似重复 L17-L20: 但他确实在阿里巴巴获得了非常高的金额。
 
+### wavlake-mp3__020__08dd87ba | low | severity 21
+- 文件: `020 - 020 - 020 孙宇晨：财富自由、互联网、道德变化.mp3`
+- 文稿: `transcriptions/text/wavlake-mp3__020__08dd87ba.txt`
+- 行数/字数/时长: 256 行 / 3833 字 / 802.5 秒
+- 近似重复 L1-L2: 大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+- 连续重复 L1-L2: 大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。
+- 行内循环 L4: 然后第十九到二十周,讲原始积累个人奋斗在中国的合法性,这一点也是非常强调的,其实尤其你在取得一定程度财富自由的时候,你会发现这个对于中国来说是当务之急,是最最最典型的当务之急。
+- 行内循环 L22: 我们当然跟跟跟打土豪分田地有关系啊,但除此之外,中国人为什么富不过三代?
+
+### wavlake-mp3__022__05b72a7e | low | severity 20
+- 文件: `022 - 022 - 022 孙宇晨：穷人思维下的教育问题.mp3`
+- 文稿: `transcriptions/text/wavlake-mp3__022__05b72a7e.txt`
+- 行数/字数/时长: 37 行 / 4457 字 / 837.9 秒
+- 行内循环 L13: 也是非常复杂的,都不是一两句话能讲清楚的,是一个非常复杂的过程,但是老百姓不,老百姓说no no no,这些我都不接受,你只要一给我谈到复杂因素,我觉得这不公平,你们monitor太多,妈的不行,哥,必须选一个最简单的,最简单的,老百姓说那就应试教育,考个分,考个分,不管你长得丑
+- 行内循环 L21: 让应试者更可能多的去表现自己的方方面面,然后我们收集这些所有的数据,然后来得出一个统一的结论,还有种诉讼,千万不要,妈的,这只要出现一个就是妈的不公平,不公平,不公平,一定要只只考这个课本上说过的,然后按这个东西打个分,就谁录去考谁,这是两种思路,我相信即便拥有这样的穷人思维跟老
+- 行内循环 L29: 连这个录取都按照穷人思维和老百姓思维的规定来设置考试模式了,你还他妈考不赢,还有啥好说的呢,哥们,就差打标签了,跟以前文革时候,那个,那个,那个时候的工农兵大学生差不多了,按出身,妈的,你如果这出身不是贫农,差三代,是不是贫农,贫农才能上,就是老百姓和穷人就想的是,这什么都不许考
+- 行内循环 L30: 是不是老百姓有一个认证,打个,盖个戳,你是老百姓,盖个戳,才能上,恨不得这样规定,否则不允许,不允许,但是我告诉你,就如果你真的在社会上是一个老百姓,是个穷人,文革这个事已经测试过嘛,这个,这个,这个,这个方式也不说没测试过,你会发现最后盖这个车盖的最多是精英跟富人,就精英富人给
+- 行内循环 L34: 他发现死记硬背倒是考了一种考了一种也是人中很宝贵的一种能力,这当然有点老百姓歪打正着啊,就老百姓想的只是只是想让有钱人跟所谓我们讲的三观正确的人把他们隔绝掉,因为他们在其他领域都太优秀了,不许考不许考不许考这个最白痴考这个考这个我我是白痴,所以我在这儿我会有优势,就发现哪怕考最白
+
+### wavlake-mp3__073__e839750d | low | severity 19
+- 文件: `073 - 073 - 073 孙宇晨：【个人奋斗合法性】个人奋斗本身就是为社会做贡献.mp3`
+- 文稿: `transcriptions/text/wavlake-mp3__073__e839750d.txt`
+- 行数/字数/时长: 65 行 / 3040 字 / 667.5 秒
+- 近似重复 L44-L45: 当时就出了一个人叫马克思。
+- 连续重复 L44-L45: 当时就出了一个人叫马克思。
+- 连续重复 L51-L52: 交易而变得更好。
+
+### official-vimeo-m4a-partial__045__07f4f1d1 | low | severity 18
+- 文件: `045 - 045【小结】我在35岁成年了 [1179726569].m4a`
+- 文稿: `transcriptions/text/official-vimeo-m4a-partial__045__07f4f1d1.txt`
+- 行数/字数/时长: 101 行 / 4170 字 / 951.8 秒
+- 连续重复 L94-L101: 感谢大家的热情提供
+
+### official-vimeo-m4a-partial__029__bea15de4 | low | severity 18
+- 文件: `029 - 029子女与父母的关系 [1179696163].m4a`
+- 文稿: `transcriptions/text/official-vimeo-m4a-partial__029__bea15de4.txt`
+- 行数/字数/时长: 305 行 / 3873 字 / 782.4 秒
+- 连续重复 L229-L230: 怎么能这样呢,
+- 行内循环 L197: 你看我上次对你这样这样这样,
+- 行内循环 L227: 那个那个谁谁谁不孝,
+- 行内循环 L228: 那个谁谁谁怎么能这样呢,
+
+### wavlake-mp3__026__761d3894 | low | severity 18
+- 文件: `026 - 026 - 026 孙宇晨：金钱与自由.mp3`
+- 文稿: `transcriptions/text/wavlake-mp3__026__761d3894.txt`
+- 行数/字数/时长: 131 行 / 3301 字 / 628.6 秒
+- 连续重复 L128-L131: 谢谢大家,
+
+### wavlake-mp3__071__7aec9b0a | low | severity 18
+- 文件: `071 - 071 - 071 孙宇晨：【小结】原始积累重在“积累”.mp3`
+- 文稿: `transcriptions/text/wavlake-mp3__071__7aec9b0a.txt`
+- 行数/字数/时长: 105 行 / 2736 字 / 660.1 秒
+- 连续重复 L49-L53: 绝大多数人会高估到,
+
 ## 每份文稿状态
 
 | level | severity | audio_id | source | lines | chars | top issue |
@@ -489,23 +482,16 @@
 | high | 138 | `wavlake-mp3__017__679379a1` | wavlake-mp3 | 13 | 291 | 连续重复 |
 | high | 99 | `wavlake-mp3__016__817bdf46` | wavlake-mp3 | 545 | 6119 | 连续重复 |
 | high | 97 | `official-vimeo-m4a-partial__020__3716d04e` | official-vimeo-m4a-partial | 6 | 163 | 连续重复 |
-| high | 81 | `wavlake-mp3__010__0b5decda` | wavlake-mp3 | 82 | 1497 | 连续重复 |
+| high | 81 | `wavlake-mp3__010__0b5decda` | wavlake-mp3 | 82 | 1498 | 连续重复 |
 | medium | 78 | `wavlake-mp3__057__32f5bb4a` | wavlake-mp3 | 297 | 6066 | 连续重复 |
-| medium | 78 | `wavlake-mp3__124__4343a7c0` | wavlake-mp3 | 268 | 4742 | 连续重复 |
 | medium | 74 | `wavlake-mp3__104__c80960f1` | wavlake-mp3 | 177 | 3802 | 连续重复 |
 | medium | 72 | `wavlake-mp3__045__81c4a2e0` | wavlake-mp3 | 332 | 4357 | 近似重复 |
-| medium | 69 | `official-vimeo-m4a-partial__010__52931080` | official-vimeo-m4a-partial | 151 | 1464 | 连续重复 |
 | medium | 64 | `wavlake-mp3__118__86d1aebf` | wavlake-mp3 | 116 | 2629 | 连续重复 |
-| medium | 59 | `official-vimeo-m4a-partial__016__71e7d985` | official-vimeo-m4a-partial | 580 | 6060 | 连续重复 |
 | medium | 47 | `wavlake-mp3__048__8b1ae8f0` | wavlake-mp3 | 156 | 3308 | 连续重复 |
-| medium | 46 | `official-vimeo-m4a-partial__032__2714f2f9` | official-vimeo-m4a-partial | 177 | 4717 | 连续重复 |
 | medium | 46 | `wavlake-mp3__042__1203f8e6` | wavlake-mp3 | 29 | 2840 | 连续重复 |
-| medium | 46 | `wavlake-mp3__062__51b8a2ee` | wavlake-mp3 | 38 | 1938 | 连续重复 |
-| medium | 43 | `wavlake-mp3__119__c3bb26c7` | wavlake-mp3 | 324 | 4951 | 连续重复 |
 | medium | 42 | `wavlake-mp3__041__5af9497a` | wavlake-mp3 | 465 | 8053 | 连续重复 |
 | medium | 38 | `wavlake-mp3__035__d63ae927` | wavlake-mp3 | 614 | 10498 | 连续重复 |
 | medium | 38 | `wavlake-mp3__028__03f42772` | wavlake-mp3 | 191 | 3180 | 连续重复 |
-| medium | 37 | `official-vimeo-m4a-partial__012__842975e3` | official-vimeo-m4a-partial | 323 | 3501 | 连续重复 |
 | medium | 37 | `wavlake-mp3__012__a90a69b6` | wavlake-mp3 | 304 | 3464 | 连续重复 |
 | medium | 35 | `wavlake-mp3__036__8bed1231` | wavlake-mp3 | 53 | 5671 | 连续重复 |
 | medium | 35 | `wavlake-mp3__055__2675560a` | wavlake-mp3 | 21 | 918 | 连续重复 |
@@ -572,6 +558,7 @@
 | low | 4 | `official-vimeo-m4a-partial__027__5309b3f0` | official-vimeo-m4a-partial | 393 | 9520 | 行内循环 |
 | low | 4 | `wavlake-mp3__049__0fdcd03f` | wavlake-mp3 | 411 | 6115 | 行内循环 |
 | low | 4 | `official-vimeo-m4a-partial__049__a4da2ce3` | official-vimeo-m4a-partial | 313 | 6075 | 行内循环 |
+| low | 4 | `official-vimeo-m4a-partial__016__71e7d985` | official-vimeo-m4a-partial | 609 | 5912 | 行内循环 |
 | low | 4 | `official-vimeo-m4a-partial__036__6c5b57fc` | official-vimeo-m4a-partial | 153 | 5746 | 行内循环 |
 | low | 4 | `official-vimeo-m4a-partial__060__4427c6c6` | official-vimeo-m4a-partial | 59 | 4854 | 行内循环 |
 | low | 4 | `official-vimeo-m4a-partial__058__f42e9ec2` | official-vimeo-m4a-partial | 93 | 4585 | 行内循环 |
@@ -581,6 +568,7 @@
 | low | 4 | `wavlake-mp3__097__e53f6314` | wavlake-mp3 | 25 | 3699 | 行内循环 |
 | low | 4 | `wavlake-mp3__023__b938f558` | wavlake-mp3 | 40 | 3622 | 行内循环 |
 | low | 4 | `wavlake-mp3__051__d6f5e9d6` | wavlake-mp3 | 244 | 3554 | 行内循环 |
+| low | 4 | `official-vimeo-m4a-partial__012__842975e3` | official-vimeo-m4a-partial | 374 | 3490 | 行内循环 |
 | low | 4 | `wavlake-mp3__130__b79097a0` | wavlake-mp3 | 371 | 3461 | 行内循环 |
 | low | 4 | `wavlake-mp3__089__d3afb1d1` | wavlake-mp3 | 386 | 3309 | 行内循环 |
 | low | 4 | `wavlake-mp3__092__b8b5484a` | wavlake-mp3 | 329 | 3231 | 行内循环 |
@@ -598,12 +586,15 @@
 | clean | 0 | `wavlake-mp3__116__09f832bb` | wavlake-mp3 | 33 | 4716 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__033__3202b3ed` | wavlake-mp3 | 33 | 4531 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__042__c8359174` | official-vimeo-m4a-partial | 307 | 4438 | 无明显问题 |
+| clean | 0 | `wavlake-mp3__062__51b8a2ee` | wavlake-mp3 | 461 | 4331 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__014__a9dd324d` | official-vimeo-m4a-partial | 454 | 4295 | 无明显问题 |
+| clean | 0 | `wavlake-mp3__124__4343a7c0` | wavlake-mp3 | 406 | 4152 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__040__2f219bdf` | official-vimeo-m4a-partial | 67 | 4139 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__040__3c1baea7` | wavlake-mp3 | 60 | 4088 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__140__f55c81c4` | wavlake-mp3 | 59 | 4056 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__030__3e990640` | official-vimeo-m4a-partial | 172 | 4053 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__018__6b1ffa0f` | official-vimeo-m4a-partial | 24 | 3989 | 无明显问题 |
+| clean | 0 | `official-vimeo-m4a-partial__032__2714f2f9` | official-vimeo-m4a-partial | 426 | 3955 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__050__f9ff0b61` | official-vimeo-m4a-partial | 84 | 3848 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__018__aeb5367d` | wavlake-mp3 | 25 | 3846 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__109__be90b738` | wavlake-mp3 | 334 | 3797 | 无明显问题 |
@@ -618,11 +609,12 @@
 | clean | 0 | `official-vimeo-m4a-partial__024__96b6533f` | official-vimeo-m4a-partial | 28 | 3465 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__024__d2e8055d` | wavlake-mp3 | 23 | 3453 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__129__ce692f38` | wavlake-mp3 | 308 | 3375 | 无明显问题 |
-| clean | 0 | `wavlake-mp3__011__89676748` | wavlake-mp3 | 265 | 3361 | 无明显问题 |
+| clean | 0 | `wavlake-mp3__011__89676748` | wavlake-mp3 | 265 | 3362 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__088__7e617c7e` | wavlake-mp3 | 364 | 3319 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__099__d77ebee3` | wavlake-mp3 | 366 | 3283 | 无明显问题 |
 | clean | 0 | `official-vimeo-m4a-partial__007__a8b90f85` | official-vimeo-m4a-partial | 32 | 3279 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__007__53a702f0` | wavlake-mp3 | 31 | 3275 | 无明显问题 |
+| clean | 0 | `wavlake-mp3__119__c3bb26c7` | wavlake-mp3 | 316 | 3205 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__096__67207814` | wavlake-mp3 | 379 | 3169 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__091__3633d729` | wavlake-mp3 | 27 | 3136 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__108__99e184d5` | wavlake-mp3 | 321 | 3035 | 无明显问题 |
@@ -656,6 +648,7 @@
 | clean | 0 | `wavlake-mp3__135__841813ff` | wavlake-mp3 | 202 | 1862 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__133__327b2eaa` | wavlake-mp3 | 44 | 1853 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__075__253dded9` | wavlake-mp3 | 51 | 1819 | 无明显问题 |
+| clean | 0 | `official-vimeo-m4a-partial__010__52931080` | official-vimeo-m4a-partial | 181 | 1721 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__098__bff652a0` | wavlake-mp3 | 165 | 1684 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__101__c2d2562f` | wavlake-mp3 | 33 | 1663 | 无明显问题 |
 | clean | 0 | `wavlake-mp3__093__c3783dcd` | wavlake-mp3 | 62 | 1647 | 无明显问题 |

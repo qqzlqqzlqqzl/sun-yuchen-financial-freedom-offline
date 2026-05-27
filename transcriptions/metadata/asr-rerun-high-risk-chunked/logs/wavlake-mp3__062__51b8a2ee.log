@@ -1,0 +1,822 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 76.235 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.420]  大家好,我是陪我APP创始人孙宇辰
+[00:00:02.420 --> 00:00:05.980]  我想邀你一起与我踏上财富自由革命之路
+[00:00:05.980 --> 00:00:08.860]  我在财富自由的另一边等着你
+[00:00:08.860 --> 00:00:13.040]  其实听这个节目的人绝大多数可能是90后
+[00:00:13.040 --> 00:00:15.120]  就听我们节目的人是90后
+[00:00:15.120 --> 00:00:19.180]  前两天我去吴小波老师那里录了一期吴小波频道
+[00:00:19.180 --> 00:00:23.820]  他告诉我吴小波频道的主要的读者可能还都是80后
+[00:00:23.820 --> 00:00:27.940]  我们这一个节目可能已经更加年轻化了
+[00:00:27.940 --> 00:00:30.200]  是一个90后大家喜欢听的节目
+[00:00:30.200 --> 00:00:32.000]  这个节目
+[00:00:32.000 --> 00:00:35.660]  可能是一个90后大家比较喜欢听的节目
+[00:00:35.660 --> 00:00:36.760]  所以呢
+[00:00:36.760 --> 00:00:38.760]  我们的读者很多人啊
+[00:00:38.760 --> 00:00:42.160]  不知道大家还记不记得2000年刚开始的时候
+[00:00:42.160 --> 00:00:43.700]  那个时候我年纪也很小
+[00:00:43.700 --> 00:00:45.020]  大概10岁11岁吧
+[00:00:45.020 --> 00:00:47.640]  但是我印象还挺清楚的
+[00:00:47.640 --> 00:00:49.980]  那时候2000年刚开始的时候啊
+[00:00:49.980 --> 00:00:53.780]  主流媒体当时搞了一个真人秀挑战赛
+[00:00:53.780 --> 00:00:56.560]  好像还不是完全电视直播那种的
+[00:00:56.560 --> 00:00:58.800]  它是一个文字形式的
+[00:00:58.800 --> 00:00:59.820]  真人秀挑战赛
+[00:00:59.820 --> 00:01:01.800]  叫做一周之内
+[00:01:01.800 --> 00:01:03.200]  只用互联网
+[00:01:03.200 --> 00:01:04.340]  你能活下去吗
+[00:01:04.340 --> 00:01:05.960]  最后搞的
+[00:01:05.960 --> 00:01:08.240]  其实很像模像样的
+[00:01:08.240 --> 00:01:10.200]  就是一周之内
+[00:01:10.200 --> 00:01:12.600]  参赛者只能使用互联网
+[00:01:12.600 --> 00:01:13.840]  与他人进行协作
+[00:01:13.840 --> 00:01:16.240]  看谁最后能坚持下来
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 75.735 -t 77.015 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.880]  就大家也知道
+[00:00:01.880 --> 00:00:02.880]  那个时候肯定很难了
+[00:00:02.880 --> 00:00:04.500]  因为你网购又很不方便
+[00:00:04.500 --> 00:00:06.460]  你就不可能用互联网打车
+[00:00:06.460 --> 00:00:09.040]  如果让一个人坚持一周
+[00:00:09.040 --> 00:00:10.280]  只用互联网
+[00:00:10.280 --> 00:00:11.360]  你啥都不能用
+[00:00:11.360 --> 00:00:13.340]  就比如说回来打电话都不能打
+[00:00:13.340 --> 00:00:18.660]  你就用互联网PC机联系别人
+[00:00:18.660 --> 00:00:19.880]  活不活得下去
+[00:00:19.880 --> 00:00:23.760]  结果后来最后坚持下来的那批人
+[00:00:23.760 --> 00:00:27.340]  都不得不上网哀求网友帮他们买水送饭
+[00:00:27.340 --> 00:00:29.120]  送擦屁股的纸
+[00:00:29.120 --> 00:00:30.780]  活得相当艰难
+[00:00:30.780 --> 00:00:33.160]  那是2000年刚开始的时候
+[00:00:33.160 --> 00:00:36.420]  现在刚好过了17年了
+[00:00:36.420 --> 00:00:39.340]  今天互联网的生活方式
+[00:00:39.340 --> 00:00:40.880]  已经成为全世界的主流了
+[00:00:40.880 --> 00:00:43.480]  想想那一段时间
+[00:00:43.480 --> 00:00:47.680]  使用互联网活下去的人
+[00:00:47.680 --> 00:00:49.360]  可以算是成为
+[00:00:49.360 --> 00:00:50.780]  我们这个时代的先烈了
+[00:00:50.780 --> 00:00:53.120]  我觉得现在主流媒体
+[00:00:53.120 --> 00:00:54.940]  其实可以招募90后参赛者
+[00:00:54.940 --> 00:00:55.500]  办一期
+[00:00:55.500 --> 00:00:57.480]  一周没有互联网
+[00:00:57.480 --> 00:00:58.740]  你能不能活下去
+[00:00:58.740 --> 00:01:01.820]  当年是有互联网活不下去
+[00:01:01.820 --> 00:01:04.080]  现在是没有互联网活不活得下去
+[00:01:04.080 --> 00:01:06.340]  我估计如果败了这个比赛
+[00:01:06.340 --> 00:01:07.480]  能撑住的
+[00:01:07.480 --> 00:01:09.080]  我觉得没有几个人
+[00:01:09.080 --> 00:01:11.140]  因为我们知道绝大多数90后
+[00:01:11.140 --> 00:01:13.860]  一个小时不回微信
+[00:01:13.860 --> 00:01:14.560]  不看朋友圈
+[00:01:14.560 --> 00:01:16.420]  已经是大家忍耐力的极限了吧
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 152.250 -t 76.175 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.680]  所以现在17年过去了
+[00:00:02.680 --> 00:00:06.840]  在今天我们也发动一个真人秀
+[00:00:06.840 --> 00:00:08.860]  就与雨晨频道
+[00:00:08.860 --> 00:00:11.160]  或者我们叫我们这个财富自由革命之路
+[00:00:11.160 --> 00:00:14.580]  我们也发起一个真人秀大挑战
+[00:00:14.580 --> 00:00:16.320]  那就是在30岁之前
+[00:00:16.320 --> 00:00:18.880]  不买房不买车不结婚
+[00:00:18.880 --> 00:00:19.920]  能活下去吗
+[00:00:19.920 --> 00:00:22.740]  就跟我们2000年招募这个志愿者
+[00:00:22.740 --> 00:00:24.180]  能活下去吗
+[00:00:24.180 --> 00:00:25.520]  我郑重希望
+[00:00:25.520 --> 00:00:27.260]  就是首先我自己
+[00:00:27.260 --> 00:00:32.900]  也愿意成为这种第一批实现互联网文明生活方式的先烈
+[00:00:32.900 --> 00:00:34.440]  当然也有可能是炮灰
+[00:00:34.440 --> 00:00:37.120]  即便我可能最后遇到一个真爱
+[00:00:37.120 --> 00:00:39.620]  不得不向爱情与丈母娘妥协
+[00:00:39.620 --> 00:00:42.000]  你们一定要也要踏着我的尸体
+[00:00:42.000 --> 00:00:46.040]  走向不结婚不买房不买车的康庄大道
+[00:00:46.040 --> 00:00:49.000]  我相信最多十年
+[00:00:49.000 --> 00:00:51.440]  就到2027年的时候
+[00:00:51.440 --> 00:00:55.600]  30岁前不买房不买车不结婚
+[00:00:55.600 --> 00:00:58.000]  这种独立自我的生活方式
+[00:00:58.000 --> 00:01:02.040]  将成为整个中国年轻人的生活的主流
+[00:01:02.040 --> 00:01:05.520]  我相信我们这十年间
+[00:01:05.520 --> 00:01:09.080]  也会发生这么一个大的变化
+[00:01:09.080 --> 00:01:10.760]  绝大多数人
+[00:01:10.760 --> 00:01:12.320]  像我们今天会说
+[00:01:12.320 --> 00:01:14.000]  不买房不买车不结婚
+[00:01:14.000 --> 00:01:15.600]  三十岁之前能活下去吗
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 227.925 -t 64.582 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.380 --> 00:00:02.800]  到十年后可能大家会反问说
+[00:00:02.800 --> 00:00:06.080]  你三十岁前居然买房买车结婚吗
+[00:00:06.080 --> 00:00:07.980]  大家会这么来反问你了
+[00:00:07.980 --> 00:00:09.020]  所以呢
+[00:00:09.020 --> 00:00:13.200]  我觉得我们这十年会见证我们的这个生活方式
+[00:00:13.200 --> 00:00:15.760]  从一个非常小众的生活方式
+[00:00:15.760 --> 00:00:19.140]  最后变成一个主流的生活方式
+[00:00:19.140 --> 00:00:23.840]  为什么会发生这种变迁呢
+[00:00:23.840 --> 00:00:29.140]  我个人觉得它从核心最深的层面
+[00:00:29.440 --> 00:00:33.580]  并不是说买房买车结婚这三件事情本身
+[00:00:33.580 --> 00:00:38.860]  而是我们这一代人将完成一个非常大的变化
+[00:00:38.860 --> 00:00:42.880]  就是以前我们可能更早的人是为了国家
+[00:00:42.880 --> 00:00:43.140]  是吧
+[00:00:43.140 --> 00:00:44.260]  为了社会活着
+[00:00:44.260 --> 00:00:47.360]  现在到80后这一代人可能是为了父母
+[00:00:47.360 --> 00:00:49.660]  为了很多社会上的期待
+[00:00:49.660 --> 00:00:52.320]  到90后这一代人
+[00:00:52.320 --> 00:00:53.820]  未来的00后
+[00:00:53.820 --> 00:00:56.400]  可能是中国的5000年历史上
+[00:00:56.400 --> 00:00:59.980]  第一批只为自己活着的一代人
+[00:00:59.980 --> 00:01:03.640]  或者他是主要为自己活着的一代人
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 292.007 -t 76.910 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.800 --> 00:00:06.280]  如果他是一个主要为自己活着的一代人呢
+[00:00:06.280 --> 00:00:09.840]  他就会希望在20到30岁
+[00:00:09.840 --> 00:00:12.600]  这段年轻人学习力最强
+[00:00:12.600 --> 00:00:13.700]  经历最强
+[00:00:13.700 --> 00:00:15.520]  魄力最强的十年
+[00:00:15.520 --> 00:00:22.120]  把绝大多数的时间金钱精力都用于个人提升
+[00:00:22.120 --> 00:00:23.420]  自我成长
+[00:00:23.420 --> 00:00:24.800]  拓宽思维
+[00:00:24.800 --> 00:00:26.040]  提升素养
+[00:00:26.040 --> 00:00:27.840]  改变社会
+[00:00:27.840 --> 00:00:28.860]  改变行业
+[00:00:28.860 --> 00:00:29.760]  改变国家
+[00:00:29.760 --> 00:00:32.720]  而不是去迅速找一份
+[00:00:32.720 --> 00:00:33.860]  得过且过
+[00:00:33.860 --> 00:00:36.700]  稳定但是收入巨低的工作
+[00:00:36.700 --> 00:00:39.520]  然后投入到买房买车
+[00:00:39.520 --> 00:00:41.740]  养房养车养娃
+[00:00:41.740 --> 00:00:44.960]  的传宗接代的大业中
+[00:00:44.960 --> 00:00:46.660]  所以我个人觉得
+[00:00:46.660 --> 00:00:50.420]  现在就比如说我记得
+[00:00:50.420 --> 00:00:53.340]  以前比我大十岁的那些哥哥
+[00:00:53.340 --> 00:00:57.560]  他们把自己99%的青春
+[00:00:57.560 --> 00:01:00.060]  可能大学用了四年吧
+[00:01:00.060 --> 00:01:00.900]  胡吃海喝
+[00:01:00.900 --> 00:01:02.700]  剩下毕业的时间
+[00:01:02.700 --> 00:01:04.480]  都用在了买房买车
+[00:01:04.480 --> 00:01:06.800]  结婚养房养车养娃上面
+[00:01:06.800 --> 00:01:09.080]  包括我现在朋友圈
+[00:01:09.080 --> 00:01:11.260]  可能都有一些同龄人开始晒娃了
+[00:01:11.260 --> 00:01:14.020]  我觉得未来会越来越少
+[00:01:14.020 --> 00:01:16.400]  像我们的这个同龄人
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 368.417 -t 62.422 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.320]  因为如果你买房买车结婚
+[00:00:03.320 --> 00:00:04.760]  养房养车养娃
+[00:00:04.760 --> 00:00:07.660]  你慢慢就会渐渐丧失
+[00:00:07.660 --> 00:00:10.160]  同龄人没有这么做的人
+[00:00:10.160 --> 00:00:13.120]  拥有的耐心决心和好奇心
+[00:00:13.120 --> 00:00:16.320]  变得功利胆怯犬儒
+[00:00:16.320 --> 00:00:18.280]  因为很简单
+[00:00:18.280 --> 00:00:20.400]  你想一夜暴富
+[00:00:20.400 --> 00:00:22.200]  赶紧养娃
+[00:00:22.200 --> 00:00:24.840]  娃每天催得那么狠
+[00:00:24.840 --> 00:00:26.740]  比如说你有可能买了
+[00:00:26.740 --> 00:00:27.780]  我推荐的股票
+[00:00:27.780 --> 00:00:29.340]  你也希望它立即暴涨
+[00:00:29.340 --> 00:00:31.040]  明天赚钱
+[00:00:31.040 --> 00:00:32.320]  你也不可能说啊
+[00:00:32.320 --> 00:00:33.500]  我有耐心啊
+[00:00:33.500 --> 00:00:35.060]  我去等待他啊
+[00:00:35.060 --> 00:00:36.540]  一点点可大成长
+[00:00:36.540 --> 00:00:39.000]  因为买房买车结婚
+[00:00:39.000 --> 00:00:41.500]  给你带来了非常强大的经济压力
+[00:00:41.500 --> 00:00:43.320]  包括时间压力
+[00:00:43.320 --> 00:00:46.000]  因为你你毕竟你要对一个东西有信心
+[00:00:46.000 --> 00:00:49.080]  你一个长时间花时间去里面学习才行啊
+[00:00:49.080 --> 00:00:52.040]  这样带来的时间和金钱的压力
+[00:00:52.040 --> 00:00:57.740]  就会让你的这个整个心态也都扭曲变化
+[00:00:57.740 --> 00:00:59.860]  渐渐跟不上时代
+[00:00:59.860 --> 00:01:01.800]  而且呢
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 430.339 -t 63.909 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.860 --> 00:00:02.180]  我觉得最重要的一点
+[00:00:02.180 --> 00:00:08.100]  你也会渐渐会对这个世界丧失好奇心
+[00:00:08.100 --> 00:00:10.560]  我们大家知道好奇心也是很重要的
+[00:00:10.560 --> 00:00:12.220]  它就需要一些无用之用
+[00:00:12.220 --> 00:00:15.720]  就比如说这一段时间如果出了很多
+[00:00:15.720 --> 00:00:18.880]  我孙权是比较喜欢把这些钱都投入到这个里面的
+[00:00:18.880 --> 00:00:19.580]  投入到很多
+[00:00:19.580 --> 00:00:21.220]  出了一些新的东西
+[00:00:21.220 --> 00:00:22.820]  我愿意去买一买试一试
+[00:00:22.820 --> 00:00:25.720]  大家也知道那第一批买的肯定是炮灰
+[00:00:25.720 --> 00:00:26.320]  对吧
+[00:00:26.320 --> 00:00:28.760]  你买的它也不可能是完全应用的
+[00:00:28.760 --> 00:00:30.220]  可能用一下就不用了
+[00:00:30.220 --> 00:00:32.100]  那但是为什么我会买呢
+[00:00:32.100 --> 00:00:34.620]  因为我对这个世界充满好奇心
+[00:00:34.620 --> 00:00:35.880]  出了什么新的东西
+[00:00:35.880 --> 00:00:36.580]  我都想试
+[00:00:36.580 --> 00:00:38.680]  而我见过的
+[00:00:38.680 --> 00:00:39.940]  买房买车
+[00:00:39.940 --> 00:00:41.080]  结婚养方向车
+[00:00:41.080 --> 00:00:41.800]  养娃这种人
+[00:00:41.800 --> 00:00:43.000]  往往都已经没有
+[00:00:43.000 --> 00:00:44.300]  对这个世界已经没有耐
+[00:00:44.300 --> 00:00:46.000]  没有好奇心了
+[00:00:46.000 --> 00:00:47.600]  因为这个世界已经把它折磨的
+[00:00:47.600 --> 00:00:49.660]  已经相当疲惫了
+[00:00:49.660 --> 00:00:50.840]  他就想每天
+[00:00:50.840 --> 00:00:53.020]  赶紧把工作对付一下
+[00:00:53.020 --> 00:00:53.840]  搞完是吧
+[00:00:53.840 --> 00:00:54.820]  回家是吧
+[00:00:54.820 --> 00:00:56.220]  如果儿子别哭是吧
+[00:00:56.220 --> 00:00:57.040]  我能早点睡
+[00:00:57.040 --> 00:00:58.580]  这不就已经很完美了吗
+[00:00:58.580 --> 00:00:58.960]  对吧
+[00:00:58.960 --> 00:01:02.380]  所以他也慢慢丧失好奇心了
+[00:01:02.380 --> 00:01:03.160]  所以
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 493.747 -t 73.700 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.980]  很有可能啊
+[00:00:01.980 --> 00:00:03.420]  他在三十岁之后
+[00:00:03.420 --> 00:00:04.540]  而大家注意啊
+[00:00:04.540 --> 00:00:07.240]  这个事情他对人是定型的
+[00:00:07.240 --> 00:00:09.500]  如果你在三十岁之前啊
+[00:00:09.500 --> 00:00:11.720]  你是你是这样活着的
+[00:00:11.720 --> 00:00:13.260]  你你三十岁之后
+[00:00:13.260 --> 00:00:15.500]  可能你孩子慢慢年龄稍微大一点了嘛
+[00:00:15.500 --> 00:00:17.880]  可能你并不需要那么多时间投入进去的时候
+[00:00:17.880 --> 00:00:20.820]  你说他像一个弹簧一样被压久了
+[00:00:20.820 --> 00:00:21.700]  他能弹起来吗
+[00:00:21.700 --> 00:00:24.580]  又回到原来二十岁那个年轻时候那种
+[00:00:24.580 --> 00:00:27.220]  对任何事物都充满好奇心
+[00:00:27.220 --> 00:00:28.280]  学习能力强
+[00:00:28.280 --> 00:00:30.240]  很愿意做这些事情吗
+[00:00:30.240 --> 00:00:30.720]  会吗
+[00:00:30.720 --> 00:00:31.660]  我就不会
+[00:00:31.660 --> 00:00:35.560]  90%的人被这弹簧连续压10年
+[00:00:35.560 --> 00:00:37.420]  他都失去那个弹性了
+[00:00:37.420 --> 00:00:38.580]  已经成一个
+[00:00:38.580 --> 00:00:40.760]  我觉得就成一个废铁了吧
+[00:00:40.760 --> 00:00:42.020]  当然给压折了已经
+[00:00:42.020 --> 00:00:43.540]  所以他不可能弹过去
+[00:00:43.540 --> 00:00:46.340]  所以为了避免
+[00:00:46.340 --> 00:00:49.400]  与我们同龄的这些大好青年
+[00:00:49.400 --> 00:00:49.860]  是吧
+[00:00:49.860 --> 00:00:53.520]  失落堕落沦落到这种地步
+[00:00:53.520 --> 00:00:56.080]  所以我们大胆设想
+[00:00:56.080 --> 00:00:57.680]  以我们自己为例
+[00:00:57.680 --> 00:01:00.580]  向全中国的大好青年证明
+[00:01:00.580 --> 00:01:01.880]  不结婚
+[00:01:01.880 --> 00:01:02.820]  不买房
+[00:01:02.820 --> 00:01:03.540]  不买车
+[00:01:03.540 --> 00:01:04.100]  不生娃
+[00:01:04.100 --> 00:01:05.540]  我们在30岁之前
+[00:01:05.540 --> 00:01:06.960]  也可以活下去
+[00:01:06.960 --> 00:01:10.640]  而且活的会比那些结婚
+[00:01:10.640 --> 00:01:11.100]  买房
+[00:01:11.100 --> 00:01:11.520]  买车
+[00:01:11.520 --> 00:01:13.700]  生娃的活得更好
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 566.947 -t 74.874 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.880 --> 00:00:02.540]  大家做一个比赛
+[00:00:02.540 --> 00:00:05.100]  做一个这种我们经常讲的
+[00:00:05.100 --> 00:00:08.980]  生物学和医学上要做大样本双盲试验
+[00:00:08.980 --> 00:00:11.620]  我们就做一组这种大样本双盲试验
+[00:00:11.620 --> 00:00:11.920]  是吧
+[00:00:11.920 --> 00:00:12.740]  大家都是同学
+[00:00:12.740 --> 00:00:13.880]  将近差不多的
+[00:00:13.880 --> 00:00:14.440]  好
+[00:00:14.440 --> 00:00:15.820]  你走这条路
+[00:00:15.820 --> 00:00:16.720]  我走这条路
+[00:00:16.720 --> 00:00:18.400]  那看十年后谁走得更好
+[00:00:18.400 --> 00:00:20.240]  在今天的中国
+[00:00:20.240 --> 00:00:22.100]  选择三岁之前
+[00:00:22.100 --> 00:00:23.120]  不买车
+[00:00:23.120 --> 00:00:23.680]  不买房
+[00:00:23.680 --> 00:00:24.100]  不结婚
+[00:00:24.100 --> 00:00:24.600]  不生娃
+[00:00:24.600 --> 00:00:27.100]  我们也承认的确有很大的压力
+[00:00:27.100 --> 00:00:28.680]  包括我自己
+[00:00:29.340 --> 00:00:32.360]  跟前面有一任女朋友谈恋爱
+[00:00:32.360 --> 00:00:34.280]  核心的分手原因
+[00:00:34.280 --> 00:00:35.440]  其实就是因为我
+[00:00:35.440 --> 00:00:37.760]  可能没有办法在30岁之前结婚
+[00:00:37.760 --> 00:00:40.320]  那人家觉得
+[00:00:40.320 --> 00:00:42.200]  现在不是有的女生也说这种
+[00:00:42.200 --> 00:00:43.940]  那你不结婚谈恋爱
+[00:00:43.940 --> 00:00:44.900]  你不耍流氓吗
+[00:00:44.900 --> 00:00:45.420]  是不是啊
+[00:00:45.420 --> 00:00:46.300]  你干啥呢
+[00:00:46.300 --> 00:00:46.680]  是不是啊
+[00:00:46.680 --> 00:00:47.600]  玩人呢
+[00:00:47.600 --> 00:00:49.060]  但如果有人这样想
+[00:00:49.060 --> 00:00:50.220]  我也很遗憾啊
+[00:00:50.220 --> 00:00:51.060]  其实大家知道
+[00:00:51.060 --> 00:00:51.800]  即便是女生
+[00:00:51.800 --> 00:00:53.640]  其实你也不能产生这样的想法
+[00:00:53.640 --> 00:00:55.060]  具体为什么
+[00:00:55.060 --> 00:00:56.600]  其实我们在30岁之前
+[00:00:56.600 --> 00:00:57.900]  女生是不是贬值那一期
+[00:00:57.900 --> 00:00:59.160]  已经讲得很清楚了
+[00:00:59.160 --> 00:01:01.240]  所以从这个角度来说呢
+[00:01:01.240 --> 00:01:03.220]  包括我们自己的员工
+[00:01:03.220 --> 00:01:04.920]  其陪我APP里面
+[00:01:04.920 --> 00:01:08.460]  有95%的员工都是90后的员工
+[00:01:08.460 --> 00:01:10.560]  这些员工里面呢
+[00:01:10.560 --> 00:01:13.300]  很多人最近有时候也跟我哭诉
+[00:01:13.300 --> 00:01:14.880]  他们也
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 641.322 -t 81.202 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.480 --> 00:00:02.580]  遭遇女友逼婚啊
+[00:00:02.580 --> 00:00:04.560]  父母逼婚啊
+[00:00:04.560 --> 00:00:08.420]  尤其每年咱们不是刚过春节回来吗
+[00:00:08.420 --> 00:00:11.220]  春节的时候就是愈演愈烈啊
+[00:00:11.220 --> 00:00:14.860]  然后包括女方就要逼着他要买房子啊
+[00:00:14.860 --> 00:00:17.500]  由于我们公司在北京是吧
+[00:00:17.500 --> 00:00:19.940]  对于我们的员工来说
+[00:00:19.940 --> 00:00:21.880]  基本是不可能完成的
+[00:00:21.880 --> 00:00:23.040]  根本不可能完成
+[00:00:23.040 --> 00:00:25.040]  所以就把好好的这个
+[00:00:25.040 --> 00:00:27.420]  非常舒适的工作环境
+[00:00:27.420 --> 00:00:30.700]  以及在北京很好的一个前途啊
+[00:00:30.700 --> 00:00:32.460]  都搞得很悲催
+[00:00:32.460 --> 00:00:34.900]  我们甚至还见过有的女生
+[00:00:34.900 --> 00:00:36.780]  在我们公司发展不错
+[00:00:36.780 --> 00:00:41.280]  但是不得不迅速回三线老家
+[00:00:41.280 --> 00:00:44.820]  找一位健康适婚男士结婚生吧
+[00:00:44.820 --> 00:00:47.360]  因为他这个父母啊
+[00:00:47.360 --> 00:00:49.640]  希望他尽早回老家
+[00:00:49.640 --> 00:00:51.440]  进妇道传子嗣
+[00:00:51.440 --> 00:00:54.400]  让我感觉好像生活在一千年前
+[00:00:54.400 --> 00:00:57.320]  但是他最后因为为了满足父母的要求
+[00:00:57.320 --> 00:00:58.960]  因为是孝顺
+[00:00:58.960 --> 00:01:01.920]  所以也就回去了
+[00:01:01.920 --> 00:01:03.440]  从我们公司离开了
+[00:01:03.440 --> 00:01:05.400]  所以从这个角度来看
+[00:01:05.400 --> 00:01:08.680]  其实我知道在三十岁之前
+[00:01:08.680 --> 00:01:13.180]  我们如果真真正正把这个当做我们一个人生的目标去履行
+[00:01:13.180 --> 00:01:15.180]  其实也是殊微不易的
+[00:01:15.180 --> 00:01:16.580]  真的是殊微不易的
+[00:01:16.580 --> 00:01:18.420]  但是我也相信
+[00:01:18.420 --> 00:01:20.520]  如果我们
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 722.024 -t 74.215 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.200 --> 00:00:04.740]  用了20岁到30岁这个黄金十年
+[00:00:04.740 --> 00:00:07.460]  把它放在提升个人能力
+[00:00:07.460 --> 00:00:11.640]  尤其是在互联网行业的核心竞争力的话
+[00:00:11.640 --> 00:00:15.780]  那我相信我们回头十年再看
+[00:00:15.780 --> 00:00:19.320]  我们这一代人也绝不会后悔
+[00:00:19.320 --> 00:00:21.740]  这是我可以给大家打包票的
+[00:00:21.740 --> 00:00:24.960]  我觉得大家一起来参与这个实验
+[00:00:24.960 --> 00:00:27.960]  比买Landing Club的股票靠谱多了
+[00:00:28.260 --> 00:00:31.020]  因为买Landing Club的股票已经挺靠谱了
+[00:00:31.020 --> 00:00:36.760]  我敢说这个要比买Landing Club的股票更加靠谱
+[00:00:36.760 --> 00:00:43.020]  当然了对于如何坚持不买房不买车不结婚
+[00:00:43.020 --> 00:00:48.140]  其实我们在前面三大革命的每一章节都给大家详细分析过了
+[00:00:48.140 --> 00:00:50.920]  包括不结婚我们应该怎么做
+[00:00:50.920 --> 00:00:53.620]  不买房我们应该怎么做
+[00:00:53.620 --> 00:00:55.320]  不买车我们应该怎么做
+[00:00:55.320 --> 00:00:57.020]  以及这些行为给我们带来的好处
+[00:00:57.020 --> 00:01:01.200]  我们已经给大家很详细的讲解了
+[00:01:01.200 --> 00:01:02.500]  所以呢
+[00:01:02.500 --> 00:01:03.720]  今天这一集
+[00:01:03.720 --> 00:01:05.880]  我们主要是发起一个创意
+[00:01:05.880 --> 00:01:08.240]  发起一个倡议
+[00:01:08.240 --> 00:01:10.500]  倡议大家跟我们这么一起做
+[00:01:10.500 --> 00:01:13.520]  我是孙宇晨
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-010/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 795.738 -t 73.711 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-011/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.580 --> 00:00:04.560]  目前我在北京经营着一家互联网科技公司
+[00:00:04.560 --> 00:00:07.740]  我在办公室旁边租了一间房子
+[00:00:07.740 --> 00:00:10.660]  每天走路五分钟就能到公司
+[00:00:10.660 --> 00:00:14.380]  我利用共享经济完成每日的出行
+[00:00:14.380 --> 00:00:15.540]  没有买车
+[00:00:15.540 --> 00:00:17.480]  我也没有结婚
+[00:00:17.480 --> 00:00:22.420]  我将绝大多数的时间都花在了自我提升
+[00:00:22.420 --> 00:00:23.740]  公司经营
+[00:00:23.740 --> 00:00:25.860]  分享个人的价值观
+[00:00:25.860 --> 00:00:27.300]  改变行业
+[00:00:27.300 --> 00:00:28.540]  改变生活
+[00:00:28.540 --> 00:00:30.580]  改变世界之上
+[00:00:30.580 --> 00:00:33.020]  我感到幸福
+[00:00:33.020 --> 00:00:34.080]  开心
+[00:00:34.080 --> 00:00:35.980]  30岁之前
+[00:00:35.980 --> 00:00:37.560]  我打算一直这样
+[00:00:37.560 --> 00:00:39.380]  30岁之后
+[00:00:39.380 --> 00:00:41.220]  看我的心情吧
+[00:00:41.220 --> 00:00:43.380]  我希望大家能
+[00:00:43.380 --> 00:00:45.680]  听了这期节目的人呢
+[00:00:45.680 --> 00:00:46.860]  能每个人
+[00:00:46.860 --> 00:00:48.540]  如果你想参加
+[00:00:48.540 --> 00:00:50.220]  这个活动
+[00:00:50.220 --> 00:00:52.520]  就可以把
+[00:00:52.520 --> 00:00:55.060]  刚才我讲的这一段范丽的话
+[00:00:55.060 --> 00:00:57.780]  你可以写成你自己的那个版本
+[00:00:57.780 --> 00:00:59.320]  就我是某某某
+[00:00:59.320 --> 00:01:00.680]  目前我在哪
+[00:01:00.680 --> 00:01:01.660]  在干着什么
+[00:01:01.660 --> 00:01:02.380]  然后呢
+[00:01:02.380 --> 00:01:03.520]  我是怎么解决
+[00:01:03.520 --> 00:01:05.420]  不买房不买车不结婚的
+[00:01:05.420 --> 00:01:06.960]  这个生活状态是什么样的
+[00:01:06.960 --> 00:01:08.060]  像我刚才给大家念的
+[00:01:08.060 --> 00:01:09.160]  就是我的生活状态
+[00:01:09.160 --> 00:01:13.000]  然后你把这些省下来的时间
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-011/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-011/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-011/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-011/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 868.949 -t 67.225 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-012/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.460 --> 00:00:02.640]  金钱主要用在什么地方了呢
+[00:00:02.640 --> 00:00:03.980]  每天都在做什么呢
+[00:00:03.980 --> 00:00:04.660]  是吧
+[00:00:04.660 --> 00:00:06.860]  你现在的感觉怎么样呢
+[00:00:06.860 --> 00:00:08.900]  包括你说三十岁之前
+[00:00:08.900 --> 00:00:11.120]  我打算一直这样的这种想法
+[00:00:11.120 --> 00:00:15.360]  可以发到我的邮箱
+[00:00:15.360 --> 00:00:16.500]  可以发到我的邮箱
+[00:00:16.500 --> 00:00:19.480]  我觉得这次就不要去微博和喜马拉雅留言了
+[00:00:19.480 --> 00:00:21.980]  因为不太庄重吧
+[00:00:21.980 --> 00:00:23.860]  我们毕竟是一个真正的倡议
+[00:00:23.860 --> 00:00:25.560]  希望大家跟我一起来做
+[00:00:25.560 --> 00:00:26.980]  就像我们当初
+[00:00:26.980 --> 00:00:29.640]  我十年前其实也发起过一个倡议
+[00:00:29.640 --> 00:00:33.880]  当时是在萌芽杂志社上写稿子的时候
+[00:00:33.880 --> 00:00:36.480]  我当时发起这个倡议是
+[00:00:36.480 --> 00:00:39.780]  让大家与我一起去做一道证明题
+[00:00:39.780 --> 00:00:41.020]  那个证明题是什么呢
+[00:00:41.020 --> 00:00:43.340]  就是你用一年时间
+[00:00:43.340 --> 00:00:46.520]  可以考上你自己心仪的大学
+[00:00:46.520 --> 00:00:49.060]  其实当时跟我做这道论证题的人就很多
+[00:00:49.060 --> 00:00:51.660]  所以我打算邀请你
+[00:00:51.660 --> 00:00:55.000]  一起踏上我的90后
+[00:00:55.000 --> 00:00:58.620]  不买房不买车不结婚之旅
+[00:00:58.620 --> 00:01:00.800]  如果你有兴趣
+[00:01:00.800 --> 00:01:03.820]  欢迎你同我一起坚持
+[00:01:03.820 --> 00:01:06.180]  并且将你的经历分享给我
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-012/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-012/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-012/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-012/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 935.674 -t 75.279 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-013/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.460 --> 00:00:01.700]  我们首先呢
+[00:00:01.700 --> 00:00:03.100]  这个是一个长期有效
+[00:00:03.100 --> 00:00:04.800]  因为是十年嘛
+[00:00:04.800 --> 00:00:05.940]  十年为期的
+[00:00:05.940 --> 00:00:06.980]  长期有效
+[00:00:06.980 --> 00:00:10.900]  我们将随机挑选优秀的报告
+[00:00:10.900 --> 00:00:14.140]  赠送一份精美礼品
+[00:00:14.140 --> 00:00:16.800]  而且这个可能是上不封顶的
+[00:00:16.800 --> 00:00:20.300]  只要我们平常看到有好的报告
+[00:00:20.300 --> 00:00:23.160]  我们都会把它送出
+[00:00:23.160 --> 00:00:24.380]  同时呢
+[00:00:24.380 --> 00:00:25.640]  我们也会在
+[00:00:25.640 --> 00:00:28.380]  我们喜马拉雅的这个节目
+[00:00:28.380 --> 00:00:31.800]  包括我一些公众号和微博上
+[00:00:31.800 --> 00:00:34.600]  分享大家的经历与我的点评
+[00:00:34.600 --> 00:00:36.760]  如果大家有兴趣
+[00:00:36.760 --> 00:00:40.580]  请将你的经历和誓言
+[00:00:40.580 --> 00:00:42.560]  发到我的邮箱
+[00:00:42.560 --> 00:00:44.080]  我的邮箱是什么呢
+[00:00:44.080 --> 00:00:48.020]  就是孙宇晨的拼音
+[00:00:48.020 --> 00:00:52.960]  SUNYUCHEN
+[00:00:52.960 --> 00:00:55.100]  然后China就是中国
+[00:00:55.100 --> 00:01:01.520]  china126.com
+[00:01:01.520 --> 00:01:02.720]  我再说一遍吧
+[00:01:02.720 --> 00:01:04.120]  就是孙宇传的拼音
+[00:01:04.120 --> 00:01:07.420]  china126.com
+[00:01:07.420 --> 00:01:09.720]  s-u-n-y-u-c-h-e-n
+[00:01:09.720 --> 00:01:15.280]  china126.com
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-013/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-013/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-013/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-013/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 1010.453 -t 52.510 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/062 - 062 - 062 孙宇晨：【总结】十年为期，我们来做个实验.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-014/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.320 --> 00:00:03.440]  如果实在有人觉得比较麻烦
+[00:00:03.440 --> 00:00:04.900]  或者不会发邮件的
+[00:00:04.900 --> 00:00:07.220]  但我觉得咱这时代应该不会有这样的人吧
+[00:00:07.220 --> 00:00:10.940]  也可以到我的同名新浪微博给我留言
+[00:00:10.940 --> 00:00:13.840]  当然也可以在喜马拉雅下给我留言
+[00:00:13.840 --> 00:00:16.660]  二者在我们这具有同样的效率
+[00:00:16.660 --> 00:00:18.100]  效力吧
+[00:00:18.100 --> 00:00:20.040]  但当然还希望大家用邮箱
+[00:00:20.040 --> 00:00:23.980]  当然用邮箱的好处是也比较私密一些
+[00:00:23.980 --> 00:00:25.920]  大家知道用新浪微博
+[00:00:25.920 --> 00:00:27.180]  有的人也给我发私信
+[00:00:27.180 --> 00:00:28.320]  但他有时候还把那个
+[00:00:28.320 --> 00:00:31.160]  就是自动销毁还开了
+[00:00:31.160 --> 00:00:33.260]  我们结果连还没抄下来
+[00:00:33.260 --> 00:00:34.940]  那精力就被销毁了
+[00:00:34.940 --> 00:00:38.160]  如果你觉得要私密期间
+[00:00:38.160 --> 00:00:40.220]  我觉得发邮件也是个不错的方式
+[00:00:40.220 --> 00:00:40.960]  谢谢
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-014/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-014/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-014/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__062__51b8a2ee/chunk-014/out -sns -nf -np

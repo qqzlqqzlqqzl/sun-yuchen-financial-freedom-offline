@@ -1,0 +1,239 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 69.999 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.680]  大家好
+[00:00:01.680 --> 00:00:03.880]  我是陪我APP创始人孙宇辰
+[00:00:03.880 --> 00:00:07.460]  我想邀你一起与我踏上财富自由革命之路
+[00:00:07.460 --> 00:00:10.520]  我在财富自由的另一边等着你
+[00:00:10.520 --> 00:00:15.960]  大家好
+[00:00:15.960 --> 00:00:16.660]  我是宇辰
+[00:00:16.660 --> 00:00:18.940]  今天我们再来回答一个简单的问题
+[00:00:18.940 --> 00:00:21.620]  既然比特币这么好
+[00:00:21.620 --> 00:00:23.580]  如何获得比特币呢
+[00:00:23.580 --> 00:00:26.400]  我们现在就想解锁我们人生第一个成就
+[00:00:26.400 --> 00:00:28.140]  获得一枚比特币
+[00:00:28.140 --> 00:00:31.640]  我认为获得比特币的方法非常简单
+[00:00:31.640 --> 00:00:33.740]  当然我当年解锁这个成就
+[00:00:33.740 --> 00:00:35.840]  可能2013年初就解锁了
+[00:00:35.840 --> 00:00:38.220]  获得比特币的方法非常简单
+[00:00:38.220 --> 00:00:39.180]  一是挖矿
+[00:00:39.180 --> 00:00:41.220]  二是使用法币
+[00:00:41.220 --> 00:00:46.400]  直接从交易所或者有比特币的人手中购买比特币
+[00:00:46.400 --> 00:00:50.060]  第一挖矿的历史已经非常悠久了
+[00:00:50.060 --> 00:00:52.660]  经过很长时间的军备竞赛
+[00:00:52.660 --> 00:00:55.040]  挖矿已经从普通人
+[00:00:55.040 --> 00:01:01.240]  已经从绝大多数人都可以参与的一个很好玩的电脑游戏
+[00:01:01.240 --> 00:01:08.280]  变为了普通人再也无法参与的高度资金与技术密集性的行业了
+[00:01:08.280 --> 00:01:10.000]  因此
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 69.499 -t 74.387 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.180 --> 00:00:02.660]  由挖矿而获得比特币
+[00:00:02.660 --> 00:00:06.280]  也成为了许多资深比特币爱好者
+[00:00:06.280 --> 00:00:11.420]  尤其是许多程序员在谈起旧日时光时的一个回忆
+[00:00:11.420 --> 00:00:16.600]  大家经常也想回到那个随便开个电脑运行个程序
+[00:00:16.600 --> 00:00:19.040]  就能获得比特币的年代
+[00:00:19.040 --> 00:00:22.300]  二使用法币
+[00:00:22.300 --> 00:00:25.720]  也就是今天听我们节目的人
+[00:00:25.720 --> 00:00:29.720]  我相信大家的主要持有货币应该是人民币或者美金
+[00:00:29.720 --> 00:00:32.520]  利用人民币或者美金呢
+[00:00:32.520 --> 00:00:38.140]  向拥有比特币的人或比特币交易所去购买比特币
+[00:00:38.140 --> 00:00:39.160]  在这里呢
+[00:00:39.160 --> 00:00:40.940]  要提醒大家两点
+[00:00:40.940 --> 00:00:41.440]  第一
+[00:00:41.440 --> 00:00:43.860]  目前就我们录制这个节目
+[00:00:43.860 --> 00:00:46.400]  2017年的5月份呢
+[00:00:46.400 --> 00:00:52.700]  目前在中国交易所所购买的所有比特币都是无法提现的
+[00:00:52.700 --> 00:00:54.400]  用我们流行用语说
+[00:00:54.400 --> 00:00:56.700]  你可能买了一个假的比特币
+[00:00:56.700 --> 00:00:59.980]  因为如果一个比特币无法提现
+[00:00:59.980 --> 00:01:02.500]  无法提供到你的分布式钱包中
+[00:01:02.500 --> 00:01:06.520]  我们认为这就失去了比特币的最核心用途
+[00:01:06.520 --> 00:01:11.400]  就是完全控制自己的一个自由货币
+[00:01:11.400 --> 00:01:13.800]  纯粹变成了一种期货
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 143.386 -t 74.613 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.740]  所以从这里呢
+[00:00:01.740 --> 00:00:07.300]  我们目前不是非常推荐各位到中国的交易所去购买比特币
+[00:00:07.300 --> 00:00:10.520]  除非哪一天他开放提现
+[00:00:10.520 --> 00:00:13.400]  你可以提到自己的分布式的钱包中
+[00:00:13.400 --> 00:00:14.720]  同时呢
+[00:00:14.720 --> 00:00:20.700]  我们希望各位还是能够到境外资质良好的交易所中购买比特币
+[00:00:20.700 --> 00:00:23.480]  当然这里还要给大家一个提醒
+[00:00:23.480 --> 00:00:27.380]  就是无论交易所如何资质良好
+[00:00:27.380 --> 00:00:29.260]  都不要相信交易所
+[00:00:29.260 --> 00:00:36.540]  因为比特币历史中已经无数次的发生了排名第一的交易所倒闭跑路的情况
+[00:00:36.540 --> 00:00:39.600]  因此大家一定要牢记一个原则
+[00:00:39.600 --> 00:00:40.980]  就是买买提
+[00:00:40.980 --> 00:00:47.020]  第一次买到的比特币一定要迅速体现到自己能够控制的分布式钱包上
+[00:00:47.020 --> 00:00:50.420]  同时你只要攒钱买了新的比特币
+[00:00:50.420 --> 00:00:54.040]  一律都把这个钱提到自己的钱包上
+[00:00:54.040 --> 00:00:57.980]  然后把自己的密钥要完整的记住
+[00:00:57.980 --> 00:00:59.560]  千万不要弄丢了
+[00:00:59.560 --> 00:01:02.340]  大家说雨晨讲的这么好
+[00:01:02.340 --> 00:01:04.920]  那我现在打算拿出一万块钱
+[00:01:04.920 --> 00:01:07.220]  但现在拿出一万块钱
+[00:01:07.220 --> 00:01:09.000]  只能买一个比特币了
+[00:01:09.000 --> 00:01:10.700]  我们的那个年代
+[00:01:10.700 --> 00:01:11.560]  拿出一万块钱
+[00:01:11.560 --> 00:01:13.740]  还能买一百个比特币呢
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 217.499 -t 81.127 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.460 --> 00:00:04.020]  现在呢那我要拿出这些钱去投资买一个比特币
+[00:00:04.020 --> 00:00:05.820]  需要注意什么问题呢
+[00:00:05.820 --> 00:00:09.000]  我们认为有以下三点需要注意
+[00:00:09.000 --> 00:00:13.280]  第一投资比特币一定要注意投资的长期性
+[00:00:13.280 --> 00:00:18.060]  我个人认为比特币是一个在长期范围内看涨的虚拟货币
+[00:00:18.060 --> 00:00:21.760]  但是在短期范围内波动十分巨大
+[00:00:21.760 --> 00:00:27.840]  很多人由于无法坚持长期持有比特币这一理念
+[00:00:28.200 --> 00:00:30.960]  早已在涨涨跌跌的环境中
+[00:00:30.960 --> 00:00:33.840]  失去了对他自己比特币的控制
+[00:00:33.840 --> 00:00:36.720]  要不然是忘记了密码
+[00:00:36.720 --> 00:00:39.520]  要不然就是很早抛掉了
+[00:00:39.520 --> 00:00:41.880]  大家不要以为我在开玩笑
+[00:00:41.880 --> 00:00:44.100]  这个教训十分惨痛
+[00:00:44.100 --> 00:00:47.340]  目前在比特币的世界中
+[00:00:47.340 --> 00:00:50.260]  至少有10%以上的比特币
+[00:00:50.260 --> 00:00:52.840]  都属于长期休眠
+[00:00:52.840 --> 00:00:54.680]  再也没有被使用过
+[00:00:54.680 --> 00:00:57.180]  我们来推测判断
+[00:00:57.340 --> 00:01:01.920]  极有可能这些比特币的主人都早已忘记了比特币的密码
+[00:01:01.920 --> 00:01:05.320]  因此丢掉了这些比特币
+[00:01:05.320 --> 00:01:09.480]  因此大家在进入比特币投资领域的时候一定要做好
+[00:01:09.480 --> 00:01:13.360]  这是一个值得五年以上投资的货币
+[00:01:13.360 --> 00:01:16.200]  因此你要牢记自己的密码
+[00:01:16.200 --> 00:01:17.380]  同时呢
+[00:01:17.380 --> 00:01:20.380]  你要做好迎接涨涨跌跌的准备
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 298.126 -t 81.752 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/103 - 103 - 104 孙宇晨：【比特币】买买提.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:05.860]  其二投资比特币一定要注意进入时的价格
+[00:00:05.860 --> 00:00:10.940]  比特币涨涨跌跌最好要在无人问津时进入
+[00:00:10.940 --> 00:00:15.420]  这时候也才能给你提供一个良好的价格边际
+[00:00:15.420 --> 00:00:19.840]  你也能够更加淡定的看待比特币的涨跌
+[00:00:19.840 --> 00:00:23.820]  如果每次进入时价格过高都买在山顶
+[00:00:23.820 --> 00:00:28.680]  你就很容易在比特币的涨涨跌跌中失去平常心
+[00:00:28.680 --> 00:00:30.860]  最后割肉离场
+[00:00:30.860 --> 00:00:33.840]  成为在黎明前倒下的烈士
+[00:00:33.840 --> 00:00:35.580]  其三
+[00:00:35.580 --> 00:00:39.060]  投资比特币要坚定对于个人主义
+[00:00:39.060 --> 00:00:40.860]  无政府资本主义
+[00:00:40.860 --> 00:00:42.620]  自由主义的信仰
+[00:00:42.620 --> 00:00:46.540]  投资比特币不仅仅是一种投资行为
+[00:00:46.540 --> 00:00:48.480]  更是一种信仰
+[00:00:48.480 --> 00:00:50.720]  对于坚信个人主义
+[00:00:50.720 --> 00:00:52.080]  无政府资本主义
+[00:00:52.080 --> 00:00:57.760]  自由主义终将成为人类最终未来的一种坚定的信仰
+[00:00:57.760 --> 00:00:59.740]  如果明白了这一点
+[00:00:59.740 --> 00:01:04.940]  也有助于你克服比特币时遇到的种种困难时刻
+[00:01:04.940 --> 00:01:06.040]  想一想
+[00:01:06.040 --> 00:01:08.840]  比特币是人类伟大的自由货币
+[00:01:08.840 --> 00:01:13.740]  是未来人类建设无政府资本主义的一个基本的金融基础
+[00:01:13.740 --> 00:01:18.600]  是你就能充分了解到比特币这个货币的伟大程度
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__103__0ca2de19/chunk-004/out -sns -nf -np

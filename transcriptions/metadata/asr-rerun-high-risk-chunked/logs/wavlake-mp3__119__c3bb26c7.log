@@ -1,0 +1,556 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 75.250 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.700]  大家好
+[00:00:01.700 --> 00:00:03.880]  我是陪我APP创始人孙宇辰
+[00:00:03.880 --> 00:00:07.440]  我想邀你一起与我踏上财富自由革命之路
+[00:00:07.440 --> 00:00:10.540]  我在财富自由的另一边等着你
+[00:00:10.540 --> 00:00:16.540]  既然你已经选好了你的伴侣
+[00:00:16.540 --> 00:00:17.740]  选好了你的家人
+[00:00:17.740 --> 00:00:18.720]  当然没得选了
+[00:00:18.720 --> 00:00:21.780]  究竟该如何处理和他们的关系呢
+[00:00:21.780 --> 00:00:23.700]  我个人认为啊
+[00:00:23.700 --> 00:00:25.460]  正确处理和家人的关系
+[00:00:25.460 --> 00:00:27.940]  无论是父母伴侣还是兄弟姐妹
+[00:00:27.940 --> 00:00:31.180]  其中有一条最基本的原则就是
+[00:00:31.180 --> 00:00:35.200]  所有的家人与你都是一种平等关系
+[00:00:35.200 --> 00:00:40.840]  所以本质上与你和你朋友的关系是一样的
+[00:00:40.840 --> 00:00:43.980]  如果说和朋友之间有一些差别
+[00:00:43.980 --> 00:00:48.960]  那么就是家人之间是一种平等的至亲关系
+[00:00:48.960 --> 00:00:50.640]  这句话怎么理解呢
+[00:00:50.640 --> 00:00:53.380]  家人和家人之间是一种平等的至亲关系
+[00:00:53.380 --> 00:00:58.060]  首先我们要了解这是一种平等的关系
+[00:00:58.060 --> 00:01:03.700]  平等关系也就是我们平常打架到说近似于朋友的关系
+[00:01:03.700 --> 00:01:09.800]  你的人生与你父母的人生本质上是没有所谓的必然联系的
+[00:01:09.800 --> 00:01:11.940]  大家一定要明白这一点
+[00:01:11.940 --> 00:01:15.260]  你就是你自己与你的父母
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 74.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.920]  你的父母没有任何关系
+[00:00:01.920 --> 00:00:03.520]  反过来说
+[00:00:03.520 --> 00:00:07.320]  你的父母也与你没有任何关系
+[00:00:07.320 --> 00:00:12.280]  我们都是彼此之间独立的个体
+[00:00:12.280 --> 00:00:15.400]  我记得阿兰德有一句话非常著名
+[00:00:15.400 --> 00:00:19.460]  这是他对他情人表白时候说的一句话
+[00:00:19.460 --> 00:00:21.560]  叫做我爱你
+[00:00:21.560 --> 00:00:24.080]  但这句话的前提条件是
+[00:00:24.080 --> 00:00:25.780]  我必须先有我
+[00:00:25.780 --> 00:00:27.500]  这讲的我觉得非常深刻
+[00:00:27.500 --> 00:00:29.780]  我爱你的前提条件是得有我
+[00:00:29.780 --> 00:00:30.900]  才能爱你
+[00:00:30.900 --> 00:00:32.600]  如果连我的没有
+[00:00:32.600 --> 00:00:34.680]  那如何去达成我爱你
+[00:00:34.680 --> 00:00:35.560]  这句话呢
+[00:00:35.560 --> 00:00:37.000]  往往是很多人忽略了
+[00:00:37.000 --> 00:00:39.200]  所以从这个角度来说
+[00:00:39.200 --> 00:00:41.380]  我们每个人的成功与独立
+[00:00:41.380 --> 00:00:44.120]  不应当牺牲父母的福祉与自由
+[00:00:44.120 --> 00:00:45.220]  反之
+[00:00:45.220 --> 00:00:47.500]  当然我们父母的成功和独立
+[00:00:47.500 --> 00:00:50.240]  也不应该牺牲我们的幸福和自由
+[00:00:50.240 --> 00:00:53.000]  我们彼此之间都是独立的个体
+[00:00:53.000 --> 00:00:55.140]  所以从这个角度来说
+[00:00:55.140 --> 00:00:58.560]  你没有任何权利要求父母为你而活
+[00:00:58.560 --> 00:01:03.100]  父母也没有任何权利要求子女为他们而活
+[00:01:03.100 --> 00:01:10.500]  这是一个我认为处理与家人之间关系最本质的原则
+[00:01:10.500 --> 00:01:15.500]  当然这对于我们整个中国来说这个原则
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 149.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.540]  这个原则可能是相当超前
+[00:00:02.540 --> 00:00:04.660]  因为我们大家也了解
+[00:00:04.660 --> 00:00:11.520]  就是在中国子女对父母可能至少负有一个不可推卸的责任
+[00:00:11.520 --> 00:00:13.420]  还不是赡养责任
+[00:00:13.420 --> 00:00:14.080]  大家要注意
+[00:00:14.080 --> 00:00:16.640]  绝大多数尤其我们男生也了解
+[00:00:16.640 --> 00:00:18.980]  大家赋予的主要是不孝有三
+[00:00:18.980 --> 00:00:19.920]  无后为大
+[00:00:19.920 --> 00:00:23.800]  可能弑父都排在无后后面
+[00:00:23.800 --> 00:00:28.740]  就你把你爹杀了的不孝的程度
+[00:00:28.740 --> 00:00:31.600]  都没你不生儿子的
+[00:00:31.600 --> 00:00:34.040]  比如说在我们中国的传统价值观众
+[00:00:34.040 --> 00:00:37.280]  这简直是一个天条
+[00:00:37.280 --> 00:00:38.480]  不可触犯的天条
+[00:00:38.480 --> 00:00:41.360]  是子女对于父母来说
+[00:00:41.360 --> 00:00:42.860]  与生己俱来
+[00:00:42.860 --> 00:00:45.840]  不可去撼动的一个基本责任
+[00:00:45.840 --> 00:00:47.160]  从这个角度来说
+[00:00:47.160 --> 00:00:49.720]  我们也要重新去思考这句话
+[00:00:49.720 --> 00:00:50.860]  我个人认为
+[00:00:50.860 --> 00:00:52.740]  首先一生欲不应该是
+[00:00:52.740 --> 00:00:55.580]  你父母强加在你身上的一种责任
+[00:00:55.580 --> 00:00:57.600]  应当是你自己热爱生育
+[00:00:57.600 --> 00:01:00.420]  想生小孩的一种自主选择
+[00:01:00.420 --> 00:01:01.680]  因为只有这样
+[00:01:01.680 --> 00:01:05.520]  你才能充分的调集你自己的资源和能力
+[00:01:05.520 --> 00:01:07.920]  把小孩赡养的这一个事情做好
+[00:01:07.920 --> 00:01:09.300]  与此同时
+[00:01:09.300 --> 00:01:13.560]  父母当然也不应当认为
+[00:01:13.560 --> 00:01:15.500]  结婚生子是子女
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 224.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.940]  是子女对你的一种义务
+[00:00:01.940 --> 00:00:05.860]  这个当然我觉得在中国显而易见更超前了
+[00:00:05.860 --> 00:00:09.260]  大家知道就是催生的催结婚的
+[00:00:09.260 --> 00:00:13.580]  现在基本上已经成为至少90后渐渐的标配
+[00:00:13.580 --> 00:00:16.420]  80后这一波已经过去了90后了
+[00:00:16.420 --> 00:00:18.720]  再过10年可能就是00后
+[00:00:18.720 --> 00:00:19.820]  所以呢
+[00:00:19.820 --> 00:00:24.220]  从这一点上和我们中国的传统观念是有非常大的差别的
+[00:00:24.220 --> 00:00:27.500]  整个中国的家庭传统观念
+[00:00:27.500 --> 00:00:30.380]  往往是把父母子女
+[00:00:30.380 --> 00:00:33.060]  包括兄弟姐妹亲戚
+[00:00:33.060 --> 00:00:34.420]  七大姑八大姨
+[00:00:34.420 --> 00:00:36.040]  一大家子都绑在一起
+[00:00:36.040 --> 00:00:38.820]  一辈子相爱相杀
+[00:00:38.820 --> 00:00:42.520]  这是我们中国传统的亲情观念
+[00:00:42.520 --> 00:00:44.180]  大家一定要明白
+[00:00:44.180 --> 00:00:48.940]  相爱和相杀是一颗硬币的正反面
+[00:00:48.940 --> 00:00:52.700]  这个世界上从来不可能只有好事
+[00:00:52.700 --> 00:00:53.720]  没有坏事
+[00:00:53.720 --> 00:00:55.720]  所以有相爱
+[00:00:55.720 --> 00:00:58.980]  就必然会有相杀
+[00:00:58.980 --> 00:01:01.120]  我们可以看到很多传统
+[00:01:01.120 --> 00:01:03.360]  道德观念下的悲剧
+[00:01:03.360 --> 00:01:06.600]  其实从传统道德观念
+[00:01:06.600 --> 00:01:08.180]  他的主张开始
+[00:01:08.180 --> 00:01:11.220]  就已经埋下了伏笔
+[00:01:11.220 --> 00:01:12.820]  我记得有时候那时候
+[00:01:12.820 --> 00:01:14.940]  我还看过清朝写的一些
+[00:01:14.940 --> 00:01:15.500]  什么
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 299.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.120 --> 00:00:02.080]  什么三言二拍啊
+[00:00:02.080 --> 00:00:03.320]  不知道大家看过没
+[00:00:03.320 --> 00:00:05.940]  就是一些捍卫传统道德的读物
+[00:00:05.940 --> 00:00:08.960]  他们往往会讲很多家庭的悲剧
+[00:00:08.960 --> 00:00:11.220]  就是人伦的甚至一些悲剧吧
+[00:00:11.220 --> 00:00:12.860]  但是最后总结
+[00:00:12.860 --> 00:00:16.300]  都是说当事人的道德的水准太低
+[00:00:16.300 --> 00:00:18.660]  其实往往不是
+[00:00:18.660 --> 00:00:21.260]  大家听过我们这个节目都了解
+[00:00:21.260 --> 00:00:24.260]  我们其实对人的道德水准是没有任何要求的
+[00:00:24.260 --> 00:00:27.000]  我们觉得人和人在道德上都是平等的
+[00:00:27.000 --> 00:00:29.000]  人就是一个普通的动物
+[00:00:29.540 --> 00:00:33.880]  真真正正展现出人性恶和人性好的核心
+[00:00:33.880 --> 00:00:38.120]  还是这一套道德观念本质背后的制度设计
+[00:00:38.120 --> 00:00:44.240]  以及这套制度设计所导致出的自然的决策结果
+[00:00:44.240 --> 00:00:46.040]  以及事情发生的结果
+[00:00:46.040 --> 00:00:48.060]  这才是真正重要的
+[00:00:48.060 --> 00:00:52.040]  我们也经常说好的制度是把鬼变成人
+[00:00:52.040 --> 00:00:54.960]  但是坏的制度是把人变成鬼
+[00:00:54.960 --> 00:00:58.580]  某种程度上像我们国家的反腐倡念
+[00:00:58.580 --> 00:01:00.040]  不也是这样吗
+[00:01:00.040 --> 00:01:02.620]  很多现行制度如果不改变
+[00:01:02.620 --> 00:01:03.960]  党员领导干部
+[00:01:03.960 --> 00:01:06.540]  那就真的是上一个腐败一个
+[00:01:06.540 --> 00:01:07.420]  肯定是这样
+[00:01:07.420 --> 00:01:09.760]  只有实现了民主监督
+[00:01:09.760 --> 00:01:11.280]  实现了方方面面
+[00:01:11.280 --> 00:01:13.300]  真真正正的权力的监督
+[00:01:13.300 --> 00:01:15.500]  那才可能上去
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 374.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.820]  而不是说我不愿谈
+[00:00:02.820 --> 00:00:03.800]  不敢谈
+[00:00:03.800 --> 00:00:05.020]  而是不能谈
+[00:00:05.020 --> 00:00:07.840]  其实家庭制度不也是如此吗
+[00:00:07.840 --> 00:00:10.840]  很多这些人伦悲剧发生的各种各样
+[00:00:10.840 --> 00:00:12.540]  如果在一开始的时候
+[00:00:12.540 --> 00:00:16.460]  他的道德是一个像我们今天提倡的新道德
+[00:00:16.460 --> 00:00:18.840]  他甚至就不会发生
+[00:00:18.840 --> 00:00:25.000]  这种传统观念是深深的烙印在每一个人的骨髓中的
+[00:00:25.000 --> 00:00:26.960]  我小时候有一个例子
+[00:00:26.960 --> 00:00:28.800]  我记得印象非常清楚
+[00:00:28.800 --> 00:00:30.720]  十年前我高考的时候
+[00:00:30.720 --> 00:00:32.680]  那个时候是2007年
+[00:00:32.680 --> 00:00:36.960]  老师曾经问过我们学生一个问题
+[00:00:36.960 --> 00:00:39.040]  叫做为什么你们要参加高考
+[00:00:39.040 --> 00:00:41.140]  以及通过高考
+[00:00:41.140 --> 00:00:43.160]  你们想过上一个什么样的人生
+[00:00:43.160 --> 00:00:45.620]  当时对我来说
+[00:00:45.620 --> 00:00:48.260]  我当然是非常憧憬高考后的人生的
+[00:00:48.260 --> 00:00:50.960]  当然对高考也是充满着激情
+[00:00:50.960 --> 00:00:51.860]  我当时就说
+[00:00:51.860 --> 00:00:56.100]  我非常崇拜一个作家叫王小波
+[00:00:56.100 --> 00:00:58.380]  所以我希望能够到
+[00:00:58.380 --> 00:01:00.140]  王小波的母校
+[00:01:00.140 --> 00:01:01.860]  人民大学去
+[00:01:01.860 --> 00:01:03.880]  当然大家有些读者可能问
+[00:01:03.880 --> 00:01:05.600]  语辰你最后怎么去北大了呢
+[00:01:05.600 --> 00:01:07.420]  这不是有点出尔反尔吗
+[00:01:07.420 --> 00:01:09.220]  原因其实很简单
+[00:01:09.220 --> 00:01:10.400]  听起来你可能不信
+[00:01:10.400 --> 00:01:11.460]  但真的是这样
+[00:01:11.460 --> 00:01:15.500]  当时我希望报考王小波的母校人民大学
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 449.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.300]  人民大学时候却被人民大学无情的拒绝了
+[00:00:03.300 --> 00:00:05.540]  所以我只能上了北大
+[00:00:05.540 --> 00:00:07.000]  听起来有点荒谬
+[00:00:07.000 --> 00:00:08.640]  但这真的是事实
+[00:00:08.640 --> 00:00:10.220]  就我被人民大学拒绝了
+[00:00:10.220 --> 00:00:12.760]  所以我才被迫去了北大
+[00:00:12.760 --> 00:00:14.400]  从这点上说可以说是这样
+[00:00:14.400 --> 00:00:18.220]  当然我当时觉得如果能去北大那更好
+[00:00:18.220 --> 00:00:22.180]  总而言之高考想让我过上一个什么样的人生呢
+[00:00:22.180 --> 00:00:24.300]  我当时没有想清楚
+[00:00:24.300 --> 00:00:28.440]  但是毕竟是想闯出一份属于自己的事业
+[00:00:28.440 --> 00:00:29.640]  当时我的想法
+[00:00:29.640 --> 00:00:31.120]  跟大家的想法应该差不多
+[00:00:31.120 --> 00:00:31.860]  因为大家都是人
+[00:00:31.860 --> 00:00:35.460]  但是让我非常惊讶的是
+[00:00:35.460 --> 00:00:38.600]  其实在当时我们整个中学中
+[00:00:38.600 --> 00:00:41.980]  像我这样想法的人非常少
+[00:00:41.980 --> 00:00:43.800]  我当时印象很深
+[00:00:43.800 --> 00:00:45.680]  就我的同桌的回答就是
+[00:00:45.680 --> 00:00:47.660]  父母让我高考的
+[00:00:47.660 --> 00:00:48.740]  我的报告是啥
+[00:00:48.740 --> 00:00:50.220]  就父母让我来高考
+[00:00:50.220 --> 00:00:51.480]  我就来考了
+[00:00:51.480 --> 00:00:53.140]  我也不知道考的时候干啥
+[00:00:53.140 --> 00:00:53.800]  不知道
+[00:00:53.800 --> 00:00:56.400]  当然有一些
+[00:00:56.400 --> 00:00:58.100]  这是一种主流回答
+[00:00:58.100 --> 00:00:59.220]  还有一类回答就是
+[00:00:59.220 --> 00:01:00.880]  大家都是考大学
+[00:01:00.880 --> 00:01:02.940]  好像不考大学挺丢人的
+[00:01:02.940 --> 00:01:04.000]  所以我考呗
+[00:01:04.000 --> 00:01:07.360]  这真的就是真实的想法
+[00:01:07.360 --> 00:01:09.640]  当我的同桌
+[00:01:09.640 --> 00:01:11.460]  当时非常传统的一个女生
+[00:01:11.460 --> 00:01:12.660]  她就说
+[00:01:12.660 --> 00:01:14.680]  我高考的原因
+[00:01:14.680 --> 00:01:15.500]  就是为了
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 524.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.620]  就是为了让我父母能过上一个好日子
+[00:00:02.620 --> 00:00:05.200]  我这一辈子人生的目的
+[00:00:05.200 --> 00:00:08.000]  就是让我父母过得好
+[00:00:08.000 --> 00:00:11.180]  而这大家千万不要以为
+[00:00:11.180 --> 00:00:12.700]  这个言论大家会很惊诧
+[00:00:12.700 --> 00:00:13.980]  相反大家会觉得
+[00:00:13.980 --> 00:00:15.600]  是不是孙玉成刚才那种想法
+[00:00:15.600 --> 00:00:16.760]  是有些自私自利
+[00:00:16.760 --> 00:00:19.560]  而这个女生伟大
+[00:00:19.560 --> 00:00:20.360]  伟大
+[00:00:20.360 --> 00:00:22.020]  当时很流行的价值观
+[00:00:22.020 --> 00:00:24.780]  有父母含辛茹苦把我养大
+[00:00:24.780 --> 00:00:27.040]  我的人生就是要让他们幸福
+[00:00:27.040 --> 00:00:28.580]  只要父母开心
+[00:00:28.580 --> 00:00:31.200]  让我做什么都可以
+[00:00:31.200 --> 00:00:32.720]  其实不光是对父母
+[00:00:32.720 --> 00:00:34.460]  我们大家知道盲目的爱情中
+[00:00:34.460 --> 00:00:35.620]  也经常有一些观点
+[00:00:35.620 --> 00:00:37.100]  就是只要对方幸福
+[00:00:37.100 --> 00:00:38.840]  我死了都可以
+[00:00:38.840 --> 00:00:40.940]  类似于像泰坦尼克号里面的
+[00:00:40.940 --> 00:00:41.820]  Jack和Rose
+[00:00:41.820 --> 00:00:44.140]  当然这种感情能打动人
+[00:00:44.140 --> 00:00:45.360]  但是我们也知道
+[00:00:45.360 --> 00:00:48.000]  它是一颗硬币的正反面
+[00:00:48.000 --> 00:00:51.400]  如果你愿意为父母付出一切
+[00:00:51.400 --> 00:00:54.680]  愿意为他们去死
+[00:00:54.680 --> 00:00:58.320]  那你必然是希望
+[00:00:58.320 --> 00:01:02.220]  父母也要按照你的三观去生活
+[00:01:02.220 --> 00:01:06.240]  这是一个再自然不过的推己及人的延伸
+[00:01:06.240 --> 00:01:08.920]  今天其实我慢慢随着年纪的长大
+[00:01:08.920 --> 00:01:13.000]  就我的屁股慢慢渐渐也从子女块挪到父母上了
+[00:01:13.000 --> 00:01:15.500]  我也假设今天听我们这个节目的既有
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 599.750 -t 75.500 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.160]  既有子女也有父母
+[00:00:02.160 --> 00:00:03.960]  所以我要给大家讲的
+[00:00:03.960 --> 00:00:05.840]  首先我如果是作为父母
+[00:00:05.840 --> 00:00:07.840]  我听到我的孩子的这样的话
+[00:00:07.840 --> 00:00:10.300]  某种程度上我不仅不会感到感动
+[00:00:10.300 --> 00:00:12.200]  还会感到毛骨悚然
+[00:00:12.200 --> 00:00:13.720]  我觉得如果我子女说
+[00:00:13.720 --> 00:00:15.340]  我这辈子为了我的父母
+[00:00:15.340 --> 00:00:16.500]  愿意为他去死
+[00:00:16.500 --> 00:00:18.240]  我一会儿我教育我的子女
+[00:00:18.240 --> 00:00:20.000]  他要有自己的人生目
+[00:00:20.000 --> 00:00:21.840]  要有自己的人生事业
+[00:00:21.840 --> 00:00:24.840]  要有自己愿意去现身的事业
+[00:00:24.840 --> 00:00:27.100]  这才是一个健康的人生
+[00:00:27.100 --> 00:00:28.480]  而他如果这样坚持
+[00:00:28.480 --> 00:00:29.720]  我会觉得毛骨悚然
+[00:00:29.720 --> 00:00:31.880]  大家不要以为这个世界上
+[00:00:31.880 --> 00:00:33.880]  只有父母会干涉子女
+[00:00:33.880 --> 00:00:35.700]  父母干涉子女的例子太多了
+[00:00:35.700 --> 00:00:36.760]  像我们刚才讲的逼婚
+[00:00:36.760 --> 00:00:38.360]  逼生小孩不都是吗
+[00:00:38.360 --> 00:00:39.800]  但是大家要知道
+[00:00:39.800 --> 00:00:41.780]  父母你也有老的一天
+[00:00:41.780 --> 00:00:42.980]  也有弱势的一天
+[00:00:42.980 --> 00:00:45.320]  当你老的弱势的时候呢
+[00:00:45.320 --> 00:00:46.540]  中国最严重的
+[00:00:46.540 --> 00:00:49.560]  其实还有儿女对父母的干涉
+[00:00:49.560 --> 00:00:51.600]  也是非常严重
+[00:00:51.600 --> 00:00:54.940]  比方说儿女长大以后
+[00:00:54.940 --> 00:00:57.780]  父母如果有一方想离婚
+[00:00:57.780 --> 00:01:00.540]  别说儿女了
+[00:01:00.540 --> 00:01:03.120]  连知乎上的吃瓜群众们
+[00:01:03.120 --> 00:01:05.020]  都会愤怒谴责
+[00:01:05.020 --> 00:01:07.840]  绝对不会让你顺利脱身
+[00:01:07.840 --> 00:01:09.500]  同时
+[00:01:09.500 --> 00:01:11.540]  如果老伴先走一步
+[00:01:11.540 --> 00:01:13.640]  后走的一个居然想再婚
+[00:01:13.640 --> 00:01:15.500]  子女也绝对
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 674.750 -t 93.970 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/wavlake-mp3/119 - 119 - 120 孙宇晨：【家人边界】平等的至亲关系.mp3 -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.740]  也绝对会炸开了锅
+[00:00:01.740 --> 00:00:03.820]  你看我们刚才讲是不恩爱的情况
+[00:00:03.820 --> 00:00:05.020]  那恩爱呢也不行
+[00:00:05.020 --> 00:00:09.400]  恩爱呢如果你痴心妄想到想生二胎
+[00:00:09.400 --> 00:00:12.200]  这得看子女的年纪吧
+[00:00:12.200 --> 00:00:15.120]  如果子女年纪小拿你没志
+[00:00:15.120 --> 00:00:16.360]  也就算了
+[00:00:16.360 --> 00:00:18.200]  如果子女年纪大
+[00:00:18.200 --> 00:00:22.760]  那绝对是会想出九牛二虎之力来阻止你们的
+[00:00:22.760 --> 00:00:24.560]  我竟然看到知乎上啊
+[00:00:24.560 --> 00:00:27.220]  也有人就是不是开玩笑的
+[00:00:27.220 --> 00:00:28.820]  他是真正非常苦恼的
+[00:00:28.820 --> 00:00:30.020]  在知乎上提问
+[00:00:30.020 --> 00:00:32.080]  说他妈去世了
+[00:00:32.080 --> 00:00:35.240]  他爸现在就天天去广场舞上泡老太太
+[00:00:35.240 --> 00:00:38.020]  他就感到非常愤懒和苦恼
+[00:00:38.020 --> 00:00:40.180]  觉得他爸老不正经
+[00:00:40.180 --> 00:00:41.240]  为老不尊
+[00:00:41.240 --> 00:00:44.780]  干出这种可以号称是老流氓的事情来了
+[00:00:44.780 --> 00:00:47.140]  他最近就把他爸锁在家里
+[00:00:47.140 --> 00:00:48.840]  不许他爸去跳广场舞
+[00:00:48.840 --> 00:00:52.020]  而且非常苦恼的来问网友们
+[00:00:52.020 --> 00:00:53.220]  他应该怎么办
+[00:00:53.220 --> 00:00:56.680]  其实往往这样的子女在另外一面
+[00:00:56.680 --> 00:00:58.520]  他是很爱他父母的
+[00:00:58.520 --> 00:01:02.860]  所以他才会将自己的三观强加给父母
+[00:01:02.860 --> 00:01:04.120]  如果父母做不到
+[00:01:04.120 --> 00:01:06.680]  他这时候就会怒气不争
+[00:01:06.680 --> 00:01:10.280]  就像你小时候如果考试分数得了零分
+[00:01:10.280 --> 00:01:11.680]  父母的感觉一样
+[00:01:11.680 --> 00:01:13.280]  那肯定是要把你揍一顿
+[00:01:13.280 --> 00:01:16.060]  我们小时候听父母说
+[00:01:16.060 --> 00:01:17.120]  这种打是亲
+[00:01:17.120 --> 00:01:18.200]  什么骂是爱
+[00:01:18.200 --> 00:01:20.780]  这并不是SM的场景
+[00:01:20.780 --> 00:01:23.700]  这是有确实的事实支撑的
+[00:01:23.700 --> 00:01:28.360]  就是相爱相杀是一个硬币的正反两面
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/wavlake-mp3__119__c3bb26c7/chunk-009/out -sns -nf -np

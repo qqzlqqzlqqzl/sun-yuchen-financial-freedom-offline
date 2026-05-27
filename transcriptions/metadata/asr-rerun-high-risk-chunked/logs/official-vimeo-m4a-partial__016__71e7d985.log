@@ -1,0 +1,995 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 54.412 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.024 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:29.980]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+[00:00:30.000 --> 00:00:31.120]  创业小有所成
+[00:00:31.120 --> 00:00:32.540]  我一直坚信
+[00:00:32.540 --> 00:00:34.140]  一个有梦想的人
+[00:00:34.140 --> 00:00:35.880]  带着刺也能成功
+[00:00:35.880 --> 00:00:37.700]  甚至一个带着刺的人
+[00:00:37.700 --> 00:00:39.500]  更容易走向成功
+[00:00:39.500 --> 00:00:41.060]  我想邀你一起
+[00:00:41.060 --> 00:00:43.260]  与我踏上财富自由革命之路
+[00:00:43.260 --> 00:00:46.120]  我希望在财富自由的另一边
+[00:00:46.120 --> 00:00:47.180]  等着你
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 53.912 -t 71.460 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:07.180]  今天这一章呢
+[00:00:07.180 --> 00:00:08.400]  我们给大家讲的是
+[00:00:08.400 --> 00:00:10.900]  我自己投资特斯拉比特币
+[00:00:10.900 --> 00:00:12.340]  唯品会的具体实例
+[00:00:12.340 --> 00:00:14.880]  因为涉及到投资
+[00:00:14.880 --> 00:00:17.380]  所以可能其实里面有一些专业名词
+[00:00:17.380 --> 00:00:18.640]  以及对公司的分析
+[00:00:18.640 --> 00:00:20.080]  可能会有些枯燥
+[00:00:20.080 --> 00:00:21.620]  但是我觉得也很有用
+[00:00:21.620 --> 00:00:23.480]  因为这一章是专门讲干货的
+[00:00:23.480 --> 00:00:25.140]  所以很希望大家分享
+[00:00:25.140 --> 00:00:26.800]  今天文章里有任何问题呢
+[00:00:26.800 --> 00:00:29.100]  也欢迎大家到我的喜马拉雅账号
+[00:00:29.100 --> 00:00:31.640]  我的新浪同名微博孙宇辰
+[00:00:31.640 --> 00:00:35.000]  包括我的微信账号浪潮车间
+[00:00:35.000 --> 00:00:36.400]  给我留言
+[00:00:36.400 --> 00:00:39.040]  然后我们大家一起来探讨这个问题
+[00:00:39.040 --> 00:00:42.120]  讲投资特斯拉比特币和唯品会之前
+[00:00:42.120 --> 00:00:45.420]  我想先跟大家分享几个宏观经济形势
+[00:00:45.420 --> 00:00:48.120]  其实自从全球
+[00:00:48.120 --> 00:00:50.480]  其实在上世纪
+[00:00:50.480 --> 00:00:51.920]  七八十年代
+[00:00:51.920 --> 00:00:54.480]  美国主导的布林顿森林体系崩溃之后
+[00:00:54.480 --> 00:00:57.140]  全球的金融体系
+[00:00:57.140 --> 00:00:59.080]  就已经早已金本位脱钩了
+[00:00:59.080 --> 00:01:00.680]  所以全球的金融呢
+[00:01:00.680 --> 00:01:05.040]  一直以来就是温和通胀的一个基本发展态势
+[00:01:05.040 --> 00:01:06.980]  所以整体啊
+[00:01:06.980 --> 00:01:08.800]  即便以美元提起来看
+[00:01:08.800 --> 00:01:11.460]  美元也是每年都是超发的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 124.872 -t 73.081 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.800]  当然在美元货币体系下的
+[00:00:02.800 --> 00:00:05.700]  像日元欧元人民币
+[00:00:05.700 --> 00:00:07.760]  一篮子货币里面绝大多数货币
+[00:00:07.760 --> 00:00:09.720]  超发的要比美国更严重的多
+[00:00:09.720 --> 00:00:11.900]  像包括日本和欧洲
+[00:00:11.900 --> 00:00:15.340]  已经常年保持低利率甚至负利率了
+[00:00:15.340 --> 00:00:16.480]  也就是你存
+[00:00:16.480 --> 00:00:17.900]  如果钱敢存在银行
+[00:00:17.900 --> 00:00:20.600]  不仅每年不会给你利息
+[00:00:20.600 --> 00:00:22.000]  反而还会亏钱
+[00:00:22.000 --> 00:00:25.480]  而且同时政府还反复印钞让钱去贬值
+[00:00:25.480 --> 00:00:27.320]  所以从这个角度来讲
+[00:00:27.320 --> 00:00:29.840]  其实全球进入通胀周期之后
+[00:00:29.840 --> 00:00:31.200]  流动性空前过剩
+[00:00:31.200 --> 00:00:34.940]  所以全世界最大的现象和问题呢
+[00:00:34.940 --> 00:00:36.160]  这都是一个
+[00:00:36.160 --> 00:00:37.580]  就是钱太多
+[00:00:37.580 --> 00:00:39.280]  讲到这儿
+[00:00:39.280 --> 00:00:41.200]  可能有的观众会觉得
+[00:00:41.200 --> 00:00:42.920]  这站直说话不腰疼啊
+[00:00:42.920 --> 00:00:45.520]  自己可能没钱才来买这个节目
+[00:00:45.520 --> 00:00:48.280]  谁知道全世界最大的问题
+[00:00:48.280 --> 00:00:49.200]  居然是钱多
+[00:00:49.200 --> 00:00:49.800]  花不掉
+[00:00:49.800 --> 00:00:52.400]  但这就是事实啊
+[00:00:52.400 --> 00:00:54.180]  这就是宏观经济的一个事实
+[00:00:54.180 --> 00:00:55.080]  所以呢
+[00:00:55.080 --> 00:00:56.560]  从这个角度来讲呢
+[00:00:56.560 --> 00:00:59.220]  就是无论我们大家自己有没有钱
+[00:00:59.220 --> 00:01:02.320]  你都必须知道这个宏观经济的客观事实
+[00:01:02.320 --> 00:01:05.280]  因为了解这个宏观经济的客观事实呢
+[00:01:05.280 --> 00:01:07.520]  非常有助于你在后面投资决策啊
+[00:01:07.520 --> 00:01:10.440]  以及非常多的事情中做出正确的决策
+[00:01:10.440 --> 00:01:11.300]  所以呢
+[00:01:11.300 --> 00:01:12.460]  从这个地方来说
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 197.454 -t 56.418 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.680]  我们至少认为两点
+[00:00:01.680 --> 00:00:04.560]  就是全世界钱是多的
+[00:00:04.560 --> 00:00:06.540]  所以其他东西其实并不重要
+[00:00:06.540 --> 00:00:08.260]  因为钱非常多
+[00:00:08.260 --> 00:00:09.380]  其次呢
+[00:00:09.380 --> 00:00:11.640]  就是负债其实应该被鼓励
+[00:00:11.640 --> 00:00:14.620]  其实这也跟中国人传统的想法很不一样
+[00:00:14.620 --> 00:00:16.520]  传统中国人是最怕负债的
+[00:00:16.520 --> 00:00:18.980]  因为都觉得无债一身轻啊
+[00:00:18.980 --> 00:00:20.000]  这些古语是吧
+[00:00:20.000 --> 00:00:20.980]  鼓励我们不要负债
+[00:00:20.980 --> 00:00:24.380]  其实自从全球进入通胀周期之后
+[00:00:24.380 --> 00:00:26.880]  通胀之后负债当时要被鼓励的
+[00:00:26.880 --> 00:00:29.180]  因为你明年还钱
+[00:00:29.180 --> 00:00:31.140]  肯定压力就没有今年这么大了
+[00:00:31.140 --> 00:00:32.460]  因为钱更好挣了
+[00:00:32.460 --> 00:00:34.400]  所以从这个角度来说
+[00:00:34.400 --> 00:00:36.120]  我们认为可控制债务
+[00:00:36.120 --> 00:00:38.420]  就是不会利率非常恶化的
+[00:00:38.420 --> 00:00:39.220]  可控制债务
+[00:00:39.220 --> 00:00:42.680]  其实甚至是提升你资产负债表
+[00:00:42.680 --> 00:00:44.820]  以及赚钱的一个非常好的方式
+[00:00:44.820 --> 00:00:46.640]  这个举的最极端的例子
+[00:00:46.640 --> 00:00:47.680]  当然就是美国政府
+[00:00:47.680 --> 00:00:49.900]  美国政府每年通过发行美国国债
+[00:00:49.900 --> 00:00:51.460]  是背负天量债务的
+[00:00:51.460 --> 00:00:53.380]  但是它在全球算是
+[00:00:53.380 --> 00:00:55.280]  日子过得最好的政府之一
+[00:00:55.280 --> 00:00:56.420]  所以
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 253.372 -t 110.254 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.680]  所以从这个角度来说
+[00:00:01.680 --> 00:00:03.580]  大家要明白总结一下
+[00:00:03.580 --> 00:00:05.020]  两点流动性过剩
+[00:00:05.020 --> 00:00:05.760]  钱很多
+[00:00:05.760 --> 00:00:08.440]  第二就是鼓励负债
+[00:00:08.440 --> 00:00:09.760]  从这个角度来说
+[00:00:09.760 --> 00:00:10.980]  其实我们大家也知道
+[00:00:10.980 --> 00:00:12.180]  这也是所以为什么
+[00:00:12.180 --> 00:00:13.940]  我其实给自己这一章
+[00:00:13.940 --> 00:00:14.780]  起了个小标题
+[00:00:14.780 --> 00:00:17.020]  叫做财富自由从未如此容易过
+[00:00:17.020 --> 00:00:18.320]  因为大家可以看
+[00:00:18.320 --> 00:00:20.680]  其实以美元标价的很多
+[00:00:20.680 --> 00:00:23.080]  绝大多数的第一产业中
+[00:00:23.080 --> 00:00:24.840]  和第二产业中生产的产品
+[00:00:24.840 --> 00:00:26.960]  就工业跟农业中生产的产品
+[00:00:26.960 --> 00:00:30.100]  长期兑美元的价格是非常低迷的
+[00:00:30.100 --> 00:00:34.300]  也就是说在美元如此通胀的现象下
+[00:00:34.300 --> 00:00:36.600]  这些资源还如此过剩
+[00:00:36.600 --> 00:00:37.900]  所以导致价格下跌
+[00:00:37.900 --> 00:00:39.980]  最著名的大概是原油了
+[00:00:39.980 --> 00:00:42.020]  油价大家也知道一直跌得很厉害
+[00:00:42.020 --> 00:00:43.900]  所以人类的资源
+[00:00:43.900 --> 00:00:45.920]  我个人认为就算一个宏观来判断
+[00:00:45.920 --> 00:00:48.280]  在21世纪肯定是充分过剩的
+[00:00:48.280 --> 00:00:51.140]  也就是无论其实我的读者
+[00:00:51.140 --> 00:00:51.980]  大家今天听
+[00:00:51.980 --> 00:00:53.460]  其实我可以告诉大家一个事实
+[00:00:53.460 --> 00:00:54.680]  就无论你努不努力
+[00:00:54.680 --> 00:00:57.320]  其实即便一个中等情况的人
+[00:00:57.320 --> 00:00:59.600]  你都会发现赚钱会变得越来越容易
+[00:00:59.600 --> 00:01:00.900]  因为这个是全世界
+[00:01:00.900 --> 00:01:03.140]  我们进入21世纪之后
+[00:01:03.140 --> 00:01:06.520]  通胀周期以及物资过剩所造成一个必然现象
+[00:01:06.520 --> 00:01:11.060]  我甚至我自己可以断言到2100年左右
+[00:01:11.060 --> 00:01:14.460]  其实我们这代人说不定很多人都能活到2100年
+[00:01:14.460 --> 00:01:16.900]  可能贫穷就在地球上被消灭了
+[00:01:16.900 --> 00:01:18.140]  贫穷被消灭了
+[00:01:18.140 --> 00:01:20.100]  可能怎么去定义贫穷呢
+[00:01:20.100 --> 00:01:24.800]  我认为就是可能他的主要的每天的劳动
+[00:01:24.800 --> 00:01:27.300]  多花在像找一个地方吃饭
+[00:01:27.300 --> 00:01:28.460]  找个地方睡觉
+[00:01:28.460 --> 00:01:30.200]  这样的人就会越来越少了
+[00:01:30.200 --> 00:01:32.960]  用我们以前初中学的话讲
+[00:01:32.960 --> 00:01:34.340]  就叫恩格尔系数太高
+[00:01:34.340 --> 00:01:36.160]  这种人会越来越少
+[00:01:36.160 --> 00:01:37.740]  所以从这个角度来说
+[00:01:37.740 --> 00:01:39.840]  其实这也是一个投资最好的时代
+[00:01:39.840 --> 00:01:41.180]  因为钱多
+[00:01:41.180 --> 00:01:42.880]  他必须要有流动方向
+[00:01:42.880 --> 00:01:44.260]  因为不能趴在账上
+[00:01:44.260 --> 00:01:46.800]  因为马上随着通胀
+[00:01:46.800 --> 00:01:47.880]  他就会贬值
+[00:01:47.880 --> 00:01:49.460]  所以钱
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 363.126 -t 71.546 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.140]  就会流动
+[00:00:01.140 --> 00:00:02.360]  就会去寻找啊
+[00:00:02.360 --> 00:00:03.100]  投资的地方
+[00:00:03.100 --> 00:00:06.080]  而钱的流动方向本身是有规律的啊
+[00:00:06.080 --> 00:00:06.460]  所以呢
+[00:00:06.460 --> 00:00:08.920]  只要你找到了钱的流动方向
+[00:00:08.920 --> 00:00:10.040]  始终与钱在一起
+[00:00:10.040 --> 00:00:11.960]  自然而慢慢的投资就会增值
+[00:00:11.960 --> 00:00:14.280]  其实我个人其实啊
+[00:00:14.280 --> 00:00:16.000]  首先并不是太鼓励大家
+[00:00:16.000 --> 00:00:18.540]  其实我的观众如果啊
+[00:00:18.540 --> 00:00:20.780]  前面先加一个投资者指引
+[00:00:20.780 --> 00:00:21.960]  我个人认为
+[00:00:21.960 --> 00:00:23.680]  如果现在听我节目的人
+[00:00:23.680 --> 00:00:24.980]  你可动用呢
+[00:00:24.980 --> 00:00:28.600]  不会对你生活造成重大问题的资金
+[00:00:28.600 --> 00:00:29.920]  低于50万的话
+[00:00:29.920 --> 00:00:32.340]  其实听我这个节目对你的影响
+[00:00:32.340 --> 00:00:33.740]  其实不是太大
+[00:00:33.740 --> 00:00:37.340]  因为我前面节目也说过
+[00:00:37.340 --> 00:00:38.340]  绝大多数的
+[00:00:38.340 --> 00:00:40.040]  如果是90后的话
+[00:00:40.040 --> 00:00:43.120]  你的绝大多数精力还是应该放在
+[00:00:43.120 --> 00:00:45.260]  我们经常讲的提升自己上面
+[00:00:45.260 --> 00:00:47.600]  因为这时候在我至少个人认为
+[00:00:47.600 --> 00:00:48.780]  在50万以下的投资
+[00:00:48.780 --> 00:00:50.460]  投资自己是肯定是最好的
+[00:00:50.460 --> 00:00:53.300]  50万以上的可以寻求
+[00:00:53.300 --> 00:00:55.540]  比如说我今天讲的这种投资方式
+[00:00:55.540 --> 00:00:57.280]  但是50万以下的呢
+[00:00:57.280 --> 00:01:00.040]  我也鼓励如果学有余力的一些观众朋友
+[00:01:00.040 --> 00:01:01.420]  也可以来做一下投资
+[00:01:01.420 --> 00:01:04.340]  因为这个可以培养你至少投资一些敏锐度
+[00:01:04.340 --> 00:01:05.780]  而且培养这种敏锐度
+[00:01:05.780 --> 00:01:08.060]  对你自己未来进入很多领域
+[00:01:08.060 --> 00:01:09.480]  有非常大的帮助的
+[00:01:09.480 --> 00:01:10.960]  包括分析问题的方式
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 434.172 -t 84.002 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.220]  好那我就现在先给大家讲讲
+[00:00:03.220 --> 00:00:06.180]  我在美国当时投资的三个标的
+[00:00:06.180 --> 00:00:08.060]  特斯拉比特币和唯品会
+[00:00:08.060 --> 00:00:09.620]  这三笔投资呢
+[00:00:09.620 --> 00:00:10.800]  大家可以看到啊
+[00:00:10.800 --> 00:00:12.840]  都是我在美国读书时候完成的
+[00:00:12.840 --> 00:00:16.180]  其实是在美国读书期间做的几个case
+[00:00:16.180 --> 00:00:19.940]  所以我在美国期间是2011年到2014年
+[00:00:19.940 --> 00:00:21.920]  所以这大概三年时间吧
+[00:00:21.920 --> 00:00:23.180]  所以完成的投资
+[00:00:23.180 --> 00:00:25.540]  可以很明显看到
+[00:00:25.540 --> 00:00:29.540]  这些都是以美元计价的投资物品
+[00:00:29.540 --> 00:00:32.140]  这里当然可以给大家说一下
+[00:00:32.140 --> 00:00:33.360]  即便大家在大陆
+[00:00:33.360 --> 00:00:34.220]  你住在大陆
+[00:00:34.220 --> 00:00:35.800]  其实也是可以投资美元标的
+[00:00:35.800 --> 00:00:36.900]  包括美股
+[00:00:36.900 --> 00:00:38.100]  包括比特币
+[00:00:38.100 --> 00:00:39.320]  都是可以投资的
+[00:00:39.320 --> 00:00:40.920]  当然现在在比特币的中国
+[00:00:40.920 --> 00:00:42.020]  有很多交易所了
+[00:00:42.020 --> 00:00:43.440]  而同时美股
+[00:00:43.440 --> 00:00:44.780]  其实你也可以使用
+[00:00:44.780 --> 00:00:47.060]  就是很多美股的证益公司
+[00:00:47.060 --> 00:00:48.340]  我在这也不做推荐了
+[00:00:48.340 --> 00:00:50.540]  就你找遍地都是
+[00:00:50.540 --> 00:00:52.180]  而且中国人在美国投资
+[00:00:52.180 --> 00:00:53.460]  还有个好处是不用交税
+[00:00:53.460 --> 00:00:56.060]  因为非美国居民是免税的
+[00:00:56.060 --> 00:00:57.880]  所以也可以投资美股
+[00:00:57.880 --> 00:00:58.720]  当然投资美股
+[00:00:58.720 --> 00:01:01.220]  为什么不投资就是中国的股票呢
+[00:01:01.220 --> 00:01:03.540]  当然有我自己一个偏好
+[00:01:03.540 --> 00:01:07.040]  首先我觉得美国的公司财务报表往往比较真
+[00:01:07.040 --> 00:01:11.100]  同时美国华尔街因为机构投资很多
+[00:01:11.100 --> 00:01:15.200]  所以绝大多数的逻辑是很透明的
+[00:01:15.200 --> 00:01:18.000]  而且同时你对一个公司的分析情况
+[00:01:18.000 --> 00:01:19.700]  也可以有一个比较深的了解
+[00:01:19.700 --> 00:01:23.200]  所以我个人觉得投资美股是一个不错的机会
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 517.674 -t 73.584 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.460]  而且美股呢
+[00:00:01.460 --> 00:00:02.180]  大家注意啊
+[00:00:02.180 --> 00:00:02.860]  无论纳斯达克
+[00:00:02.860 --> 00:00:05.120]  纽交所都是宽进宽出
+[00:00:05.120 --> 00:00:06.600]  就是啊
+[00:00:06.600 --> 00:00:07.160]  这样的话呢
+[00:00:07.160 --> 00:00:08.200]  很多很好的公司
+[00:00:08.200 --> 00:00:08.880]  也可以上市
+[00:00:08.880 --> 00:00:09.940]  不像中国
+[00:00:09.940 --> 00:00:10.720]  其实大家了解
+[00:00:10.720 --> 00:00:11.500]  中国资本市场
+[00:00:11.500 --> 00:00:12.900]  它对盈利有非常强的要求
+[00:00:12.900 --> 00:00:14.680]  所以导致很多创新型
+[00:00:14.680 --> 00:00:15.640]  其实很不错的企业
+[00:00:15.640 --> 00:00:16.240]  上不了市
+[00:00:16.240 --> 00:00:16.940]  所以在中国
+[00:00:16.940 --> 00:00:18.540]  其实我觉得最大的一个问题
+[00:00:18.540 --> 00:00:20.020]  是缺乏投资好的标的
+[00:00:20.020 --> 00:00:21.660]  这大家这点可以看到
+[00:00:21.660 --> 00:00:23.040]  其实中国最优秀的公司
+[00:00:23.040 --> 00:00:24.900]  包括互联网的高速成长公司
+[00:00:24.900 --> 00:00:26.060]  都是在美国上市的
+[00:00:26.060 --> 00:00:27.440]  那所以这也是为什么
+[00:00:27.440 --> 00:00:29.320]  我觉得A股投资不了
+[00:00:29.320 --> 00:00:30.220]  还有一个核心原因
+[00:00:30.220 --> 00:00:31.280]  是因为没有好公司
+[00:00:31.280 --> 00:00:33.320]  是没有真正让你觉得很放心
+[00:00:33.320 --> 00:00:35.520]  他能够做得非常好的好公司存在
+[00:00:35.520 --> 00:00:37.500]  所以当然也跟我
+[00:00:37.500 --> 00:00:38.820]  当时在美国读书有关系
+[00:00:38.820 --> 00:00:41.300]  所以我就投的这三个
+[00:00:41.300 --> 00:00:43.220]  都是以美元计价的单位
+[00:00:43.220 --> 00:00:44.900]  其中唯品汇是中概股
+[00:00:44.900 --> 00:00:46.460]  特斯拉是一个美股
+[00:00:46.460 --> 00:00:48.140]  然后比特币是一种
+[00:00:48.140 --> 00:00:51.000]  当时是以美元为货币计价的
+[00:00:51.000 --> 00:00:51.920]  一种密码学货币
+[00:00:51.920 --> 00:00:52.980]  投资呢
+[00:00:52.980 --> 00:00:54.220]  这时候我们要讲一个
+[00:00:54.220 --> 00:00:56.020]  这时候投资大家101了
+[00:00:56.020 --> 00:00:57.460]  就是投资investment101
+[00:00:57.460 --> 00:00:59.360]  就我们在大学上课一定要讲的
+[00:00:59.360 --> 00:01:02.080]  甚至一个做投资入门一定要知道的
+[00:01:02.080 --> 00:01:04.160]  就是投资最重要的还是价格
+[00:01:04.160 --> 00:01:05.680]  就价格价格价格
+[00:01:05.680 --> 00:01:07.060]  重要的事情说三遍
+[00:01:07.060 --> 00:01:09.560]  而甚至不是投资标的的材质
+[00:01:09.560 --> 00:01:11.020]  一个人好不好
+[00:01:11.020 --> 00:01:11.860]  一个公司好不好
+[00:01:11.860 --> 00:01:12.520]  很重要
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 590.758 -t 78.167 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.920]  但是价格更重要
+[00:00:01.920 --> 00:00:05.500]  因为世界上其实投资标的也不是稀缺的
+[00:00:05.500 --> 00:00:07.580]  所以价格进入的价格非常重要
+[00:00:07.580 --> 00:00:12.580]  而某种程度上投资公司的材质
+[00:00:12.580 --> 00:00:14.400]  或者投资创始人的优秀程度呢
+[00:00:14.400 --> 00:00:16.740]  往往会让投资人忘却标的的价格
+[00:00:16.740 --> 00:00:18.400]  所以作为如果作为投资人
+[00:00:18.400 --> 00:00:20.160]  我们屁股坐在投资人这个上面了
+[00:00:20.160 --> 00:00:23.900]  那永远应该是在雪中送炭时进入一家公司
+[00:00:23.900 --> 00:00:27.760]  然后在这家公司功成名就是离开这家公司
+[00:00:27.760 --> 00:00:29.600]  就所谓的深藏功与名嘛
+[00:00:29.600 --> 00:00:31.420]  其实我们觉得
+[00:00:31.420 --> 00:00:33.180]  孙正义就是典型这样的人
+[00:00:33.180 --> 00:00:35.480]  在阿里巴巴最需要他钱的时候才进入
+[00:00:35.480 --> 00:00:36.780]  最近像马云
+[00:00:36.780 --> 00:00:38.360]  他也减持了一部分股份
+[00:00:38.360 --> 00:00:39.580]  而且就我所知
+[00:00:39.580 --> 00:00:41.900]  其实孙正义是想减持更多的
+[00:00:41.900 --> 00:00:43.560]  只不过马云没有批准
+[00:00:43.560 --> 00:00:45.760]  后来不想闹僵关系
+[00:00:45.760 --> 00:00:47.880]  就才减持了大概四五个点
+[00:00:47.880 --> 00:00:50.900]  本来孙正义想一次减持15个点的
+[00:00:50.900 --> 00:00:51.960]  阿里被吓尿了
+[00:00:51.960 --> 00:00:53.920]  阿里巴巴15%的股票
+[00:00:53.920 --> 00:00:56.580]  那在今天阿里2600亿左右的话
+[00:00:56.580 --> 00:01:00.580]  基本上是将近三三三百多亿的美金
+[00:01:00.580 --> 00:01:01.760]  有点太多了
+[00:01:01.760 --> 00:01:03.040]  所以我觉得啊
+[00:01:03.040 --> 00:01:05.760]  但是我估计孙正义会持续检查他的股票
+[00:01:05.760 --> 00:01:06.960]  因为他啊
+[00:01:06.960 --> 00:01:08.700]  收购了这个CRM公司
+[00:01:08.700 --> 00:01:10.000]  那个RM公司之后啊
+[00:01:10.000 --> 00:01:11.420]  现金流还是比较紧张的
+[00:01:11.420 --> 00:01:12.120]  其中呢
+[00:01:12.120 --> 00:01:12.460]  啊
+[00:01:12.460 --> 00:01:13.760]  我们来分析啊
+[00:01:13.760 --> 00:01:15.520]  特斯拉唯品会比特币啊
+[00:01:15.520 --> 00:01:17.420]  其实都是好公司和好机会
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 668.425 -t 78.633 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.200]  当然大家这时候会问了
+[00:00:02.200 --> 00:00:05.040]  那怎么分析是好公司好机会呢
+[00:00:05.040 --> 00:00:06.340]  就孙云权有点像就是
+[00:00:06.340 --> 00:00:08.800]  教大家一加一等于二
+[00:00:08.800 --> 00:00:10.720]  我们学会之后直接算一道
+[00:00:10.720 --> 00:00:11.980]  微积分方程
+[00:00:11.980 --> 00:00:14.960]  要孙云权说很显然答案是等于五
+[00:00:14.960 --> 00:00:18.300]  分析好公司是一个非常复杂的话题
+[00:00:18.300 --> 00:00:21.240]  这个我们将在随后的付费节目中继续讲解
+[00:00:21.240 --> 00:00:23.260]  我们还挑一个比较容易的来讲
+[00:00:23.260 --> 00:00:24.860]  因为其实分析好公司
+[00:00:24.860 --> 00:00:26.880]  甚至也都是我自己要反复修炼的
+[00:00:26.880 --> 00:00:29.260]  就是无论你自己作为投资人创业者
+[00:00:29.260 --> 00:00:31.720]  其实你都要反复去修炼的一个东西
+[00:00:31.720 --> 00:00:32.880]  这一节的时间很短
+[00:00:32.880 --> 00:00:36.040]  所以我们主要还是讲一讲购买的时机
+[00:00:36.040 --> 00:00:37.640]  就投资进入的时机
+[00:00:37.640 --> 00:00:39.260]  以三个例子来说明
+[00:00:39.260 --> 00:00:41.840]  唯品会当时购买的最好时机
+[00:00:41.840 --> 00:00:43.180]  当然也是我购买的时机了
+[00:00:43.180 --> 00:00:47.020]  是当时唯品会2012年年终流血上市的时候
+[00:00:47.020 --> 00:00:49.700]  这时候当时夸张到什么地步
+[00:00:49.700 --> 00:00:51.740]  当时唯品会主要的投资人
+[00:00:51.740 --> 00:00:53.940]  红杉和DCM亏损都非常严重
+[00:00:53.940 --> 00:00:56.120]  之前是上市前的投资人
+[00:00:56.120 --> 00:01:00.340]  当时股价是6.5美元一股
+[00:01:00.340 --> 00:01:04.420]  而当时B轮的价格都已经到了10美金一股了
+[00:01:04.420 --> 00:01:06.020]  所以是非常惨重
+[00:01:06.020 --> 00:01:07.800]  但是大家可能会问
+[00:01:07.800 --> 00:01:09.820]  那唯品会的价格为什么会这么低
+[00:01:09.820 --> 00:01:11.660]  是不是这公司快垮了
+[00:01:11.660 --> 00:01:13.500]  你刚抄底进去就垮了
+[00:01:13.500 --> 00:01:15.920]  这时候原因很复杂
+[00:01:15.920 --> 00:01:18.640]  但是其实简单说来就几个原因
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 746.558 -t 73.534 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.009 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:03.360]  第一个是中国公司整体在美国信誉出了问题
+[00:00:03.360 --> 00:00:07.040]  当时华尔街是非常看淡中概股的
+[00:00:07.040 --> 00:00:11.860]  其实当时也不光是中国公司唯品会一家出现这些问题
+[00:00:11.860 --> 00:00:15.260]  其次是中国电商集体不行
+[00:00:15.260 --> 00:00:18.300]  包括京东反客整体都是下挫的
+[00:00:18.300 --> 00:00:19.600]  当时大家可能也听过
+[00:00:19.600 --> 00:00:21.760]  当时刘强东要是没有虚心
+[00:00:21.760 --> 00:00:23.540]  当时硬挺着就了一把
+[00:00:23.540 --> 00:00:25.420]  可能今天也没有京东了
+[00:00:25.420 --> 00:00:28.580]  所以当时电商本身很危险
+[00:00:28.580 --> 00:00:29.860]  2012年也是
+[00:00:29.860 --> 00:00:31.760]  其实是一轮资本寒冬
+[00:00:31.760 --> 00:00:33.960]  当时电商的公司都比较危险
+[00:00:33.960 --> 00:00:34.900]  再三
+[00:00:34.900 --> 00:00:36.040]  唯品会本身呢
+[00:00:36.040 --> 00:00:37.760]  自己出于C轮融资不顺利
+[00:00:37.760 --> 00:00:38.880]  就唯品会并不是
+[00:00:38.880 --> 00:00:40.800]  C轮融到一轮钱之后
+[00:00:40.800 --> 00:00:42.080]  去资本市场上市了
+[00:00:42.080 --> 00:00:44.300]  而是C轮没融到钱
+[00:00:44.300 --> 00:00:45.900]  初次下策
+[00:00:45.900 --> 00:00:47.740]  才去资本市场上市了
+[00:00:47.740 --> 00:00:50.200]  那你想这一轮的打击
+[00:00:50.200 --> 00:00:51.580]  会是多大呢
+[00:00:51.580 --> 00:00:52.840]  所以这时候
+[00:00:52.840 --> 00:00:54.240]  唯品会的价格显然
+[00:00:54.240 --> 00:00:55.640]  就会变得非常低了
+[00:00:55.640 --> 00:00:57.080]  而这时候呢
+[00:00:57.080 --> 00:01:00.080]  也为我们这种投资散户提供了机会
+[00:01:00.080 --> 00:01:03.120]  因为你以前唯品会在一级市场的时候
+[00:01:03.120 --> 00:01:04.720]  你是没有办法购买的
+[00:01:04.720 --> 00:01:06.400]  而且像唯品会这样的公司
+[00:01:06.400 --> 00:01:07.680]  也不可能接受散户的钱
+[00:01:07.680 --> 00:01:09.560]  尤其我一个当时在美国读书的学生
+[00:01:09.560 --> 00:01:12.960]  所以这时候买入唯品会是最好的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-010/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 819.592 -t 70.534 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-011/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.320]  它不仅给你提供了买入的机会
+[00:00:02.320 --> 00:00:04.620]  你否则之前在一级市场你根本买不了
+[00:00:04.620 --> 00:00:07.460]  其次价格居然还比一级市场低
+[00:00:07.460 --> 00:00:09.660]  这实在是一个非常好的低谷
+[00:00:09.660 --> 00:00:11.460]  这是唯品会的一个例子
+[00:00:11.460 --> 00:00:12.760]  第二个例子就是特斯拉
+[00:00:12.760 --> 00:00:14.480]  特斯拉买入的最好时机呢
+[00:00:14.480 --> 00:00:17.980]  其实就是2012年底到2013年初
+[00:00:17.980 --> 00:00:19.860]  当时也是三个低谷
+[00:00:19.860 --> 00:00:21.440]  其实跟唯品会的情况差不多
+[00:00:21.440 --> 00:00:24.660]  第一个呢是电动车整个行业的低谷
+[00:00:24.660 --> 00:00:26.160]  当时大家可能也听过
+[00:00:26.160 --> 00:00:27.460]  当时奔驰宝马啊
+[00:00:27.460 --> 00:00:30.340]  很多这些包括日本的丰田
+[00:00:30.340 --> 00:00:32.400]  很多这些公司其实都在做电动车
+[00:00:32.400 --> 00:00:33.460]  做的都不顺利
+[00:00:33.460 --> 00:00:36.540]  所以当时德国日本的这些最优秀的公司
+[00:00:36.540 --> 00:00:38.120]  搞电动车都不顺利
+[00:00:38.120 --> 00:00:41.720]  然后当时大家觉得Elon Musk作为外行来搞
+[00:00:41.720 --> 00:00:43.280]  那可能成吗
+[00:00:43.280 --> 00:00:44.460]  这不是坑爹呢
+[00:00:44.460 --> 00:00:45.120]  是吧
+[00:00:45.120 --> 00:00:47.440]  而且当时大家争论的很多
+[00:00:47.440 --> 00:00:49.400]  还是说油电混合才是主流
+[00:00:49.400 --> 00:00:52.040]  所以当时对电动车的分析
+[00:00:52.040 --> 00:00:53.980]  本身电动车被看恐
+[00:00:53.980 --> 00:00:56.000]  其次呢
+[00:00:56.000 --> 00:00:57.720]  特斯拉当时刚刚上市
+[00:00:57.720 --> 00:00:59.300]  华尔街做空的人非常多
+[00:00:59.300 --> 00:01:00.520]  原因很简单
+[00:01:00.520 --> 00:01:01.760]  当时大家普遍把
+[00:01:01.760 --> 00:01:03.960]  就是把伊隆马斯克这个人
+[00:01:03.960 --> 00:01:05.800]  看作是个忽悠为主的人
+[00:01:05.800 --> 00:01:07.420]  就觉得这家公司
+[00:01:07.420 --> 00:01:08.800]  只有电动车概念
+[00:01:08.800 --> 00:01:10.540]  没有实质的东西
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-011/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-011/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-011/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-011/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 889.626 -t 96.881 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-012/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.920]  所以华尔街很多人做空
+[00:00:01.920 --> 00:00:04.520]  现在想想也真是挺逗的
+[00:00:04.520 --> 00:00:06.600]  20美金的时候居然就有人做空
+[00:00:06.600 --> 00:00:07.940]  后来都涨到200多
+[00:00:07.940 --> 00:00:10.240]  那个人岂不是要破产破成屎了
+[00:00:10.240 --> 00:00:11.160]  是吧
+[00:00:11.160 --> 00:00:13.080]  而且当时那些做空的人
+[00:00:13.080 --> 00:00:15.060]  是八万就跌到两美金的
+[00:00:15.060 --> 00:00:16.420]  现在其实很多投资
+[00:00:16.420 --> 00:00:17.420]  你做完之后回头看看
+[00:00:17.420 --> 00:00:18.860]  很多事是很逗的
+[00:00:18.860 --> 00:00:21.880]  其实这也是我觉得做投资的真谛
+[00:00:21.880 --> 00:00:23.100]  因为做投资
+[00:00:23.100 --> 00:00:26.020]  就是会反复去验证
+[00:00:26.020 --> 00:00:27.580]  你很多对事物的看法
+[00:00:27.580 --> 00:00:30.480]  甚至像在特斯拉这种风标性的公司
+[00:00:30.480 --> 00:00:31.280]  它是能非常
+[00:00:31.280 --> 00:00:33.220]  就是验证一个人的三观
+[00:00:33.220 --> 00:00:36.420]  所以更反映了我们当时讲的
+[00:00:36.420 --> 00:00:39.480]  其实投资和财富自由是由三观决定
+[00:00:39.480 --> 00:00:41.200]  现实是最好的老师
+[00:00:41.200 --> 00:00:43.760]  比如说如果你当初是不看好电动车
+[00:00:43.760 --> 00:00:44.980]  看好油电混合的
+[00:00:44.980 --> 00:00:47.100]  不看好Elon Musk的人
+[00:00:47.100 --> 00:00:49.940]  其实现实本身会给你上一课
+[00:00:49.940 --> 00:00:51.920]  然后其实如果我觉得你真是做空
+[00:00:51.920 --> 00:00:53.520]  钱不是太多的情况下
+[00:00:53.520 --> 00:00:55.440]  这个学费交的其实也是值的
+[00:00:55.440 --> 00:00:58.240]  因为它只能交交互你非常多的东西
+[00:00:58.240 --> 00:00:59.820]  其三当然还有个问题
+[00:00:59.820 --> 00:01:02.780]  就当时特斯拉并没有公布自己解决充电的方案
+[00:01:02.780 --> 00:01:04.800]  当时华尔街很多人呢
+[00:01:04.800 --> 00:01:07.120]  怀疑特斯拉能不能解决充电问题
+[00:01:07.120 --> 00:01:10.420]  当时其实我们当时去特斯拉的时候
+[00:01:10.420 --> 00:01:12.320]  他们讲的一个最简单的问题就是
+[00:01:12.320 --> 00:01:16.320]  当时大家说汽车开起来是有基础设施的
+[00:01:16.320 --> 00:01:17.220]  比如说加油站
+[00:01:17.220 --> 00:01:19.860]  但是特斯拉你开起来充电站在哪呢
+[00:01:19.860 --> 00:01:22.480]  建多少就全美国建多少个充电站
+[00:01:22.480 --> 00:01:27.260]  才能满足所谓的特斯拉出行的这个要求呢
+[00:01:27.260 --> 00:01:29.960]  当然在于我湖畔大学的同学叫宗义啊
+[00:01:29.960 --> 00:01:31.720]  他也是一个很有名的特斯拉车主
+[00:01:31.720 --> 00:01:32.700]  他呢
+[00:01:32.700 --> 00:01:34.660]  后来不就回国打通了由南到北
+[00:01:34.660 --> 00:01:36.880]  第一条特斯拉充电之路吗
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-012/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-012/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-012/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-012/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 986.007 -t 74.951 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-013/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.380]  他就沿途就修特斯拉充电桩
+[00:00:02.380 --> 00:00:04.120]  就是综艺如果不修的话
+[00:00:04.120 --> 00:00:07.740]  你想把车从北京开回广州
+[00:00:07.740 --> 00:00:08.420]  是开不了的
+[00:00:08.420 --> 00:00:10.020]  因为路上没有地方充电的
+[00:00:10.020 --> 00:00:11.680]  所以当时这个基础设施
+[00:00:11.680 --> 00:00:13.200]  大家也认为是有问题的
+[00:00:13.200 --> 00:00:14.480]  这个时候当时对特斯拉
+[00:00:14.480 --> 00:00:15.360]  这个优秀的公司
+[00:00:15.360 --> 00:00:16.100]  以及伊隆马斯克
+[00:00:16.100 --> 00:00:17.160]  这个优秀创始人来说
+[00:00:17.160 --> 00:00:18.780]  都是一个非常好的买入机会
+[00:00:18.780 --> 00:00:21.360]  比特币的买入机会
+[00:00:21.360 --> 00:00:22.460]  是2013年初
+[00:00:22.460 --> 00:00:24.160]  其实当时更早一些时间
+[00:00:24.160 --> 00:00:25.240]  当时都是可以的
+[00:00:25.240 --> 00:00:26.880]  但是2014年初
+[00:00:26.880 --> 00:00:28.700]  2013年初应该是最后一次
+[00:00:28.700 --> 00:00:30.660]  就是优质的买入机会了
+[00:00:30.660 --> 00:00:33.300]  这个其实很简单
+[00:00:33.300 --> 00:00:34.940]  对于特斯拉和
+[00:00:34.940 --> 00:00:36.420]  唯品汇来说
+[00:00:36.420 --> 00:00:37.300]  它还是公司
+[00:00:37.300 --> 00:00:39.120]  但是对于比特币来说呢
+[00:00:39.120 --> 00:00:40.240]  它是一个新鲜事物
+[00:00:40.240 --> 00:00:41.400]  所以新鲜事物
+[00:00:41.400 --> 00:00:41.960]  我们觉得
+[00:00:41.960 --> 00:00:43.640]  最大的投资机会
+[00:00:43.640 --> 00:00:44.460]  就是你在判断
+[00:00:44.460 --> 00:00:46.040]  这个事物本身是优秀的时候
+[00:00:46.040 --> 00:00:47.600]  你需要在绝大多数
+[00:00:47.600 --> 00:00:48.520]  还没有了解到
+[00:00:48.520 --> 00:00:49.760]  它的时候进入
+[00:00:49.760 --> 00:00:51.500]  这个点是最重要的
+[00:00:51.500 --> 00:00:52.100]  所以呢
+[00:00:52.100 --> 00:00:53.900]  从上面的投资机会来看
+[00:00:53.900 --> 00:00:55.540]  投资最好
+[00:00:55.540 --> 00:00:56.320]  时机
+[00:00:56.320 --> 00:00:58.220]  我们讲投资最好的时候呢
+[00:00:58.700 --> 00:01:01.600]  往往说往往是好公司
+[00:01:01.600 --> 00:01:04.760]  但却没有被绝大多数人看好的时候
+[00:01:04.760 --> 00:01:07.640]  但是你说那这时候大家会问个问题
+[00:01:07.640 --> 00:01:08.760]  那绝大多数人不看好
+[00:01:08.760 --> 00:01:10.780]  那说不定就是不好的公司是吧
+[00:01:10.780 --> 00:01:12.480]  这时候你要分析了啊
+[00:01:12.480 --> 00:01:13.960]  我总结出来一个道理就是
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-013/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-013/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-013/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-013/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 1060.458 -t 74.137 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-014/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.380]  你要看对方不看好的原因
+[00:00:02.380 --> 00:00:04.620]  往往好公司
+[00:00:04.620 --> 00:00:06.400]  被对方不看好的原因呢
+[00:00:06.400 --> 00:00:07.840]  你问啊
+[00:00:07.840 --> 00:00:09.400]  往往是时间不对
+[00:00:09.400 --> 00:00:10.800]  并不是公司不行
+[00:00:10.800 --> 00:00:11.860]  说是时间不对
+[00:00:11.860 --> 00:00:15.360]  或者是没到这个时候
+[00:00:15.360 --> 00:00:17.080]  我们经常讲这资本有寒冬
+[00:00:17.080 --> 00:00:19.340]  有这个气候不对
+[00:00:19.340 --> 00:00:20.500]  这也是个问题
+[00:00:20.500 --> 00:00:21.220]  气候不对
+[00:00:21.220 --> 00:00:21.960]  时机不对
+[00:00:21.960 --> 00:00:23.920]  或者是没有更多人知道
+[00:00:23.920 --> 00:00:26.560]  或者是市场不了解
+[00:00:26.560 --> 00:00:28.620]  就是一些量化的问题
+[00:00:28.620 --> 00:00:29.260]  就比如说
+[00:00:29.260 --> 00:00:30.800]  其实我们如果做公司做久了
+[00:00:30.800 --> 00:00:31.660]  我们知道一个创始人
+[00:00:31.660 --> 00:00:32.400]  如果没有人知道
+[00:00:32.400 --> 00:00:34.120]  那砸个一千万起就知道了呀
+[00:00:34.120 --> 00:00:34.500]  对吧
+[00:00:34.500 --> 00:00:36.500]  如果这个时机不对
+[00:00:36.500 --> 00:00:37.420]  那就等一会儿
+[00:00:37.420 --> 00:00:38.540]  时机不就到了吗
+[00:00:38.540 --> 00:00:38.940]  对吧
+[00:00:38.940 --> 00:00:40.380]  如果这个
+[00:00:40.380 --> 00:00:41.780]  大家不太看好
+[00:00:41.780 --> 00:00:42.860]  这个东西这段时间
+[00:00:42.860 --> 00:00:44.300]  那其实过一会儿会看好的
+[00:00:44.300 --> 00:00:44.840]  因为资本
+[00:00:44.840 --> 00:00:46.620]  韩东就资本市场
+[00:00:46.620 --> 00:00:47.160]  大家要了解
+[00:00:47.160 --> 00:00:48.420]  它基本上风水轮流转
+[00:00:48.420 --> 00:00:49.260]  所以呢
+[00:00:49.260 --> 00:00:51.620]  就是一些量化问题
+[00:00:51.620 --> 00:00:52.360]  就你想一想
+[00:00:52.360 --> 00:00:54.800]  都是能通过想办法解决的
+[00:00:54.800 --> 00:00:58.220]  而不是公司的逻辑内核
+[00:00:58.220 --> 00:00:59.300]  概念
+[00:00:59.300 --> 00:01:00.620]  发展趋势
+[00:01:00.620 --> 00:01:02.320]  这些质的东西发生了变化
+[00:01:02.320 --> 00:01:05.560]  就比如说这个公司的基本的运营逻辑
+[00:01:05.560 --> 00:01:08.740]  以及比如说他提出的这个概念
+[00:01:08.740 --> 00:01:11.180]  就比如说我们当时维品会
+[00:01:11.180 --> 00:01:11.960]  你说这家公司
+[00:01:11.960 --> 00:01:14.140]  他提出的B2C的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-014/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-014/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-014/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-014/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 1134.095 -t 93.745 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/016 - 016财富自由从未如此容易过 [1179692693].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-015/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.820]  这种赏构概念能不能成功
+[00:00:02.820 --> 00:00:05.540]  这显然是可以成功的
+[00:00:05.540 --> 00:00:08.420]  当时唯品会一二年做的时候
+[00:00:08.420 --> 00:00:10.160]  陈欧还准备回来做这个呢
+[00:00:10.160 --> 00:00:10.480]  哥们
+[00:00:10.480 --> 00:00:11.780]  是吧
+[00:00:11.780 --> 00:00:13.180]  你要想想就是
+[00:00:13.180 --> 00:00:15.640]  就是陈欧才刚起步的时候
+[00:00:15.640 --> 00:00:17.300]  唯品会已经做的很不错了呀
+[00:00:17.300 --> 00:00:19.440]  而且甚至包括当时
+[00:00:19.440 --> 00:00:22.020]  京东和唯品会算做的比较困难的
+[00:00:22.020 --> 00:00:23.720]  当时阿里都准备做天猫啊
+[00:00:23.720 --> 00:00:24.400]  而且天猫做的
+[00:00:24.400 --> 00:00:25.300]  都还做的开始
+[00:00:25.300 --> 00:00:26.300]  开始做的不错了
+[00:00:26.300 --> 00:00:27.720]  当时当然叫淘宝商城了
+[00:00:27.720 --> 00:00:28.900]  都开始做的不错了
+[00:00:28.900 --> 00:00:30.920]  所以它的概念本身
+[00:00:30.920 --> 00:00:33.200]  逻辑内核发展趋势都没有问题
+[00:00:33.200 --> 00:00:34.080]  其实都没有问题
+[00:00:34.080 --> 00:00:34.940]  你包括电商
+[00:00:34.940 --> 00:00:36.200]  这个2012年是一个
+[00:00:36.200 --> 00:00:39.380]  我们讲的其实也没有那么寒冷的小暖冬
+[00:00:39.380 --> 00:00:40.820]  当然冻死很多企业
+[00:00:40.820 --> 00:00:43.560]  但是很显然是小暖冬
+[00:00:43.560 --> 00:00:45.580]  到2014年这些公司都开发结果了
+[00:00:45.580 --> 00:00:47.700]  包括微品会长得非常好
+[00:00:47.700 --> 00:00:49.980]  京东也在2014年上市了
+[00:00:49.980 --> 00:00:52.000]  聚美优品也在2014年上市了
+[00:00:52.000 --> 00:00:53.700]  阿里巴巴也在2014年上市了
+[00:00:53.700 --> 00:00:56.100]  所以其实两年之后就很快就好了
+[00:00:56.100 --> 00:00:59.180]  所以逻辑内核概念发展趋势
+[00:00:59.180 --> 00:01:01.140]  其实公司本身都没有出任何问题
+[00:01:01.140 --> 00:01:02.320]  所以这个时候
+[00:01:02.320 --> 00:01:05.140]  往往就是投资的一个最好时机
+[00:01:05.140 --> 00:01:07.380]  这一期非常感谢大家收听
+[00:01:07.380 --> 00:01:09.240]  我们讲了一个好公司
+[00:01:09.240 --> 00:01:10.760]  或者好机会的买入时机
+[00:01:10.760 --> 00:01:12.020]  今后我们会讲一讲
+[00:01:12.020 --> 00:01:14.160]  如何去分析一个好公司和好机会
+[00:01:14.160 --> 00:01:15.760]  甚至如果有好机会
+[00:01:15.760 --> 00:01:17.140]  你可以亲自加入这家公司
+[00:01:17.140 --> 00:01:19.640]  非常欢迎大家与我们交流
+[00:01:19.640 --> 00:01:20.320]  谢谢大家
+[00:01:26.100 --> 00:01:33.640]  请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-015/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-015/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-015/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__016__71e7d985/chunk-015/out -sns -nf -np

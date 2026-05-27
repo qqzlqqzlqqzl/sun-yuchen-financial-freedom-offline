@@ -1,0 +1,655 @@
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 0.000 -t 77.125 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-000/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.420]  大家好,我是陪我APP创始人孙宇辰
+[00:00:02.420 --> 00:00:05.980]  我想邀你一起与我踏上财富自由革命之路
+[00:00:05.980 --> 00:00:09.040]  我在财富自由的另一边等着你
+[00:00:09.040 --> 00:00:12.580]  大家大着混
+[00:00:12.580 --> 00:00:16.880]  那你说这个二三十年的这个主要危机是啥危机呢
+[00:00:16.880 --> 00:00:18.760]  玩家来的这个什么危机呢
+[00:00:18.760 --> 00:00:20.180]  我们讲讲啊
+[00:00:20.180 --> 00:00:23.360]  一共有以下好几个危机
+[00:00:23.360 --> 00:00:25.760]  第一个危机大家不用说了
+[00:00:25.760 --> 00:00:29.920]  就是中国经济本身内源性结构的危机
+[00:00:29.920 --> 00:00:31.820]  讲起来很简单
+[00:00:31.820 --> 00:00:34.340]  就是中国的经济增长了这么多年
+[00:00:34.340 --> 00:00:35.680]  总该滞长
+[00:00:35.680 --> 00:00:37.060]  总该负增长了吧
+[00:00:37.060 --> 00:00:38.340]  这是很正常的
+[00:00:38.340 --> 00:00:41.080]  在这个我觉得大家是无凶置疑的
+[00:00:41.080 --> 00:00:42.820]  因为你去看美国日本
+[00:00:42.820 --> 00:00:45.100]  这些发达国家的增长曲线
+[00:00:45.100 --> 00:00:46.100]  中国GDP
+[00:00:46.100 --> 00:00:47.220]  人均GDP
+[00:00:47.220 --> 00:00:49.060]  到达一个门槛之后
+[00:00:49.060 --> 00:00:51.180]  自然而然要往下走
+[00:00:51.180 --> 00:00:53.720]  这就跟人的生老病死一样
+[00:00:53.720 --> 00:00:55.440]  是再正常不过的了
+[00:00:55.440 --> 00:00:57.540]  所以从这个角度来讲
+[00:00:57.540 --> 00:01:00.700]  中国本身经济大环境
+[00:01:00.700 --> 00:01:03.180]  将进入一个长期滞胀
+[00:01:03.180 --> 00:01:05.480]  或者是长期的低增长
+[00:01:05.480 --> 00:01:07.060]  乃至负增长
+[00:01:07.060 --> 00:01:10.180]  这个是我觉得所有中国人
+[00:01:10.180 --> 00:01:11.980]  现在中国的成年人
+[00:01:11.980 --> 00:01:16.620]  都必须去深刻认识和体悟的一个大前提
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-000/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-000/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-000/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-000/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 76.625 -t 71.481 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-001/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.900]  这会对你的人是有非常大的影响的呀
+[00:00:02.900 --> 00:00:07.900]  你想想以前我们整个改革开放三十年四十年
+[00:00:07.900 --> 00:00:11.260]  是生活在一个多么昂扬的乐观主义的情绪里面的
+[00:00:11.260 --> 00:00:13.600]  现在有多乐观
+[00:00:13.600 --> 00:00:16.240]  其实未来的情况可能就多糟
+[00:00:16.240 --> 00:00:19.820]  这个其实是所有人都都必须注意的
+[00:00:19.820 --> 00:00:21.820]  就是甚至你回头想想
+[00:00:21.820 --> 00:00:24.380]  如果我和我的子女
+[00:00:24.380 --> 00:00:29.820]  我的父母未来都将生活在一个经济长期低增长滞胀的国家
+[00:00:29.820 --> 00:00:33.240]  缺乏经济新增长点的一个国家
+[00:00:33.240 --> 00:00:36.200]  与机会的这么一个态势下
+[00:00:36.200 --> 00:00:39.900]  我们将如何去配置我们的财产
+[00:00:39.900 --> 00:00:43.580]  我们将如何去资助我们的人生呢
+[00:00:43.580 --> 00:00:47.820]  其实这是本来就是一个非常值得去深刻思考的话题
+[00:00:47.820 --> 00:00:49.200]  我觉得这是第一个问题
+[00:00:49.200 --> 00:00:50.800]  第二个问题呢
+[00:00:50.800 --> 00:00:53.280]  就是整体的产业结构
+[00:00:53.280 --> 00:00:56.780]  中国也会发生非常大的变化
+[00:00:56.780 --> 00:00:58.080]  大家也知道
+[00:00:58.080 --> 00:01:00.700]  我们中国的整体产业结构
+[00:01:00.700 --> 00:01:04.780]  以前还是以工业房地产
+[00:01:04.780 --> 00:01:07.060]  以及工业和房地产
+[00:01:07.060 --> 00:01:11.480]  背后所拉动的一系列的行业
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-001/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-001/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-001/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-001/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 147.606 -t 66.864 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-002/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.560]  作为主要经济增长点
+[00:00:02.560 --> 00:00:03.760]  当然还包括外贸
+[00:00:03.760 --> 00:00:06.060]  作为一个非常主要经济增长点
+[00:00:06.060 --> 00:00:09.120]  而现在这些产业结构
+[00:00:09.120 --> 00:00:10.920]  随着中国的经济危机
+[00:00:10.920 --> 00:00:12.720]  也随着这些产业结构
+[00:00:12.720 --> 00:00:14.380]  本身所具有的
+[00:00:14.380 --> 00:00:15.360]  我们经常
+[00:00:15.360 --> 00:00:17.380]  你叫短暂性也好了
+[00:00:17.380 --> 00:00:19.240]  叫它阶段性也好了
+[00:00:19.240 --> 00:00:21.660]  它本身具有这些东西
+[00:00:21.660 --> 00:00:23.000]  这个其实我觉得
+[00:00:23.000 --> 00:00:24.320]  大家不用看美国日本
+[00:00:24.320 --> 00:00:27.400]  光看看韩国跟台湾就很明显了
+[00:00:27.400 --> 00:00:29.620]  这些基本上就是我们前一段时间
+[00:00:29.620 --> 00:00:33.960]  比我们大概领先个一二十年的产业形态和状态
+[00:00:33.960 --> 00:00:37.700]  像当年在日韩台湾的产业
+[00:00:37.700 --> 00:00:39.100]  西方转移到中国
+[00:00:39.100 --> 00:00:40.520]  现在转移完到中国
+[00:00:40.520 --> 00:00:44.040]  现在很快会转移到像越南和印度这些地方去
+[00:00:44.040 --> 00:00:47.460]  所以包括大家今天不要像川普的支持者
+[00:00:47.460 --> 00:00:48.500]  包括很多美国的
+[00:00:48.500 --> 00:00:50.340]  你像那些汽车工人
+[00:00:50.340 --> 00:00:53.540]  这些从事工业的大量的产业工人
+[00:00:53.540 --> 00:00:57.800]  因为产业结构升级转型都将走向下岗
+[00:00:57.800 --> 00:00:59.180]  他美国就不叫下岗了
+[00:00:59.180 --> 00:00:59.780]  要实业
+[00:00:59.780 --> 00:01:02.080]  或者他的人生呢
+[00:01:02.080 --> 00:01:03.700]  会面临很多问题
+[00:01:03.700 --> 00:01:05.060]  再加上社保
+[00:01:05.060 --> 00:01:06.120]  养老金
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-002/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-002/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-002/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-002/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 213.971 -t 69.410 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-003/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.640]  这些我相信还不用等到我们用
+[00:00:02.640 --> 00:00:04.080]  基本到我们父母用的时候
+[00:00:04.080 --> 00:00:05.360]  我觉得都会出事的
+[00:00:05.360 --> 00:00:07.460]  所以这时候你都要想一想
+[00:00:07.460 --> 00:00:09.980]  那这些事情全都一孤岛的
+[00:00:09.980 --> 00:00:10.880]  全部都过来了
+[00:00:10.880 --> 00:00:14.160]  产业结构转型所带来的产业结构
+[00:00:14.160 --> 00:00:15.380]  那当然不用说了
+[00:00:15.380 --> 00:00:17.080]  那基本上不是人下岗的问题
+[00:00:17.080 --> 00:00:19.800]  是一个一个一个产业成批量的被拔掉
+[00:00:19.800 --> 00:00:23.300]  然后同时可能社会的safety net
+[00:00:23.300 --> 00:00:24.820]  我们讲的社保养老金
+[00:00:24.820 --> 00:00:25.700]  这些都出问题
+[00:00:25.700 --> 00:00:26.540]  这也很正常
+[00:00:26.540 --> 00:00:28.380]  这大家也知道现在就开始出问题了
+[00:00:28.380 --> 00:00:29.900]  否则为什么延迟退休呢
+[00:00:29.900 --> 00:00:32.220]  这些产业结构全部都会出问题
+[00:00:32.220 --> 00:00:35.020]  所以大家也不要像今天台湾
+[00:00:35.020 --> 00:00:36.460]  美国出现了很多问题
+[00:00:36.460 --> 00:00:38.780]  其实在中国都会原封不动的来一遍
+[00:00:38.780 --> 00:00:40.020]  我觉得这太正常了
+[00:00:40.020 --> 00:00:40.960]  太正常了
+[00:00:40.960 --> 00:00:44.160]  所以这样90后适应社会产生很大困难
+[00:00:44.160 --> 00:00:45.520]  因为比如说不光90后了
+[00:00:45.520 --> 00:00:47.120]  其实所有人都面临这个问题
+[00:00:47.120 --> 00:00:47.740]  举个例子
+[00:00:47.740 --> 00:00:49.840]  70后80后难道不面临这个问题吗
+[00:00:49.840 --> 00:00:52.460]  绝大多数人在大学
+[00:00:52.460 --> 00:00:54.860]  包括高初中接受教育的时候
+[00:00:54.860 --> 00:00:57.380]  他所接受的这一整套教育
+[00:00:57.380 --> 00:00:59.520]  是工业体系下的这一整套教育
+[00:00:59.520 --> 00:01:00.200]  举个例子
+[00:01:00.200 --> 00:01:02.780]  我们公司一位员工学社会工作
+[00:01:02.780 --> 00:01:05.960]  这些都是典型的工业化时代下的产物
+[00:01:05.960 --> 00:01:08.760]  包括我北大太多同学学化工的吧
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-003/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-003/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-003/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-003/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 282.881 -t 76.234 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-004/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.340]  学化工
+[00:00:01.340 --> 00:00:05.520]  学各式各样工业时代生产所产生的
+[00:00:05.520 --> 00:00:05.780]  是吧
+[00:00:05.780 --> 00:00:07.180]  包括还有那学石油的
+[00:00:07.180 --> 00:00:08.060]  学这些的
+[00:00:08.060 --> 00:00:10.900]  工业时代下的这一整套玩意儿的
+[00:00:10.900 --> 00:00:12.800]  然后包括我们很多文科生
+[00:00:12.800 --> 00:00:13.980]  学文学学历史的
+[00:00:13.980 --> 00:00:15.980]  那都是工业时代下的产物
+[00:00:15.980 --> 00:00:17.920]  包括我大量同学
+[00:00:17.920 --> 00:00:19.200]  现在还在传统媒体工作
+[00:00:19.200 --> 00:00:20.220]  对吧
+[00:00:20.220 --> 00:00:21.580]  在新闻纸媒
+[00:00:21.580 --> 00:00:23.260]  这些都是将来会被革命的
+[00:00:23.260 --> 00:00:24.200]  在党报
+[00:00:24.200 --> 00:00:25.900]  在各式各样的党报
+[00:00:25.900 --> 00:00:28.900]  你现在连党报都要求要搞双威了
+[00:00:28.900 --> 00:00:29.820]  是这道理吧
+[00:00:29.820 --> 00:00:35.580]  所以所有的大家建立在这一整套工业体系下的行业
+[00:00:35.580 --> 00:00:37.700]  都会发生翻天覆地的转型
+[00:00:37.700 --> 00:00:41.640]  所以就包括前段时间在微信群很多同学问我
+[00:00:41.640 --> 00:00:45.220]  就说我干这个孙总说去互联网
+[00:00:45.220 --> 00:00:47.880]  我靠我一没读过互联网
+[00:00:47.880 --> 00:00:51.100]  二大学学的是石油化工
+[00:00:51.100 --> 00:00:52.440]  咋整呢
+[00:00:52.440 --> 00:00:54.540]  现在好像去石油化工薪水也很低
+[00:00:54.540 --> 00:00:58.520]  这个就是我们刚才讲的产业结构转型中
+[00:00:58.520 --> 00:01:01.380]  具体到具象到
+[00:01:01.380 --> 00:01:02.720]  产业结构转型不是一个
+[00:01:02.720 --> 00:01:04.000]  孙总跟你讲的一个
+[00:01:04.000 --> 00:01:06.460]  好像很就是天花乱坠的一个
+[00:01:06.460 --> 00:01:08.100]  编的新词蒙你呢
+[00:01:08.100 --> 00:01:10.700]  它是有非常具体的
+[00:01:10.700 --> 00:01:13.020]  适应症以及投射形态的
+[00:01:13.020 --> 00:01:13.820]  投射形态
+[00:01:13.820 --> 00:01:15.540]  投射到你身上就是个问题
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-004/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-004/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-004/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-004/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 358.616 -t 77.376 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-005/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.840]  你说我以前学的这个
+[00:00:01.840 --> 00:00:03.160]  去互联网没有经验
+[00:00:03.160 --> 00:00:06.380]  这就是一个非常结构产业转型问题
+[00:00:06.380 --> 00:00:07.260]  不光你会遇到
+[00:00:07.260 --> 00:00:09.000]  这整个社会整个国家都会遇到
+[00:00:09.000 --> 00:00:11.400]  而且这都是非常大的挑战
+[00:00:11.400 --> 00:00:12.900]  对于一个国家主席
+[00:00:12.900 --> 00:00:13.940]  省委书记
+[00:00:13.940 --> 00:00:16.920]  美国总统都是很大的挑战
+[00:00:16.920 --> 00:00:17.800]  更何况你呢
+[00:00:17.800 --> 00:00:20.420]  但是好消息是你个人解决起来
+[00:00:20.420 --> 00:00:22.600]  可比国家解决起来容易的多的多
+[00:00:22.600 --> 00:00:25.180]  所以这个研究灵候产生很大困难
+[00:00:25.180 --> 00:00:25.540]  第三
+[00:00:25.540 --> 00:00:27.760]  然后我呢把这两个总结下
+[00:00:27.760 --> 00:00:28.980]  总结出了第三个
+[00:00:28.980 --> 00:00:30.180]  第三个呢
+[00:00:30.180 --> 00:00:31.820]  当然我就觉得既是危机
+[00:00:31.820 --> 00:00:32.780]  也是机会
+[00:00:32.780 --> 00:00:34.600]  也是人类的一个新进步
+[00:00:34.600 --> 00:00:36.980]  所以为什么叫不要提到90后新时代呢
+[00:00:36.980 --> 00:00:38.660]  就是我总结了一下
+[00:00:38.660 --> 00:00:40.340]  中国未来的新危机也好
+[00:00:40.340 --> 00:00:41.940]  新机会也好呢
+[00:00:41.940 --> 00:00:45.020]  本质就是传统社会
+[00:00:45.020 --> 00:00:48.800]  工业时代下传统社会将面临最后一次转型
+[00:00:48.800 --> 00:00:50.900]  转型怎么转呢
+[00:00:50.900 --> 00:00:55.020]  叫做从家庭为单位的工业生产社会
+[00:00:55.020 --> 00:01:00.500]  向个人为单位的互联网社会的转型和变化
+[00:01:00.500 --> 00:01:01.940]  所以我们将来
+[00:01:01.940 --> 00:01:02.840]  我再念一遍
+[00:01:02.840 --> 00:01:04.640]  我们将来的所有问题
+[00:01:04.640 --> 00:01:06.700]  都建立在这个上面
+[00:01:06.700 --> 00:01:11.400]  从家庭为单位的工业生产社会
+[00:01:11.400 --> 00:01:17.380]  向个人为单位的互联网社会的转型和变化
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-005/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-005/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-005/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-005/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 435.492 -t 59.597 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-006/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.660]  首先大家要注意
+[00:00:01.660 --> 00:00:04.480]  一是以之前以家庭为单位
+[00:00:04.480 --> 00:00:07.320]  后面咱们是以个人为单位
+[00:00:07.320 --> 00:00:11.060]  其次咱们原来是个工业生产社会
+[00:00:11.060 --> 00:00:12.640]  转变的目的呢
+[00:00:12.640 --> 00:00:15.400]  是叫互联网社会
+[00:00:15.400 --> 00:00:16.560]  大家要注意
+[00:00:16.560 --> 00:00:18.600]  这是未来人类
+[00:00:18.600 --> 00:00:21.180]  甚至我觉得不光是我们国家
+[00:00:21.180 --> 00:00:25.000]  全球的发达国家都要面临这个转型
+[00:00:25.000 --> 00:00:26.860]  甚至不光你现在听到
+[00:00:26.860 --> 00:00:27.800]  你可能明白了
+[00:00:27.800 --> 00:00:29.820]  有的国家元首听的都不明白了
+[00:00:29.820 --> 00:00:32.280]  你像德国整体还是搞公益四大零呢
+[00:00:32.280 --> 00:00:33.880]  不搞所谓的互联网啊
+[00:00:33.880 --> 00:00:36.140]  我觉得在互联网领域啊
+[00:00:36.140 --> 00:00:38.720]  如果不做的国家整体国家会落后
+[00:00:38.720 --> 00:00:40.520]  社群会落后
+[00:00:40.520 --> 00:00:41.640]  民族会落后
+[00:00:41.640 --> 00:00:43.480]  个人当然也会落后
+[00:00:43.480 --> 00:00:44.800]  这是毫无疑问的
+[00:00:44.800 --> 00:00:47.440]  所以就为什么我经常说讲战略
+[00:00:47.440 --> 00:00:48.920]  讲战略讲战略啊
+[00:00:48.920 --> 00:00:51.000]  这个话说一百遍都不会过了
+[00:00:51.000 --> 00:00:53.120]  就是如果战略扑了个空
+[00:00:53.120 --> 00:00:56.020]  那基本上是国家民族社会个人
+[00:00:56.020 --> 00:00:57.440]  集体踏空
+[00:00:57.440 --> 00:00:59.600]  不会有例外的
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-006/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-006/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-006/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-006/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 494.589 -t 73.548 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-007/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.480]  不会有例外的
+[00:00:01.480 --> 00:00:02.660]  真的不会有例外的
+[00:00:02.660 --> 00:00:03.600]  所以这是为什么
+[00:00:03.600 --> 00:00:05.380]  我现在一点都不建议
+[00:00:05.380 --> 00:00:07.380]  很多人问我
+[00:00:07.380 --> 00:00:09.820]  说能不能去国外读书
+[00:00:09.820 --> 00:00:10.740]  要不要移民
+[00:00:10.740 --> 00:00:11.500]  我不建议
+[00:00:11.500 --> 00:00:12.540]  我觉得在中国很好
+[00:00:12.540 --> 00:00:14.160]  中国和美国可能是两个
+[00:00:14.160 --> 00:00:16.200]  唯一非常注重互联网的民族
+[00:00:16.200 --> 00:00:18.740]  他们对这个问题看得非常深刻
+[00:00:18.740 --> 00:00:21.300]  我觉得他会被命运所奖励的
+[00:00:21.300 --> 00:00:23.160]  所以从这个角度来说
+[00:00:23.160 --> 00:00:26.220]  从家庭为单位的工业社会
+[00:00:26.220 --> 00:00:27.440]  生产社会
+[00:00:27.440 --> 00:00:30.460]  向个人为单位的互联网社会的这个变化
+[00:00:30.460 --> 00:00:32.140]  是未来整个
+[00:00:32.140 --> 00:00:33.320]  我觉得未来三四十
+[00:00:33.320 --> 00:00:36.300]  甚至五十年一百年的变化的一个主旋律
+[00:00:36.300 --> 00:00:39.440]  人类会从家庭为单位的工业生产社会
+[00:00:39.440 --> 00:00:42.740]  不断向个人为单位的互联网社会去变化
+[00:00:42.740 --> 00:00:45.600]  如果这个变化要花一百年
+[00:00:45.600 --> 00:00:46.940]  咱就花一百年
+[00:00:46.940 --> 00:00:49.320]  如果五十年就花五十年
+[00:00:49.320 --> 00:00:50.060]  就这么简单
+[00:00:50.060 --> 00:00:52.160]  这是个未来的大的趋势
+[00:00:52.160 --> 00:00:53.180]  以前呢
+[00:00:53.180 --> 00:00:54.800]  王尔德说过一句话
+[00:00:54.800 --> 00:00:56.180]  我非常欣赏
+[00:00:56.180 --> 00:00:58.840]  是总结以前我们的社会
+[00:00:58.840 --> 00:01:01.920]  就是以前可能非互联网社会的时候的一句话
+[00:01:01.920 --> 00:01:03.160]  跟大家分享一下
+[00:01:03.160 --> 00:01:03.840]  英文叫
+[00:01:03.840 --> 00:01:07.680]  Everything in the world is about sex
+[00:01:07.680 --> 00:01:09.680]  Except sex
+[00:01:09.680 --> 00:01:12.500]  Sex is about power
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-007/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-007/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-007/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-007/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 567.637 -t 62.255 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-008/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.180]  这句话大家在纸牌屋
+[00:00:02.180 --> 00:00:04.680]  Francando也说过这句话
+[00:00:04.680 --> 00:00:07.820]  翻译成中文叫什么呢
+[00:00:07.820 --> 00:00:10.400]  就是说这个世界上的万事万物
+[00:00:10.400 --> 00:00:13.340]  都是关于性与繁殖的
+[00:00:13.340 --> 00:00:16.940]  只有一件事不是关于性与繁殖的
+[00:00:16.940 --> 00:00:20.120]  就是性本身和繁殖本身
+[00:00:20.120 --> 00:00:25.200]  因为繁殖和性本身是关于权利的
+[00:00:25.200 --> 00:00:29.020]  这句话可能对于我们先听的很多听众都很深奥
+[00:00:29.020 --> 00:00:30.980]  我可以给大家做一个解释
+[00:00:30.980 --> 00:00:32.280]  首先呢
+[00:00:32.280 --> 00:00:33.780]  为什么说叫万事万物
+[00:00:33.780 --> 00:00:35.280]  都是关于繁殖和性的
+[00:00:35.280 --> 00:00:36.400]  其实我觉得这个
+[00:00:36.400 --> 00:00:38.440]  大家是太容易理解了
+[00:00:38.440 --> 00:00:40.840]  就是我们以家庭为单位的
+[00:00:40.840 --> 00:00:42.540]  传统工业生产社会
+[00:00:42.540 --> 00:00:44.620]  基本上和我们以前
+[00:00:44.620 --> 00:00:45.540]  以家庭为单位的
+[00:00:45.540 --> 00:00:46.640]  农业生产社会一样
+[00:00:46.640 --> 00:00:48.800]  永远都是关于性和繁殖的
+[00:00:48.800 --> 00:00:49.720]  你想想
+[00:00:49.720 --> 00:00:50.280]  大家想想
+[00:00:50.280 --> 00:00:51.120]  我们每个人
+[00:00:51.120 --> 00:00:53.000]  我们基本上人生路线
+[00:00:53.000 --> 00:00:53.820]  全部都是
+[00:00:53.820 --> 00:00:55.480]  无论你长到什么时候
+[00:00:55.480 --> 00:00:57.200]  到达一个社会年龄
+[00:00:57.200 --> 00:00:58.400]  就必须赶紧结婚吧
+[00:00:58.400 --> 00:01:00.440]  然后你结婚之后
+[00:01:00.440 --> 00:01:02.260]  你就必须生小孩吧
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-008/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-008/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-008/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-008/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 629.392 -t 72.274 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-009/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:01.140]  你生小孩
+[00:00:01.140 --> 00:00:03.000]  你就必须把这小孩好好养吧
+[00:00:03.000 --> 00:00:05.240]  然后你养这个小孩的时候
+[00:00:05.240 --> 00:00:07.860]  就会出现各种各样的遗产问题
+[00:00:07.860 --> 00:00:08.620]  养这个小孩
+[00:00:08.620 --> 00:00:09.740]  对哪个小孩倾斜
+[00:00:09.740 --> 00:00:10.840]  教育资源什么
+[00:00:10.840 --> 00:00:13.540]  全部都是关于性欲繁殖的
+[00:00:13.540 --> 00:00:15.660]  你后来想想你人生中做的每一步
+[00:00:15.660 --> 00:00:16.940]  赚的所有钱
+[00:00:16.940 --> 00:00:18.440]  准备的所有机会
+[00:00:18.440 --> 00:00:20.120]  难道不都是为性欲繁殖
+[00:00:20.120 --> 00:00:21.300]  这件事在服务吗
+[00:00:21.300 --> 00:00:22.540]  甚至你想一想
+[00:00:22.540 --> 00:00:23.880]  甚至不光不光
+[00:00:23.880 --> 00:00:24.780]  咱们别说人了
+[00:00:24.780 --> 00:00:27.120]  咱们整个人都是为性欲繁殖在服务
+[00:00:27.120 --> 00:00:28.420]  就你一辈子所有事
+[00:00:28.420 --> 00:00:29.920]  就围绕着这个东西打转了
+[00:00:29.920 --> 00:00:31.540]  尤其对于普通人来说更是这样
+[00:00:31.540 --> 00:00:32.460]  就一辈子
+[00:00:32.460 --> 00:00:33.700]  你看就为了自己的小孩
+[00:00:33.700 --> 00:00:34.600]  为了自己的父母
+[00:00:34.600 --> 00:00:35.600]  为了自己的家庭
+[00:00:35.600 --> 00:00:36.940]  永远打转了
+[00:00:36.940 --> 00:00:38.880]  就是就是性欲繁殖本质上
+[00:00:38.880 --> 00:00:41.020]  你就是为了这个事情存在
+[00:00:41.020 --> 00:00:44.080]  其实你想想国家又不是如此吗
+[00:00:44.080 --> 00:00:46.280]  以前以封建社会
+[00:00:46.280 --> 00:00:47.660]  就在家庭为单位的
+[00:00:47.660 --> 00:00:49.180]  这个农业社会生产的时候
+[00:00:49.180 --> 00:00:51.300]  那你说我们国家浩荡
+[00:00:51.300 --> 00:00:52.740]  两三千年历史
+[00:00:52.740 --> 00:00:54.500]  首先权力的分配
+[00:00:54.500 --> 00:00:57.560]  永远都不是通过你的能力来分配
+[00:00:57.560 --> 00:00:59.260]  都是嫡长子继承制啊
+[00:00:59.260 --> 00:01:01.520]  谁就是因为皇帝睡了
+[00:01:01.520 --> 00:01:03.260]  他的正牌老婆生的小孩
+[00:01:03.260 --> 00:01:05.560]  拥有最先的权力继承权
+[00:01:05.560 --> 00:01:07.420]  所以基本上你可以看
+[00:01:07.420 --> 00:01:09.580]  即便国家的资源分配
+[00:01:09.580 --> 00:01:10.540]  权力分配
+[00:01:10.540 --> 00:01:11.460]  一切的分配
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-009/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-009/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-009/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-009/out -sns -nf -np
+$ ffmpeg -hide_banner -loglevel error -nostdin -y -ss 701.166 -t 107.154 -i /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/official-vimeo-m4a-partial/025 - 025未来社会的演变 [1179695011].m4a -vn -ac 1 -ar 16000 -codec:a pcm_s16le /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-010/audio.wav
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_init: loaded in 0.008 sec
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M4 Pro)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple9  (1009)
+ggml_metal_device_init: GPU family: MTLGPUFamilyCommon3 (3003)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  = 55662.79 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.13.0/libexec/libggml-cpu-apple_m4.so
+
+[00:00:00.000 --> 00:00:02.340]  咱们本质是一种性分配
+[00:00:02.340 --> 00:00:03.740]  本质是一种性分配
+[00:00:03.740 --> 00:00:05.860]  所以这就叫为什么是以家庭为单位
+[00:00:05.860 --> 00:00:07.240]  然后去协调
+[00:00:07.240 --> 00:00:09.660]  哪怕农业生产工业生产都是这样的
+[00:00:09.660 --> 00:00:11.180]  所以这叫王尔德为什么说
+[00:00:11.180 --> 00:00:12.840]  Everything in the world is about sex
+[00:00:12.840 --> 00:00:14.540]  但是为什么except sex
+[00:00:14.540 --> 00:00:16.500]  繁殖本身是关于什么
+[00:00:16.500 --> 00:00:18.960]  就是以前家庭为单位的
+[00:00:18.960 --> 00:00:20.620]  工业生产社会的本源
+[00:00:20.620 --> 00:00:21.760]  就叫做权力
+[00:00:21.760 --> 00:00:23.940]  繁殖是关于权力的
+[00:00:23.940 --> 00:00:25.700]  大家比如说这句话又怎么理解呢
+[00:00:25.700 --> 00:00:26.620]  太好理解
+[00:00:26.620 --> 00:00:28.160]  首先以我前面已经举的例子了
+[00:00:28.160 --> 00:00:30.620]  你看繁殖关系权力
+[00:00:30.620 --> 00:00:32.220]  一个国家到底谁来管
+[00:00:32.220 --> 00:00:33.540]  谁说了算
+[00:00:33.540 --> 00:00:37.720]  基本上是跟他的姓有非常强的关系
+[00:00:37.720 --> 00:00:39.620]  比如说我是皇后的儿子
+[00:00:39.620 --> 00:00:40.540]  那就该我管
+[00:00:40.540 --> 00:00:41.060]  对吧
+[00:00:41.060 --> 00:00:42.640]  你是妾的儿子
+[00:00:42.640 --> 00:00:43.780]  那就不归你管
+[00:00:43.780 --> 00:00:44.980]  小的一个家庭
+[00:00:44.980 --> 00:00:47.160]  我前一段时间才去了我们山东老家
+[00:00:47.160 --> 00:00:47.940]  看了我们祖谱
+[00:00:47.940 --> 00:00:48.660]  都是这样的
+[00:00:48.660 --> 00:00:50.820]  这些女性是没有家族继承权的
+[00:00:50.820 --> 00:00:52.780]  女性是不能进家谱的
+[00:00:52.780 --> 00:00:54.440]  甚至我们的家谱里面
+[00:00:54.440 --> 00:00:55.040]  孙氏家谱
+[00:00:55.040 --> 00:00:55.940]  进了无数人
+[00:00:55.940 --> 00:00:57.680]  女的就是女生
+[00:00:57.680 --> 00:00:59.120]  性孙的女的一个都没有
+[00:00:59.120 --> 00:00:59.520]  是吧
+[00:00:59.520 --> 00:01:01.700]  这就非常明显的性和权利的关系
+[00:01:01.700 --> 00:01:03.080]  你如果是女性
+[00:01:03.080 --> 00:01:04.520]  连家谱都进不了
+[00:01:04.520 --> 00:01:05.520]  然后这就是
+[00:01:05.520 --> 00:01:07.940]  这就是所谓的sex is about power
+[00:01:07.940 --> 00:01:10.320]  然后类似的例子太多了
+[00:01:10.320 --> 00:01:12.260]  就是我们决定一个社会
+[00:01:12.260 --> 00:01:13.140]  一个阶层
+[00:01:13.140 --> 00:01:13.740]  一群人
+[00:01:13.740 --> 00:01:14.280]  一个民族
+[00:01:14.280 --> 00:01:15.240]  由谁来主宰
+[00:01:15.240 --> 00:01:16.700]  永远是通过性
+[00:01:16.700 --> 00:01:18.480]  我们不会问说
+[00:01:18.480 --> 00:01:20.240]  你是不是对这个家族贡献更大
+[00:01:20.240 --> 00:01:22.640]  你是不是表现很不错
+[00:01:22.640 --> 00:01:24.240]  甚至跟能力都没有关系
+[00:01:24.240 --> 00:01:25.080]  完全跟性
+[00:01:25.080 --> 00:01:27.400]  权力跟性是完全挂钩的
+[00:01:27.400 --> 00:01:28.980]  所以从这个角度来讲
+[00:01:28.980 --> 00:01:30.220]  我觉得王尔德这句话
+[00:01:30.220 --> 00:01:31.500]  基本上是把
+[00:01:31.500 --> 00:01:33.960]  以家庭为单位的工业生产社会
+[00:01:33.960 --> 00:01:35.780]  讲的是淋漓尽致
+output_txt: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-010/out.txt'
+output_json: saving output to '/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-010/out.json'
+$ whisper-cli -m /Users/aria-score-00/Documents/Codex/2026-05-25/new-chat-3/models/whisper-cpp/ggml-large-v3.bin -f /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-010/audio.wav -l zh -t 3 -bs 5 -bo 5 -mc 0 -oj -ojf -otxt -of /Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/transcriptions/metadata/asr-rerun-high-risk-chunked/tmp/official-vimeo-m4a-partial__025__5b4cc5d1/chunk-010/out -sns -nf -np
