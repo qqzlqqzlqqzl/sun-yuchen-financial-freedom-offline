@@ -3,16 +3,16 @@
     "manifest_items": 209,
     "reviewed_transcripts": 209,
     "high": 21,
-    "medium": 22,
-    "low": 77,
-    "clean": 89,
+    "medium": 14,
+    "low": 80,
+    "clean": 94,
     "issue_counts": {
-      "连续重复": 109,
-      "近似重复": 86,
+      "连续重复": 94,
       "行内循环": 83,
+      "近似重复": 76,
       "固定口播堆叠": 39,
       "长音频短文稿": 11,
-      "空行": 7,
+      "空行": 6,
       "疑似错词": 6,
       "长音频文稿过密": 2,
       "全文重复": 1
@@ -2424,78 +2424,6 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__118__86d1aebf",
-      "source": "wavlake-mp3",
-      "filename": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
-      "duration_seconds": 565.382688,
-      "text_path": "transcriptions/text/wavlake-mp3__118__86d1aebf.txt",
-      "line_count": 116,
-      "char_count": 2629,
-      "severity": 64,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 63,
-          "end": 65,
-          "len": 3,
-          "text": "我们只是用血淋淋的事实告诉大家,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 69,
-          "end": 71,
-          "len": 3,
-          "text": "找一个好的伴侣,对自己来说是非常重要的。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 60,
-          "end": 61,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "如果愿意去探索真功夫离婚案的读者,可以找来去看一看。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 63,
-          "end": 65,
-          "pairs": 2,
-          "max_ratio": 1.0,
-          "text": "我们只是用血淋淋的事实告诉大家,"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 69,
-          "end": 71,
-          "pairs": 2,
-          "max_ratio": 1.0,
-          "text": "找一个好的伴侣,对自己来说是非常重要的。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 60,
-          "end": 61,
-          "len": 2,
-          "text": "如果愿意去探索真功夫离婚案的读者,可以找来去看一看。"
-        },
-        {
-          "type": "空行",
-          "severity": 1,
-          "count": 1,
-          "lines": [
-            115
-          ]
-        }
-      ]
-    },
-    {
       "audio_id": "wavlake-mp3__048__8b1ae8f0",
       "source": "wavlake-mp3",
       "filename": "048 - 048 - 048 孙宇晨：租房也可以很美好.mp3",
@@ -2830,138 +2758,6 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__078__32514846",
-      "source": "wavlake-mp3",
-      "filename": "078 - 078 - 078 孙宇晨：【番外】相信折腾的力量.mp3",
-      "duration_seconds": 1905.057979,
-      "text_path": "transcriptions/text/wavlake-mp3__078__32514846.txt",
-      "line_count": 662,
-      "char_count": 9835,
-      "severity": 32,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 655,
-          "end": 662,
-          "len": 8,
-          "text": "是不靠谱的,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 471,
-          "end": 472,
-          "len": 2,
-          "text": "就没投,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 634,
-          "end": 635,
-          "len": 2,
-          "text": "你不相信什么呀?"
-        },
-        {
-          "type": "空行",
-          "severity": 2,
-          "count": 2,
-          "lines": [
-            525,
-            526
-          ]
-        }
-      ]
-    },
-    {
-      "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
-      "source": "official-vimeo-m4a-partial",
-      "filename": "025 - 025未来社会的演变 [1179695011].m4a",
-      "duration_seconds": 808.32,
-      "text_path": "transcriptions/text/official-vimeo-m4a-partial__025__5b4cc5d1.txt",
-      "line_count": 283,
-      "char_count": 3802,
-      "severity": 32,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 146,
-          "end": 148,
-          "len": 3,
-          "text": "社区会落后"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 154,
-          "end": 155,
-          "len": 2,
-          "text": "不会有例外"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 59,
-          "text": "所带来的产业结构那当然不用说了那基本上不是人下岗的问题是一个一个一个产业成批量的",
-          "unit": "一个",
-          "count": 3,
-          "sample": "基本上不是人下岗的问题是一个一个一个产业成批量的"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 151,
-          "text": "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不为过了",
-          "unit": "讲战略",
-          "count": 3,
-          "sample": "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不为过"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__095__3bea9fa5",
-      "source": "wavlake-mp3",
-      "filename": "095 - 095 - 095 孙宇晨：【案例】现在开淘宝店靠谱吗？.mp3",
-      "duration_seconds": 432.425229,
-      "text_path": "transcriptions/text/wavlake-mp3__095__3bea9fa5.txt",
-      "line_count": 79,
-      "char_count": 2182,
-      "severity": 29,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 27,
-          "end": 29,
-          "len": 3,
-          "text": "这样算起来的话,短信其实才是更伟大的发明才对啊。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 27,
-          "end": 29,
-          "pairs": 2,
-          "max_ratio": 1.0,
-          "text": "这样算起来的话,短信其实才是更伟大的发明才对啊。"
-        },
-        {
-          "type": "行内循环",
-          "severity": 4,
-          "line": 17,
-          "text": "在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不了几句就被删了。",
-          "unit": "找啊",
-          "count": 3,
-          "sample": "在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不"
-        }
-      ]
-    },
-    {
       "audio_id": "wavlake-mp3__006__3aa7bdab",
       "source": "wavlake-mp3",
       "filename": "006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
@@ -3029,100 +2825,6 @@
       ]
     },
     {
-      "audio_id": "wavlake-mp3__103__0ca2de19",
-      "source": "wavlake-mp3",
-      "filename": "103 - 103 - 104 孙宇晨：【比特币】买买提.mp3",
-      "duration_seconds": 379.878458,
-      "text_path": "transcriptions/text/wavlake-mp3__103__0ca2de19.txt",
-      "line_count": 85,
-      "char_count": 1686,
-      "severity": 26,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 10,
-          "end": 11,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "大家经常也想回到那个随便开个电脑运行个程序就能获得比特币。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 83,
-          "end": 84,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 10,
-          "end": 11,
-          "len": 2,
-          "text": "大家经常也想回到那个随便开个电脑运行个程序就能获得比特币。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 83,
-          "end": 84,
-          "len": 2,
-          "text": "对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__128__fa2d5a99",
-      "source": "wavlake-mp3",
-      "filename": "128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3",
-      "duration_seconds": 399.336979,
-      "text_path": "transcriptions/text/wavlake-mp3__128__fa2d5a99.txt",
-      "line_count": 55,
-      "char_count": 1574,
-      "severity": 26,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 24,
-          "end": 25,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 27,
-          "end": 28,
-          "pairs": 1,
-          "max_ratio": 1.0,
-          "text": "2016年,中国境外投资规模有5.4万亿,波士顿咨询公司与兴业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 24,
-          "end": 25,
-          "len": 2,
-          "text": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "start": 27,
-          "end": 28,
-          "len": 2,
-          "text": "2016年,中国境外投资规模有5.4万亿,波士顿咨询公司与兴业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
-        }
-      ]
-    },
-    {
       "audio_id": "wavlake-mp3__030__5f474667",
       "source": "wavlake-mp3",
       "filename": "030 - 030 - 030 孙宇晨：创业与转型经验.mp3",
@@ -3179,66 +2881,6 @@
           "pairs": 2,
           "max_ratio": 1.0,
           "text": "其实呢,你要从不买房的角度来看啊,我个人感觉其实现在房价的租售比在北京还是比较好的。"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__123__83fe2b60",
-      "source": "wavlake-mp3",
-      "filename": "123 - 123 - 124 孙宇晨：【家人边界】与家人和解.mp3",
-      "duration_seconds": 702.055333,
-      "text_path": "transcriptions/text/wavlake-mp3__123__83fe2b60.txt",
-      "line_count": 71,
-      "char_count": 3386,
-      "severity": 25,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 42,
-          "end": 44,
-          "len": 3,
-          "text": "他听了我讲的方法,最近已经赚到了半年的工资。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 42,
-          "end": 44,
-          "pairs": 2,
-          "max_ratio": 1.0,
-          "text": "他听了我讲的方法,最近已经赚到了半年的工资。"
-        }
-      ]
-    },
-    {
-      "audio_id": "wavlake-mp3__132__53ed6043",
-      "source": "wavlake-mp3",
-      "filename": "132 - 132 - 133【财富流向】非线性通道.mp3",
-      "duration_seconds": 466.813979,
-      "text_path": "transcriptions/text/wavlake-mp3__132__53ed6043.txt",
-      "line_count": 148,
-      "char_count": 2096,
-      "severity": 25,
-      "level": "medium",
-      "issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "start": 18,
-          "end": 20,
-          "len": 3,
-          "text": "他确实在阿里巴巴获得了非常高的金额。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "start": 17,
-          "end": 20,
-          "pairs": 3,
-          "max_ratio": 1.0,
-          "text": "但他确实在阿里巴巴获得了非常高的金额。"
         }
       ]
     },
@@ -4418,6 +4060,37 @@
       ]
     },
     {
+      "audio_id": "official-vimeo-m4a-partial__025__5b4cc5d1",
+      "source": "official-vimeo-m4a-partial",
+      "filename": "025 - 025未来社会的演变 [1179695011].m4a",
+      "duration_seconds": 808.32,
+      "text_path": "transcriptions/text/official-vimeo-m4a-partial__025__5b4cc5d1.txt",
+      "line_count": 279,
+      "char_count": 3782,
+      "severity": 8,
+      "level": "low",
+      "issues": [
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 59,
+          "text": "所带来的产业结构那当然不用说了那基本上不是人下岗的问题是一个一个一个产业成批量的",
+          "unit": "一个",
+          "count": 3,
+          "sample": "基本上不是人下岗的问题是一个一个一个产业成批量的"
+        },
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 148,
+          "text": "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不为过了",
+          "unit": "讲战略",
+          "count": 3,
+          "sample": "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不为过"
+        }
+      ]
+    },
+    {
       "audio_id": "wavlake-mp3__069__70cef5d7",
       "source": "wavlake-mp3",
       "filename": "069 - 069 - 069 孙宇晨：【原始积累】一万小时定律.mp3",
@@ -5261,6 +4934,28 @@
       ]
     },
     {
+      "audio_id": "wavlake-mp3__095__3bea9fa5",
+      "source": "wavlake-mp3",
+      "filename": "095 - 095 - 095 孙宇晨：【案例】现在开淘宝店靠谱吗？.mp3",
+      "duration_seconds": 432.425229,
+      "text_path": "transcriptions/text/wavlake-mp3__095__3bea9fa5.txt",
+      "line_count": 77,
+      "char_count": 2134,
+      "severity": 4,
+      "level": "low",
+      "issues": [
+        {
+          "type": "行内循环",
+          "severity": 4,
+          "line": 17,
+          "text": "在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不了几句就被删了。",
+          "unit": "找啊",
+          "count": 3,
+          "sample": "在海量的信息里面呢,找啊找啊找啊找,可能刚加好友啊,聊不"
+        }
+      ]
+    },
+    {
       "audio_id": "official-vimeo-m4a-partial__015__387b0d62",
       "source": "official-vimeo-m4a-partial",
       "filename": "015 - 015总结-财富自由的定义 [1179692400].m4a",
@@ -5361,6 +5056,39 @@
           "reason": "与部分稿“火壳和新榜”不一致，需确认"
         }
       ]
+    },
+    {
+      "audio_id": "wavlake-mp3__118__86d1aebf",
+      "source": "wavlake-mp3",
+      "filename": "118 - 118 - 119 孙宇晨：【家人边界】财富自由与离婚影响.mp3",
+      "duration_seconds": 565.382688,
+      "text_path": "transcriptions/text/wavlake-mp3__118__86d1aebf.txt",
+      "line_count": 111,
+      "char_count": 2531,
+      "severity": 1,
+      "level": "low",
+      "issues": [
+        {
+          "type": "空行",
+          "severity": 1,
+          "count": 1,
+          "lines": [
+            110
+          ]
+        }
+      ]
+    },
+    {
+      "audio_id": "wavlake-mp3__078__32514846",
+      "source": "wavlake-mp3",
+      "filename": "078 - 078 - 078 孙宇晨：【番外】相信折腾的力量.mp3",
+      "duration_seconds": 1905.057979,
+      "text_path": "transcriptions/text/wavlake-mp3__078__32514846.txt",
+      "line_count": 650,
+      "char_count": 9775,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
     },
     {
       "audio_id": "official-vimeo-m4a-partial__041__8902d828",
@@ -5694,6 +5422,18 @@
       "text_path": "transcriptions/text/wavlake-mp3__011__89676748.txt",
       "line_count": 265,
       "char_count": 3362,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "wavlake-mp3__123__83fe2b60",
+      "source": "wavlake-mp3",
+      "filename": "123 - 123 - 124 孙宇晨：【家人边界】与家人和解.mp3",
+      "duration_seconds": 702.055333,
+      "text_path": "transcriptions/text/wavlake-mp3__123__83fe2b60.txt",
+      "line_count": 68,
+      "char_count": 3320,
       "severity": 0,
       "level": "clean",
       "issues": []
@@ -6071,6 +5811,18 @@
       "issues": []
     },
     {
+      "audio_id": "wavlake-mp3__132__53ed6043",
+      "source": "wavlake-mp3",
+      "filename": "132 - 132 - 133【财富流向】非线性通道.mp3",
+      "duration_seconds": 466.813979,
+      "text_path": "transcriptions/text/wavlake-mp3__132__53ed6043.txt",
+      "line_count": 145,
+      "char_count": 2042,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
       "audio_id": "official-vimeo-m4a-partial__064__5581ff78",
       "source": "official-vimeo-m4a-partial",
       "filename": "064 - 064【原始积累】你只需要每项比平均强1% [1179742390].m4a",
@@ -6215,6 +5967,18 @@
       "issues": []
     },
     {
+      "audio_id": "wavlake-mp3__103__0ca2de19",
+      "source": "wavlake-mp3",
+      "filename": "103 - 103 - 104 孙宇晨：【比特币】买买提.mp3",
+      "duration_seconds": 379.878458,
+      "text_path": "transcriptions/text/wavlake-mp3__103__0ca2de19.txt",
+      "line_count": 83,
+      "char_count": 1619,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
       "audio_id": "wavlake-mp3__110__44e2adc7",
       "source": "wavlake-mp3",
       "filename": "110 - 110 - 111 孙宇晨：【医疗】AI医疗与就医误区.mp3",
@@ -6234,6 +5998,18 @@
       "text_path": "transcriptions/text/wavlake-mp3__126__25a41ab4.txt",
       "line_count": 37,
       "char_count": 1448,
+      "severity": 0,
+      "level": "clean",
+      "issues": []
+    },
+    {
+      "audio_id": "wavlake-mp3__128__fa2d5a99",
+      "source": "wavlake-mp3",
+      "filename": "128 - 128 - 129 孙宇晨：【财富天问】割韭菜的时代，谈财富自由与历史洗牌.mp3",
+      "duration_seconds": 399.336979,
+      "text_path": "transcriptions/text/wavlake-mp3__128__fa2d5a99.txt",
+      "line_count": 51,
+      "char_count": 1338,
       "severity": 0,
       "level": "clean",
       "issues": []

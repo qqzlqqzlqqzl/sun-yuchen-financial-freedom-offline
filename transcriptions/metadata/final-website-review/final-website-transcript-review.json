@@ -1,12 +1,11 @@
 {
   "summary": {
-    "generated_at": "2026-05-27T15:15:11.355668+00:00",
+    "generated_at": "2026-05-27T15:22:04.018340+00:00",
     "website": "/Users/aria-score-00/Documents/sun-yuchen-financial-freedom-offline/sun-audio-offline-website.html",
     "episode_count": 146,
     "levels": {
-      "low": 64,
-      "clean": 74,
-      "medium": 8
+      "low": 67,
+      "clean": 79
     },
     "rerun": {
       "accepted": 7,
@@ -813,12 +812,12 @@
       "source": "official-vimeo-m4a-partial",
       "duration": "13:28",
       "duration_seconds": 808.32,
-      "line_count": 283,
-      "char_count": 3802,
-      "sha256": "15080b1a8a709486fd4f397b30d7ca479b0ba18e0641a52b97cd1802407e5c3d",
-      "level": "medium",
-      "severity": 32,
-      "verdict": "需人工复核",
+      "line_count": 279,
+      "char_count": 3782,
+      "sha256": "fd4800f76d996c42553d6fc0466956990fd7636f74e5831e0328b0a449928579",
+      "level": "low",
+      "severity": 8,
+      "verdict": "低风险留痕",
       "first_lines": [
         "大家好,我是陪我APP创始人孙宇晨。我想邀你一起与我踏上财富自由革命之路。我在财富自由的另一边,等着你。",
         "讲起来很简单,就是中国的经济增长了这么多年,总该滞长,总该负增长了吧?这是很正常的。",
@@ -831,18 +830,6 @@
       ],
       "top_issues": [
         {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L146-L148",
-          "sample": "社区会落后"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L154-L155",
-          "sample": "不会有例外"
-        },
-        {
           "type": "行内循环",
           "severity": 4,
           "loc": "L59",
@@ -851,7 +838,7 @@
         {
           "type": "行内循环",
           "severity": 4,
-          "loc": "L151",
+          "loc": "L148",
           "sample": "所以就为什么我经常说讲战略讲战略讲战略啊这个话说一百遍都不为过了"
         }
       ]
@@ -2479,48 +2466,23 @@
       "source": "wavlake-mp3",
       "duration": "31:45",
       "duration_seconds": 1905.057979,
-      "line_count": 660,
-      "char_count": 9835,
-      "sha256": "b24f50b106f235091e3af5ab2af2751fd2dbaa3cab244eeb149d2dd8b77d8bc5",
-      "level": "medium",
-      "severity": 32,
-      "verdict": "需人工复核",
+      "line_count": 650,
+      "char_count": 9775,
+      "sha256": "31313b81009c36fe7126347b4abd50ce6895df3f123cae4d86a127a45ae07437",
+      "level": "clean",
+      "severity": 0,
+      "verdict": "未见明显风险",
       "first_lines": [
         "大家好,我是90后创业者孙宇晨。",
         "我的新书《这世界既残酷也温柔》已于今年的3月15号在中国大陆地区出版。",
         "欢迎你到京东图书与我相遇。"
       ],
       "last_lines": [
-        "是不靠谱的,",
-        "是不靠谱的,",
-        "是不靠谱的,"
+        "这是不靠谱的,",
+        "还是得,",
+        "坚信自己的力量,"
       ],
-      "top_issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L655-L662",
-          "sample": "是不靠谱的,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L471-L472",
-          "sample": "就没投,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L634-L635",
-          "sample": "你不相信什么呀?"
-        },
-        {
-          "type": "空行",
-          "severity": 2,
-          "loc": "L525,L526",
-          "sample": ""
-        }
-      ]
+      "top_issues": []
     },
     {
       "episode": "079",
@@ -3009,12 +2971,12 @@
       "source": "wavlake-mp3",
       "duration": "7:12",
       "duration_seconds": 432.425229,
-      "line_count": 79,
-      "char_count": 2182,
-      "sha256": "24d27a39df867932f8f9583c539341834e48c110a6dfa2233ba00af989d1ea7c",
-      "level": "medium",
-      "severity": 29,
-      "verdict": "需人工复核",
+      "line_count": 77,
+      "char_count": 2134,
+      "sha256": "d7d1f62bdd4740b6d01f41b5608ef34524e44cf4527daca194eeb3523c5d096f",
+      "level": "low",
+      "severity": 4,
+      "verdict": "低风险留痕",
       "first_lines": [
         "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
         "大学学的是国际金融专业,不过是想法太多,能力太弱,最后光荣一夜了。",
@@ -3026,18 +2988,6 @@
         "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
       ],
       "top_issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L27-L29",
-          "sample": "这样算起来的话,短信其实才是更伟大的发明才对啊。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L27-L29",
-          "sample": "这样算起来的话,短信其实才是更伟大的发明才对啊。"
-        },
         {
           "type": "行内循环",
           "severity": 4,
@@ -3248,48 +3198,23 @@
       "source": "wavlake-mp3",
       "duration": "6:19",
       "duration_seconds": 379.878458,
-      "line_count": 85,
-      "char_count": 1686,
-      "sha256": "81aa284e668b534d719fe5025e37aabdd6f67c218ae780be97d7da007e490c39",
-      "level": "medium",
-      "severity": 26,
-      "verdict": "需人工复核",
+      "line_count": 83,
+      "char_count": 1619,
+      "sha256": "e0be5a8d2c68b88e1ab668c264f0b3432fefcf3ffa1a25a7a6f67a46928750f6",
+      "level": "clean",
+      "severity": 0,
+      "verdict": "未见明显风险",
       "first_lines": [
         "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边,等着你。",
         "大家好,我是宇晨,今天我们再来回答一个简单的问题。",
         "既然比特币这么好,如何获得比特币呢?"
       ],
       "last_lines": [
-        "对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,",
+        "更是一种信仰,",
         "对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,",
         "如果明白了这一点也有助于你克服比特币时遇到的种种困难时刻想一想比特币是人类伟大的自由货币是未来人类建设无政府资本主义的一个基本的金融基础是你就能充分了解到比特币这个货币的伟大程度。"
       ],
-      "top_issues": [
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L10-L11",
-          "sample": "大家经常也想回到那个随便开个电脑运行个程序就能获得比特币。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L83-L84",
-          "sample": "对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L10-L11",
-          "sample": "大家经常也想回到那个随便开个电脑运行个程序就能获得比特币。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L83-L84",
-          "sample": "对于坚信个人主义无政府资本主义自由主义终将成为人类最终未来的一种坚定的信仰,"
-        }
-      ]
+      "top_issues": []
     },
     {
       "episode": "104",
@@ -3669,12 +3594,12 @@
       "source": "wavlake-mp3",
       "duration": "9:25",
       "duration_seconds": 565.382688,
-      "line_count": 115,
-      "char_count": 2629,
-      "sha256": "051f6f6766137cf636f36a1642db01b5ef0f5b40e99517ab6ee9142302d6feb3",
-      "level": "medium",
-      "severity": 64,
-      "verdict": "需人工复核",
+      "line_count": 110,
+      "char_count": 2531,
+      "sha256": "25043eceafb94c7457be13e131f3d6b5abe63d51560c849ac4115310d0957a8d",
+      "level": "low",
+      "severity": 1,
+      "verdict": "低风险留痕",
       "first_lines": [
         "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。",
         "2013年10月,王宁因离婚将其所持股份的1.2亿股分割至前期安美名下,该比股权高达12.3亿元。",
@@ -3687,34 +3612,10 @@
       ],
       "top_issues": [
         {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L63-L65",
-          "sample": "我们只是用血淋淋的事实告诉大家,"
-        },
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L69-L71",
-          "sample": "找一个好的伴侣,对自己来说是非常重要的。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L60-L61",
-          "sample": "如果愿意去探索真功夫离婚案的读者,可以找来去看一看。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L63-L65",
-          "sample": "我们只是用血淋淋的事实告诉大家,"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L69-L71",
-          "sample": "找一个好的伴侣,对自己来说是非常重要的。"
+          "type": "空行",
+          "severity": 1,
+          "loc": "L110",
+          "sample": ""
         }
       ]
     },
@@ -3832,12 +3733,12 @@
       "source": "wavlake-mp3",
       "duration": "11:42",
       "duration_seconds": 702.055333,
-      "line_count": 71,
-      "char_count": 3386,
-      "sha256": "0537398c7bcf17907ed0e8a0c66ef38827b849a8cd9d26f59977ed656f653ab6",
-      "level": "medium",
-      "severity": 25,
-      "verdict": "需人工复核",
+      "line_count": 68,
+      "char_count": 3320,
+      "sha256": "4565aaa2bf670886c4fa022b8f1a4c5f447fce1f3a668d816366787705f7943b",
+      "level": "clean",
+      "severity": 0,
+      "verdict": "未见明显风险",
       "first_lines": [
         "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我在财富自由的另一边等着你。",
         "前面我们说了,家人的三观决定家庭财富,划分好边界非常重要。",
@@ -3848,20 +3749,7 @@
         "我衷心的希望,每一个我们节目的听众,在十年后都能成为自己家庭中混得最好的那一个,比起你的兄弟姐妹,比你的父母长辈,甚至比起你绝大多数的同龄人都要出色,这当然也是我们节目开办的初衷。",
         "身边的人走向富裕之路,那我们开办这个节目的初衷就达到了,谢谢大家。"
       ],
-      "top_issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L42-L44",
-          "sample": "他听了我讲的方法,最近已经赚到了半年的工资。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L42-L44",
-          "sample": "他听了我讲的方法,最近已经赚到了半年的工资。"
-        }
-      ]
+      "top_issues": []
     },
     {
       "episode": "124",
@@ -3983,12 +3871,12 @@
       "source": "wavlake-mp3",
       "duration": "6:39",
       "duration_seconds": 399.336979,
-      "line_count": 55,
-      "char_count": 1574,
-      "sha256": "d723fadb10b85eae463e2e57bbacc6e10991c996371bf3cffdc40df3244ea7dd",
-      "level": "medium",
-      "severity": 26,
-      "verdict": "需人工复核",
+      "line_count": 51,
+      "char_count": 1338,
+      "sha256": "27827efe2ea9e033a568c15e795f1982c72239bce4287bb19cde8cedbdc04a09",
+      "level": "clean",
+      "severity": 0,
+      "verdict": "未见明显风险",
       "first_lines": [
         "大家好,我是陪我APP创始人孙宇晨,我想邀你一起与我踏上财富自由革命之路,我希望在财富自由的另一边等着你。",
         "完美地描写了这样的情况,因为大家想想,连清地都保留不了自己的财产,那有钱人也保留不了,那一个穷人又怎么可能积攒自己的财富呢?",
@@ -3999,32 +3887,7 @@
         "当然我们希望这个经验主义是错误的",
         "中国永远都不要再发生财富的洗牌了"
       ],
-      "top_issues": [
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L24-L25",
-          "sample": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L27-L28",
-          "sample": "2016年,中国境外投资规模有5.4万亿,波士顿咨询公司与兴业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L24-L25",
-          "sample": "也就是占比高达75.52%,而且申请排队向美国移民的人数要远远比获批的要多。"
-        },
-        {
-          "type": "连续重复",
-          "severity": 6,
-          "loc": "L27-L28",
-          "sample": "2016年,中国境外投资规模有5.4万亿,波士顿咨询公司与兴业银行推出的联合报告估算,到2020年,中国个人境外投资规模有5.4万亿,5年时间会比原来高出3倍。"
-        }
-      ]
+      "top_issues": []
     },
     {
       "episode": "129",
@@ -4122,12 +3985,12 @@
       "source": "wavlake-mp3",
       "duration": "7:46",
       "duration_seconds": 466.813979,
-      "line_count": 148,
-      "char_count": 2096,
-      "sha256": "7ed35b6dad86be5ccb6d7cd4c7d98f251dba1fd73eef918204a09b8a3df49394",
-      "level": "medium",
-      "severity": 25,
-      "verdict": "需人工复核",
+      "line_count": 145,
+      "char_count": 2042,
+      "sha256": "8b89bc903bdb01cc35e9a49e13a77b02ac718f64eb19561c7433a0eac7a57ea4",
+      "level": "clean",
+      "severity": 0,
+      "verdict": "未见明显风险",
       "first_lines": [
         "大家好,我是陪我APP创始人孙宇晨。",
         "我想邀你一起与我踏上财富自由革命之路。",
@@ -4138,20 +4001,7 @@
         "指数上升的过程,",
         "并不是一个线性增长这样的一个过程。"
       ],
-      "top_issues": [
-        {
-          "type": "连续重复",
-          "severity": 18,
-          "loc": "L18-L20",
-          "sample": "他确实在阿里巴巴获得了非常高的金额。"
-        },
-        {
-          "type": "近似重复",
-          "severity": 7,
-          "loc": "L17-L20",
-          "sample": "但他确实在阿里巴巴获得了非常高的金额。"
-        }
-      ]
+      "top_issues": []
     },
     {
       "episode": "133",
