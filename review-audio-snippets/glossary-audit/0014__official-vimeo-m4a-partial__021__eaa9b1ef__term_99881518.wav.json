@@ -1,0 +1,351 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,660"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 660
+			},
+			"text": "我们的案例叫"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,660",
+				"to": "00:00:01,820"
+			},
+			"offsets": {
+				"from": 660,
+				"to": 1820
+			},
+			"text": "我的明智为心一"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,820",
+				"to": "00:00:03,040"
+			},
+			"offsets": {
+				"from": 1820,
+				"to": 3040
+			},
+			"text": "我的明智为心二"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,040",
+				"to": "00:00:05,160"
+			},
+			"offsets": {
+				"from": 3040,
+				"to": 5160
+			},
+			"text": "和我的复盘与收获一二"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,160",
+				"to": "00:00:06,200"
+			},
+			"offsets": {
+				"from": 5160,
+				"to": 6200
+			},
+			"text": "最主要就是谈谈"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,200",
+				"to": "00:00:06,960"
+			},
+			"offsets": {
+				"from": 6200,
+				"to": 6960
+			},
+			"text": "你自己的收获"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,960",
+				"to": "00:00:08,120"
+			},
+			"offsets": {
+				"from": 6960,
+				"to": 8120
+			},
+			"text": "其实我会点评一下"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,120",
+				"to": "00:00:09,400"
+			},
+			"offsets": {
+				"from": 8120,
+				"to": 9400
+			},
+			"text": "或者邀请几个朋友"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,400",
+				"to": "00:00:10,220"
+			},
+			"offsets": {
+				"from": 9400,
+				"to": 10220
+			},
+			"text": "来讲一讲"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,220",
+				"to": "00:00:10,640"
+			},
+			"offsets": {
+				"from": 10220,
+				"to": 10640
+			},
+			"text": "所以呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,640",
+				"to": "00:00:12,740"
+			},
+			"offsets": {
+				"from": 10640,
+				"to": 12740
+			},
+			"text": "最后我再总结一下"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,740",
+				"to": "00:00:13,960"
+			},
+			"offsets": {
+				"from": 12740,
+				"to": 13960
+			},
+			"text": "其实我们这个节目"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,960",
+				"to": "00:00:14,620"
+			},
+			"offsets": {
+				"from": 13960,
+				"to": 14620
+			},
+			"text": "其实是一个"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,620",
+				"to": "00:00:15,620"
+			},
+			"offsets": {
+				"from": 14620,
+				"to": 15620
+			},
+			"text": "个人成长之旅"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,620",
+				"to": "00:00:17,700"
+			},
+			"offsets": {
+				"from": 15620,
+				"to": 17700
+			},
+			"text": "所以我们做这个社群"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,700",
+				"to": "00:00:18,860"
+			},
+			"offsets": {
+				"from": 17700,
+				"to": 18860
+			},
+			"text": "大家交了200块钱"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,860",
+				"to": "00:00:19,560"
+			},
+			"offsets": {
+				"from": 18860,
+				"to": 19560
+			},
+			"text": "是这一年的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,560",
+				"to": "00:00:20,880"
+			},
+			"offsets": {
+				"from": 19560,
+				"to": 20880
+			},
+			"text": "199了其实"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,880",
+				"to": "00:00:21,920"
+			},
+			"offsets": {
+				"from": 20880,
+				"to": 21920
+			},
+			"text": "是这一年的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,920",
+				"to": "00:00:22,540"
+			},
+			"offsets": {
+				"from": 21920,
+				"to": 22540
+			},
+			"text": "整个课程"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,540",
+				"to": "00:00:23,900"
+			},
+			"offsets": {
+				"from": 22540,
+				"to": 23900
+			},
+			"text": "那接下来该怎么搞"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,900",
+				"to": "00:00:24,400"
+			},
+			"offsets": {
+				"from": 23900,
+				"to": 24400
+			},
+			"text": "怎么搞"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,400",
+				"to": "00:00:24,980"
+			},
+			"offsets": {
+				"from": 24400,
+				"to": 24980
+			},
+			"text": "其实我们现在"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,980",
+				"to": "00:00:25,840"
+			},
+			"offsets": {
+				"from": 24980,
+				"to": 25840
+			},
+			"text": "也都没想好"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,840",
+				"to": "00:00:27,560"
+			},
+			"offsets": {
+				"from": 25840,
+				"to": 27560
+			},
+			"text": "欢迎大家到时候"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,560",
+				"to": "00:00:28,200"
+			},
+			"offsets": {
+				"from": 27560,
+				"to": 28200
+			},
+			"text": "跟我们提意见"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,200",
+				"to": "00:00:29,300"
+			},
+			"offsets": {
+				"from": 28200,
+				"to": 29300
+			},
+			"text": "我们想想到是怎么搞"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,300",
+				"to": "00:00:30,840"
+			},
+			"offsets": {
+				"from": 29300,
+				"to": 30840
+			},
+			"text": "但是本身这个社群"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,840",
+				"to": "00:00:31,860"
+			},
+			"offsets": {
+				"from": 30840,
+				"to": 31860
+			},
+			"text": "我虽然想至少"
+		}
+	]
+}

@@ -1,0 +1,219 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,640"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 640
+			},
+			"text": "一个人的能力"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,640",
+				"to": "00:00:04,980"
+			},
+			"offsets": {
+				"from": 640,
+				"to": 4980
+			},
+			"text": "如果你能从210斤减肥"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,980",
+				"to": "00:00:06,000"
+			},
+			"offsets": {
+				"from": 4980,
+				"to": 6000
+			},
+			"text": "减掉60斤"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,000",
+				"to": "00:00:07,200"
+			},
+			"offsets": {
+				"from": 6000,
+				"to": 7200
+			},
+			"text": "减到150斤"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,200",
+				"to": "00:00:08,820"
+			},
+			"offsets": {
+				"from": 7200,
+				"to": 8820
+			},
+			"text": "其实我相信这个人一定是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,820",
+				"to": "00:00:11,040"
+			},
+			"offsets": {
+				"from": 8820,
+				"to": 11040
+			},
+			"text": "其实本质是一个非常有毅力的人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,040",
+				"to": "00:00:13,860"
+			},
+			"offsets": {
+				"from": 11040,
+				"to": 13860
+			},
+			"text": "他只是缺乏努力的方向"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,860",
+				"to": "00:00:15,140"
+			},
+			"offsets": {
+				"from": 13860,
+				"to": 15140
+			},
+			"text": "但是第二点呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,140",
+				"to": "00:00:18,560"
+			},
+			"offsets": {
+				"from": 15140,
+				"to": 18560
+			},
+			"text": "其实我想给这位主人公提的建议是呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,560",
+				"to": "00:00:20,460"
+			},
+			"offsets": {
+				"from": 18560,
+				"to": 20460
+			},
+			"text": "我们首先要给他一个警告"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,460",
+				"to": "00:00:21,740"
+			},
+			"offsets": {
+				"from": 20460,
+				"to": 21740
+			},
+			"text": "其实呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,740",
+				"to": "00:00:24,220"
+			},
+			"offsets": {
+				"from": 21740,
+				"to": 24220
+			},
+			"text": "这不是来自我宇晨的警告啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,220",
+				"to": "00:00:26,100"
+			},
+			"offsets": {
+				"from": 24220,
+				"to": 26100
+			},
+			"text": "也不是来自给他一个人的警告"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,100",
+				"to": "00:00:28,280"
+			},
+			"offsets": {
+				"from": 26100,
+				"to": 28280
+			},
+			"text": "而是属于整个行业的警告"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,280",
+				"to": "00:00:29,860"
+			},
+			"offsets": {
+				"from": 28280,
+				"to": 29860
+			},
+			"text": "显而易见啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,860",
+				"to": "00:00:31,680"
+			},
+			"offsets": {
+				"from": 29860,
+				"to": 31680
+			},
+			"text": "就撇开他的自制力啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,680",
+				"to": "00:00:32,280"
+			},
+			"offsets": {
+				"from": 31680,
+				"to": 32280
+			},
+			"text": "以及所有的"
+		}
+	]
+}

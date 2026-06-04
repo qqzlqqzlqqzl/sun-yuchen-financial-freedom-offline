@@ -1,0 +1,139 @@
+{
+  "item": {
+    "index": 2,
+    "file_id": "official-vimeo-m4a-partial__006__a47f6122",
+    "audio_path": "sun-audio-offline/audio/006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
+    "snippet_path": "review-audio-snippets/glossary-audit/0002__official-vimeo-m4a-partial__006__a47f6122__term_e8d570a2.wav",
+    "start_seconds": 1475.3,
+    "end_seconds": 1478.24,
+    "duration_seconds": 2.94,
+    "matched_terms": [
+      "异道"
+    ],
+    "srt_text": "异道啊"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052614512727427816EF4FC0BCAC38",
+    "request_id": "1cc17123-7bdd-4bbf-9210-94cd4cd77c00",
+    "response": {
+      "audio_info": {
+        "duration": 2940
+      },
+      "result": {
+        "additions": {
+          "duration": "2940"
+        },
+        "text": "有滴滴啊、易到啊这样的软件，包括美国",
+        "utterances": [
+          {
+            "end_time": 2830,
+            "start_time": 390,
+            "text": "有滴滴啊、易到啊这样的软件，包括美国",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 630,
+                "start_time": 390,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 790,
+                "start_time": 710,
+                "text": "滴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 910,
+                "start_time": 870,
+                "text": "滴"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1150,
+                "start_time": 1030,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1310,
+                "start_time": 1270,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1510,
+                "start_time": 1470,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1710,
+                "start_time": 1630,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1830,
+                "start_time": 1710,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1950,
+                "start_time": 1830,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2110,
+                "start_time": 1950,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2270,
+                "start_time": 2110,
+                "text": "软"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2390,
+                "start_time": 2270,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2550,
+                "start_time": 2430,
+                "text": "包"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2630,
+                "start_time": 2550,
+                "text": "括"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2750,
+                "start_time": 2630,
+                "text": "美"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2830,
+                "start_time": 2750,
+                "text": "国"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1200
+			},
+			"text": "去做这件事情"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,200",
+				"to": "00:00:02,920"
+			},
+			"offsets": {
+				"from": 1200,
+				"to": 2920
+			},
+			"text": "就比如说像知乎Live"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,920",
+				"to": "00:00:03,800"
+			},
+			"offsets": {
+				"from": 2920,
+				"to": 3800
+			},
+			"text": "那个老师也是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,800",
+				"to": "00:00:05,360"
+			},
+			"offsets": {
+				"from": 3800,
+				"to": 5360
+			},
+			"text": "比如说一个讲医学的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,360",
+				"to": "00:00:05,660"
+			},
+			"offsets": {
+				"from": 5360,
+				"to": 5660
+			},
+			"text": "对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,660",
+				"to": "00:00:06,980"
+			},
+			"offsets": {
+				"from": 5660,
+				"to": 6980
+			},
+			"text": "我相信他的时间"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,980",
+				"to": "00:00:07,940"
+			},
+			"offsets": {
+				"from": 6980,
+				"to": 7940
+			},
+			"text": "当然是很宝贵的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,940",
+				"to": "00:00:08,740"
+			},
+			"offsets": {
+				"from": 7940,
+				"to": 8740
+			},
+			"text": "不可能9块9"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,740",
+				"to": "00:00:10,040"
+			},
+			"offsets": {
+				"from": 8740,
+				"to": 10040
+			},
+			"text": "跟我孙云辰讲这么久"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,040",
+				"to": "00:00:11,240"
+			},
+			"offsets": {
+				"from": 10040,
+				"to": 11240
+			},
+			"text": "但是他"
+		}
+	]
+}

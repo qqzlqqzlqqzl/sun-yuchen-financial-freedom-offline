@@ -1,0 +1,24 @@
+{
+  "item": {
+    "index": 5,
+    "file_id": "official-vimeo-m4a-partial__008__4bb31bf0",
+    "audio_path": "sun-audio-offline/audio/008 - 008【花絮】人生中的那些关键节点 [1179689834].m4a",
+    "snippet_path": "review-audio-snippets/glossary-audit/0005__official-vimeo-m4a-partial__008__4bb31bf0__term_8eac83a2.wav",
+    "start_seconds": 749.4,
+    "end_seconds": 760.26,
+    "duration_seconds": 10.86,
+    "matched_terms": [
+      "冯伦"
+    ],
+    "srt_text": "无论你们的史玉柱马云冯伦沈国军郭广昌这都是中国最成功的一代创业者,"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 405,
+    "api_status": null,
+    "api_message": null,
+    "tt_logid": "20260526145137480551549F75A08C7416",
+    "request_id": "b19540b5-a53a-4ec0-8da6-d98c8233112e",
+    "response_text": "Endpoint \"auc/bigmodel/recognize/flash\" only supports POST method"
+  }
+}

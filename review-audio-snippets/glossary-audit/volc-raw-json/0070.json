@@ -1,0 +1,24 @@
+{
+  "item": {
+    "index": 70,
+    "file_id": "wavlake-mp3__058__489fd374",
+    "audio_path": "sun-audio-offline/wavlake-mp3/058 - 058 - 058 孙宇晨：【90后不买车】共享经济与财富自由.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0070__wavlake-mp3__058__489fd374__term_c1e8762c.wav",
+    "start_seconds": 79.92,
+    "end_seconds": 86.28,
+    "duration_seconds": 6.36,
+    "matched_terms": [
+      "一道用车"
+    ],
+    "srt_text": "我用一道用车,目前我一个月四千,我都花不完。"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 405,
+    "api_status": null,
+    "api_message": null,
+    "tt_logid": "20260526145152CABB5600B844A028401B",
+    "request_id": "82f22af2-3d90-407e-91bd-d838b4887aad",
+    "response_text": "Endpoint \"auc/bigmodel/recognize/flash\" only supports POST method"
+  }
+}

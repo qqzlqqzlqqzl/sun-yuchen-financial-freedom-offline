@@ -1,0 +1,24 @@
+{
+  "item": {
+    "index": 65,
+    "file_id": "wavlake-mp3__049__0fdcd03f",
+    "audio_path": "sun-audio-offline/wavlake-mp3/049 - 049 - 049 孙宇晨：投资分享会.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0065__wavlake-mp3__049__0fdcd03f__term_7d074e11.wav",
+    "start_seconds": 1078.54,
+    "end_seconds": 1082.84,
+    "duration_seconds": 4.3,
+    "matched_terms": [
+      "孙云辰"
+    ],
+    "srt_text": "大家你看买孙云辰这节目一般"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 405,
+    "api_status": null,
+    "api_message": null,
+    "tt_logid": "202605261451501ED0E6891E0883C985A0",
+    "request_id": "85e4e43e-b827-4ffd-a033-3df16d7e6d74",
+    "response_text": "Endpoint \"auc/bigmodel/recognize/flash\" only supports POST method"
+  }
+}

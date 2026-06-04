@@ -1,0 +1,175 @@
+{
+  "item": {
+    "index": 51,
+    "file_id": "wavlake-mp3__016__817bdf46",
+    "audio_path": "sun-audio-offline/wavlake-mp3/016 - 016 - 016 孙宇晨：财富自由从未如此容易过.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0051__wavlake-mp3__016__817bdf46__term_d9fe5c9c.wav",
+    "start_seconds": 933.82,
+    "end_seconds": 938.82,
+    "duration_seconds": 5.0,
+    "matched_terms": [
+      "鱼龙马斯克"
+    ],
+    "srt_text": "不看好鱼龙马斯克的人"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526145138FBFB3CB8EF59E728A60D",
+    "request_id": "2a3020c5-bd2a-4ed4-b489-512707507bfa",
+    "response": {
+      "audio_info": {
+        "duration": 5000
+      },
+      "result": {
+        "additions": {
+          "duration": "5000"
+        },
+        "text": "电混合的啊，不看好 Elon Musk 的人，其实现现实本身",
+        "utterances": [
+          {
+            "end_time": 4880,
+            "start_time": 120,
+            "text": "电混合的啊，不看好 Elon Musk 的人，其实现现实本身",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "电"
+              },
+              {
+                "confidence": 0,
+                "end_time": 440,
+                "start_time": 280,
+                "text": "混"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "合"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 920,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1120,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1320,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1480,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1680,
+                "text": "Elon"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 1880,
+                "text": "Musk"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 2800,
+                "start_time": 2520,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2800,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3720,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3960,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4200,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4400,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4560,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4680,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4800,
+                "text": "身"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

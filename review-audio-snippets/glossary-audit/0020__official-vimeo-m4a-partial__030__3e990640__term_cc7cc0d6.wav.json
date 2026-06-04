@@ -1,0 +1,219 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2200
+			},
+			"text": "互联网产业的敏锐度"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,200",
+				"to": "00:00:05,060"
+			},
+			"offsets": {
+				"from": 2200,
+				"to": 5060
+			},
+			"text": "也随着他在互联网行业的投入"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,060",
+				"to": "00:00:05,980"
+			},
+			"offsets": {
+				"from": 5060,
+				"to": 5980
+			},
+			"text": "与日俱增"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,980",
+				"to": "00:00:09,280"
+			},
+			"offsets": {
+				"from": 5980,
+				"to": 9280
+			},
+			"text": "现在的行业都是属于一等一的人物"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,280",
+				"to": "00:00:10,360"
+			},
+			"offsets": {
+				"from": 9280,
+				"to": 10360
+			},
+			"text": "所以我觉得"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,360",
+				"to": "00:00:12,840"
+			},
+			"offsets": {
+				"from": 10360,
+				"to": 12840
+			},
+			"text": "其实你当去好好了解一下"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,840",
+				"to": "00:00:14,300"
+			},
+			"offsets": {
+				"from": 12840,
+				"to": 14300
+			},
+			"text": "王思聪这个案例"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,300",
+				"to": "00:00:15,940"
+			},
+			"offsets": {
+				"from": 14300,
+				"to": 15940
+			},
+			"text": "对任何一个人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,940",
+				"to": "00:00:18,220"
+			},
+			"offsets": {
+				"from": 15940,
+				"to": 18220
+			},
+			"text": "希望跨界进入互联网"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,220",
+				"to": "00:00:20,260"
+			},
+			"offsets": {
+				"from": 18220,
+				"to": 20260
+			},
+			"text": "都有很大的意义"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,260",
+				"to": "00:00:22,140"
+			},
+			"offsets": {
+				"from": 20260,
+				"to": 22140
+			},
+			"text": "很多人可能这时候会说"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,140",
+				"to": "00:00:23,480"
+			},
+			"offsets": {
+				"from": 22140,
+				"to": 23480
+			},
+			"text": "说雨晨你这样说也不对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,480",
+				"to": "00:00:24,660"
+			},
+			"offsets": {
+				"from": 23480,
+				"to": 24660
+			},
+			"text": "你像王思聪当年"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,660",
+				"to": "00:00:25,900"
+			},
+			"offsets": {
+				"from": 24660,
+				"to": 25900
+			},
+			"text": "他爸给了他五个亿"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,900",
+				"to": "00:00:29,180"
+			},
+			"offsets": {
+				"from": 25900,
+				"to": 29180
+			},
+			"text": "是不是有助于他跨界到互联网了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,180",
+				"to": "00:00:30,860"
+			},
+			"offsets": {
+				"from": 29180,
+				"to": 30860
+			},
+			"text": "但是大家要注意"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,860",
+				"to": "00:00:32,280"
+			},
+			"offsets": {
+				"from": 30860,
+				"to": 32280
+			},
+			"text": "他爸爸王建成"
+		}
+	]
+}

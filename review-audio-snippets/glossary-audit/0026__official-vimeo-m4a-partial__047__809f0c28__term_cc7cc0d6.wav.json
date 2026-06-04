@@ -1,0 +1,120 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,240"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1240
+			},
+			"text": "被削减了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,240",
+				"to": "00:00:03,500"
+			},
+			"offsets": {
+				"from": 1240,
+				"to": 3500
+			},
+			"text": "比如说举一个很简单的例子"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,500",
+				"to": "00:00:06,560"
+			},
+			"offsets": {
+				"from": 3500,
+				"to": 6560
+			},
+			"text": "我现在雨晨工作旁边"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,560",
+				"to": "00:00:08,700"
+			},
+			"offsets": {
+				"from": 6560,
+				"to": 8700
+			},
+			"text": "就我在互联网金融中心工作"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,700",
+				"to": "00:00:10,560"
+			},
+			"offsets": {
+				"from": 8700,
+				"to": 10560
+			},
+			"text": "我们旁边周边的房价"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,560",
+				"to": "00:00:12,020"
+			},
+			"offsets": {
+				"from": 10560,
+				"to": 12020
+			},
+			"text": "都是10万一平方米"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,020",
+				"to": "00:00:13,100"
+			},
+			"offsets": {
+				"from": 12020,
+				"to": 13100
+			},
+			"text": "甚至更高"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,100",
+				"to": "00:00:14,280"
+			},
+			"offsets": {
+				"from": 13100,
+				"to": 14280
+			},
+			"text": "我前两天录"
+		}
+	]
+}

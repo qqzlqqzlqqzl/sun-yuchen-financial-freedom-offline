@@ -1,0 +1,241 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,400"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1400
+			},
+			"text": "年轻时候很不注意这一点"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,400",
+				"to": "00:00:03,700"
+			},
+			"offsets": {
+				"from": 1400,
+				"to": 3700
+			},
+			"text": "往往觉得自己真理在手"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,700",
+				"to": "00:00:05,560"
+			},
+			"offsets": {
+				"from": 3700,
+				"to": 5560
+			},
+			"text": "我说的都是对的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,560",
+				"to": "00:00:06,420"
+			},
+			"offsets": {
+				"from": 5560,
+				"to": 6420
+			},
+			"text": "的确是对的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,420",
+				"to": "00:00:07,720"
+			},
+			"offsets": {
+				"from": 6420,
+				"to": 7720
+			},
+			"text": "我们三观都是对的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,720",
+				"to": "00:00:08,860"
+			},
+			"offsets": {
+				"from": 7720,
+				"to": 8860
+			},
+			"text": "所以我们就有制度自信"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,860",
+				"to": "00:00:09,520"
+			},
+			"offsets": {
+				"from": 8860,
+				"to": 9520
+			},
+			"text": "理论自信"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,520",
+				"to": "00:00:10,340"
+			},
+			"offsets": {
+				"from": 9520,
+				"to": 10340
+			},
+			"text": "道路自信"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,340",
+				"to": "00:00:13,500"
+			},
+			"offsets": {
+				"from": 10340,
+				"to": 13500
+			},
+			"text": "我们就老想让别人也走这条道路"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,500",
+				"to": "00:00:14,720"
+			},
+			"offsets": {
+				"from": 13500,
+				"to": 14720
+			},
+			"text": "很正常"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,720",
+				"to": "00:00:15,880"
+			},
+			"offsets": {
+				"from": 14720,
+				"to": 15880
+			},
+			"text": "但是我们要注意"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,880",
+				"to": "00:00:18,000"
+			},
+			"offsets": {
+				"from": 15880,
+				"to": 18000
+			},
+			"text": "一想让别人走别人道路"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,000",
+				"to": "00:00:19,320"
+			},
+			"offsets": {
+				"from": 18000,
+				"to": 19320
+			},
+			"text": "我们不要强求别人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,320",
+				"to": "00:00:20,440"
+			},
+			"offsets": {
+				"from": 19320,
+				"to": 20440
+			},
+			"text": "如果别人不同意"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,440",
+				"to": "00:00:21,420"
+			},
+			"offsets": {
+				"from": 20440,
+				"to": 21420
+			},
+			"text": "那就算了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,420",
+				"to": "00:00:24,480"
+			},
+			"offsets": {
+				"from": 21420,
+				"to": 24480
+			},
+			"text": "然后来我们最多让他们来听听孙永诚的课"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,480",
+				"to": "00:00:27,540"
+			},
+			"offsets": {
+				"from": 24480,
+				"to": 27540
+			},
+			"text": "这就已经是你传教的极限了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,540",
+				"to": "00:00:30,080"
+			},
+			"offsets": {
+				"from": 27540,
+				"to": 30080
+			},
+			"text": "不要试图去改变你的父母和爱人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,080",
+				"to": "00:00:31,240"
+			},
+			"offsets": {
+				"from": 30080,
+				"to": 31240
+			},
+			"text": "如果父母已经"
+		}
+	]
+}

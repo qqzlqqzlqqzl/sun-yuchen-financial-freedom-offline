@@ -1,0 +1,87 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,240"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1240
+			},
+			"text": "5万块钱一个月"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,240",
+				"to": "00:00:02,840"
+			},
+			"offsets": {
+				"from": 1240,
+				"to": 2840
+			},
+			"text": "我用一道用车"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,840",
+				"to": "00:00:04,480"
+			},
+			"offsets": {
+				"from": 2840,
+				"to": 4480
+			},
+			"text": "目前我一个月4000"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,480",
+				"to": "00:00:05,200"
+			},
+			"offsets": {
+				"from": 4480,
+				"to": 5200
+			},
+			"text": "我都花不完"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,200",
+				"to": "00:00:06,380"
+			},
+			"offsets": {
+				"from": 5200,
+				"to": 6380
+			},
+			"text": "而且折"
+		}
+	]
+}

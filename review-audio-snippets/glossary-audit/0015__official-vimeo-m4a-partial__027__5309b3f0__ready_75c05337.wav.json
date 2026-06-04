@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 880
+			},
+			"text": "这个网站"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,880",
+				"to": "00:00:02,320"
+			},
+			"offsets": {
+				"from": 880,
+				"to": 2320
+			},
+			"text": "还有个网站叫Ready"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,320",
+				"to": "00:00:04,080"
+			},
+			"offsets": {
+				"from": 2320,
+				"to": 4080
+			},
+			"text": "就是R-E-D-D-I-T"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,080",
+				"to": "00:00:05,440"
+			},
+			"offsets": {
+				"from": 4080,
+				"to": 5440
+			},
+			"text": "还有个网站叫Twitter"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,440",
+				"to": "00:00:08,680"
+			},
+			"offsets": {
+				"from": 5440,
+				"to": 8680
+			},
+			"text": "叫T-W-I-T-T-E-R"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,680",
+				"to": "00:00:10,200"
+			},
+			"offsets": {
+				"from": 8680,
+				"to": 10200
+			},
+			"text": "这三个网站呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,200",
+				"to": "00:00:10,400"
+			},
+			"offsets": {
+				"from": 10200,
+				"to": 10400
+			},
+			"text": "其实"
+		}
+	]
+}

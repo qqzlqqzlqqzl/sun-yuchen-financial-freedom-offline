@@ -1,0 +1,76 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1220
+			},
+			"text": "的坐车的经费"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:02,720"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 2720
+			},
+			"text": "然后一道用车"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,720",
+				"to": "00:00:04,220"
+			},
+			"offsets": {
+				"from": 2720,
+				"to": 4220
+			},
+			"text": "还送了我两台电视机"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,220",
+				"to": "00:00:05,380"
+			},
+			"offsets": {
+				"from": 4220,
+				"to": 5380
+			},
+			"text": "我呢"
+		}
+	]
+}

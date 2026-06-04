@@ -1,0 +1,65 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,960"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 960
+			},
+			"text": "我自己的案例"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,960",
+				"to": "00:00:04,880"
+			},
+			"offsets": {
+				"from": 960,
+				"to": 4880
+			},
+			"text": "我在一道用车充值充得最猛的时候"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,880",
+				"to": "00:00:06,120"
+			},
+			"offsets": {
+				"from": 4880,
+				"to": 6120
+			},
+			"text": "大概"
+		}
+	]
+}

@@ -1,0 +1,252 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,120"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1120
+			},
+			"text": "强者付诸弱者"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,120",
+				"to": "00:00:02,780"
+			},
+			"offsets": {
+				"from": 1120,
+				"to": 2780
+			},
+			"text": "我们觉得强者应该被鼓励"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,780",
+				"to": "00:00:04,060"
+			},
+			"offsets": {
+				"from": 2780,
+				"to": 4060
+			},
+			"text": "你他妈要把我烧死"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,060",
+				"to": "00:00:05,800"
+			},
+			"offsets": {
+				"from": 4060,
+				"to": 5800
+			},
+			"text": "我们觉得不应该好吃懒做"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,800",
+				"to": "00:00:06,620"
+			},
+			"offsets": {
+				"from": 5800,
+				"to": 6620
+			},
+			"text": "得个人奋斗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,620",
+				"to": "00:00:08,720"
+			},
+			"offsets": {
+				"from": 6620,
+				"to": 8720
+			},
+			"text": "你他妈要把我抓的烧死"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,720",
+				"to": "00:00:09,460"
+			},
+			"offsets": {
+				"from": 8720,
+				"to": 9460
+			},
+			"text": "是这道理吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,460",
+				"to": "00:00:11,300"
+			},
+			"offsets": {
+				"from": 9460,
+				"to": 11300
+			},
+			"text": "我啥都没干啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,300",
+				"to": "00:00:11,720"
+			},
+			"offsets": {
+				"from": 11300,
+				"to": 11720
+			},
+			"text": "所以"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,720",
+				"to": "00:00:14,920"
+			},
+			"offsets": {
+				"from": 11720,
+				"to": 14920
+			},
+			"text": "这时候大家要注意"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,920",
+				"to": "00:00:16,560"
+			},
+			"offsets": {
+				"from": 14920,
+				"to": 16560
+			},
+			"text": "我们讲的与主流和解"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,560",
+				"to": "00:00:18,140"
+			},
+			"offsets": {
+				"from": 16560,
+				"to": 18140
+			},
+			"text": "与当下的秩序环境"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,140",
+				"to": "00:00:19,540"
+			},
+			"offsets": {
+				"from": 18140,
+				"to": 19540
+			},
+			"text": "他人奉行的价值观"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,540",
+				"to": "00:00:20,580"
+			},
+			"offsets": {
+				"from": 19540,
+				"to": 20580
+			},
+			"text": "划清界限"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,580",
+				"to": "00:00:23,460"
+			},
+			"offsets": {
+				"from": 20580,
+				"to": 23460
+			},
+			"text": "但是同时要有底线的进行和解"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,460",
+				"to": "00:00:25,980"
+			},
+			"offsets": {
+				"from": 23460,
+				"to": 25980
+			},
+			"text": "所以要有底线的和解"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,980",
+				"to": "00:00:27,820"
+			},
+			"offsets": {
+				"from": 25980,
+				"to": 27820
+			},
+			"text": "与这个旧世界谈谈"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,820",
+				"to": "00:00:29,040"
+			},
+			"offsets": {
+				"from": 27820,
+				"to": 29040
+			},
+			"text": "所以你看我"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,040",
+				"to": "00:00:29,880"
+			},
+			"offsets": {
+				"from": 29040,
+				"to": 29880
+			},
+			"text": "包括我孙云辰"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,880",
+				"to": "00:00:31,940"
+			},
+			"offsets": {
+				"from": 29880,
+				"to": 31940
+			},
+			"text": "我在外界写这些文章的时候"
+		}
+	]
+}

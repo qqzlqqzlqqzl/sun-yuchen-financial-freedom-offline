@@ -1,0 +1,87 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,860"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 860
+			},
+			"text": "好摇车了吗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,860",
+				"to": "00:00:01,780"
+			},
+			"offsets": {
+				"from": 860,
+				"to": 1780
+			},
+			"text": "大家想想"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,780",
+				"to": "00:00:02,600"
+			},
+			"offsets": {
+				"from": 1780,
+				"to": 2600
+			},
+			"text": "我雨晨"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,600",
+				"to": "00:00:04,220"
+			},
+			"offsets": {
+				"from": 2600,
+				"to": 4220
+			},
+			"text": "咱录这节目"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,220",
+				"to": "00:00:04,700"
+			},
+			"offsets": {
+				"from": 4220,
+				"to": 4700
+			},
+			"text": "我打得"
+		}
+	]
+}

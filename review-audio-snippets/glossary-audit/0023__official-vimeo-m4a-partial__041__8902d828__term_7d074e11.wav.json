@@ -1,0 +1,87 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,600"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 600
+			},
+			"text": "就崩溃了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,600",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 600,
+				"to": 1220
+			},
+			"text": "我觉得慢慢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:03,140"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 3140
+			},
+			"text": "就包括即便我孙云辰"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,140",
+				"to": "00:00:04,100"
+			},
+			"offsets": {
+				"from": 3140,
+				"to": 4100
+			},
+			"text": "我的婚姻"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,100",
+				"to": "00:00:04,580"
+			},
+			"offsets": {
+				"from": 4100,
+				"to": 4580
+			},
+			"text": "我就"
+		}
+	]
+}

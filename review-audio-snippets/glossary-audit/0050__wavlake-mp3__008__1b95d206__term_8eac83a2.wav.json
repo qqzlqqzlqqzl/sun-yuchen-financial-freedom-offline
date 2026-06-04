@@ -1,0 +1,76 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 980
+			},
+			"text": "马云"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,980",
+				"to": "00:00:01,620"
+			},
+			"offsets": {
+				"from": 980,
+				"to": 1620
+			},
+			"text": "冯伦"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,620",
+				"to": "00:00:02,280"
+			},
+			"offsets": {
+				"from": 1620,
+				"to": 2280
+			},
+			"text": "沈国军"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,280",
+				"to": "00:00:02,920"
+			},
+			"offsets": {
+				"from": 2280,
+				"to": 2920
+			},
+			"text": "郭广昌"
+		}
+	]
+}

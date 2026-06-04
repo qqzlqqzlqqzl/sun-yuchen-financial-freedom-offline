@@ -1,0 +1,65 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,180"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1180
+			},
+			"text": "也是我的湖畔同学"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,180",
+				"to": "00:00:02,020"
+			},
+			"offsets": {
+				"from": 1180,
+				"to": 2020
+			},
+			"text": "朱板家张生德"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,020",
+				"to": "00:00:03,220"
+			},
+			"offsets": {
+				"from": 2020,
+				"to": 3220
+			},
+			"text": "我们也一直"
+		}
+	]
+}

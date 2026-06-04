@@ -1,0 +1,120 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1220
+			},
+			"text": "的本身"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:03,100"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 3100
+			},
+			"text": "比如说举个很简单的例子"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,100",
+				"to": "00:00:04,740"
+			},
+			"offsets": {
+				"from": 3100,
+				"to": 4740
+			},
+			"text": "我孙玉成个人就是租房"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,740",
+				"to": "00:00:06,260"
+			},
+			"offsets": {
+				"from": 4740,
+				"to": 6260
+			},
+			"text": "我就是租房的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,260",
+				"to": "00:00:09,560"
+			},
+			"offsets": {
+				"from": 6260,
+				"to": 9560
+			},
+			"text": "我现在租在一个和我们公司"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,560",
+				"to": "00:00:11,700"
+			},
+			"offsets": {
+				"from": 9560,
+				"to": 11700
+			},
+			"text": "大概步行就五分钟的地方"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,700",
+				"to": "00:00:13,260"
+			},
+			"offsets": {
+				"from": 11700,
+				"to": 13260
+			},
+			"text": "我就是租房的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,260",
+				"to": "00:00:14,300"
+			},
+			"offsets": {
+				"from": 13260,
+				"to": 14300
+			},
+			"text": "所以从这个角度"
+		}
+	]
+}

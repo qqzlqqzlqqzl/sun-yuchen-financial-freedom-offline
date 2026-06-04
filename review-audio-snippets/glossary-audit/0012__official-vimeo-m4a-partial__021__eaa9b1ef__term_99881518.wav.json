@@ -1,0 +1,274 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,520"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 520
+			},
+			"text": "和爱人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,520",
+				"to": "00:00:02,340"
+			},
+			"offsets": {
+				"from": 520,
+				"to": 2340
+			},
+			"text": "如果父母已经换不了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,340",
+				"to": "00:00:03,740"
+			},
+			"offsets": {
+				"from": 2340,
+				"to": 3740
+			},
+			"text": "因为是你天生的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,740",
+				"to": "00:00:05,380"
+			},
+			"offsets": {
+				"from": 3740,
+				"to": 5380
+			},
+			"text": "这个也是经常我们讲的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,380",
+				"to": "00:00:06,600"
+			},
+			"offsets": {
+				"from": 5380,
+				"to": 6600
+			},
+			"text": "一个自由意志主义者"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,600",
+				"to": "00:00:08,280"
+			},
+			"offsets": {
+				"from": 6600,
+				"to": 8280
+			},
+			"text": "最难办的是他的父母跟儿女"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,280",
+				"to": "00:00:10,100"
+			},
+			"offsets": {
+				"from": 8280,
+				"to": 10100
+			},
+			"text": "因为这是没有选择的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,100",
+				"to": "00:00:11,140"
+			},
+			"offsets": {
+				"from": 10100,
+				"to": 11140
+			},
+			"text": "靠他都不认同你"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,140",
+				"to": "00:00:12,300"
+			},
+			"offsets": {
+				"from": 11140,
+				"to": 12300
+			},
+			"text": "你也没办法"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,300",
+				"to": "00:00:13,360"
+			},
+			"offsets": {
+				"from": 12300,
+				"to": 13360
+			},
+			"text": "往往你的爱人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,360",
+				"to": "00:00:14,100"
+			},
+			"offsets": {
+				"from": 13360,
+				"to": 14100
+			},
+			"text": "如果是不行的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,100",
+				"to": "00:00:14,640"
+			},
+			"offsets": {
+				"from": 14100,
+				"to": 14640
+			},
+			"text": "你就分手"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,640",
+				"to": "00:00:15,960"
+			},
+			"offsets": {
+				"from": 14640,
+				"to": 15960
+			},
+			"text": "选一个符合的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,960",
+				"to": "00:00:17,280"
+			},
+			"offsets": {
+				"from": 15960,
+				"to": 17280
+			},
+			"text": "其实还是好办"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,280",
+				"to": "00:00:20,300"
+			},
+			"offsets": {
+				"from": 17280,
+				"to": 20300
+			},
+			"text": "第51周到52周"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,300",
+				"to": "00:00:21,840"
+			},
+			"offsets": {
+				"from": 20300,
+				"to": 21840
+			},
+			"text": "是总结"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,840",
+				"to": "00:00:25,240"
+			},
+			"offsets": {
+				"from": 21840,
+				"to": 25240
+			},
+			"text": "叫做一场一个人的明智为心"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,240",
+				"to": "00:00:26,120"
+			},
+			"offsets": {
+				"from": 25240,
+				"to": 26120
+			},
+			"text": "因为到这里"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,120",
+				"to": "00:00:28,020"
+			},
+			"offsets": {
+				"from": 26120,
+				"to": 28020
+			},
+			"text": "我们的整个课程也告一段落了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,020",
+				"to": "00:00:28,500"
+			},
+			"offsets": {
+				"from": 28020,
+				"to": 28500
+			},
+			"text": "这一章"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,500",
+				"to": "00:00:29,760"
+			},
+			"offsets": {
+				"from": 28500,
+				"to": 29760
+			},
+			"text": "其实51 52周"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,760",
+				"to": "00:00:31,440"
+			},
+			"offsets": {
+				"from": 29760,
+				"to": 31440
+			},
+			"text": "我会收集一些"
+		}
+	]
+}

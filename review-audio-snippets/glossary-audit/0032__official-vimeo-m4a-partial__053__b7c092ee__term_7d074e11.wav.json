@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,480"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 480
+			},
+			"text": "就我的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,480",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 480,
+				"to": 1220
+			},
+			"text": "我就不走"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:02,260"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 2260
+			},
+			"text": "不会"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,260",
+				"to": "00:00:05,720"
+			},
+			"offsets": {
+				"from": 2260,
+				"to": 5720
+			},
+			"text": "相反这种游牧民族的理念"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,720",
+				"to": "00:00:06,600"
+			},
+			"offsets": {
+				"from": 5720,
+				"to": 6600
+			},
+			"text": "是一个这种"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,600",
+				"to": "00:00:09,900"
+			},
+			"offsets": {
+				"from": 6600,
+				"to": 9900
+			},
+			"text": "我个人认为是这种现代社会的特征"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,900",
+				"to": "00:00:11,040"
+			},
+			"offsets": {
+				"from": 9900,
+				"to": 11040
+			},
+			"text": "像比如说我孙宇辰"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,040",
+				"to": "00:00:12,340"
+			},
+			"offsets": {
+				"from": 11040,
+				"to": 12340
+			},
+			"text": "就是典型这样一个人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,340",
+				"to": "00:00:12,920"
+			},
+			"offsets": {
+				"from": 12340,
+				"to": 12920
+			},
+			"text": "大家知道"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,920",
+				"to": "00:00:16,260"
+			},
+			"offsets": {
+				"from": 12920,
+				"to": 16260
+			},
+			"text": "我感觉我就是中国一个难得的游牧民族"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,260",
+				"to": "00:00:16,560"
+			},
+			"offsets": {
+				"from": 16260,
+				"to": 16560
+			},
+			"text": "为啥"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,560",
+				"to": "00:00:18,600"
+			},
+			"offsets": {
+				"from": 16560,
+				"to": 18600
+			},
+			"text": "大家可能不了解"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,600",
+				"to": "00:00:22,080"
+			},
+			"offsets": {
+				"from": 18600,
+				"to": 22080
+			},
+			"text": "我是出生在中国的青海省西宁市"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,080",
+				"to": "00:00:23,280"
+			},
+			"offsets": {
+				"from": 22080,
+				"to": 23280
+			},
+			"text": "青海省"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,280",
+				"to": "00:00:24,660"
+			},
+			"offsets": {
+				"from": 23280,
+				"to": 24660
+			},
+			"text": "很多人都没听过"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,660",
+				"to": "00:00:26,400"
+			},
+			"offsets": {
+				"from": 24660,
+				"to": 26400
+			},
+			"text": "我也是大学自我介绍"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,400",
+				"to": "00:00:27,880"
+			},
+			"offsets": {
+				"from": 26400,
+				"to": 27880
+			},
+			"text": "有人居然都没听过青海省"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,880",
+				"to": "00:00:32,200"
+			},
+			"offsets": {
+				"from": 27880,
+				"to": 32200
+			},
+			"text": "我们省真是在中国存在感很差啊"
+		}
+	]
+}

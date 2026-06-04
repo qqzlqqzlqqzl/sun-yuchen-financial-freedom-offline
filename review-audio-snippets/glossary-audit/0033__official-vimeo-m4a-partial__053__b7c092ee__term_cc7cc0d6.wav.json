@@ -1,0 +1,307 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,320"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1320
+			},
+			"text": "也是因为这个地方的房产"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,320",
+				"to": "00:00:02,340"
+			},
+			"offsets": {
+				"from": 1320,
+				"to": 2340
+			},
+			"text": "有投资价值"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,340",
+				"to": "00:00:03,040"
+			},
+			"offsets": {
+				"from": 2340,
+				"to": 3040
+			},
+			"text": "好投资"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,040",
+				"to": "00:00:04,640"
+			},
+			"offsets": {
+				"from": 3040,
+				"to": 4640
+			},
+			"text": "就跟我投资一只股票"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,640",
+				"to": "00:00:06,020"
+			},
+			"offsets": {
+				"from": 4640,
+				"to": 6020
+			},
+			"text": "投资什么都是一样的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,020",
+				"to": "00:00:07,140"
+			},
+			"offsets": {
+				"from": 6020,
+				"to": 7140
+			},
+			"text": "它是有价值"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,140",
+				"to": "00:00:09,500"
+			},
+			"offsets": {
+				"from": 7140,
+				"to": 9500
+			},
+			"text": "我才看上它"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,500",
+				"to": "00:00:12,520"
+			},
+			"offsets": {
+				"from": 9500,
+				"to": 12520
+			},
+			"text": "我不会说是一定要认祖归宗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,520",
+				"to": "00:00:14,600"
+			},
+			"offsets": {
+				"from": 12520,
+				"to": 14600
+			},
+			"text": "就是在一个地方"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,600",
+				"to": "00:00:15,800"
+			},
+			"offsets": {
+				"from": 14600,
+				"to": 15800
+			},
+			"text": "怎么我要死扛着"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,800",
+				"to": "00:00:16,060"
+			},
+			"offsets": {
+				"from": 15800,
+				"to": 16060
+			},
+			"text": "是吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,060",
+				"to": "00:00:17,100"
+			},
+			"offsets": {
+				"from": 16060,
+				"to": 17100
+			},
+			"text": "老婆孩子热炕头"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,100",
+				"to": "00:00:18,460"
+			},
+			"offsets": {
+				"from": 17100,
+				"to": 18460
+			},
+			"text": "一个地方死扛着"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,460",
+				"to": "00:00:20,020"
+			},
+			"offsets": {
+				"from": 18460,
+				"to": 20020
+			},
+			"text": "为了获取一个地方"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,020",
+				"to": "00:00:22,480"
+			},
+			"offsets": {
+				"from": 20020,
+				"to": 22480
+			},
+			"text": "极少人对我的一个可能认可"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,480",
+				"to": "00:00:23,640"
+			},
+			"offsets": {
+				"from": 22480,
+				"to": 23640
+			},
+			"text": "就街坊邻居说"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,640",
+				"to": "00:00:24,700"
+			},
+			"offsets": {
+				"from": 23640,
+				"to": 24700
+			},
+			"text": "语辰出息了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,700",
+				"to": "00:00:25,920"
+			},
+			"offsets": {
+				"from": 24700,
+				"to": 25920
+			},
+			"text": "我难道就为他这句话"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,920",
+				"to": "00:00:26,840"
+			},
+			"offsets": {
+				"from": 25920,
+				"to": 26840
+			},
+			"text": "奋斗一辈子吗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,840",
+				"to": "00:00:27,180"
+			},
+			"offsets": {
+				"from": 26840,
+				"to": 27180
+			},
+			"text": "对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,180",
+				"to": "00:00:28,100"
+			},
+			"offsets": {
+				"from": 27180,
+				"to": 28100
+			},
+			"text": "我当然不会"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,100",
+				"to": "00:00:29,480"
+			},
+			"offsets": {
+				"from": 28100,
+				"to": 29480
+			},
+			"text": "甚至"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,480",
+				"to": "00:00:30,060"
+			},
+			"offsets": {
+				"from": 29480,
+				"to": 30060
+			},
+			"text": "你说以前"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,060",
+				"to": "00:00:31,260"
+			},
+			"offsets": {
+				"from": 30060,
+				"to": 31260
+			},
+			"text": "如果你跟父母住在一起"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,260",
+				"to": "00:00:32,200"
+			},
+			"offsets": {
+				"from": 31260,
+				"to": 32200
+			},
+			"text": "所有才有所谓"
+		}
+	]
+}

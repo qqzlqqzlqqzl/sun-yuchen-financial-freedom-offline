@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4880
+			},
+			"text": "其实解决的方式用共享经济就可以解决至少买车的问题"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,880",
+				"to": "00:00:08,280"
+			},
+			"offsets": {
+				"from": 4880,
+				"to": 8280
+			},
+			"text": "现在在中国已经比较完美的可以解决了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,280",
+				"to": "00:00:14,000"
+			},
+			"offsets": {
+				"from": 8280,
+				"to": 14000
+			},
+			"text": "所以我个人觉得买车的理由无论讲啥都是不成立的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,000",
+				"to": "00:00:17,900"
+			},
+			"offsets": {
+				"from": 14000,
+				"to": 17900
+			},
+			"text": "其实有时候有的人说那雨晨我要做生意"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,900",
+				"to": "00:00:21,800"
+			},
+			"offsets": {
+				"from": 17900,
+				"to": 21800
+			},
+			"text": "要做大生意是不是得买一辆阔气的车呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,800",
+				"to": "00:00:23,820"
+			},
+			"offsets": {
+				"from": 21800,
+				"to": 23820
+			},
+			"text": "其实我觉得也不存在"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,820",
+				"to": "00:00:25,580"
+			},
+			"offsets": {
+				"from": 23820,
+				"to": 25580
+			},
+			"text": "为啥呢"
+		}
+	]
+}

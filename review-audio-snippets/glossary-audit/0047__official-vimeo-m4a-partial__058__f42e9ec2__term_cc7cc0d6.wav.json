@@ -1,0 +1,164 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,720"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1720
+			},
+			"text": "语权你看"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,720",
+				"to": "00:00:04,220"
+			},
+			"offsets": {
+				"from": 1720,
+				"to": 4220
+			},
+			"text": "你这个饭也做不了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,220",
+				"to": "00:00:04,580"
+			},
+			"offsets": {
+				"from": 4220,
+				"to": 4580
+			},
+			"text": "是不是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,580",
+				"to": "00:00:06,360"
+			},
+			"offsets": {
+				"from": 4580,
+				"to": 6360
+			},
+			"text": "那我们原来将你办的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,360",
+				"to": "00:00:07,120"
+			},
+			"offsets": {
+				"from": 6360,
+				"to": 7120
+			},
+			"text": "这个事这个事"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,120",
+				"to": "00:00:08,000"
+			},
+			"offsets": {
+				"from": 7120,
+				"to": 8000
+			},
+			"text": "你是不是就得做"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,000",
+				"to": "00:00:09,900"
+			},
+			"offsets": {
+				"from": 8000,
+				"to": 9900
+			},
+			"text": "我都就非常屈辱"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,900",
+				"to": "00:00:10,920"
+			},
+			"offsets": {
+				"from": 9900,
+				"to": 10920
+			},
+			"text": "你知道为了一碗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,920",
+				"to": "00:00:11,960"
+			},
+			"offsets": {
+				"from": 10920,
+				"to": 11960
+			},
+			"text": "接来之食"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,960",
+				"to": "00:00:12,920"
+			},
+			"offsets": {
+				"from": 11960,
+				"to": 12920
+			},
+			"text": "我就得同意他们"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,920",
+				"to": "00:00:14,900"
+			},
+			"offsets": {
+				"from": 12920,
+				"to": 14900
+			},
+			"text": "很多观点和很多看法"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,900",
+				"to": "00:00:16,080"
+			},
+			"offsets": {
+				"from": 14900,
+				"to": 16080
+			},
+			"text": "因为那时候"
+		}
+	]
+}

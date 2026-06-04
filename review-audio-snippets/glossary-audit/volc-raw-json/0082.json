@@ -1,0 +1,145 @@
+{
+  "item": {
+    "index": 82,
+    "file_id": "wavlake-mp3__068__8931adfc",
+    "audio_path": "sun-audio-offline/wavlake-mp3/068 - 068 - 068 孙宇晨：【番外】90后会将互联网革命进行到底.mp3",
+    "snippet_path": "review-audio-snippets/glossary-audit/0082__wavlake-mp3__068__8931adfc__term_7d074e11.wav",
+    "start_seconds": 507.42,
+    "end_seconds": 510.72,
+    "duration_seconds": 3.3,
+    "matched_terms": [
+      "孙云辰"
+    ],
+    "srt_text": "说孙云辰"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526145148D545F6EE41E2FC297981",
+    "request_id": "52ed45a1-4e60-4f0e-98cd-ee087b693a1e",
+    "response": {
+      "audio_info": {
+        "duration": 3300
+      },
+      "result": {
+        "additions": {
+          "duration": "3300"
+        },
+        "text": "问我一个问题，就说，啊，说孙晨哎，你们这个",
+        "utterances": [
+          {
+            "end_time": 3080,
+            "start_time": 80,
+            "text": "问我一个问题，就说，啊，说孙晨哎，你们这个",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 120,
+                "start_time": 80,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 120,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 480,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 600,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 680,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 880,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1480,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1640,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1840,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2040,
+                "text": "晨"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2240,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2440,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2600,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2880,
+                "start_time": 2760,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2880,
+                "text": "个"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

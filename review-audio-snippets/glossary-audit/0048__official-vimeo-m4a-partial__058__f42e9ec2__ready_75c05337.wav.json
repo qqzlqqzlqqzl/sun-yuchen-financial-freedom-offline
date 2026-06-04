@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 880
+			},
+			"text": "会更加发达"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,880",
+				"to": "00:00:02,560"
+			},
+			"offsets": {
+				"from": 880,
+				"to": 2560
+			},
+			"text": "而且我觉得很快"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,560",
+				"to": "00:00:03,780"
+			},
+			"offsets": {
+				"from": 2560,
+				"to": 3780
+			},
+			"text": "就未来五到十年"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,780",
+				"to": "00:00:06,540"
+			},
+			"offsets": {
+				"from": 3780,
+				"to": 6540
+			},
+			"text": "上次我们投资分享会都讲过"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,540",
+				"to": "00:00:07,740"
+			},
+			"offsets": {
+				"from": 6540,
+				"to": 7740
+			},
+			"text": "英伟达这样的公司"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,740",
+				"to": "00:00:08,180"
+			},
+			"offsets": {
+				"from": 7740,
+				"to": 8180
+			},
+			"text": "是吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,180",
+				"to": "00:00:10,720"
+			},
+			"offsets": {
+				"from": 8180,
+				"to": 10720
+			},
+			"text": "包括谷歌亚马逊这样的公司"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,720",
+				"to": "00:00:11,780"
+			},
+			"offsets": {
+				"from": 10720,
+				"to": 11780
+			},
+			"text": "都在做"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,780",
+				"to": "00:00:15,380"
+			},
+			"offsets": {
+				"from": 11780,
+				"to": 15380
+			},
+			"text": "准备好之后"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,380",
+				"to": "00:00:17,420"
+			},
+			"offsets": {
+				"from": 15380,
+				"to": 17420
+			},
+			"text": "这当这些所有技术ready之后"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,420",
+				"to": "00:00:19,720"
+			},
+			"offsets": {
+				"from": 17420,
+				"to": 19720
+			},
+			"text": "我觉得刚才你实现"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,720",
+				"to": "00:00:20,960"
+			},
+			"offsets": {
+				"from": 19720,
+				"to": 20960
+			},
+			"text": "我们刚才一万块钱的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,960",
+				"to": "00:00:21,700"
+			},
+			"offsets": {
+				"from": 20960,
+				"to": 21700
+			},
+			"text": "这个生活成本"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,700",
+				"to": "00:00:23,420"
+			},
+			"offsets": {
+				"from": 21700,
+				"to": 23420
+			},
+			"text": "会被降低到"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,420",
+				"to": "00:00:26,380"
+			},
+			"offsets": {
+				"from": 23420,
+				"to": 26380
+			},
+			"text": "一个月一千块就足够了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,380",
+				"to": "00:00:27,180"
+			},
+			"offsets": {
+				"from": 26380,
+				"to": 27180
+			},
+			"text": "一千块就解决"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,180",
+				"to": "00:00:29,160"
+			},
+			"offsets": {
+				"from": 27180,
+				"to": 29160
+			},
+			"text": "而且更加舒服"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,160",
+				"to": "00:00:30,340"
+			},
+			"offsets": {
+				"from": 29160,
+				"to": 30340
+			},
+			"text": "比方说啊"
+		}
+	]
+}

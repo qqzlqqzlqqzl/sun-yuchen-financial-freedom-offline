@@ -1,0 +1,54 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1220
+			},
+			"text": "特斯拉这个优秀的公司"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:05,800"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 5800
+			},
+			"text": "以及罗马斯克这个优秀创始人来说都是一个非常好的买入机会"
+		}
+	]
+}

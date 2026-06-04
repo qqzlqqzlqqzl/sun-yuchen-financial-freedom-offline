@@ -1,0 +1,98 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1200
+			},
+			"text": "原因很简单"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,200",
+				"to": "00:00:02,420"
+			},
+			"offsets": {
+				"from": 1200,
+				"to": 2420
+			},
+			"text": "当时大家普遍把"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,420",
+				"to": "00:00:03,320"
+			},
+			"offsets": {
+				"from": 2420,
+				"to": 3320
+			},
+			"text": "就是把"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,320",
+				"to": "00:00:04,640"
+			},
+			"offsets": {
+				"from": 3320,
+				"to": 4640
+			},
+			"text": "伊隆·马斯克这个人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,640",
+				"to": "00:00:06,500"
+			},
+			"offsets": {
+				"from": 4640,
+				"to": 6500
+			},
+			"text": "看作是个忽悠为主的人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,500",
+				"to": "00:00:07,680"
+			},
+			"offsets": {
+				"from": 6500,
+				"to": 7680
+			},
+			"text": "就觉得这"
+		}
+	]
+}

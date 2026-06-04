@@ -1,0 +1,120 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,620"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1620
+			},
+			"text": "其实呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,620",
+				"to": "00:00:02,780"
+			},
+			"offsets": {
+				"from": 1620,
+				"to": 2780
+			},
+			"text": "大家其实我们也知道"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,780",
+				"to": "00:00:05,160"
+			},
+			"offsets": {
+				"from": 2780,
+				"to": 5160
+			},
+			"text": "无论包括中国国内的知乎"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,160",
+				"to": "00:00:06,340"
+			},
+			"offsets": {
+				"from": 5160,
+				"to": 6340
+			},
+			"text": "微博和币上"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,340",
+				"to": "00:00:08,200"
+			},
+			"offsets": {
+				"from": 6340,
+				"to": 8200
+			},
+			"text": "包括美国的4chan"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,200",
+				"to": "00:00:09,660"
+			},
+			"offsets": {
+				"from": 8200,
+				"to": 9660
+			},
+			"text": "reddit和推特呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,660",
+				"to": "00:00:11,640"
+			},
+			"offsets": {
+				"from": 9660,
+				"to": 11640
+			},
+			"text": "其实都是背书川普的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,640",
+				"to": "00:00:13,400"
+			},
+			"offsets": {
+				"from": 11640,
+				"to": 13400
+			},
+			"text": "我不知道大家有没有在这些玩"
+		}
+	]
+}

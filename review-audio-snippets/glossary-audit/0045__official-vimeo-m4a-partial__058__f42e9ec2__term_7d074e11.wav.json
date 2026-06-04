@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "models/whisper-cpp/ggml-large-v3.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,220"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1220
+			},
+			"text": "便宜的丧尽天良"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,220",
+				"to": "00:00:02,400"
+			},
+			"offsets": {
+				"from": 1220,
+				"to": 2400
+			},
+			"text": "我要补充一点"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,400",
+				"to": "00:00:03,460"
+			},
+			"offsets": {
+				"from": 2400,
+				"to": 3460
+			},
+			"text": "大家知道为什么"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,460",
+				"to": "00:00:05,040"
+			},
+			"offsets": {
+				"from": 3460,
+				"to": 5040
+			},
+			"text": "九块九九"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,040",
+				"to": "00:00:06,800"
+			},
+			"offsets": {
+				"from": 5040,
+				"to": 6800
+			},
+			"text": "包括我孙宇辰一百九十九"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,800",
+				"to": "00:00:08,720"
+			},
+			"offsets": {
+				"from": 6800,
+				"to": 8720
+			},
+			"text": "我们也还愿意在这讲"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,720",
+				"to": "00:00:10,140"
+			},
+			"offsets": {
+				"from": 8720,
+				"to": 10140
+			},
+			"text": "和"
+		}
+	]
+}
