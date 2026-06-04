@@ -1,0 +1,202 @@
+{
+  "item": {
+    "index": 3,
+    "audio_id": "wavlake-mp3__140__f55c81c4",
+    "clean_json": "wavlake-mp3__140__f55c81c4.json",
+    "segment_index": 56,
+    "segment_start": 724.46,
+    "segment_end": 726.46,
+    "snippet_start": 723.26,
+    "snippet_end": 727.6600000000001,
+    "score": 77,
+    "flags": [
+      "rep_phrase",
+      "literal:公司的公司",
+      "low_avg_p=0.55",
+      "low_tokens=16",
+      "dense_16.5cps"
+    ],
+    "current_text": "当然有个前提条件哦,就是我们这边有一个公司的公司,就是我们的公司的公司。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/140 - 140 - 141【From It to Bit】区块链、硅基化、数字资产、意识互联.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0003__wavlake-mp3__140__f55c81c4__seg0056.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615125648976BBA4DC8CF3CEDDB",
+    "request_id": "fa74f4cb-6089-4b71-8296-ea9ad8e11d8b",
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "来啊，和我一起合影。当然有个前提条件哦，就是把我的这个",
+        "utterances": [
+          {
+            "end_time": 1310,
+            "start_time": 70,
+            "text": "来啊，和我一起合影。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 230,
+                "start_time": 70,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 430,
+                "start_time": 310,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 670,
+                "start_time": 510,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 790,
+                "start_time": 670,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 870,
+                "start_time": 790,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 990,
+                "start_time": 870,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1150,
+                "start_time": 990,
+                "text": "合"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1310,
+                "start_time": 1230,
+                "text": "影"
+              }
+            ]
+          },
+          {
+            "end_time": 4350,
+            "start_time": 1590,
+            "text": "当然有个前提条件哦，就是把我的这个",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1750,
+                "start_time": 1590,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1870,
+                "start_time": 1750,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2030,
+                "start_time": 1870,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2150,
+                "start_time": 2030,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2310,
+                "start_time": 2150,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2390,
+                "start_time": 2310,
+                "text": "提"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2630,
+                "start_time": 2430,
+                "text": "条"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2710,
+                "start_time": 2630,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2870,
+                "start_time": 2790,
+                "text": "哦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3150,
+                "start_time": 3030,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3430,
+                "start_time": 3150,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3950,
+                "start_time": 3710,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4110,
+                "start_time": 3950,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4150,
+                "start_time": 4110,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4270,
+                "start_time": 4150,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4350,
+                "start_time": 4270,
+                "text": "个"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

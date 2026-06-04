@@ -1,0 +1,40 @@
+{
+  "item": {
+    "index": 7,
+    "audio_id": "wavlake-mp3__137__33989990",
+    "clean_json": "wavlake-mp3__137__33989990.json",
+    "segment_index": 117,
+    "segment_start": 647.28,
+    "segment_end": 653.34,
+    "snippet_start": 646.0799999999999,
+    "snippet_end": 654.5400000000001,
+    "score": 58,
+    "flags": [
+      "rep_word",
+      "rep_phrase",
+      "literal:你你你你你"
+    ],
+    "current_text": "你你你你你你你你你你你你你你你你你你你你你你你你你你你",
+    "audio_path": "sun-audio-offline/wavlake-mp3/137 - 137 - 138 孙宇晨：【财富流向】学习的力量，谈教育革新与创业.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0007__wavlake-mp3__137__33989990__seg0117.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 200,
+    "api_status": "20000003",
+    "api_message": "[Normal silence audio] no valid speech in audio",
+    "tt_logid": "202605261512568976521A324D36CB72BF",
+    "request_id": "78095e31-a377-40aa-9ad4-73988dacf7d8",
+    "response": {
+      "audio_info": {
+        "duration": 8460
+      },
+      "result": {
+        "additions": {
+          "duration": "8460"
+        },
+        "text": ""
+      }
+    }
+  }
+}

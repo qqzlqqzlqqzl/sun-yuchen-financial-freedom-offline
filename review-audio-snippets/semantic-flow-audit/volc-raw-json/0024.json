@@ -1,0 +1,556 @@
+{
+  "item": {
+    "index": 24,
+    "audio_id": "wavlake-mp3__029__34570f84",
+    "clean_json": "wavlake-mp3__029__34570f84.json",
+    "segment_index": 88,
+    "segment_start": 612.06,
+    "segment_end": 624.3,
+    "snippet_start": 610.8599999999999,
+    "snippet_end": 625.5,
+    "score": 38,
+    "flags": [
+      "rep_word",
+      "rep_phrase",
+      "low_tokens=8"
+    ],
+    "current_text": "不笑那个谁谁谁怎么能这样呢哎怎么能这样呢哎怎么能这样呢就挥动他道德大棒啊对全整个整个城市的人或整个村子的人进行舆论监督。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/029 - 029 - 029 孙宇晨：家庭关系与义务.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0024__wavlake-mp3__029__34570f84__seg0088.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151300A821A52DA4EEDFDC87D6",
+    "request_id": "fc03d414-3807-410d-b66e-b37ad6d37a72",
+    "response": {
+      "audio_info": {
+        "duration": 14640
+      },
+      "result": {
+        "additions": {
+          "duration": "14640"
+        },
+        "text": "哎，那个那个谁谁谁不孝，那个谁谁谁，哎，怎么能这样呢？哎，怎么能这样呢？哎，怎么能这样呢？就挥动他道德的大棒哈，对全整个整个城市的人或整个村子的人进行舆论监督，这是中国人最喜欢干的事情。",
+        "utterances": [
+          {
+            "end_time": 3960,
+            "start_time": 200,
+            "text": "哎，那个那个谁谁谁不孝，那个谁谁谁，哎，怎么能这样呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 200,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 320,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 520,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 720,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 880,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 1000,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1320,
+                "start_time": 1120,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1480,
+                "start_time": 1360,
+                "text": "孝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2120,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2440,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2680,
+                "start_time": 2640,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2760,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3120,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3240,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3360,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3440,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3680,
+                "start_time": 3600,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3680,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3800,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 5000,
+            "start_time": 4160,
+            "text": "哎，怎么能这样呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 4240,
+                "start_time": 4160,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4360,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4440,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4560,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4680,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4800,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4880,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 6040,
+            "start_time": 5160,
+            "text": "哎，怎么能这样呢？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5160,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5320,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5400,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5480,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5640,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5720,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6040,
+                "start_time": 5840,
+                "text": "呢"
+              }
+            ]
+          },
+          {
+            "end_time": 14570,
+            "start_time": 6600,
+            "text": "就挥动他道德的大棒哈，对全整个整个城市的人或整个村子的人进行舆论监督，这是中国人最喜欢干的事情。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6840,
+                "start_time": 6600,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 6880,
+                "text": "挥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7120,
+                "text": "动"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7520,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7720,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8120,
+                "start_time": 8000,
+                "text": "德"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8280,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8560,
+                "text": "棒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 8960,
+                "text": "哈"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9320,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9800,
+                "start_time": 9600,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10490,
+                "start_time": 10370,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10650,
+                "start_time": 10490,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10810,
+                "start_time": 10690,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10930,
+                "start_time": 10810,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11090,
+                "start_time": 10930,
+                "text": "城"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11210,
+                "start_time": 11090,
+                "text": "市"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11330,
+                "start_time": 11210,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11450,
+                "start_time": 11330,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11610,
+                "start_time": 11490,
+                "text": "或"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11770,
+                "start_time": 11650,
+                "text": "整"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11850,
+                "start_time": 11770,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12010,
+                "start_time": 11850,
+                "text": "村"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12130,
+                "start_time": 12010,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12210,
+                "start_time": 12130,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12370,
+                "start_time": 12210,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12490,
+                "start_time": 12370,
+                "text": "进"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12610,
+                "start_time": 12490,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12770,
+                "start_time": 12650,
+                "text": "舆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12930,
+                "start_time": 12770,
+                "text": "论"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13130,
+                "start_time": 12930,
+                "text": "监"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13250,
+                "start_time": 13130,
+                "text": "督"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13490,
+                "start_time": 13370,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13610,
+                "start_time": 13490,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13730,
+                "start_time": 13610,
+                "text": "中"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13810,
+                "start_time": 13730,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13850,
+                "start_time": 13810,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14010,
+                "start_time": 13890,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14090,
+                "start_time": 14010,
+                "text": "喜"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14170,
+                "start_time": 14090,
+                "text": "欢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14330,
+                "start_time": 14210,
+                "text": "干"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14410,
+                "start_time": 14330,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14530,
+                "start_time": 14410,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14570,
+                "start_time": 14530,
+                "text": "情"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

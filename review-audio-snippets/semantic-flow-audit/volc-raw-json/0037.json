@@ -1,0 +1,1165 @@
+{
+  "item": {
+    "index": 37,
+    "audio_id": "wavlake-mp3__036__8bed1231",
+    "clean_json": "wavlake-mp3__036__8bed1231.json",
+    "segment_index": 38,
+    "segment_start": 779.16,
+    "segment_end": 809.04,
+    "snippet_start": 777.9599999999999,
+    "snippet_end": 810.24,
+    "score": 30,
+    "flags": [
+      "rep_phrase",
+      "filler_run"
+    ],
+    "current_text": "而且你要注意这时候这个腾讯员工他没有出一分钱去买这个股票,所以也是增强了杠杆啊,这是为什么就是我觉得期权的本质也是杠杆的一个核心原因,当然当然我们觉得就是啊,就是我们后面会讲一个好的房地产投资啊,它的本质也是杠杆,我们这一点具体在90后不买房的一张会讲的,现在的很多人对买房的理解是错误的,它是一种非杠杆性投资,所以也是也是杠杆,当然了就是每一种这个根据每一种的投资,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/036 - 036 - 036 孙宇晨：财富自由与杠杆投资.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0037__wavlake-mp3__036__8bed1231__seg0038.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151303EFAA4677679AD08E1C0F",
+    "request_id": "7c7765a6-4249-46e4-8ce1-54d485cc1967",
+    "response": {
+      "audio_info": {
+        "duration": 32280
+      },
+      "result": {
+        "additions": {
+          "duration": "32280"
+        },
+        "text": "成了40万。而且你要注意，这时候这个腾讯员工，他没有出一分钱去买这个股票，所以也是增强了杠杆啊。这是为什么，就是我觉得期权的本质也是杠杆的一个核心原因。当然当然我们觉得就是啊，就是我们后面会讲一个好的房地产投资啊，它的本质也是杠杆。我我们这一点具体在90后不买房那一张会讲的。现在的很多人对买房的理解是错误的，它是一种非杠杆性投资，所以也是也是杠杆。嗯。当然了，就是每一种，这个根据每个人实际情",
+        "utterances": [
+          {
+            "end_time": 720,
+            "start_time": 40,
+            "text": "成了40万。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 160,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 280,
+                "text": "40"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 520,
+                "text": "万"
+              }
+            ]
+          },
+          {
+            "end_time": 6480,
+            "start_time": 1120,
+            "text": "而且你要注意，这时候这个腾讯员工，他没有出一分钱去买这个股票，所以也是增强了杠杆啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1280,
+                "start_time": 1120,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1400,
+                "start_time": 1280,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1400,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1680,
+                "text": "注"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1880,
+                "start_time": 1800,
+                "text": "意"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1880,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2040,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2120,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2280,
+                "start_time": 2200,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2400,
+                "start_time": 2280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2400,
+                "text": "腾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2520,
+                "text": "讯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2600,
+                "text": "员"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2760,
+                "text": "工"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2880,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2960,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3160,
+                "start_time": 3080,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3160,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3320,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3440,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3600,
+                "text": "钱"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3720,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4040,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4160,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4440,
+                "start_time": 4280,
+                "text": "股"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4440,
+                "text": "票"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4640,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4800,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5080,
+                "start_time": 4920,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5280,
+                "start_time": 5080,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5440,
+                "start_time": 5280,
+                "text": "增"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5440,
+                "text": "强"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5720,
+                "start_time": 5600,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5760,
+                "text": "杠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5920,
+                "text": "杆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6280,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 11120,
+            "start_time": 6800,
+            "text": "这是为什么，就是我觉得期权的本质也是杠杆的一个核心原因。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6800,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7000,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7320,
+                "start_time": 7160,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7400,
+                "start_time": 7320,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7400,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7640,
+                "start_time": 7480,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7800,
+                "start_time": 7640,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7960,
+                "start_time": 7800,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 7960,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8160,
+                "start_time": 8080,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8400,
+                "start_time": 8320,
+                "text": "期"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8640,
+                "start_time": 8480,
+                "text": "权"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8840,
+                "start_time": 8640,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8840,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 9000,
+                "text": "质"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9160,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9520,
+                "start_time": 9360,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9680,
+                "start_time": 9560,
+                "text": "杠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9800,
+                "start_time": 9760,
+                "text": "杆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10040,
+                "start_time": 9880,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10160,
+                "start_time": 10040,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10320,
+                "start_time": 10160,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10640,
+                "start_time": 10400,
+                "text": "核"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10760,
+                "start_time": 10640,
+                "text": "心"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10800,
+                "text": "原"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11120,
+                "start_time": 10960,
+                "text": "因"
+              }
+            ]
+          },
+          {
+            "end_time": 18190,
+            "start_time": 11710,
+            "text": "当然当然我们觉得就是啊，就是我们后面会讲一个好的房地产投资啊，它的本质也是杠杆。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11870,
+                "start_time": 11710,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11990,
+                "start_time": 11870,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12190,
+                "start_time": 12070,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12350,
+                "start_time": 12190,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12470,
+                "start_time": 12350,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12630,
+                "start_time": 12470,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12750,
+                "start_time": 12630,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12870,
+                "start_time": 12750,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13030,
+                "start_time": 12870,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13270,
+                "start_time": 13030,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13510,
+                "start_time": 13350,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13830,
+                "start_time": 13670,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14030,
+                "start_time": 13830,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14190,
+                "start_time": 14030,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14310,
+                "start_time": 14190,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14510,
+                "start_time": 14390,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14670,
+                "start_time": 14510,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14830,
+                "start_time": 14670,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15070,
+                "start_time": 14830,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15630,
+                "start_time": 15390,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15790,
+                "start_time": 15630,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16030,
+                "start_time": 15790,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16190,
+                "start_time": 16030,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16350,
+                "start_time": 16190,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16510,
+                "start_time": 16350,
+                "text": "地"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16670,
+                "start_time": 16510,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16870,
+                "start_time": 16670,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16990,
+                "start_time": 16870,
+                "text": "资"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17150,
+                "start_time": 16990,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17310,
+                "start_time": 17190,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17430,
+                "start_time": 17310,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17590,
+                "start_time": 17430,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17670,
+                "start_time": 17590,
+                "text": "质"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17790,
+                "start_time": 17670,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17910,
+                "start_time": 17790,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18070,
+                "start_time": 17950,
+                "text": "杠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18190,
+                "start_time": 18150,
+                "text": "杆"
+              }
+            ]
+          },
+          {
+            "end_time": 21710,
+            "start_time": 18790,
+            "text": "我我们这一点具体在90后不买房那一张会讲的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 18990,
+                "start_time": 18790,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19190,
+                "start_time": 19070,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19270,
+                "start_time": 19190,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19430,
+                "start_time": 19270,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19470,
+                "start_time": 19430,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19670,
+                "start_time": 19470,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19870,
+                "start_time": 19710,
+                "text": "具"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19870,
+                "text": "体"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20110,
+                "start_time": 20030,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20390,
+                "start_time": 20150,
+                "text": "90"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20510,
+                "start_time": 20390,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20670,
+                "start_time": 20510,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20790,
+                "start_time": 20670,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20910,
+                "start_time": 20790,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21030,
+                "start_time": 20910,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21110,
+                "start_time": 21030,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21190,
+                "start_time": 21150,
+                "text": "张"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21430,
+                "start_time": 21270,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21550,
+                "start_time": 21430,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21710,
+                "start_time": 21550,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 27110,
+            "start_time": 21750,
+            "text": "现在的很多人对买房的理解是错误的，它是一种非杠杆性投资，所以也是也是杠杆。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 21910,
+                "start_time": 21750,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22030,
+                "start_time": 21910,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22230,
+                "start_time": 22030,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22390,
+                "start_time": 22230,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22470,
+                "start_time": 22390,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22550,
+                "start_time": 22470,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22710,
+                "start_time": 22550,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22870,
+                "start_time": 22710,
+                "text": "买"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22990,
+                "start_time": 22870,
+                "text": "房"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23110,
+                "start_time": 22990,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23230,
+                "start_time": 23110,
+                "text": "理"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23350,
+                "start_time": 23230,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23550,
+                "start_time": 23390,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23670,
+                "start_time": 23550,
+                "text": "错"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23750,
+                "start_time": 23670,
+                "text": "误"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23910,
+                "start_time": 23750,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24030,
+                "start_time": 23950,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24190,
+                "start_time": 24030,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24230,
+                "start_time": 24190,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24350,
+                "start_time": 24230,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24550,
+                "start_time": 24350,
+                "text": "非"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24710,
+                "start_time": 24590,
+                "text": "杠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24790,
+                "start_time": 24750,
+                "text": "杆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25070,
+                "start_time": 24910,
+                "text": "性"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25270,
+                "start_time": 25110,
+                "text": "投"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25390,
+                "start_time": 25270,
+                "text": "资"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25830,
+                "start_time": 25630,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25990,
+                "start_time": 25830,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26190,
+                "start_time": 25990,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26430,
+                "start_time": 26190,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26710,
+                "start_time": 26550,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26870,
+                "start_time": 26710,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26990,
+                "start_time": 26870,
+                "text": "杠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27110,
+                "start_time": 27030,
+                "text": "杆"
+              }
+            ]
+          },
+          {
+            "end_time": 28130,
+            "start_time": 28010,
+            "text": "嗯。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28130,
+                "start_time": 28010,
+                "text": "嗯"
+              }
+            ]
+          },
+          {
+            "end_time": 32200,
+            "start_time": 28640,
+            "text": "当然了，就是每一种，这个根据每个人实际情",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 28800,
+                "start_time": 28640,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28920,
+                "start_time": 28800,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29040,
+                "start_time": 28960,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29200,
+                "start_time": 29080,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29360,
+                "start_time": 29200,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29480,
+                "start_time": 29360,
+                "text": "每"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29600,
+                "start_time": 29480,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29800,
+                "start_time": 29600,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30320,
+                "start_time": 30120,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30560,
+                "start_time": 30320,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31040,
+                "start_time": 30800,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31200,
+                "start_time": 31040,
+                "text": "据"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31400,
+                "start_time": 31200,
+                "text": "每"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31520,
+                "start_time": 31400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31680,
+                "start_time": 31520,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31880,
+                "start_time": 31680,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31960,
+                "start_time": 31880,
+                "text": "际"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32200,
+                "start_time": 31960,
+                "text": "情"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

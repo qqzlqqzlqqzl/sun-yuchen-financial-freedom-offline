@@ -1,0 +1,298 @@
+{
+  "item": {
+    "index": 4,
+    "audio_id": "official-vimeo-m4a-partial__053__b7c092ee",
+    "clean_json": "official-vimeo-m4a-partial__053__b7c092ee.json",
+    "segment_index": 19,
+    "segment_start": 144.56,
+    "segment_end": 148.36,
+    "snippet_start": 143.36,
+    "snippet_end": 149.56,
+    "score": 73,
+    "flags": [
+      "rep_word",
+      "rep_phrase",
+      "filler_run",
+      "literal:这个这个这个"
+    ],
+    "current_text": "包括这个这个这个契丹人啊,都没有这个概念。",
+    "audio_path": "sun-audio-offline/audio/053 - 053【90后不买房】让我们做一个游牧民族 [1179740334].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0004__official-vimeo-m4a-partial__053__b7c092ee__seg0019.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151256FF2407783472CA8D9AE0",
+    "request_id": "d5059035-fddc-4dc2-9540-4fc8d4fc5365",
+    "response": {
+      "audio_info": {
+        "duration": 6200
+      },
+      "result": {
+        "additions": {
+          "duration": "6200"
+        },
+        "text": "这些人都没有这个概念。包括这一个，这个这个契丹人啊，都没有这概念。我当时记得我在北大历",
+        "utterances": [
+          {
+            "end_time": 1200,
+            "start_time": 120,
+            "text": "这些人都没有这个概念。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 200,
+                "start_time": 120,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 200,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 280,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 400,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 520,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 800,
+                "start_time": 720,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 800,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 920,
+                "text": "概"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 1040,
+                "text": "念"
+              }
+            ]
+          },
+          {
+            "end_time": 5000,
+            "start_time": 1800,
+            "text": "包括这一个，这个这个契丹人啊，都没有这概念。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2000,
+                "start_time": 1800,
+                "text": "包"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 2000,
+                "text": "括"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2120,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2320,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2480,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3000,
+                "start_time": 2840,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 3000,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3160,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3280,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3720,
+                "text": "契"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3920,
+                "text": "丹"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4080,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4320,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4600,
+                "start_time": 4480,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4600,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4680,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4720,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4880,
+                "text": "概"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5000,
+                "start_time": 4920,
+                "text": "念"
+              }
+            ]
+          },
+          {
+            "end_time": 6080,
+            "start_time": 5040,
+            "text": "我当时记得我在北大历",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5200,
+                "start_time": 5040,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5200,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5320,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5360,
+                "text": "记"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5480,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5560,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5760,
+                "start_time": 5640,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5760,
+                "text": "北"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5840,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 6040,
+                "text": "历"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

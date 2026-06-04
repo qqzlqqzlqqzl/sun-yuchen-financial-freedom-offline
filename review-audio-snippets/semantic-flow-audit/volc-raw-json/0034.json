@@ -1,0 +1,451 @@
+{
+  "item": {
+    "index": 34,
+    "audio_id": "wavlake-mp3__083__09588e6c",
+    "clean_json": "wavlake-mp3__083__09588e6c.json",
+    "segment_index": 24,
+    "segment_start": 158.68,
+    "segment_end": 168.7,
+    "snippet_start": 157.48000000000002,
+    "snippet_end": 169.89999999999998,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "举个例子,他们往往会想,好,我们要向互联网转型,那么我要设计一个什么什么样的网站,我要设计一个什么什么什么样的APP。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/083 - 083 - 083 孙宇晨：【不确定性】互联网时代的MVP.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0034__wavlake-mp3__083__09588e6c__seg0024.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615130298CB91577EC513BEB4DB",
+    "request_id": "f9f78f90-10ef-428b-9ca5-31883fe9805e",
+    "response": {
+      "audio_info": {
+        "duration": 12420
+      },
+      "result": {
+        "additions": {
+          "duration": "12420"
+        },
+        "text": "有很大的不适应。举个例子，他们往往会想好，我们要向互联网转型，那么我要设计一个什么什么样的网站，我要设计一个什么什么什么样的 APP 而在他产生这",
+        "utterances": [
+          {
+            "end_time": 1160,
+            "start_time": 80,
+            "text": "有很大的不适应。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 80,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 240,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 480,
+                "start_time": 360,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 480,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 680,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 880,
+                "text": "适"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1160,
+                "start_time": 1040,
+                "text": "应"
+              }
+            ]
+          },
+          {
+            "end_time": 12360,
+            "start_time": 1440,
+            "text": "举个例子，他们往往会想好，我们要向互联网转型，那么我要设计一个什么什么样的网站，我要设计一个什么什么什么样的 APP 而在他产生这",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1600,
+                "start_time": 1440,
+                "text": "举"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1600,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1760,
+                "text": "例"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1920,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2480,
+                "start_time": 2320,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2560,
+                "start_time": 2480,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2640,
+                "text": "往"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2880,
+                "start_time": 2720,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2880,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3160,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3760,
+                "start_time": 3560,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3760,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 3880,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4120,
+                "text": "向"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4560,
+                "text": "互"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4960,
+                "start_time": 4800,
+                "text": "联"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5160,
+                "start_time": 4960,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5160,
+                "text": "转"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5560,
+                "start_time": 5400,
+                "text": "型"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5920,
+                "start_time": 5720,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6000,
+                "start_time": 5920,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6200,
+                "start_time": 6000,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6200,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6400,
+                "text": "设"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6720,
+                "start_time": 6600,
+                "text": "计"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6880,
+                "start_time": 6720,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7040,
+                "start_time": 6880,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7040,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7160,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7280,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7360,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7440,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7720,
+                "text": "网"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8160,
+                "start_time": 7920,
+                "text": "站"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8640,
+                "start_time": 8440,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8800,
+                "start_time": 8640,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8920,
+                "start_time": 8840,
+                "text": "设"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9080,
+                "start_time": 9040,
+                "text": "计"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9160,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9440,
+                "start_time": 9320,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9600,
+                "start_time": 9440,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9680,
+                "start_time": 9600,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9800,
+                "start_time": 9680,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9880,
+                "start_time": 9800,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10160,
+                "start_time": 10040,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10280,
+                "start_time": 10160,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10400,
+                "start_time": 10280,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10600,
+                "start_time": 10400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 11440,
+                "start_time": 10600,
+                "text": "APP"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 11640,
+                "start_time": 11440,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11840,
+                "start_time": 11640,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11920,
+                "start_time": 11880,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12120,
+                "start_time": 12000,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12240,
+                "start_time": 12120,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12360,
+                "start_time": 12240,
+                "text": "这"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

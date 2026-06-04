@@ -1,0 +1,150 @@
+{
+  "item": {
+    "index": 46,
+    "audio_id": "official-vimeo-m4a-partial__042__c8359174",
+    "clean_json": "official-vimeo-m4a-partial__042__c8359174.json",
+    "segment_index": 99,
+    "segment_start": 414.34,
+    "segment_end": 414.98,
+    "snippet_start": 413.14,
+    "snippet_end": 416.18,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "不是不是不是,",
+    "audio_path": "sun-audio-offline/audio/042 - 042【90后不结婚】找到正确的婚姻“合伙人” [1179726102].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0046__official-vimeo-m4a-partial__042__c8359174__seg0099.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615130581511AC6A52BE7FE59E1",
+    "request_id": "bf9479c2-d3aa-496c-a74f-7b7ca41666a9",
+    "response": {
+      "audio_info": {
+        "duration": 3040
+      },
+      "result": {
+        "additions": {
+          "duration": "3040"
+        },
+        "text": "说孙振你不能这样做，不不不不不。这公司。",
+        "utterances": [
+          {
+            "end_time": 2910,
+            "start_time": 230,
+            "text": "说孙振你不能这样做，不不不不不。这公司。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 350,
+                "start_time": 230,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 510,
+                "start_time": 430,
+                "text": "孙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 670,
+                "start_time": 550,
+                "text": "振"
+              },
+              {
+                "confidence": 0,
+                "end_time": 790,
+                "start_time": 710,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 870,
+                "start_time": 790,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 950,
+                "start_time": 870,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 990,
+                "start_time": 950,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1110,
+                "start_time": 990,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1150,
+                "start_time": 1110,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1350,
+                "start_time": 1230,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1430,
+                "start_time": 1390,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1510,
+                "start_time": 1470,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1710,
+                "start_time": 1550,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1790,
+                "start_time": 1750,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2670,
+                "start_time": 2470,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2830,
+                "start_time": 2750,
+                "text": "公"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2910,
+                "start_time": 2830,
+                "text": "司"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "index": 27,
+    "audio_id": "wavlake-mp3__136__e4306ed8",
+    "clean_json": "wavlake-mp3__136__e4306ed8.json",
+    "segment_index": 52,
+    "segment_start": 179.54,
+    "segment_end": 179.98,
+    "snippet_start": 178.34,
+    "snippet_end": 181.17999999999998,
+    "score": 35,
+    "flags": [
+      "literal:甚至国不得",
+      "low_avg_p=0.55"
+    ],
+    "current_text": "甚至国不得",
+    "audio_path": "sun-audio-offline/wavlake-mp3/136 - 136 - 137 孙宇晨：【财富流向】弯道超车.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0027__wavlake-mp3__136__e4306ed8__seg0052.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 405,
+    "api_status": null,
+    "api_message": null,
+    "tt_logid": "2026052615131083077F1C703A0B2EDA02",
+    "request_id": "4ae2e895-afc2-45aa-9612-707c4c3d749c",
+    "response_text": "Endpoint \"auc/bigmodel/recognize/flash\" only supports POST method"
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "item": {
+    "index": 39,
+    "audio_id": "wavlake-mp3__025__ee3f2f4c",
+    "clean_json": "wavlake-mp3__025__ee3f2f4c.json",
+    "segment_index": 13,
+    "segment_start": 219.3,
+    "segment_end": 238.6,
+    "snippet_start": 218.10000000000002,
+    "snippet_end": 239.79999999999998,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "所以这时候你都要想一想,那这些事情全都一孤岛的全部都过来了,产业结构转型所带来的产业结构,那当然不用说了,那基本上不是人下岗的问题,是一个一个一个产业成批量的被拔掉啊,然后同时可能社会的safety net,我们讲的社保养老金。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/025 - 025 - 025 孙宇晨：性与权力.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0039__wavlake-mp3__025__ee3f2f4c__seg0013.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "2026052615130332D4F3F6F07906BC1A2F",
+    "request_id": "ab107703-a31a-42be-a73a-c36b0485b5f3",
+    "response": {
+      "audio_info": {
+        "duration": 21700
+      },
+      "result": {
+        "additions": {
+          "duration": "21700"
+        },
+        "text": "我觉得都会出事的。所以这时候你都要想想，那这些事情全都啊，一股脑的全部都过来了。产业结构转型所带来的产业结构，那当然不用说了，那基本上不是人下岗的问题，是一个一个一个产业成批量的被拔掉啊。然后同时可能社会的 safety net 我们这样讲的社保养老金这些都会出问题。",
+        "utterances": [
+          {
+            "end_time": 1240,
+            "start_time": 40,
+            "text": "我觉得都会出事的。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 40,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 280,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 520,
+                "start_time": 360,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 520,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 640,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 840,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1040,
+                "text": "的"
+              }
+            ]
+          },
+          {
+            "end_time": 6800,
+            "start_time": 1920,
+            "text": "所以这时候你都要想想，那这些事情全都啊，一股脑的全部都过来了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2080,
+                "start_time": 1920,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2200,
+                "start_time": 2080,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2200,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2360,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2440,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2640,
+                "start_time": 2520,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2760,
+                "start_time": 2640,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2800,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2920,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3200,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3400,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3600,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3880,
+                "start_time": 3720,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3880,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 4040,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4240,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4760,
+                "start_time": 4480,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5160,
+                "start_time": 5040,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5200,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5440,
+                "text": "股"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5680,
+                "start_time": 5640,
+                "text": "脑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5960,
+                "text": "全"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6160,
+                "start_time": 6080,
+                "text": "部"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6160,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6480,
+                "start_time": 6320,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6640,
+                "start_time": 6480,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6640,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 15840,
+            "start_time": 6920,
+            "text": "产业结构转型所带来的产业结构，那当然不用说了，那基本上不是人下岗的问题，是一个一个一个产业成批量的被拔掉啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 7120,
+                "start_time": 6920,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7120,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7440,
+                "start_time": 7280,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7440,
+                "text": "构"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7920,
+                "start_time": 7640,
+                "text": "转"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8120,
+                "start_time": 7920,
+                "text": "型"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8640,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 8960,
+                "text": "带"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9240,
+                "start_time": 9120,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9440,
+                "start_time": 9240,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9640,
+                "start_time": 9440,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9640,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9800,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10000,
+                "start_time": 9920,
+                "text": "构"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 10040,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10400,
+                "start_time": 10240,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10480,
+                "start_time": 10440,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10680,
+                "start_time": 10560,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10800,
+                "start_time": 10680,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11040,
+                "start_time": 10800,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11200,
+                "start_time": 11040,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11520,
+                "start_time": 11320,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11680,
+                "start_time": 11520,
+                "text": "基"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11760,
+                "start_time": 11680,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11880,
+                "start_time": 11760,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12000,
+                "start_time": 11880,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12120,
+                "start_time": 12000,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12280,
+                "start_time": 12120,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12480,
+                "start_time": 12280,
+                "text": "下"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12600,
+                "start_time": 12480,
+                "text": "岗"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12760,
+                "start_time": 12600,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12840,
+                "start_time": 12760,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12960,
+                "start_time": 12840,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13280,
+                "start_time": 13080,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13400,
+                "start_time": 13280,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13560,
+                "start_time": 13400,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13720,
+                "start_time": 13560,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13840,
+                "start_time": 13720,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14000,
+                "start_time": 13840,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14160,
+                "start_time": 14000,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14320,
+                "start_time": 14160,
+                "text": "产"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14480,
+                "start_time": 14320,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14720,
+                "start_time": 14520,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14880,
+                "start_time": 14720,
+                "text": "批"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15040,
+                "start_time": 14880,
+                "text": "量"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15160,
+                "start_time": 15040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15320,
+                "start_time": 15160,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15520,
+                "start_time": 15360,
+                "text": "拔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15680,
+                "start_time": 15520,
+                "text": "掉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15840,
+                "start_time": 15680,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 21550,
+            "start_time": 16390,
+            "text": "然后同时可能社会的 safety net 我们这样讲的社保养老金这些都会出问题。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 16590,
+                "start_time": 16390,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16830,
+                "start_time": 16590,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17350,
+                "start_time": 17030,
+                "text": "同"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17550,
+                "start_time": 17350,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17990,
+                "start_time": 17870,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18150,
+                "start_time": 17990,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18310,
+                "start_time": 18150,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18390,
+                "start_time": 18310,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18590,
+                "start_time": 18390,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 18830,
+                "start_time": 18630,
+                "text": "safety"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 19070,
+                "start_time": 19030,
+                "text": "net"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 19390,
+                "start_time": 19310,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19470,
+                "start_time": 19390,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19550,
+                "start_time": 19510,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19630,
+                "start_time": 19550,
+                "text": "样"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19830,
+                "start_time": 19670,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19830,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20110,
+                "start_time": 19990,
+                "text": "社"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20270,
+                "start_time": 20110,
+                "text": "保"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20430,
+                "start_time": 20310,
+                "text": "养"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20550,
+                "start_time": 20430,
+                "text": "老"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20710,
+                "start_time": 20550,
+                "text": "金"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20830,
+                "start_time": 20710,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20950,
+                "start_time": 20830,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21070,
+                "start_time": 20950,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21190,
+                "start_time": 21070,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21350,
+                "start_time": 21190,
+                "text": "出"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21430,
+                "start_time": 21350,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21550,
+                "start_time": 21430,
+                "text": "题"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

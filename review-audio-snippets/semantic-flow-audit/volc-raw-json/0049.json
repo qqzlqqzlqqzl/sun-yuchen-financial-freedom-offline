@@ -1,0 +1,211 @@
+{
+  "item": {
+    "index": 49,
+    "audio_id": "official-vimeo-m4a-partial__029__bea15de4",
+    "clean_json": "official-vimeo-m4a-partial__029__bea15de4.json",
+    "segment_index": 229,
+    "segment_start": 611.22,
+    "segment_end": 613.22,
+    "snippet_start": 610.02,
+    "snippet_end": 614.4200000000001,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "那个那个谁谁谁不笑,",
+    "audio_path": "sun-audio-offline/audio/029 - 029子女与父母的关系 [1179696163].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0049__official-vimeo-m4a-partial__029__bea15de4__seg0229.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261513067D7A783A467D5CCD9242",
+    "request_id": "79b89293-1cc8-4238-8d16-cb176b330bcd",
+    "response": {
+      "audio_info": {
+        "duration": 4400
+      },
+      "result": {
+        "additions": {
+          "duration": "4400"
+        },
+        "text": "别人家的事是吧？哎，那个那个谁谁谁不孝，那个谁谁谁哎，怎么能",
+        "utterances": [
+          {
+            "end_time": 960,
+            "start_time": 80,
+            "text": "别人家的事是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 80,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 240,
+                "start_time": 160,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 400,
+                "start_time": 240,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 560,
+                "start_time": 400,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 560,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 840,
+                "start_time": 720,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 840,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 4360,
+            "start_time": 1000,
+            "text": "哎，那个那个谁谁谁不孝，那个谁谁谁哎，怎么能",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 1120,
+                "start_time": 1000,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1160,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1240,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1360,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1560,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1760,
+                "start_time": 1720,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1920,
+                "start_time": 1840,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2160,
+                "start_time": 1920,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2200,
+                "text": "孝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3120,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3400,
+                "start_time": 3280,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3440,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3600,
+                "text": "谁"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3920,
+                "text": "哎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4120,
+                "start_time": 4040,
+                "text": "怎"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 4120,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4200,
+                "text": "能"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

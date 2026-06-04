@@ -1,0 +1,40 @@
+{
+  "item": {
+    "index": 11,
+    "audio_id": "wavlake-mp3__086__bf2c2a6d",
+    "clean_json": "wavlake-mp3__086__bf2c2a6d.json",
+    "segment_index": 287,
+    "segment_start": 716.66,
+    "segment_end": 719.4,
+    "snippet_start": 715.4599999999999,
+    "snippet_end": 720.6,
+    "score": 54,
+    "flags": [
+      "literal:确认是否正确实现公务员的权益",
+      "low_avg_p=0.49",
+      "low_tokens=14"
+    ],
+    "current_text": "并且要确认是否正确实现公务员的权益",
+    "audio_path": "sun-audio-offline/wavlake-mp3/086 - 086 - 086 孙宇晨：【不确定性】以人民的名义.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0011__wavlake-mp3__086__bf2c2a6d__seg0287.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 200,
+    "api_status": "20000003",
+    "api_message": "[Normal silence audio] no valid speech in audio",
+    "tt_logid": "20260526151257F8BB241ED705285106BC",
+    "request_id": "57d9b1f0-e7f8-4276-b665-065c16e22fa9",
+    "response": {
+      "audio_info": {
+        "duration": 5140
+      },
+      "result": {
+        "additions": {
+          "duration": "5140"
+        },
+        "text": ""
+      }
+    }
+  }
+}

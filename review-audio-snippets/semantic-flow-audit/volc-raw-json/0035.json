@@ -1,0 +1,1044 @@
+{
+  "item": {
+    "index": 35,
+    "audio_id": "wavlake-mp3__059__be99c1d2",
+    "clean_json": "wavlake-mp3__059__be99c1d2.json",
+    "segment_index": 69,
+    "segment_start": 1978.72,
+    "segment_end": 2008.7,
+    "snippet_start": 1977.52,
+    "snippet_end": 2009.9,
+    "score": 30,
+    "flags": [
+      "rep_word",
+      "rep_phrase"
+    ],
+    "current_text": "就这一只股票,就特斯拉啊,别人做都不行啊,特斯拉的那个创始人啊,伊隆马斯克也我们学校校友宾大的啊,他也是个营销天才,他最早大家知道他最早做跑车起家,而且做低价跑车起家,这时候就不得不讲啊,他之前切了有一个刚需特别厉害,大家知道这个跑车界大家喜欢装逼,装逼老师说我这个百米加速到所谓啊,多少多少多少,用几秒,这个领域啊,就是汽油汽车啊,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/059 - 059 - 059 孙宇晨：【番外】如何赚到自己的100万？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0035__wavlake-mp3__059__be99c1d2__seg0069.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151302CF7F23C44195818D1690",
+    "request_id": "d082b85e-6b85-40b1-96bd-82ddd97436e3",
+    "response": {
+      "audio_info": {
+        "duration": 32380
+      },
+      "result": {
+        "additions": {
+          "duration": "32380"
+        },
+        "text": "行业，而且标杆龙头股就这一只股票，就特斯拉啊，别人做都不行啊。特斯拉的那个创始人啊，Elon Musk 也我们学校校友，宾大的啊，他也是个营销天才。他最早大家知道他最早做跑车起家，而且做低价跑车起家。这时候就不得不讲，他之前切了有一个刚需特别厉害。大家知道就是跑车界，大家喜欢装逼。装逼老是说我这个百米加速到所谓啊多少多少多少用几秒。这个领域啊，就是汽油汽车，根本",
+        "utterances": [
+          {
+            "end_time": 5840,
+            "start_time": 120,
+            "text": "行业，而且标杆龙头股就这一只股票，就特斯拉啊，别人做都不行啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 280,
+                "start_time": 160,
+                "text": "业"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 600,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 760,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 960,
+                "text": "标"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1280,
+                "text": "杆"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1680,
+                "start_time": 1480,
+                "text": "龙"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1960,
+                "start_time": 1680,
+                "text": "头"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2240,
+                "text": "股"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2640,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2960,
+                "start_time": 2840,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3120,
+                "start_time": 2960,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3240,
+                "start_time": 3120,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3240,
+                "text": "股"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3600,
+                "start_time": 3440,
+                "text": "票"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3680,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4040,
+                "start_time": 3920,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4160,
+                "start_time": 4040,
+                "text": "斯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4160,
+                "text": "拉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4560,
+                "start_time": 4440,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4720,
+                "start_time": 4600,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4840,
+                "start_time": 4720,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4840,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5080,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5360,
+                "start_time": 5240,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5520,
+                "start_time": 5360,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5840,
+                "start_time": 5720,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 11320,
+            "start_time": 6480,
+            "text": "特斯拉的那个创始人啊，Elon Musk 也我们学校校友，宾大的啊，他也是个营销天才。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6480,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6680,
+                "text": "斯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6920,
+                "start_time": 6800,
+                "text": "拉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7080,
+                "start_time": 6920,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7080,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7160,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7360,
+                "text": "创"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7520,
+                "text": "始"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7600,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7760,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 7920,
+                "text": "Elon"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 8360,
+                "start_time": 8080,
+                "text": "Musk"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 8560,
+                "start_time": 8520,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8640,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8800,
+                "start_time": 8720,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8800,
+                "text": "学"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8960,
+                "text": "校"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9040,
+                "text": "校"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9200,
+                "text": "友"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9520,
+                "start_time": 9480,
+                "text": "宾"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9760,
+                "start_time": 9600,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9760,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10080,
+                "start_time": 9960,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10200,
+                "start_time": 10120,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10360,
+                "start_time": 10240,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10440,
+                "start_time": 10360,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10600,
+                "start_time": 10440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10800,
+                "start_time": 10600,
+                "text": "营"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10960,
+                "start_time": 10800,
+                "text": "销"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11200,
+                "start_time": 11000,
+                "text": "天"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11320,
+                "start_time": 11200,
+                "text": "才"
+              }
+            ]
+          },
+          {
+            "end_time": 16270,
+            "start_time": 12070,
+            "text": "他最早大家知道他最早做跑车起家，而且做低价跑车起家。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12150,
+                "start_time": 12070,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12390,
+                "start_time": 12230,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12510,
+                "start_time": 12390,
+                "text": "早"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12630,
+                "start_time": 12510,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12750,
+                "start_time": 12630,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12870,
+                "start_time": 12750,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12950,
+                "start_time": 12870,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13070,
+                "start_time": 12990,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13230,
+                "start_time": 13110,
+                "text": "最"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13390,
+                "start_time": 13230,
+                "text": "早"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13630,
+                "start_time": 13390,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13870,
+                "start_time": 13630,
+                "text": "跑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14110,
+                "start_time": 13870,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14310,
+                "start_time": 14150,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14390,
+                "start_time": 14350,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14670,
+                "start_time": 14550,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14790,
+                "start_time": 14670,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14990,
+                "start_time": 14790,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15270,
+                "start_time": 15110,
+                "text": "低"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15550,
+                "start_time": 15350,
+                "text": "价"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15830,
+                "start_time": 15630,
+                "text": "跑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15990,
+                "start_time": 15830,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16150,
+                "start_time": 16030,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16270,
+                "start_time": 16230,
+                "text": "家"
+              }
+            ]
+          },
+          {
+            "end_time": 20310,
+            "start_time": 16790,
+            "text": "这时候就不得不讲，他之前切了有一个刚需特别厉害。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17070,
+                "start_time": 16790,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17190,
+                "start_time": 17070,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17310,
+                "start_time": 17190,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17430,
+                "start_time": 17310,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17550,
+                "start_time": 17430,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17630,
+                "start_time": 17550,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17790,
+                "start_time": 17630,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17990,
+                "start_time": 17790,
+                "text": "讲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18270,
+                "start_time": 18190,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18470,
+                "start_time": 18350,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18630,
+                "start_time": 18470,
+                "text": "前"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18790,
+                "start_time": 18710,
+                "text": "切"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18990,
+                "start_time": 18870,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19150,
+                "start_time": 18990,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19230,
+                "start_time": 19150,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19350,
+                "start_time": 19230,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19510,
+                "start_time": 19350,
+                "text": "刚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19710,
+                "start_time": 19510,
+                "text": "需"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19910,
+                "start_time": 19790,
+                "text": "特"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19990,
+                "start_time": 19910,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20150,
+                "start_time": 19990,
+                "text": "厉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20310,
+                "start_time": 20150,
+                "text": "害"
+              }
+            ]
+          },
+          {
+            "end_time": 23110,
+            "start_time": 20790,
+            "text": "大家知道就是跑车界，大家喜欢装逼。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 20990,
+                "start_time": 20790,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21110,
+                "start_time": 20990,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21230,
+                "start_time": 21110,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21310,
+                "start_time": 21230,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21390,
+                "start_time": 21350,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21550,
+                "start_time": 21390,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21830,
+                "start_time": 21590,
+                "text": "跑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22030,
+                "start_time": 21830,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22230,
+                "start_time": 22030,
+                "text": "界"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22390,
+                "start_time": 22230,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22470,
+                "start_time": 22390,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22590,
+                "start_time": 22470,
+                "text": "喜"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22710,
+                "start_time": 22590,
+                "text": "欢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22910,
+                "start_time": 22710,
+                "text": "装"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23110,
+                "start_time": 22950,
+                "text": "逼"
+              }
+            ]
+          },
+          {
+            "end_time": 28590,
+            "start_time": 23750,
+            "text": "装逼老是说我这个百米加速到所谓啊多少多少多少用几秒。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 23950,
+                "start_time": 23750,
+                "text": "装"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24070,
+                "start_time": 23950,
+                "text": "逼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24270,
+                "start_time": 24110,
+                "text": "老"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24350,
+                "start_time": 24270,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24510,
+                "start_time": 24350,
+                "text": "说"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24670,
+                "start_time": 24510,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24790,
+                "start_time": 24670,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24950,
+                "start_time": 24790,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25150,
+                "start_time": 24950,
+                "text": "百"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25390,
+                "start_time": 25150,
+                "text": "米"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25630,
+                "start_time": 25430,
+                "text": "加"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25790,
+                "start_time": 25630,
+                "text": "速"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25990,
+                "start_time": 25790,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26190,
+                "start_time": 26030,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26350,
+                "start_time": 26190,
+                "text": "谓"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26590,
+                "start_time": 26470,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26790,
+                "start_time": 26630,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26950,
+                "start_time": 26790,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27070,
+                "start_time": 26950,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27230,
+                "start_time": 27070,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27390,
+                "start_time": 27230,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27550,
+                "start_time": 27390,
+                "text": "少"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28110,
+                "start_time": 27830,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28310,
+                "start_time": 28110,
+                "text": "几"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28590,
+                "start_time": 28310,
+                "text": "秒"
+              }
+            ]
+          },
+          {
+            "end_time": 32270,
+            "start_time": 28990,
+            "text": "这个领域啊，就是汽油汽车，根本",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 29270,
+                "start_time": 28990,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29430,
+                "start_time": 29270,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29630,
+                "start_time": 29430,
+                "text": "领"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29790,
+                "start_time": 29630,
+                "text": "域"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29950,
+                "start_time": 29830,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30150,
+                "start_time": 29990,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30310,
+                "start_time": 30150,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30510,
+                "start_time": 30310,
+                "text": "汽"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30790,
+                "start_time": 30510,
+                "text": "油"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31030,
+                "start_time": 30830,
+                "text": "汽"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31270,
+                "start_time": 31030,
+                "text": "车"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32110,
+                "start_time": 31870,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32270,
+                "start_time": 32110,
+                "text": "本"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

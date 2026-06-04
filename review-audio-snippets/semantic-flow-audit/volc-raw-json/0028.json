@@ -1,0 +1,39 @@
+{
+  "item": {
+    "index": 28,
+    "audio_id": "wavlake-mp3__048__8b1ae8f0",
+    "clean_json": "wavlake-mp3__048__8b1ae8f0.json",
+    "segment_index": 142,
+    "segment_start": 716.4,
+    "segment_end": 718.06,
+    "snippet_start": 715.1999999999999,
+    "snippet_end": 719.26,
+    "score": 34,
+    "flags": [
+      "low_avg_p=0.31",
+      "low_tokens=8"
+    ],
+    "current_text": "然后我们就会再做一个设计",
+    "audio_path": "sun-audio-offline/wavlake-mp3/048 - 048 - 048 孙宇晨：租房也可以很美好.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0028__wavlake-mp3__048__8b1ae8f0__seg0142.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 200,
+    "api_status": "20000003",
+    "api_message": "[Normal silence audio] no valid speech in audio",
+    "tt_logid": "202605261513011037CD50D8EAA1CEACFD",
+    "request_id": "3af49a7d-967e-40c0-83bc-f8ea43866da7",
+    "response": {
+      "audio_info": {
+        "duration": 4060
+      },
+      "result": {
+        "additions": {
+          "duration": "4060"
+        },
+        "text": ""
+      }
+    }
+  }
+}

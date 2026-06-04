@@ -1,0 +1,30 @@
+{
+  "item": {
+    "index": 19,
+    "audio_id": "wavlake-mp3__006__3aa7bdab",
+    "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+    "segment_index": 98,
+    "segment_start": 299.6,
+    "segment_end": 329.52,
+    "snippet_start": 298.40000000000003,
+    "snippet_end": 330.71999999999997,
+    "score": 40,
+    "flags": [
+      "rep_word",
+      "rep_phrase",
+      "low_tokens=10"
+    ],
+    "current_text": "因为没有做战略很多人啊一直觉得啊好像战略是个很大的词马云才做战略我做啥战略呢小公司也不用做了我人也不用做了其实恰恰恰恰恰相反就跟我们经常讲的就是就是没钱人更应该做呀哥们儿这是决定成功的唯一因素你连你这么穷还不做那怎么可能赚到钱呢对吧那马云有可能不做战略损失还没那么大你不做战略就玩完了所以个人是更应该做战略我就首先说,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0019__wavlake-mp3__006__3aa7bdab__seg0098.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 405,
+    "api_status": null,
+    "api_message": null,
+    "tt_logid": "2026052615130926A911CA1D4A4F5E39CB",
+    "request_id": "3e9b6a2f-8048-4144-929f-c5a091c0f5fe",
+    "response_text": "Endpoint \"auc/bigmodel/recognize/flash\" only supports POST method"
+  }
+}

@@ -1,0 +1,1013 @@
+{
+  "item": {
+    "index": 16,
+    "audio_id": "wavlake-mp3__072__e0e92c38",
+    "clean_json": "wavlake-mp3__072__e0e92c38.json",
+    "segment_index": 33,
+    "segment_start": 295.48,
+    "segment_end": 324.4,
+    "snippet_start": 294.28000000000003,
+    "snippet_end": 325.59999999999997,
+    "score": 43,
+    "flags": [
+      "rep_word",
+      "literal:我我我"
+    ],
+    "current_text": "这一点啊,很多观点还需要更多的例子去打磨,但是观点本身的自信我们是有的,可能我们以后还会出第二本书,我希望会更好,但是其实在第一本书的时候,我觉得大方向战略已经没有问题了,其实熟悉我节目的读者可能就知道,就是我我我一直觉得战略是核心,战略解决百分之八九十的问题,战略只要解决这百分之八九十的问题,后面太简单了,很容易做。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/072 - 072 - 072 孙宇晨：【番外】我为什么要写这样一本书？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0016__wavlake-mp3__072__e0e92c38__seg0033.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151258DB6EE9FF33D19162B2FA",
+    "request_id": "5dea0b67-24fa-49c4-92c2-1a364716d893",
+    "response": {
+      "audio_info": {
+        "duration": 31320
+      },
+      "result": {
+        "additions": {
+          "duration": "31320"
+        },
+        "text": "的稍微仓促了一点啊，很多观点还需要更多的例子去打磨。但是观点本身的自信我们是有的，可能我们以后还会出。第二本书啊，我希望会更好。但是其实在第一本书的时候，我觉得大方向战略已经没有问题了。其实熟悉我节目的读者可能就知道，就是我我我一直觉得战略是核心。战略解决百分之八九十的问题，战略只要解决这百分之八九十的问题，后面太简单了啊，很容易做好。",
+        "utterances": [
+          {
+            "end_time": 4800,
+            "start_time": 120,
+            "text": "的稍微仓促了一点啊，很多观点还需要更多的例子去打磨。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 600,
+                "start_time": 440,
+                "text": "稍"
+              },
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 600,
+                "text": "微"
+              },
+              {
+                "confidence": 0,
+                "end_time": 920,
+                "start_time": 800,
+                "text": "仓"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 1000,
+                "text": "促"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1240,
+                "start_time": 1120,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1240,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1520,
+                "start_time": 1360,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1800,
+                "start_time": 1640,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 2000,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2440,
+                "start_time": 2240,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2480,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2720,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3200,
+                "start_time": 3000,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3320,
+                "start_time": 3200,
+                "text": "需"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3440,
+                "start_time": 3320,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3560,
+                "start_time": 3440,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3680,
+                "start_time": 3560,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3800,
+                "start_time": 3680,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3960,
+                "start_time": 3800,
+                "text": "例"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3960,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4280,
+                "start_time": 4080,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4520,
+                "start_time": 4280,
+                "text": "打"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4800,
+                "start_time": 4520,
+                "text": "磨"
+              }
+            ]
+          },
+          {
+            "end_time": 9920,
+            "start_time": 5280,
+            "text": "但是观点本身的自信我们是有的，可能我们以后还会出。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5280,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5640,
+                "start_time": 5480,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5680,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 5880,
+                "text": "点"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6360,
+                "start_time": 6120,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6360,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7000,
+                "start_time": 6720,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 7000,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7320,
+                "start_time": 7160,
+                "text": "信"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7480,
+                "start_time": 7320,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7600,
+                "start_time": 7480,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7720,
+                "start_time": 7600,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7720,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 7880,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8520,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8840,
+                "start_time": 8720,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8960,
+                "start_time": 8840,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9040,
+                "start_time": 8960,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9040,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9320,
+                "start_time": 9200,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9480,
+                "start_time": 9320,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9600,
+                "start_time": 9480,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9600,
+                "text": "出"
+              }
+            ]
+          },
+          {
+            "end_time": 12540,
+            "start_time": 10540,
+            "text": "第二本书啊，我希望会更好。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 10700,
+                "start_time": 10540,
+                "text": "第"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10820,
+                "start_time": 10700,
+                "text": "二"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10980,
+                "start_time": 10820,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11220,
+                "start_time": 10980,
+                "text": "书"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11500,
+                "start_time": 11380,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11740,
+                "start_time": 11540,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11860,
+                "start_time": 11740,
+                "text": "希"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11980,
+                "start_time": 11860,
+                "text": "望"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12140,
+                "start_time": 11980,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12300,
+                "start_time": 12140,
+                "text": "更"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12540,
+                "start_time": 12300,
+                "text": "好"
+              }
+            ]
+          },
+          {
+            "end_time": 16780,
+            "start_time": 12940,
+            "text": "但是其实在第一本书的时候，我觉得大方向战略已经没有问题了。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 13140,
+                "start_time": 12940,
+                "text": "但"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13260,
+                "start_time": 13140,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13380,
+                "start_time": 13260,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13500,
+                "start_time": 13380,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13660,
+                "start_time": 13500,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13780,
+                "start_time": 13660,
+                "text": "第"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13900,
+                "start_time": 13780,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14020,
+                "start_time": 13900,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14140,
+                "start_time": 14020,
+                "text": "书"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14260,
+                "start_time": 14140,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14380,
+                "start_time": 14260,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14460,
+                "start_time": 14380,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14580,
+                "start_time": 14460,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14700,
+                "start_time": 14580,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14780,
+                "start_time": 14700,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15020,
+                "start_time": 14780,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15180,
+                "start_time": 15020,
+                "text": "方"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15300,
+                "start_time": 15180,
+                "text": "向"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15620,
+                "start_time": 15420,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15780,
+                "start_time": 15620,
+                "text": "略"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15980,
+                "start_time": 15820,
+                "text": "已"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16100,
+                "start_time": 15980,
+                "text": "经"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16220,
+                "start_time": 16100,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16300,
+                "start_time": 16220,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16460,
+                "start_time": 16300,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16580,
+                "start_time": 16460,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16780,
+                "start_time": 16580,
+                "text": "了"
+              }
+            ]
+          },
+          {
+            "end_time": 22060,
+            "start_time": 17220,
+            "text": "其实熟悉我节目的读者可能就知道，就是我我我一直觉得战略是核心。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 17420,
+                "start_time": 17220,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17500,
+                "start_time": 17420,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17700,
+                "start_time": 17540,
+                "text": "熟"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17820,
+                "start_time": 17700,
+                "text": "悉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18060,
+                "start_time": 17820,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18180,
+                "start_time": 18060,
+                "text": "节"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18300,
+                "start_time": 18180,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18500,
+                "start_time": 18300,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18660,
+                "start_time": 18500,
+                "text": "读"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18820,
+                "start_time": 18660,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18980,
+                "start_time": 18820,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19060,
+                "start_time": 18980,
+                "text": "能"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19260,
+                "start_time": 19060,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19380,
+                "start_time": 19260,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19540,
+                "start_time": 19380,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19700,
+                "start_time": 19580,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19900,
+                "start_time": 19700,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20100,
+                "start_time": 19900,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20300,
+                "start_time": 20180,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20580,
+                "start_time": 20380,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20740,
+                "start_time": 20580,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20820,
+                "start_time": 20740,
+                "text": "直"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20980,
+                "start_time": 20820,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21060,
+                "start_time": 20980,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21260,
+                "start_time": 21100,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21380,
+                "start_time": 21260,
+                "text": "略"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21700,
+                "start_time": 21420,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21900,
+                "start_time": 21700,
+                "text": "核"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22060,
+                "start_time": 21900,
+                "text": "心"
+              }
+            ]
+          },
+          {
+            "end_time": 30340,
+            "start_time": 22660,
+            "text": "战略解决百分之八九十的问题，战略只要解决这百分之八九十的问题，后面太简单了啊，很容易做好。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 22820,
+                "start_time": 22660,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23020,
+                "start_time": 22820,
+                "text": "略"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23300,
+                "start_time": 23100,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23420,
+                "start_time": 23300,
+                "text": "决"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23580,
+                "start_time": 23420,
+                "text": "百"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23700,
+                "start_time": 23580,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23860,
+                "start_time": 23700,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24300,
+                "start_time": 24020,
+                "text": "八"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24500,
+                "start_time": 24300,
+                "text": "九"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24620,
+                "start_time": 24500,
+                "text": "十"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24820,
+                "start_time": 24620,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24940,
+                "start_time": 24820,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25100,
+                "start_time": 24940,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25780,
+                "start_time": 25580,
+                "text": "战"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25900,
+                "start_time": 25780,
+                "text": "略"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26100,
+                "start_time": 25980,
+                "text": "只"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26260,
+                "start_time": 26100,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26420,
+                "start_time": 26260,
+                "text": "解"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26500,
+                "start_time": 26420,
+                "text": "决"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26700,
+                "start_time": 26540,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26780,
+                "start_time": 26700,
+                "text": "百"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26860,
+                "start_time": 26780,
+                "text": "分"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26940,
+                "start_time": 26860,
+                "text": "之"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27140,
+                "start_time": 26940,
+                "text": "八"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27260,
+                "start_time": 27140,
+                "text": "九"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27380,
+                "start_time": 27260,
+                "text": "十"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27540,
+                "start_time": 27380,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27660,
+                "start_time": 27540,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27780,
+                "start_time": 27660,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28060,
+                "start_time": 27820,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28260,
+                "start_time": 28060,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28660,
+                "start_time": 28420,
+                "text": "太"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28860,
+                "start_time": 28660,
+                "text": "简"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28980,
+                "start_time": 28860,
+                "text": "单"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29180,
+                "start_time": 28980,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29460,
+                "start_time": 29300,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29740,
+                "start_time": 29540,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29820,
+                "start_time": 29740,
+                "text": "容"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29940,
+                "start_time": 29820,
+                "text": "易"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30140,
+                "start_time": 29940,
+                "text": "做"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30340,
+                "start_time": 30140,
+                "text": "好"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

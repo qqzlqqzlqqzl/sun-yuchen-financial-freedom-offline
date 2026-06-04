@@ -1,0 +1,39 @@
+{
+  "item": {
+    "index": 30,
+    "audio_id": "wavlake-mp3__114__1125512e",
+    "clean_json": "wavlake-mp3__114__1125512e.json",
+    "segment_index": 81,
+    "segment_start": 607.8,
+    "segment_end": 610.3,
+    "snippet_start": 606.5999999999999,
+    "snippet_end": 611.5,
+    "score": 31,
+    "flags": [
+      "low_avg_p=0.36",
+      "low_tokens=8"
+    ],
+    "current_text": "好,我们下个礼拜再聊吧。",
+    "audio_path": "sun-audio-offline/wavlake-mp3/114 - 114 - 115 孙宇晨：【医疗】做自己健康的CEO.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0030__wavlake-mp3__114__1125512e__seg0081.wav"
+  },
+  "volc_result": {
+    "ok": false,
+    "http_status": 200,
+    "api_status": "20000003",
+    "api_message": "[Normal silence audio] no valid speech in audio",
+    "tt_logid": "20260526151301C5AE3F87070F662ACB9B",
+    "request_id": "aaf410af-a296-4549-8b19-0bf8451e5701",
+    "response": {
+      "audio_info": {
+        "duration": 4900
+      },
+      "result": {
+        "additions": {
+          "duration": "4900"
+        },
+        "text": ""
+      }
+    }
+  }
+}

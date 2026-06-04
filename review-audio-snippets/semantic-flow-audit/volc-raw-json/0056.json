@@ -1,0 +1,842 @@
+{
+  "item": {
+    "index": 56,
+    "audio_id": "official-vimeo-m4a-partial__031__d398abc0",
+    "clean_json": "official-vimeo-m4a-partial__031__d398abc0.json",
+    "segment_index": 63,
+    "segment_start": 473.36,
+    "segment_end": 502.82,
+    "snippet_start": 472.16,
+    "snippet_end": 504.02,
+    "score": 29,
+    "flags": [
+      "rep_phrase",
+      "low_tokens=14"
+    ],
+    "current_text": "我们这个节目的目的也达到了,从二十四年以来,我们这个节目的目的也达到了,从二十四年以来,我们这个节目的目的也达到了,我们这个节目的目的也达到了,我们这个节目的目的也达到了。",
+    "audio_path": "sun-audio-offline/audio/031 - 031如何利用好你的100万 [1179724042].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0056__official-vimeo-m4a-partial__031__d398abc0__seg0063.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151307251E719E2B2E85CCBDFF",
+    "request_id": "b88528c8-a6bf-41eb-b7f4-950fe91fd393",
+    "response": {
+      "audio_info": {
+        "duration": 31860
+      },
+      "result": {
+        "additions": {
+          "duration": "31860"
+        },
+        "text": "实现自己真正的精神自由。当这个过程完成的时候，我觉得这个节目本身也可以取得它的升华。因为我们的听众和读者是真正依靠着自己三观上的修炼实现的精神自由，而且通过这种精神自由实打实的实现了财富自由，而又用这种财富自由捍卫着自己精神自由的时候，我们这个节目的目的也达到了。从而呢，我想",
+        "utterances": [
+          {
+            "end_time": 3520,
+            "start_time": 400,
+            "text": "实现自己真正的精神自由。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 720,
+                "start_time": 400,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 960,
+                "start_time": 720,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1200,
+                "start_time": 960,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1440,
+                "start_time": 1200,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2240,
+                "start_time": 1880,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2360,
+                "start_time": 2240,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2600,
+                "start_time": 2360,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2840,
+                "start_time": 2600,
+                "text": "精"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3040,
+                "start_time": 2840,
+                "text": "神"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3280,
+                "start_time": 3040,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3520,
+                "start_time": 3280,
+                "text": "由"
+              }
+            ]
+          },
+          {
+            "end_time": 9240,
+            "start_time": 3920,
+            "text": "当这个过程完成的时候，我觉得这个节目本身也可以取得它的升华。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 3920,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4320,
+                "start_time": 4200,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4320,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4680,
+                "start_time": 4480,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4880,
+                "start_time": 4680,
+                "text": "程"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5160,
+                "start_time": 4880,
+                "text": "完"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5320,
+                "start_time": 5160,
+                "text": "成"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5480,
+                "start_time": 5320,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5600,
+                "start_time": 5480,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5600,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6120,
+                "start_time": 5880,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6240,
+                "start_time": 6120,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6320,
+                "start_time": 6240,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6440,
+                "start_time": 6320,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6600,
+                "start_time": 6440,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6800,
+                "start_time": 6600,
+                "text": "节"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6800,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7200,
+                "start_time": 6960,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7360,
+                "start_time": 7200,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7560,
+                "start_time": 7360,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7680,
+                "start_time": 7560,
+                "text": "可"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7840,
+                "start_time": 7680,
+                "text": "以"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8080,
+                "start_time": 7840,
+                "text": "取"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8080,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8720,
+                "start_time": 8600,
+                "text": "它"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8720,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9080,
+                "start_time": 8880,
+                "text": "升"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9240,
+                "start_time": 9080,
+                "text": "华"
+              }
+            ]
+          },
+          {
+            "end_time": 31750,
+            "start_time": 10200,
+            "text": "因为我们的听众和读者是真正依靠着自己三观上的修炼实现的精神自由，而且通过这种精神自由实打实的实现了财富自由，而又用这种财富自由捍卫着自己精神自由的时候，我们这个节目的目的也达到了。从而呢，我想",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 10360,
+                "start_time": 10200,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10360,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10680,
+                "start_time": 10520,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10840,
+                "start_time": 10680,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11160,
+                "start_time": 10840,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11840,
+                "start_time": 11520,
+                "text": "听"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12000,
+                "start_time": 11840,
+                "text": "众"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12200,
+                "start_time": 12000,
+                "text": "和"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12400,
+                "start_time": 12200,
+                "text": "读"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12680,
+                "start_time": 12400,
+                "text": "者"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13240,
+                "start_time": 12920,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13480,
+                "start_time": 13240,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13640,
+                "start_time": 13480,
+                "text": "正"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13880,
+                "start_time": 13680,
+                "text": "依"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14120,
+                "start_time": 13880,
+                "text": "靠"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14360,
+                "start_time": 14120,
+                "text": "着"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15160,
+                "start_time": 14960,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15360,
+                "start_time": 15160,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15560,
+                "start_time": 15360,
+                "text": "三"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15720,
+                "start_time": 15560,
+                "text": "观"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15920,
+                "start_time": 15760,
+                "text": "上"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16080,
+                "start_time": 15920,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16240,
+                "start_time": 16080,
+                "text": "修"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16440,
+                "start_time": 16240,
+                "text": "炼"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16760,
+                "start_time": 16560,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16880,
+                "start_time": 16760,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17080,
+                "start_time": 16920,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17240,
+                "start_time": 17080,
+                "text": "精"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17400,
+                "start_time": 17240,
+                "text": "神"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17640,
+                "start_time": 17400,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17840,
+                "start_time": 17640,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18440,
+                "start_time": 18240,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18640,
+                "start_time": 18440,
+                "text": "且"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18800,
+                "start_time": 18640,
+                "text": "通"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18920,
+                "start_time": 18800,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19080,
+                "start_time": 18920,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19280,
+                "start_time": 19080,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19480,
+                "start_time": 19280,
+                "text": "精"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19640,
+                "start_time": 19480,
+                "text": "神"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19880,
+                "start_time": 19680,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20040,
+                "start_time": 19880,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20960,
+                "start_time": 20680,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21240,
+                "start_time": 20960,
+                "text": "打"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21480,
+                "start_time": 21240,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21640,
+                "start_time": 21560,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22200,
+                "start_time": 22000,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22360,
+                "start_time": 22200,
+                "text": "现"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22560,
+                "start_time": 22360,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22760,
+                "start_time": 22560,
+                "text": "财"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22920,
+                "start_time": 22760,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23080,
+                "start_time": 22920,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23280,
+                "start_time": 23080,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23920,
+                "start_time": 23680,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24080,
+                "start_time": 24040,
+                "text": "又"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24360,
+                "start_time": 24160,
+                "text": "用"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24480,
+                "start_time": 24360,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24680,
+                "start_time": 24480,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24880,
+                "start_time": 24680,
+                "text": "财"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25000,
+                "start_time": 24880,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25200,
+                "start_time": 25040,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25360,
+                "start_time": 25200,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25760,
+                "start_time": 25600,
+                "text": "捍"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25920,
+                "start_time": 25800,
+                "text": "卫"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26160,
+                "start_time": 26000,
+                "text": "着"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26280,
+                "start_time": 26160,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26440,
+                "start_time": 26280,
+                "text": "己"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26640,
+                "start_time": 26440,
+                "text": "精"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26800,
+                "start_time": 26640,
+                "text": "神"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27000,
+                "start_time": 26800,
+                "text": "自"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27120,
+                "start_time": 27000,
+                "text": "由"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27280,
+                "start_time": 27120,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27440,
+                "start_time": 27280,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27600,
+                "start_time": 27440,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28440,
+                "start_time": 28120,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28560,
+                "start_time": 28440,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28680,
+                "start_time": 28560,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28800,
+                "start_time": 28680,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29000,
+                "start_time": 28800,
+                "text": "节"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29080,
+                "start_time": 29000,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29280,
+                "start_time": 29080,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29440,
+                "start_time": 29280,
+                "text": "目"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29480,
+                "start_time": 29440,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29720,
+                "start_time": 29520,
+                "text": "也"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29880,
+                "start_time": 29720,
+                "text": "达"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30040,
+                "start_time": 29880,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30280,
+                "start_time": 30040,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31030,
+                "start_time": 30870,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31190,
+                "start_time": 31030,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31390,
+                "start_time": 31230,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31630,
+                "start_time": 31470,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31750,
+                "start_time": 31670,
+                "text": "想"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

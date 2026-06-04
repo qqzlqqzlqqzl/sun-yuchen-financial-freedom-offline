@@ -1,0 +1,156 @@
+{
+  "item": {
+    "index": 17,
+    "audio_id": "wavlake-mp3__006__3aa7bdab",
+    "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+    "segment_index": 357,
+    "segment_start": 1076.76,
+    "segment_end": 1078.86,
+    "snippet_start": 1075.56,
+    "snippet_end": 1080.06,
+    "score": 43,
+    "flags": [
+      "rep_word",
+      "literal:我我我"
+    ],
+    "current_text": "我我我个人认为呢",
+    "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0017__wavlake-mp3__006__3aa7bdab__seg0357.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "20260526151258810EA99DAB98838A8EB9",
+    "request_id": "d8026c60-1d1d-49b8-bd1e-465491bc6c61",
+    "response": {
+      "audio_info": {
+        "duration": 4500
+      },
+      "result": {
+        "additions": {
+          "duration": "4500"
+        },
+        "text": "呃，首先一，我我我个人认为呢，首先我并不对",
+        "utterances": [
+          {
+            "end_time": 4360,
+            "start_time": 120,
+            "text": "呃，首先一，我我我个人认为呢，首先我并不对",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 160,
+                "start_time": 120,
+                "text": "呃"
+              },
+              {
+                "confidence": 0,
+                "end_time": 640,
+                "start_time": 440,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 760,
+                "start_time": 640,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1000,
+                "start_time": 760,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1360,
+                "start_time": 1120,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1720,
+                "start_time": 1480,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2040,
+                "start_time": 1800,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2320,
+                "start_time": 2080,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2520,
+                "start_time": 2320,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2720,
+                "start_time": 2520,
+                "text": "认"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2880,
+                "start_time": 2720,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2880,
+                "text": "呢"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3360,
+                "start_time": 3200,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3360,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3720,
+                "start_time": 3480,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4080,
+                "start_time": 3920,
+                "text": "并"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 4080,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4200,
+                "text": "对"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

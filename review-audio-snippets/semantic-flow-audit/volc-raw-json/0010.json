@@ -1,0 +1,1068 @@
+{
+  "item": {
+    "index": 10,
+    "audio_id": "official-vimeo-m4a-partial__006__a47f6122",
+    "clean_json": "official-vimeo-m4a-partial__006__a47f6122.json",
+    "segment_index": 22,
+    "segment_start": 471.52,
+    "segment_end": 500.66,
+    "snippet_start": 470.32,
+    "snippet_end": 501.86,
+    "score": 56,
+    "flags": [
+      "literal:醒外的人",
+      "literal:培养民里"
+    ],
+    "current_text": "是头条,就跟Leo他们在拯救黑客帝国的时候,不知道大家看过没有,这个真的是很值得看,他们就是要把所有的人类,就是你脑袋后面那个东西给你拔掉,让那个人醒过来啊,当然其实这个本身是错误的,很多人还会骂Leo,因为那些人被机器人插到那个培养民里啊,其实活得很幸福倒是,结果拔掉了那个醒了到面临外星的围剿,就那个电脑对这种醒外的人进行围剿啊,",
+    "audio_path": "sun-audio-offline/audio/006 - 006【创刊词】为什么大多数人勤劳却不富有？ [1179688350].m4a",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0010__official-vimeo-m4a-partial__006__a47f6122__seg0022.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261512594EBAB5AD12190B28DE1A",
+    "request_id": "e1e057cb-0ba6-49da-9a07-9e3591e9b9b6",
+    "response": {
+      "audio_info": {
+        "duration": 31540
+      },
+      "result": {
+        "additions": {
+          "duration": "31540"
+        },
+        "text": "首要条件是头条。就跟 Leo 他们在拯救黑客帝国的时候，不知道大家看过没啊？这个真的是很值得看。他们就是要把所有的人类，就是你脑袋后面那个东西给你拔掉。让那个人醒过来啊。当然其实这个本身是错误的，很多人还会骂 leo 因为那些人被机器人啊，插到那个培养皿里啊，其实活得很幸福，当时。结果拔掉了那个，醒了，面临外外星的围剿，就那个机电脑对这种醒过来的人进行围剿啊，到处",
+        "utterances": [
+          {
+            "end_time": 2120,
+            "start_time": 120,
+            "text": "首要条件是头条。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 360,
+                "start_time": 120,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 680,
+                "start_time": 360,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 880,
+                "start_time": 680,
+                "text": "条"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1040,
+                "start_time": 880,
+                "text": "件"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1560,
+                "start_time": 1280,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1840,
+                "start_time": 1600,
+                "text": "头"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2120,
+                "start_time": 1840,
+                "text": "条"
+              }
+            ]
+          },
+          {
+            "end_time": 6680,
+            "start_time": 2680,
+            "text": "就跟 Leo 他们在拯救黑客帝国的时候，不知道大家看过没啊？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 2920,
+                "start_time": 2680,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3080,
+                "start_time": 2920,
+                "text": "跟"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 3480,
+                "start_time": 3080,
+                "text": "Leo"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 3680,
+                "start_time": 3560,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3840,
+                "start_time": 3680,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4200,
+                "start_time": 3960,
+                "text": "在"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4360,
+                "start_time": 4200,
+                "text": "拯"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4480,
+                "start_time": 4360,
+                "text": "救"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4640,
+                "start_time": 4480,
+                "text": "黑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4760,
+                "start_time": 4640,
+                "text": "客"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4920,
+                "start_time": 4800,
+                "text": "帝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5040,
+                "start_time": 4920,
+                "text": "国"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5160,
+                "start_time": 5040,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5240,
+                "start_time": 5160,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5400,
+                "start_time": 5240,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5800,
+                "start_time": 5640,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5880,
+                "start_time": 5800,
+                "text": "知"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5960,
+                "start_time": 5880,
+                "text": "道"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6080,
+                "start_time": 5960,
+                "text": "大"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6160,
+                "start_time": 6080,
+                "text": "家"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6280,
+                "start_time": 6160,
+                "text": "看"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6400,
+                "start_time": 6280,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6560,
+                "start_time": 6400,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6680,
+                "start_time": 6560,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 8280,
+            "start_time": 6680,
+            "text": "这个真的是很值得看。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 6840,
+                "start_time": 6680,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6960,
+                "start_time": 6840,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7160,
+                "start_time": 6960,
+                "text": "真"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7280,
+                "start_time": 7160,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7520,
+                "start_time": 7480,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7760,
+                "start_time": 7560,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7880,
+                "start_time": 7760,
+                "text": "值"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8000,
+                "start_time": 7880,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8280,
+                "start_time": 8000,
+                "text": "看"
+              }
+            ]
+          },
+          {
+            "end_time": 12360,
+            "start_time": 8760,
+            "text": "他们就是要把所有的人类，就是你脑袋后面那个东西给你拔掉。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8880,
+                "start_time": 8760,
+                "text": "他"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9000,
+                "start_time": 8880,
+                "text": "们"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9120,
+                "start_time": 9000,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9200,
+                "start_time": 9120,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9360,
+                "start_time": 9200,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9520,
+                "start_time": 9360,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9680,
+                "start_time": 9520,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9800,
+                "start_time": 9680,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9920,
+                "start_time": 9800,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10080,
+                "start_time": 9920,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10240,
+                "start_time": 10080,
+                "text": "类"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10400,
+                "start_time": 10240,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10520,
+                "start_time": 10400,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10720,
+                "start_time": 10520,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10920,
+                "start_time": 10720,
+                "text": "脑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11000,
+                "start_time": 10920,
+                "text": "袋"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11160,
+                "start_time": 11040,
+                "text": "后"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11280,
+                "start_time": 11160,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11360,
+                "start_time": 11280,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11480,
+                "start_time": 11360,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11560,
+                "start_time": 11480,
+                "text": "东"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11640,
+                "start_time": 11560,
+                "text": "西"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11760,
+                "start_time": 11640,
+                "text": "给"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11920,
+                "start_time": 11760,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12120,
+                "start_time": 11920,
+                "text": "拔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12360,
+                "start_time": 12120,
+                "text": "掉"
+              }
+            ]
+          },
+          {
+            "end_time": 14070,
+            "start_time": 12710,
+            "text": "让那个人醒过来啊。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 12910,
+                "start_time": 12710,
+                "text": "让"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13030,
+                "start_time": 12910,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13150,
+                "start_time": 13030,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13310,
+                "start_time": 13150,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13590,
+                "start_time": 13310,
+                "text": "醒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13750,
+                "start_time": 13590,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13910,
+                "start_time": 13750,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14070,
+                "start_time": 13910,
+                "text": "啊"
+              }
+            ]
+          },
+          {
+            "end_time": 22230,
+            "start_time": 14390,
+            "text": "当然其实这个本身是错误的，很多人还会骂 leo 因为那些人被机器人啊，插到那个培养皿里啊，其实活得很幸福，当时。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14550,
+                "start_time": 14390,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14670,
+                "start_time": 14550,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14830,
+                "start_time": 14670,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14950,
+                "start_time": 14830,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15070,
+                "start_time": 14950,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15270,
+                "start_time": 15070,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15550,
+                "start_time": 15350,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15670,
+                "start_time": 15550,
+                "text": "身"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15870,
+                "start_time": 15670,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16030,
+                "start_time": 15870,
+                "text": "错"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16110,
+                "start_time": 16030,
+                "text": "误"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16310,
+                "start_time": 16110,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16390,
+                "start_time": 16310,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16510,
+                "start_time": 16390,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16590,
+                "start_time": 16510,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16710,
+                "start_time": 16590,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16830,
+                "start_time": 16710,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16990,
+                "start_time": 16830,
+                "text": "骂"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 17350,
+                "start_time": 17150,
+                "text": "leo"
+              },
+              {
+                "confidence": 0,
+                "end_time": -1,
+                "start_time": -1,
+                "text": " "
+              },
+              {
+                "confidence": 0,
+                "end_time": 17710,
+                "start_time": 17550,
+                "text": "因"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17790,
+                "start_time": 17710,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17910,
+                "start_time": 17790,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18030,
+                "start_time": 17910,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18150,
+                "start_time": 18030,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18310,
+                "start_time": 18150,
+                "text": "被"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18590,
+                "start_time": 18430,
+                "text": "机"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18710,
+                "start_time": 18590,
+                "text": "器"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18830,
+                "start_time": 18710,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18910,
+                "start_time": 18870,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19150,
+                "start_time": 18990,
+                "text": "插"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19310,
+                "start_time": 19190,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19390,
+                "start_time": 19310,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19470,
+                "start_time": 19390,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19630,
+                "start_time": 19510,
+                "text": "培"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19710,
+                "start_time": 19670,
+                "text": "养"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19910,
+                "start_time": 19870,
+                "text": "皿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20110,
+                "start_time": 20070,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20350,
+                "start_time": 20230,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20790,
+                "start_time": 20630,
+                "text": "其"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20910,
+                "start_time": 20790,
+                "text": "实"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21150,
+                "start_time": 20950,
+                "text": "活"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21270,
+                "start_time": 21150,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21470,
+                "start_time": 21270,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21710,
+                "start_time": 21470,
+                "text": "幸"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21830,
+                "start_time": 21710,
+                "text": "福"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22030,
+                "start_time": 21990,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22230,
+                "start_time": 22110,
+                "text": "时"
+              }
+            ]
+          },
+          {
+            "end_time": 31330,
+            "start_time": 22930,
+            "text": "结果拔掉了那个，醒了，面临外外星的围剿，就那个机电脑对这种醒过来的人进行围剿啊，到处",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 23090,
+                "start_time": 22930,
+                "text": "结"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23290,
+                "start_time": 23090,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23610,
+                "start_time": 23370,
+                "text": "拔"
+              },
+              {
+                "confidence": 0,
+                "end_time": 23850,
+                "start_time": 23610,
+                "text": "掉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24010,
+                "start_time": 23850,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24090,
+                "start_time": 24010,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24290,
+                "start_time": 24090,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24650,
+                "start_time": 24490,
+                "text": "醒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24810,
+                "start_time": 24650,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25210,
+                "start_time": 25010,
+                "text": "面"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25370,
+                "start_time": 25210,
+                "text": "临"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25570,
+                "start_time": 25530,
+                "text": "外"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25930,
+                "start_time": 25690,
+                "text": "外"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26130,
+                "start_time": 25930,
+                "text": "星"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26330,
+                "start_time": 26130,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26490,
+                "start_time": 26370,
+                "text": "围"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26650,
+                "start_time": 26610,
+                "text": "剿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27010,
+                "start_time": 26890,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27130,
+                "start_time": 27050,
+                "text": "那"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27290,
+                "start_time": 27130,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27530,
+                "start_time": 27450,
+                "text": "机"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27930,
+                "start_time": 27690,
+                "text": "电"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28090,
+                "start_time": 27930,
+                "text": "脑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28370,
+                "start_time": 28210,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28450,
+                "start_time": 28370,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28570,
+                "start_time": 28450,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28890,
+                "start_time": 28690,
+                "text": "醒"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29010,
+                "start_time": 28890,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29090,
+                "start_time": 29010,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29170,
+                "start_time": 29090,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29330,
+                "start_time": 29170,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29490,
+                "start_time": 29330,
+                "text": "进"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29570,
+                "start_time": 29490,
+                "text": "行"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29770,
+                "start_time": 29650,
+                "text": "围"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29970,
+                "start_time": 29890,
+                "text": "剿"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30250,
+                "start_time": 30130,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31210,
+                "start_time": 31010,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31330,
+                "start_time": 31210,
+                "text": "处"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

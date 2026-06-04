@@ -1,0 +1,1060 @@
+{
+  "item": {
+    "index": 25,
+    "audio_id": "wavlake-mp3__006__3aa7bdab",
+    "clean_json": "wavlake-mp3__006__3aa7bdab.json",
+    "segment_index": 99,
+    "segment_start": 329.52,
+    "segment_end": 359.44,
+    "snippet_start": 328.32,
+    "snippet_end": 360.64,
+    "score": 38,
+    "flags": [
+      "rep_word",
+      "rep_phrase",
+      "low_tokens=8"
+    ],
+    "current_text": "就是你不要想想着啊我赶紧录去秀丝区块别别别你先想清楚你的人生是为了啥为啥要干这些事情这些事情有什么好处这个事情符不符合你的初心你是谁从哪里来到哪里去先把这些根本问题想清楚很多人有时候想说觉得还嘲笑想这种问题的人啊你脑子是有病什么的是吧你如果这个问题都没想清楚是绝对一人生都过不好当然会导致这个,",
+    "audio_path": "sun-audio-offline/wavlake-mp3/006 - 006 - 006 孙宇晨：【创刊词】为什么大多数人勤劳却不富有？.mp3",
+    "snippet_path": "review-audio-snippets/semantic-flow-audit/snippets/0025__wavlake-mp3__006__3aa7bdab__seg0099.wav"
+  },
+  "volc_result": {
+    "ok": true,
+    "http_status": 200,
+    "api_status": "20000000",
+    "api_message": "OK",
+    "tt_logid": "202605261513009144D3D734169A8C456E",
+    "request_id": "653ae318-fdb5-4af2-bbea-9ea32f4d687f",
+    "response": {
+      "audio_info": {
+        "duration": 32320
+      },
+      "result": {
+        "additions": {
+          "duration": "32320"
+        },
+        "text": "我就首先所有事你不要想想着哦，赶紧撸起袖子去干。别别别，你先想清楚，你的人生是为了啥？为啥要干这些事情？这些事情有什么好处？这个事情符不符合你的初心？你是谁？从哪里来到哪里去？先把这些根本问题想清楚。很多人有时候想的时候觉得还嘲笑想这种问题的人啊，你脑子是有病什么的是吧？你如果这个问题都没想清楚，是绝对一人生都过不好，当然会导致这个勤劳而不富有。",
+        "utterances": [
+          {
+            "end_time": 3550,
+            "start_time": 270,
+            "text": "我就首先所有事你不要想想着哦，赶紧撸起袖子去干。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 470,
+                "start_time": 270,
+                "text": "我"
+              },
+              {
+                "confidence": 0,
+                "end_time": 630,
+                "start_time": 470,
+                "text": "就"
+              },
+              {
+                "confidence": 0,
+                "end_time": 830,
+                "start_time": 630,
+                "text": "首"
+              },
+              {
+                "confidence": 0,
+                "end_time": 950,
+                "start_time": 830,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1190,
+                "start_time": 1030,
+                "text": "所"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1270,
+                "start_time": 1190,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1430,
+                "start_time": 1310,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1590,
+                "start_time": 1470,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1710,
+                "start_time": 1590,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1790,
+                "start_time": 1710,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 1950,
+                "start_time": 1910,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2230,
+                "start_time": 2030,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2350,
+                "start_time": 2230,
+                "text": "着"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2590,
+                "start_time": 2430,
+                "text": "哦"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2750,
+                "start_time": 2670,
+                "text": "赶"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2830,
+                "start_time": 2750,
+                "text": "紧"
+              },
+              {
+                "confidence": 0,
+                "end_time": 2950,
+                "start_time": 2910,
+                "text": "撸"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3110,
+                "start_time": 3030,
+                "text": "起"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3270,
+                "start_time": 3110,
+                "text": "袖"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3310,
+                "start_time": 3270,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3430,
+                "start_time": 3310,
+                "text": "去"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3550,
+                "start_time": 3510,
+                "text": "干"
+              }
+            ]
+          },
+          {
+            "end_time": 7790,
+            "start_time": 3670,
+            "text": "别别别，你先想清楚，你的人生是为了啥？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 3830,
+                "start_time": 3670,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 3950,
+                "start_time": 3870,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4150,
+                "start_time": 3990,
+                "text": "别"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4630,
+                "start_time": 4430,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 4870,
+                "start_time": 4630,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5150,
+                "start_time": 4870,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5430,
+                "start_time": 5150,
+                "text": "清"
+              },
+              {
+                "confidence": 0,
+                "end_time": 5630,
+                "start_time": 5430,
+                "text": "楚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6710,
+                "start_time": 6470,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6870,
+                "start_time": 6710,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 6990,
+                "start_time": 6870,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7150,
+                "start_time": 6990,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7350,
+                "start_time": 7150,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7470,
+                "start_time": 7350,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7590,
+                "start_time": 7470,
+                "text": "了"
+              },
+              {
+                "confidence": 0,
+                "end_time": 7790,
+                "start_time": 7590,
+                "text": "啥"
+              }
+            ]
+          },
+          {
+            "end_time": 9030,
+            "start_time": 7910,
+            "text": "为啥要干这些事情？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 8070,
+                "start_time": 7910,
+                "text": "为"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8230,
+                "start_time": 8070,
+                "text": "啥"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8390,
+                "start_time": 8230,
+                "text": "要"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8550,
+                "start_time": 8390,
+                "text": "干"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8670,
+                "start_time": 8550,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8790,
+                "start_time": 8670,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 8910,
+                "start_time": 8790,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9030,
+                "start_time": 8910,
+                "text": "情"
+              }
+            ]
+          },
+          {
+            "end_time": 11180,
+            "start_time": 9070,
+            "text": "这些事情有什么好处？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 9230,
+                "start_time": 9070,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9350,
+                "start_time": 9230,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9510,
+                "start_time": 9350,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 9670,
+                "start_time": 9510,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10580,
+                "start_time": 10380,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10700,
+                "start_time": 10580,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10780,
+                "start_time": 10700,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 10980,
+                "start_time": 10780,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 11180,
+                "start_time": 10980,
+                "text": "处"
+              }
+            ]
+          },
+          {
+            "end_time": 13780,
+            "start_time": 11700,
+            "text": "这个事情符不符合你的初心？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 11900,
+                "start_time": 11700,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12020,
+                "start_time": 11900,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12140,
+                "start_time": 12020,
+                "text": "事"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12300,
+                "start_time": 12140,
+                "text": "情"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12500,
+                "start_time": 12340,
+                "text": "符"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12700,
+                "start_time": 12500,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12860,
+                "start_time": 12700,
+                "text": "符"
+              },
+              {
+                "confidence": 0,
+                "end_time": 12980,
+                "start_time": 12860,
+                "text": "合"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13140,
+                "start_time": 12980,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13340,
+                "start_time": 13140,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13540,
+                "start_time": 13340,
+                "text": "初"
+              },
+              {
+                "confidence": 0,
+                "end_time": 13780,
+                "start_time": 13540,
+                "text": "心"
+              }
+            ]
+          },
+          {
+            "end_time": 14860,
+            "start_time": 13980,
+            "text": "你是谁？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 14260,
+                "start_time": 13980,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14540,
+                "start_time": 14260,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 14860,
+                "start_time": 14540,
+                "text": "谁"
+              }
+            ]
+          },
+          {
+            "end_time": 16340,
+            "start_time": 15100,
+            "text": "从哪里来到哪里去？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 15340,
+                "start_time": 15100,
+                "text": "从"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15460,
+                "start_time": 15340,
+                "text": "哪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15580,
+                "start_time": 15460,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15740,
+                "start_time": 15580,
+                "text": "来"
+              },
+              {
+                "confidence": 0,
+                "end_time": 15940,
+                "start_time": 15740,
+                "text": "到"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16020,
+                "start_time": 15940,
+                "text": "哪"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16140,
+                "start_time": 16020,
+                "text": "里"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16340,
+                "start_time": 16140,
+                "text": "去"
+              }
+            ]
+          },
+          {
+            "end_time": 17820,
+            "start_time": 16340,
+            "text": "先把这些根本问题想清楚。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 16500,
+                "start_time": 16340,
+                "text": "先"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16660,
+                "start_time": 16500,
+                "text": "把"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16740,
+                "start_time": 16660,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16860,
+                "start_time": 16740,
+                "text": "些"
+              },
+              {
+                "confidence": 0,
+                "end_time": 16980,
+                "start_time": 16860,
+                "text": "根"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17100,
+                "start_time": 16980,
+                "text": "本"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17220,
+                "start_time": 17100,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17340,
+                "start_time": 17220,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17540,
+                "start_time": 17340,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17660,
+                "start_time": 17540,
+                "text": "清"
+              },
+              {
+                "confidence": 0,
+                "end_time": 17820,
+                "start_time": 17660,
+                "text": "楚"
+              }
+            ]
+          },
+          {
+            "end_time": 22820,
+            "start_time": 18220,
+            "text": "很多人有时候想的时候觉得还嘲笑想这种问题的人啊，你脑子是有病什么的是吧？",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 18420,
+                "start_time": 18220,
+                "text": "很"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18540,
+                "start_time": 18420,
+                "text": "多"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18620,
+                "start_time": 18540,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18740,
+                "start_time": 18620,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18820,
+                "start_time": 18740,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 18900,
+                "start_time": 18820,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19060,
+                "start_time": 18900,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19140,
+                "start_time": 19100,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19220,
+                "start_time": 19180,
+                "text": "时"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19260,
+                "start_time": 19220,
+                "text": "候"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19460,
+                "start_time": 19340,
+                "text": "觉"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19540,
+                "start_time": 19460,
+                "text": "得"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19780,
+                "start_time": 19540,
+                "text": "还"
+              },
+              {
+                "confidence": 0,
+                "end_time": 19980,
+                "start_time": 19780,
+                "text": "嘲"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20100,
+                "start_time": 19980,
+                "text": "笑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20340,
+                "start_time": 20180,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20460,
+                "start_time": 20340,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20540,
+                "start_time": 20460,
+                "text": "种"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20660,
+                "start_time": 20580,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20740,
+                "start_time": 20660,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 20860,
+                "start_time": 20740,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21020,
+                "start_time": 20860,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21140,
+                "start_time": 21020,
+                "text": "啊"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21380,
+                "start_time": 21180,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21540,
+                "start_time": 21380,
+                "text": "脑"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21620,
+                "start_time": 21540,
+                "text": "子"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21780,
+                "start_time": 21620,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 21900,
+                "start_time": 21780,
+                "text": "有"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22060,
+                "start_time": 21900,
+                "text": "病"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22300,
+                "start_time": 22180,
+                "text": "什"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22380,
+                "start_time": 22300,
+                "text": "么"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22540,
+                "start_time": 22380,
+                "text": "的"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22660,
+                "start_time": 22540,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 22820,
+                "start_time": 22660,
+                "text": "吧"
+              }
+            ]
+          },
+          {
+            "end_time": 32210,
+            "start_time": 23850,
+            "text": "你如果这个问题都没想清楚，是绝对一人生都过不好，当然会导致这个勤劳而不富有。",
+            "words": [
+              {
+                "confidence": 0,
+                "end_time": 24130,
+                "start_time": 23850,
+                "text": "你"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24330,
+                "start_time": 24130,
+                "text": "如"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24490,
+                "start_time": 24330,
+                "text": "果"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24810,
+                "start_time": 24570,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 24970,
+                "start_time": 24810,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25130,
+                "start_time": 24970,
+                "text": "问"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25250,
+                "start_time": 25130,
+                "text": "题"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25410,
+                "start_time": 25250,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25570,
+                "start_time": 25410,
+                "text": "没"
+              },
+              {
+                "confidence": 0,
+                "end_time": 25810,
+                "start_time": 25570,
+                "text": "想"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26010,
+                "start_time": 25810,
+                "text": "清"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26170,
+                "start_time": 26010,
+                "text": "楚"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26610,
+                "start_time": 26250,
+                "text": "是"
+              },
+              {
+                "confidence": 0,
+                "end_time": 26850,
+                "start_time": 26610,
+                "text": "绝"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27050,
+                "start_time": 26850,
+                "text": "对"
+              },
+              {
+                "confidence": 0,
+                "end_time": 27770,
+                "start_time": 27490,
+                "text": "一"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28130,
+                "start_time": 27930,
+                "text": "人"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28290,
+                "start_time": 28130,
+                "text": "生"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28450,
+                "start_time": 28290,
+                "text": "都"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28610,
+                "start_time": 28450,
+                "text": "过"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28730,
+                "start_time": 28610,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 28970,
+                "start_time": 28730,
+                "text": "好"
+              },
+              {
+                "confidence": 0,
+                "end_time": 29930,
+                "start_time": 29610,
+                "text": "当"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30130,
+                "start_time": 29930,
+                "text": "然"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30410,
+                "start_time": 30130,
+                "text": "会"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30610,
+                "start_time": 30410,
+                "text": "导"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30730,
+                "start_time": 30610,
+                "text": "致"
+              },
+              {
+                "confidence": 0,
+                "end_time": 30890,
+                "start_time": 30730,
+                "text": "这"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31130,
+                "start_time": 30890,
+                "text": "个"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31530,
+                "start_time": 31330,
+                "text": "勤"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31650,
+                "start_time": 31530,
+                "text": "劳"
+              },
+              {
+                "confidence": 0,
+                "end_time": 31850,
+                "start_time": 31730,
+                "text": "而"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32010,
+                "start_time": 31850,
+                "text": "不"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32090,
+                "start_time": 32010,
+                "text": "富"
+              },
+              {
+                "confidence": 0,
+                "end_time": 32210,
+                "start_time": 32090,
+                "text": "有"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
